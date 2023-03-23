@@ -1,5 +1,5 @@
 file_name=$1
-$benchmark_name=${file_name%%-*}
+benchmark_name=${file_name%%-*}
 path_to_file=$benchmark_name/$file_name
 scp -P 6060 debian@pc012170.fit.vutbr.cz:smt-bench/bench/$file_name $path_to_file
 
