@@ -1,8 +1,17 @@
+HOST="debian@pc012170.fit.vutbr.cz"
+FILE_PATH_ON_HOST="smt-bench/bench"
+
 file_name=$1
 benchmark_name=${file_name%%-*}
-if [ -z "$2" ]; then port_num="6060"; else port_num="$2" fi
 path_to_file=$benchmark_name/$file_name
-scp -P $port_num debian@pc012170.fit.vutbr.cz:smt-bench/bench/$file_name $path_to_file
+
+if ssh -p 6060 $HOST "test -e $FILE_PATH_ON_HOST/$file_name"; then
+	port_num="6060"
+else
+	port_num="6068"
+fi
+
+scp -P $port_num $HOST:$FILE_PATH_ON_HOST/$file_name $path_to_file
 
 git_message=""
 
