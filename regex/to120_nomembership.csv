@@ -1,266 +1,266 @@
-name;z3-runtime;z3-result;cvc5-runtime;cvc5-result;z3-noodler-9f5e602-runtime;z3-noodler-9f5e602-result;z3str4-runtime;z3str4-result;z3strRE-runtime;z3strRE-result;ostrich-runtime;ostrich-result;z3-trau-runtime;z3-trau-result
-../formulae/regex-smt-benchmarks/boolean_and_loops/unsat/inter_mod3_unsat.smt2;0.01; unsat;TO;TO;0.03; unsat;0.01; unsat;0.01; unsat;2.16; unsat;ERR;ERR
-../formulae/regex-smt-benchmarks/boolean_and_loops/unsat/deadloop3_unsat.smt2;0.11; unsat;0.01; unsat;0.03; unsat;0.48; unsat;0.01; unsat;2.21; unsat;0.04; unsat
-../formulae/regex-smt-benchmarks/boolean_and_loops/unsat/zelkova_fmcad18_example_explicit_inter_unsat.smt2;0.02; unsat;0.0; unsat;0.01; unsat;0.0; unsat;0.36; unsat;2.17; unsat;ERR;ERR
-../formulae/regex-smt-benchmarks/boolean_and_loops/unsat/simple_neq_unsat.smt2;0.02; unsat;ERR;ERR;ERR;ERR;0.0; unsat;0.01; sat;2.21; sat;0.35; unknown
-../formulae/regex-smt-benchmarks/boolean_and_loops/unsat/nestedloop1_unsat.smt2;0.03; unsat;0.02; unsat;0.03; unsat;0.17; unsat;0.01; unsat;2.32; unsat;0.04; unsat
-../formulae/regex-smt-benchmarks/boolean_and_loops/unsat/evil1_unsat.smt2;0.04; unsat;0.0; unsat;0.02; unsat;0.0; unsat;0.0; unsat;2.24; unsat;ERR;ERR
-../formulae/regex-smt-benchmarks/boolean_and_loops/unsat/simple_complement_unsat.smt2;0.02; unsat;TO;TO;0.02; unsat;1.02; unknown;0.0; unknown;2.24; unsat;ERR;ERR
-../formulae/regex-smt-benchmarks/boolean_and_loops/unsat/zelkova_fmcad18_example_implicit_inter_unsat.smt2;TO;TO;0.0; unsat;0.01; unsat;1.06; unsat;0.04; unsat;2.09; unsat;0.1; unsat
-../formulae/regex-smt-benchmarks/boolean_and_loops/unsat/evil1_neq_unsat.smt2;0.02; unsat;0.0; unsat;ERR;ERR;0.0; unsat;0.0; unsat;2.37; sat;0.03; unknown
-../formulae/regex-smt-benchmarks/boolean_and_loops/unsat/demo_unsat.smt2;0.01; unsat;0.02; unsat;0.02; unsat;0.0; unsat;0.0; unsat;2.28; unsat;ERR;ERR
-../formulae/regex-smt-benchmarks/boolean_and_loops/unsat/evil2_inter_unsat.smt2;0.02; unsat;0.04; unsat;0.02; unsat;0.0; unsat;2.53; unsat;1.33; (error \\\"At line 11, near \\\"\\\") (_ char\\\"\\\" :     Unrecoverable Syntax Error\\\");ERR;ERR
-../formulae/regex-smt-benchmarks/boolean_and_loops/unsat/comp1_inclusion_unsat.smt2;0.04; unsat;ERR;ERR;0.02; unknown;0.01; unsat;0.0; sat;2.26; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/boolean_and_loops/unsat/nestedloop2_unsat.smt2;0.02; unsat;0.0; unsat;0.02; unsat;0.0; unsat;0.0; unsat;2.41; unsat;0.03; unsat
-../formulae/regex-smt-benchmarks/boolean_and_loops/unsat/inter_mod2_unsat.smt2;0.02; unsat;0.01; unsat;0.02; unsat;0.01; unsat;0.01; unsat;2.24; unsat;ERR;ERR
-../formulae/regex-smt-benchmarks/boolean_and_loops/sat/evil1_eq_sat.smt2;0.02; sat;0.0; sat;0.02; unknown;0.0; sat;0.0; sat;2.38; sat;0.03; sat
-../formulae/regex-smt-benchmarks/boolean_and_loops/sat/nestedloop2_sat.smt2;0.02; sat;0.01; sat;0.02; sat;0.0; sat;0.0; sat;2.44; sat;0.04; unsat
-../formulae/regex-smt-benchmarks/boolean_and_loops/sat/comp1_nonempty_trivial_sat.smt2;0.01; sat;0.0; sat;0.02; sat;0.01; sat;12.53; sat;2.41; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/boolean_and_loops/sat/evil2_sat.smt2;0.02; sat;0.01; sat;0.02; sat;0.01; sat;0.01; sat;1.34; (error \\\"At line 9, near \\\"\\\") (_ char\\\"\\\" :     Unrecoverable Syntax Error\\\");ERR;ERR
-../formulae/regex-smt-benchmarks/boolean_and_loops/sat/deadloop2_sat.smt2;0.01; sat;0.0; sat;0.02; sat;0.01; sat;0.0; sat;2.32; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/boolean_and_loops/sat/deadloop1_sat.smt2;0.02; sat;0.0; sat;0.01; sat;0.01; sat;0.0; sat;2.26; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/boolean_and_loops/sat/comp1_inclusion_sat.smt2;0.02; sat;ERR;ERR;0.01; unknown;0.01; sat;0.0; sat;2.32; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/date/unsat/contains_month_weekday_unsat.smt2;1.4; unsat;TO;TO;0.01; unsat;TO;TO;9.59; unsat;2.38; unsat;ERR;ERR
-../formulae/regex-smt-benchmarks/date/unsat/date_minimal_fixed_unsat.smt2;0.15; unsat;0.08; unsat;0.04; unsat;0.17; unsat;18.56; unsat;2.38; unsat;ERR;ERR
-../formulae/regex-smt-benchmarks/date/unsat/date_minimal_unsat.smt2;0.24; unsat;0.09; unsat;0.03; unsat;0.29; unsat;TO;TO;2.45; unsat;ERR;ERR
-../formulae/regex-smt-benchmarks/date/unsat/contains_month_weekday_unsat_ignorecase.smt2;8.34; unsat;TO;TO;0.02; unsat;TO;TO;TO;TO;2.73; unsat;ERR;ERR
-../formulae/regex-smt-benchmarks/date/unsat/date_inconsistent_format.smt2;0.03; unsat;TO;TO;0.02; unsat;0.12; unsat;0.01; unsat;2.73; unsat;TO;TO
-../formulae/regex-smt-benchmarks/date/unsat/date_unsat.smt2;5.51; unsat;0.11; unsat;0.09; unsat;TO;TO;TO;TO;2.6; unsat;ERR;ERR
-../formulae/regex-smt-benchmarks/date/sat/date2_sat.smt2;5.04; sat;TO;TO;0.11; sat;TO;TO;TO;TO;2.76; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/date/sat/date_minimal_sat.smt2;0.24; sat;TO;TO;0.03; sat;0.37; sat;55.24; sat;2.48; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/date/sat/contains_month_weekday_sat2.smt2;4.58; sat;0.2; sat;0.02; sat;5.88; sat;5.63; sat;2.54; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/date/sat/contains_month_weekday_sat_ignorecase.smt2;0.36; sat;TO;TO;0.03; sat;13.28; sat;12.15; sat;2.95; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/date/sat/date_format_days.smt2;0.07; sat;0.09; sat;0.03; sat;0.03; sat;0.0; sat;2.78; sat;TO;TO
-../formulae/regex-smt-benchmarks/date/sat/date_format_days_months_complete.smt2;0.89; sat;TO;TO;0.4; sat;0.39; sat;6.47; sat;5.61; sat;TO;TO
-../formulae/regex-smt-benchmarks/date/sat/contains_month_weekday_sat.smt2;0.09; sat;0.05; sat;0.02; sat;1.09; sat;0.16; sat;2.54; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/date/sat/date_format_days_months_complete_complement.smt2;0.18; sat;0.28; sat;7.77; sat;0.01; sat;TO;TO;4.04; sat;TO;TO
-../formulae/regex-smt-benchmarks/date/sat/date_format_days_months_partial.smt2;0.21; sat;1.58; sat;0.03; sat;0.17; sat;1.0; sat;3.22; sat;TO;TO
-../formulae/regex-smt-benchmarks/date/sat/date_policy1_implies_date_policy2.smt2;0.9; sat;TO;TO;0.71; sat;0.78; sat;TO;TO;5.44; sat;TO;TO
-../formulae/regex-smt-benchmarks/date/sat/date_minimal_fixed_sat.smt2;0.12; sat;TO;TO;0.02; sat;0.19; sat;1.09; sat;2.15; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/date/sat/date1_sat.smt2;5.31; sat;TO;TO;0.08; sat;TO;TO;TO;TO;2.41; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/date/sat/contains_month_weekday_sat_9.smt2;2.02; sat;1.25; sat;0.03; sat;68.21; sat;78.93; sat;2.33; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/state_space/sat/diamond_chain_100.smt2;22.09; sat;0.1; sat;0.06; sat;1.06; sat;0.06; sat;2.49; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/state_space/sat/long_100.smt2;0.02; sat;0.0; sat;0.02; sat;0.1; sat;0.01; sat;3.39; sat;0.28; sat
-../formulae/regex-smt-benchmarks/state_space/sat/long_300.smt2;0.01; sat;0.01; sat;0.03; sat;0.68; sat;0.0; sat;4.43; sat;2.28; sat
-../formulae/regex-smt-benchmarks/state_space/sat/re_count_sat_hard.smt2;TO;TO;2.23; sat;TO;TO;TO;TO;TO;TO;6.12; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/state_space/sat/diamond_chain_30.smt2;0.87; sat;0.04; sat;0.03; sat;1.01; sat;0.0; sat;2.42; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/state_space/sat/inter_3_6_9.smt2;0.14; sat;0.02; sat;0.03; sat;17.67; sat;15.78; sat;2.73; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/state_space/sat/inter_star_10_10.smt2;0.06; sat;0.01; sat;0.03; sat;1.69; sat;0.7; sat;2.57; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/state_space/sat/diamond_chain_10.smt2;0.08; sat;0.01; sat;0.02; sat;0.26; sat;0.01; sat;2.45; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/state_space/sat/re_count_sat_medium.smt2;0.64; sat;0.0; sat;0.03; sat;1.0; sat;0.01; sat;2.56; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/state_space/sat/inter_30_60_90.smt2;TO;TO;0.17; sat;23.28; sat;101.55; unknown;94.04; unknown;TO;TO;ERR;ERR
-../formulae/regex-smt-benchmarks/state_space/sat/inter_1_2_3.smt2;0.02; sat;0.01; sat;0.03; sat;0.01; sat;0.03; sat;2.38; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/state_space/sat/diamond_chain_3000.smt2;TO;TO;5.7; sat;64.54; sat;62.68; sat;TO;TO;3.75; sat;TO;TO
-../formulae/regex-smt-benchmarks/state_space/sat/inter_star_100_100.smt2;43.57; sat;0.09; sat;0.34; sat;TO;TO;TO;TO;6.09; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/state_space/sat/inter_star_3_3.smt2;0.02; sat;0.01; sat;0.02; sat;0.01; sat;0.04; sat;2.49; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/state_space/sat/diamond_chain_1000.smt2;TO;TO;1.35; sat;5.89; sat;6.05; sat;9.96; sat;3.21; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/state_space/sat/long_10.smt2;0.01; sat;0.0; sat;0.02; sat;0.0; sat;0.0; sat;2.61; sat;0.03; sat
-../formulae/regex-smt-benchmarks/state_space/sat/long_30.smt2;0.03; sat;0.0; sat;0.02; sat;0.02; sat;0.0; sat;2.81; sat;0.05; sat
-../formulae/regex-smt-benchmarks/state_space/sat/re_count_sat_easy.smt2;0.04; sat;0.0; sat;0.02; sat;0.14; sat;0.01; sat;2.43; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/state_space/sat/inter_star_30_30.smt2;1.34; sat;0.03; sat;0.04; sat;22.56; sat;21.43; sat;3.12; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/state_space/sat/diamond_chain_300.smt2;TO;TO;0.31; sat;0.49; sat;1.5; sat;0.45; sat;2.78; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/state_space/sat/inter_10_20_30.smt2;27.17; sat;0.06; sat;0.39; sat;92.98; unknown;84.99; unknown;7.8; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/state_space/sat/long_3.smt2;0.01; sat;0.0; sat;0.02; sat;0.01; sat;0.0; sat;2.41; sat;0.03; sat
-../formulae/regex-smt-benchmarks/regexlib_intersection/unsat/intersect_2_7.smt2;1.17; unsat;113.58; unsat;6.63; unsat;1.01; unknown;0.01; unknown;3.72; unsat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_intersection/unsat/intersect_2_9.smt2;0.18; unsat;TO;TO;0.2; unsat;1.0; unknown;0.01; unknown;3.68; unsat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_intersection/unsat/intersect_2_4.smt2;0.19; unsat;22.24; unsat;0.06; unsat;1.02; unknown;0.01; unknown;3.14; unsat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_intersection/unsat/intersect_5_9.smt2;TO;TO;TO;TO;0.22; unsat;1.02; unknown;0.01; unknown;3.62; unsat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_intersection/unsat/intersect_1_8.smt2;TO;TO;TO;TO;2.17; unsat;1.0; unknown;0.0; unknown;3.58; unsat;0.72; unsat
-../formulae/regex-smt-benchmarks/regexlib_intersection/unsat/intersect_1_9.smt2;TO;TO;TO;TO;0.21; unsat;1.03; unknown;0.0; unknown;3.78; unsat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_intersection/unsat/intersect_0_3.smt2;TO;TO;TO;TO;0.28; unsat;1.02; unknown;0.01; unknown;3.94; unsat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_intersection/unsat/intersect_3_5.smt2;TO;TO;TO;TO;0.03; unsat;1.0; unknown;0.01; unknown;2.98; unsat;0.79; unsat
-../formulae/regex-smt-benchmarks/regexlib_intersection/unsat/intersect_2_5.smt2;0.01; unsat;TO;TO;0.01; unsat;1.0; unknown;0.0; unknown;3.05; unsat;2.47; unsat
-../formulae/regex-smt-benchmarks/regexlib_intersection/unsat/intersect_5_8.smt2;TO;TO;TO;TO;2.22; unsat;1.01; unknown;0.01; unknown;3.59; unsat;0.75; unsat
-../formulae/regex-smt-benchmarks/regexlib_intersection/unsat/intersect_4_5.smt2;TO;TO;TO;TO;0.1; unsat;1.01; unknown;0.01; unknown;2.66; unsat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_intersection/unsat/intersect_2_6.smt2;0.13; unsat;9.82; unsat;17.06; unsat;1.01; unknown;0.0; unknown;3.25; unsat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_intersection/unsat/intersect_1_4.smt2;TO;TO;TO;TO;0.06; unsat;1.01; unknown;0.0; unknown;2.7; unsat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_intersection/unsat/intersect_1_3.smt2;TO;TO;TO;TO;0.02; unsat;1.0; unknown;0.0; unknown;2.65; unsat;0.62; unsat
-../formulae/regex-smt-benchmarks/regexlib_intersection/unsat/intersect_2_3.smt2;0.18; unsat;24.38; unsat;0.03; unsat;1.0; unknown;0.0; unknown;2.72; unsat;2.66; unsat
-../formulae/regex-smt-benchmarks/regexlib_intersection/unsat/intersect_1_6.smt2;TO;TO;TO;TO;17.14; unsat;1.0; unknown;0.01; unknown;3.38; unsat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_intersection/unsat/intersect_2_8.smt2;0.08; unsat;TO;TO;2.17; unsat;1.01; unknown;0.01; unknown;3.16; unsat;3.01; unsat
-../formulae/regex-smt-benchmarks/regexlib_intersection/unsat/intersect_3_8.smt2;TO;TO;TO;TO;2.29; unsat;1.02; unknown;0.0; unknown;3.82; unsat;TO;TO
-../formulae/regex-smt-benchmarks/regexlib_intersection/unsat/intersect_3_6.smt2;TO;TO;31.79; unsat;17.54; unsat;1.01; unknown;0.0; unknown;3.97; unsat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_intersection/unsat/intersect_5_7.smt2;TO;TO;TO;TO;6.74; unsat;1.01; unknown;0.0; unknown;3.37; unsat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_intersection/unsat/intersect_3_9.smt2;TO;TO;TO;TO;0.22; unsat;1.01; unknown;0.0; unknown;3.43; unsat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_intersection/unsat/intersect_3_4.smt2;TO;TO;TO;TO;0.08; unsat;1.02; unknown;0.01; unknown;2.94; unsat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_intersection/unsat/intersect_0_5.smt2;TO;TO;TO;TO;0.27; unsat;1.01; unknown;0.0; unknown;3.53; unsat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_intersection/unsat/intersect_1_2.smt2;0.01; unsat;TO;TO;0.03; unsat;1.01; unknown;0.0; unknown;2.6; unsat;2.44; unsat
-../formulae/regex-smt-benchmarks/regexlib_intersection/unsat/intersect_0_1.smt2;TO;TO;TO;TO;0.28; unsat;1.01; unknown;0.01; unknown;3.22; unsat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_intersection/unsat/intersect_3_7.smt2;TO;TO;TO;TO;6.88; unsat;1.02; unknown;0.0; unknown;4.02; unsat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_intersection/unsat/intersect_0_2.smt2;0.17; unsat;TO;TO;0.28; unsat;1.0; unknown;0.01; unknown;3.37; unsat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_intersection/unsat/intersect_5_6.smt2;TO;TO;TO;TO;17.58; unsat;1.01; unknown;0.0; unknown;3.35; unsat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_intersection/unsat/intersect_1_7.smt2;TO;TO;TO;TO;6.85; unsat;1.01; unknown;0.01; unknown;3.25; unsat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_intersection/sat/intersect_4_7.smt2;0.28; sat;TO;TO;7.44; sat;1.0; unknown;0.01; unknown;5.78; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_intersection/sat/intersect_3_3.smt2;0.07; sat;0.11; sat;0.03; sat;1.01; unknown;0.0; unknown;3.05; sat;TO;TO
-../formulae/regex-smt-benchmarks/regexlib_intersection/sat/intersect_0_0.smt2;0.26; sat;0.39; sat;0.49; sat;1.02; unknown;0.01; unknown;4.73; sat;3.78; unsat
-../formulae/regex-smt-benchmarks/regexlib_intersection/sat/intersect_4_9.smt2;0.12; sat;0.31; sat;0.26; sat;1.01; unknown;0.0; unknown;4.47; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_intersection/sat/intersect_4_4.smt2;0.12; sat;0.08; sat;0.09; sat;1.01; unknown;0.0; unknown;3.23; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_intersection/sat/intersect_4_8.smt2;0.24; sat;TO;TO;2.35; sat;1.01; unknown;0.01; unknown;4.0; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_intersection/sat/intersect_0_9.smt2;0.16; sat;0.12; sat;0.52; sat;1.03; unknown;0.01; unknown;5.29; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_intersection/sat/intersect_5_5.smt2;0.03; sat;0.04; sat;0.02; sat;1.0; unknown;0.01; unknown;2.72; sat;1.23; sat
-../formulae/regex-smt-benchmarks/regexlib_intersection/sat/intersect_4_6.smt2;0.24; sat;20.01; sat;17.89; sat;0.99; unknown;0.01; unknown;5.53; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_intersection/sat/intersect_1_5.smt2;0.03; sat;0.07; sat;0.02; sat;1.02; unknown;0.01; unknown;2.8; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_intersection/sat/intersect_6_6.smt2;0.59; sat;1.22; sat;TO;TO;1.01; unknown;0.01; unknown;5.89; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_intersection/sat/intersect_8_8.smt2;0.12; sat;0.42; sat;TO;TO;1.01; unknown;0.01; unknown;76.32; sat;TO;TO
-../formulae/regex-smt-benchmarks/regexlib_intersection/sat/intersect_0_7.smt2;0.64; sat;TO;TO;8.03; sat;1.01; unknown;0.01; unknown;7.07; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_intersection/sat/intersect_0_8.smt2;0.16; sat;TO;TO;2.66; sat;1.01; unknown;0.0; unknown;4.87; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_intersection/sat/intersect_7_8.smt2;0.11; sat;0.62; sat;59.75; sat;1.01; unknown;0.01; unknown;6.31; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_intersection/sat/intersect_0_6.smt2;0.31; sat;7.49; sat;21.04; sat;1.02; unknown;0.01; unknown;7.19; sat;6.81; unsat
-../formulae/regex-smt-benchmarks/regexlib_intersection/sat/intersect_7_7.smt2;0.63; sat;0.44; sat;TO;TO;1.0; unknown;0.01; unknown;5.95; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_intersection/sat/intersect_2_2.smt2;0.02; sat;0.01; sat;0.01; sat;0.99; unknown;0.01; unknown;2.83; sat;4.16; unsat
-../formulae/regex-smt-benchmarks/regexlib_intersection/sat/intersect_6_8.smt2;0.28; sat;1.11; sat;107.73; sat;1.01; unknown;0.0; unknown;9.5; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_intersection/sat/intersect_7_9.smt2;0.74; sat;0.57; sat;10.52; sat;1.01; unknown;0.01; unknown;12.14; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_intersection/sat/intersect_1_1.smt2;0.02; sat;0.09; sat;0.03; sat;1.02; unknown;0.01; unknown;2.76; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_intersection/sat/intersect_9_9.smt2;0.19; sat;0.39; sat;0.4; sat;1.02; unknown;0.01; unknown;6.22; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_intersection/sat/intersect_8_9.smt2;0.42; sat;1.17; sat;2.94; sat;1.02; unknown;0.0; unknown;9.57; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_intersection/sat/intersect_0_4.smt2;0.29; sat;0.19; sat;0.32; sat;1.01; unknown;0.01; unknown;4.65; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_intersection/sat/intersect_6_7.smt2;0.55; sat;1.42; sat;TO;TO;1.01; unknown;0.01; unknown;15.78; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_intersection/sat/intersect_6_9.smt2;0.48; sat;1.16; sat;22.23; sat;1.01; unknown;0.02; unknown;12.51; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/password/unsat/passw_very_complex_6_7_unsat.smt2;TO;TO;TO;TO;1.28; unsat;TO;TO;TO;TO;1.31; (error \\\"At line 15, near \\\"\\\") \\\"\\\"/\\\"\\\") (re\\\"\\\" :     Unrecoverable Syntax Error\\\");ERR;ERR
-../formulae/regex-smt-benchmarks/password/unsat/passw_very_complex_3_4_unsat.smt2;2.87; unsat;16.3; unsat;0.17; unsat;TO;TO;TO;TO;1.35; (error \\\"At line 15, near \\\"\\\") \\\"\\\"/\\\"\\\") (re\\\"\\\" :     Unrecoverable Syntax Error\\\");ERR;ERR
-../formulae/regex-smt-benchmarks/password/unsat/passw_neq_unsat1.smt2;0.03; unsat;ERR;ERR;ERR;ERR;0.25; unsat;0.0; sat;2.39; sat;0.03; unknown
-../formulae/regex-smt-benchmarks/password/unsat/passw_eq_unsat1.smt2;0.71; unknown;ERR;ERR;0.04; unknown;0.02; unsat;0.01; sat;2.43; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/password/unsat/passw_very_complex_2_4_unsat.smt2;4.02; unsat;35.46; unsat;0.27; unsat;TO;TO;TO;TO;1.45; (error \\\"At line 15, near \\\"\\\") \\\"\\\"/\\\"\\\") (re\\\"\\\" :     Unrecoverable Syntax Error\\\");ERR;ERR
-../formulae/regex-smt-benchmarks/password/unsat/passw_very_complex_1_7_unsat.smt2;TO;TO;TO;TO;1.62; unsat;TO;TO;TO;TO;1.26; (error \\\"At line 15, near \\\"\\\") \\\"\\\"/\\\"\\\") (re\\\"\\\" :     Unrecoverable Syntax Error\\\");ERR;ERR
-../formulae/regex-smt-benchmarks/password/unsat/passw_very_complex_2_7_unsat.smt2;TO;TO;TO;TO;1.54; unsat;TO;TO;TO;TO;1.19; (error \\\"At line 15, near \\\"\\\") \\\"\\\"/\\\"\\\") (re\\\"\\\" :     Unrecoverable Syntax Error\\\");ERR;ERR
-../formulae/regex-smt-benchmarks/password/unsat/passw_minimal2_unsat.smt2;0.01; unsat;0.01; unsat;0.01; unsat;0.0; unsat;0.0; unsat;2.03; unsat;ERR;ERR
-../formulae/regex-smt-benchmarks/password/unsat/passw_unsat1.smt2;0.02; unsat;TO;TO;0.02; unsat;0.01; unsat;0.01; unsat;2.0; unsat;ERR;ERR
-../formulae/regex-smt-benchmarks/password/unsat/passw_very_complex_5_7_unsat.smt2;TO;TO;TO;TO;1.32; unsat;TO;TO;TO;TO;1.29; (error \\\"At line 15, near \\\"\\\") \\\"\\\"/\\\"\\\") (re\\\"\\\" :     Unrecoverable Syntax Error\\\");ERR;ERR
-../formulae/regex-smt-benchmarks/password/unsat/passw_very_complex_3_7_unsat.smt2;TO;TO;TO;TO;1.53; unsat;TO;TO;TO;TO;1.25; (error \\\"At line 15, near \\\"\\\") \\\"\\\"/\\\"\\\") (re\\\"\\\" :     Unrecoverable Syntax Error\\\");ERR;ERR
-../formulae/regex-smt-benchmarks/password/unsat/passw_unsat3.smt2;0.08; unsat;4.57; unsat;0.03; unsat;0.08; unsat;39.94; unsat;2.09; unsat;ERR;ERR
-../formulae/regex-smt-benchmarks/password/unsat/passw_very_complex_4_7_unsat.smt2;TO;TO;TO;TO;1.49; unsat;TO;TO;TO;TO;1.24; (error \\\"At line 15, near \\\"\\\") \\\"\\\"/\\\"\\\") (re\\\"\\\" :     Unrecoverable Syntax Error\\\");ERR;ERR
-../formulae/regex-smt-benchmarks/password/unsat/passw_minimal_unsat_neqversion.smt2;0.02; unsat;ERR;ERR;ERR;ERR;0.0; unsat;0.0; sat;2.12; sat;0.02; unknown
-../formulae/regex-smt-benchmarks/password/unsat/passw_unsat2.smt2;0.02; unsat;0.01; unsat;0.02; unsat;0.0; unsat;0.01; unsat;2.01; unsat;ERR;ERR
-../formulae/regex-smt-benchmarks/password/unsat/passw_minimal_unsat.smt2;0.02; unsat;0.01; unsat;0.02; unsat;0.0; unsat;0.0; unsat;2.11; unsat;ERR;ERR
-../formulae/regex-smt-benchmarks/password/sat/passw_very_complex_8_12_sat.smt2;TO;TO;2.14; sat;8.25; sat;TO;TO;TO;TO;1.22; (error \\\"At line 15, near \\\"\\\") \\\"\\\"/\\\"\\\") (re\\\"\\\" :     Unrecoverable Syntax Error\\\");ERR;ERR
-../formulae/regex-smt-benchmarks/password/sat/passw_sat2.smt2;0.03; sat;0.42; sat;0.03; sat;0.02; sat;0.14; sat;2.06; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/password/sat/passw_complex_9_10_sat.smt2;56.31; sat;1.65; sat;1.11; sat;TO;TO;TO;TO;1.24; (error \\\"At line 15, near \\\"\\\") \\\"\\\"/\\\"\\\") (re\\\"\\\" :     Unrecoverable Syntax Error\\\");ERR;ERR
-../formulae/regex-smt-benchmarks/password/sat/passw_complex_5_10_sat.smt2;16.19; sat;1.36; sat;1.35; sat;TO;TO;TO;TO;1.24; (error \\\"At line 15, near \\\"\\\") \\\"\\\"/\\\"\\\") (re\\\"\\\" :     Unrecoverable Syntax Error\\\");ERR;ERR
-../formulae/regex-smt-benchmarks/password/sat/passw_minimal_sat.smt2;0.02; sat;ERR;ERR;0.02; unknown;0.01; sat;0.0; sat;2.18; sat;0.03; sat
-../formulae/regex-smt-benchmarks/password/sat/passw_very_complex_10_12_sat.smt2;TO;TO;2.01; sat;6.96; sat;TO;TO;TO;TO;1.27; (error \\\"At line 15, near \\\"\\\") \\\"\\\"/\\\"\\\") (re\\\"\\\" :     Unrecoverable Syntax Error\\\");ERR;ERR
-../formulae/regex-smt-benchmarks/password/sat/passw_very_complex_12_12_sat.smt2;TO;TO;2.22; sat;6.85; sat;TO;TO;TO;TO;1.26; (error \\\"At line 15, near \\\"\\\") \\\"\\\"/\\\"\\\") (re\\\"\\\" :     Unrecoverable Syntax Error\\\");ERR;ERR
-../formulae/regex-smt-benchmarks/password/sat/passw_sat3.smt2;0.25; sat;0.15; sat;0.21; sat;0.28; sat;TO;TO;2.5; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/password/sat/passw_very_complex_11_12_sat.smt2;TO;TO;2.12; sat;6.71; sat;TO;TO;TO;TO;1.22; (error \\\"At line 15, near \\\"\\\") \\\"\\\"/\\\"\\\") (re\\\"\\\" :     Unrecoverable Syntax Error\\\");ERR;ERR
-../formulae/regex-smt-benchmarks/password/sat/passw_eq_sat1.smt2;0.41; sat;ERR;ERR;0.02; unknown;0.16; sat;0.0; sat;2.11; sat;0.04; sat
-../formulae/regex-smt-benchmarks/password/sat/passw_complex_4_10_sat.smt2;0.64; sat;1.26; sat;1.47; sat;0.44; sat;TO;TO;1.24; (error \\\"At line 15, near \\\"\\\") \\\"\\\"/\\\"\\\") (re\\\"\\\" :     Unrecoverable Syntax Error\\\");ERR;ERR
-../formulae/regex-smt-benchmarks/password/sat/passw_sat4.smt2;0.11; sat;0.12; sat;0.07; sat;0.1; sat;9.03; sat;2.24; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/password/sat/passw_sat1.smt2;0.04; sat;0.46; sat;0.03; sat;0.02; sat;0.04; sat;2.06; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/password/sat/passw_complex_6_10_sat.smt2;34.8; sat;1.44; sat;1.24; sat;TO;TO;TO;TO;1.24; (error \\\"At line 15, near \\\"\\\") \\\"\\\"/\\\"\\\") (re\\\"\\\" :     Unrecoverable Syntax Error\\\");ERR;ERR
-../formulae/regex-smt-benchmarks/password/sat/passw_complex_8_10_sat.smt2;36.65; sat;1.55; sat;1.1; sat;TO;TO;TO;TO;1.21; (error \\\"At line 15, near \\\"\\\") \\\"\\\"/\\\"\\\") (re\\\"\\\" :     Unrecoverable Syntax Error\\\");ERR;ERR
-../formulae/regex-smt-benchmarks/password/sat/passw_very_complex_9_12_sat.smt2;TO;TO;1.71; sat;7.64; sat;TO;TO;TO;TO;1.26; (error \\\"At line 15, near \\\"\\\") \\\"\\\"/\\\"\\\") (re\\\"\\\" :     Unrecoverable Syntax Error\\\");ERR;ERR
-../formulae/regex-smt-benchmarks/password/sat/passw_eq_sat2.smt2;0.01; sat;ERR;ERR;0.02; unknown;0.01; sat;0.01; sat;2.1; sat;0.03; sat
-../formulae/regex-smt-benchmarks/password/sat/passw_complex_7_10_sat.smt2;37.13; sat;1.57; sat;1.21; sat;TO;TO;TO;TO;1.26; (error \\\"At line 15, near \\\"\\\") \\\"\\\"/\\\"\\\") (re\\\"\\\" :     Unrecoverable Syntax Error\\\");ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/unsat/notsubset_3_3.smt2;TO;TO;TO;TO;0.04; unsat;1.01; unknown;0.0; unknown;2.87; unsat;116.34; unsat
-../formulae/regex-smt-benchmarks/regexlib_subset/unsat/notsubset_8_8.smt2;TO;TO;TO;TO;21.08; unsat;1.01; unknown;0.0; unknown;19.07; unsat;TO;TO
-../formulae/regex-smt-benchmarks/regexlib_subset/unsat/notsubset_6_6.smt2;TO;TO;TO;TO;56.15; unsat;1.02; unknown;0.0; unknown;7.25; unsat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/unsat/notsubset_2_2.smt2;0.53; unsat;TO;TO;0.02; unsat;0.01; unknown;0.0; unknown;2.63; unsat;6.29; unsat
-../formulae/regex-smt-benchmarks/regexlib_subset/unsat/notsubset_5_5.smt2;TO;TO;TO;TO;0.02; unsat;1.01; unknown;0.01; unknown;2.66; unsat;7.62; unsat
-../formulae/regex-smt-benchmarks/regexlib_subset/unsat/notsubset_4_4.smt2;TO;TO;TO;TO;0.09; unsat;1.0; unknown;0.0; unknown;3.31; unsat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/unsat/notsubset_1_1.smt2;TO;TO;TO;TO;0.03; unsat;1.01; unknown;0.0; unknown;2.7; unsat;3.17; unsat
-../formulae/regex-smt-benchmarks/regexlib_subset/unsat/notsubset_7_7.smt2;TO;TO;TO;TO;20.6; unsat;1.02; unknown;0.0; unknown;7.95; unsat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/unsat/notsubset_9_9.smt2;TO;TO;TO;TO;0.58; unsat;1.01; unknown;0.0; unknown;8.27; unsat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/unsat/notsubset_0_0.smt2;TO;TO;TO;TO;0.57; unsat;1.01; unknown;0.01; unknown;4.97; unsat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_4_9.smt2;0.13; sat;0.06; sat;0.38; sat;1.01; unknown;0.01; unknown;7.19; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_7_3.smt2;0.19; sat;0.26; sat;8.32; sat;1.02; unknown;0.01; unknown;4.65; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_4_2.smt2;0.14; sat;0.05; sat;0.07; sat;1.0; unknown;0.0; unknown;3.32; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_5_3.smt2;0.04; sat;0.04; sat;0.04; sat;1.02; unknown;0.0; unknown;3.09; sat;82.45; sat
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_3_0.smt2;0.21; sat;0.17; sat;0.4; sat;1.01; unknown;0.01; unknown;4.54; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_5_8.smt2;0.02; sat;0.18; sat;12.34; sat;1.01; unknown;0.01; unknown;4.12; sat;TO;TO
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_8_4.smt2;0.22; sat;TO;TO;2.48; sat;1.0; unknown;0.0; unknown;6.29; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_2_7.smt2;0.02; sat;0.07; sat;9.56; sat;1.01; unknown;0.0; unknown;4.16; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_2_9.smt2;0.02; sat;0.01; sat;0.33; sat;1.0; unknown;0.01; unknown;4.27; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_7_8.smt2;0.63; sat;TO;TO;21.79; sat;1.02; unknown;0.01; unknown;7.34; sat;TO;TO
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_6_8.smt2;0.26; sat;0.74; sat;32.26; sat;1.0; unknown;0.01; unknown;5.97; sat;TO;TO
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_7_9.smt2;1.86; sat;TO;TO;10.74; sat;1.01; unknown;0.01; unknown;19.68; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_7_5.smt2;0.59; sat;0.26; sat;7.27; sat;1.01; unknown;0.01; unknown;4.77; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_1_2.smt2;0.01; sat;0.05; sat;0.03; sat;1.01; unknown;0.01; unknown;3.32; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_0_5.smt2;0.2; sat;0.1; sat;0.32; sat;1.0; unknown;0.01; unknown;4.28; sat;2.65; unsat
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_3_7.smt2;0.29; sat;0.2; sat;9.72; sat;1.0; unknown;0.0; unknown;6.74; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_5_4.smt2;0.04; sat;0.06; sat;0.07; sat;1.0; unknown;0.0; unknown;3.41; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_9_6.smt2;0.27; sat;0.4; sat;26.1; sat;1.01; unknown;0.0; unknown;17.21; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_0_9.smt2;4.14; sat;TO;TO;0.64; sat;1.0; unknown;0.01; unknown;7.85; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_5_1.smt2;0.03; sat;1.33; sat;0.04; sat;1.01; unknown;0.0; unknown;2.87; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_9_1.smt2;0.2; sat;0.1; sat;0.28; sat;1.01; unknown;0.01; unknown;3.91; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_8_5.smt2;0.08; sat;0.22; sat;2.55; sat;1.01; unknown;0.0; unknown;3.89; sat;TO;TO
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_4_7.smt2;0.12; sat;0.13; sat;9.94; sat;1.01; unknown;0.01; unknown;7.46; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_6_2.smt2;0.28; sat;0.65; sat;20.16; sat;1.02; unknown;0.01; unknown;4.5; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_4_0.smt2;0.15; sat;0.06; sat;0.56; sat;1.01; unknown;0.01; unknown;5.14; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_1_6.smt2;0.03; sat;0.45; sat;23.56; sat;1.03; unknown;0.0; unknown;4.32; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_8_9.smt2;0.25; sat;0.29; sat;2.97; sat;1.02; unknown;0.0; unknown;12.54; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_7_6.smt2;1.6; sat;TO;TO;69.29; sat;1.01; unknown;0.01; unknown;51.6; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_2_5.smt2;0.03; sat;0.01; sat;0.03; sat;1.0; unknown;0.0; unknown;2.61; sat;15.41; unsat
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_1_7.smt2;0.03; sat;0.2; sat;9.9; sat;1.0; unknown;0.01; unknown;3.76; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_9_0.smt2;0.49; sat;TO;TO;0.57; sat;1.0; unknown;0.01; unknown;6.53; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_9_5.smt2;0.21; sat;0.1; sat;0.25; sat;1.01; unknown;0.01; unknown;3.6; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_2_3.smt2;0.02; sat;0.0; sat;0.04; sat;1.01; unknown;0.0; unknown;2.68; sat;TO;TO
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_3_2.smt2;0.07; sat;0.06; sat;0.06; sat;1.01; unknown;0.01; unknown;2.99; sat;14.21; sat
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_7_4.smt2;2.18; sat;TO;TO;8.02; sat;1.01; unknown;0.0; unknown;6.95; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_0_1.smt2;0.21; sat;0.09; sat;0.3; sat;1.02; unknown;0.01; unknown;3.87; sat;2.28; unsat
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_2_0.smt2;0.02; sat;0.01; sat;0.34; sat;1.02; unknown;0.0; unknown;3.92; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_2_4.smt2;0.01; sat;0.02; sat;0.09; sat;1.01; unknown;0.0; unknown;3.06; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_3_4.smt2;0.37; sat;0.1; sat;0.08; sat;1.01; unknown;0.0; unknown;3.29; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_1_3.smt2;0.04; sat;0.06; sat;0.04; sat;1.0; unknown;0.01; unknown;2.74; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_4_5.smt2;0.13; sat;0.06; sat;0.07; sat;1.01; unknown;0.0; unknown;2.9; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_3_5.smt2;0.13; sat;0.06; sat;0.04; sat;1.0; unknown;0.0; unknown;2.8; sat;45.06; sat
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_1_8.smt2;0.03; sat;0.2; sat;12.21; sat;1.02; unknown;0.0; unknown;3.73; sat;TO;TO
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_1_9.smt2;0.04; sat;0.12; sat;0.35; sat;1.02; unknown;0.0; unknown;3.75; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_6_9.smt2;0.37; sat;0.67; sat;23.11; sat;1.0; unknown;0.01; unknown;14.66; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_8_1.smt2;0.08; sat;0.22; sat;2.74; sat;1.01; unknown;0.01; unknown;3.96; sat;TO;TO
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_4_6.smt2;0.16; sat;0.35; sat;24.1; sat;1.01; unknown;0.01; unknown;8.17; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_7_1.smt2;0.61; sat;0.26; sat;7.16; sat;1.01; unknown;0.0; unknown;4.24; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_2_8.smt2;0.02; sat;0.05; sat;11.93; sat;1.0; unknown;0.01; unknown;3.73; sat;TO;TO
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_6_4.smt2;0.25; sat;5.03; sat;21.13; sat;1.01; unknown;0.0; unknown;6.44; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_6_1.smt2;0.31; sat;0.63; sat;19.02; sat;1.02; unknown;0.01; unknown;4.23; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_8_2.smt2;0.1; sat;0.22; sat;2.77; sat;1.0; unknown;0.01; unknown;3.83; sat;TO;TO
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_6_7.smt2;0.35; sat;0.73; sat;44.98; sat;1.01; unknown;0.01; unknown;46.97; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_3_6.smt2;0.46; sat;0.4; sat;23.36; sat;1.01; unknown;0.01; unknown;7.58; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_2_1.smt2;0.02; sat;0.01; sat;0.03; sat;0.99; unknown;0.0; unknown;2.69; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_5_0.smt2;0.03; sat;0.08; sat;0.31; sat;0.98; unknown;0.0; unknown;4.05; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_6_0.smt2;0.24; sat;0.64; sat;20.27; sat;1.01; unknown;0.0; unknown;9.3; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_3_1.smt2;0.1; sat;0.06; sat;0.04; sat;1.0; unknown;0.0; unknown;2.94; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_6_5.smt2;0.35; sat;0.64; sat;18.26; sat;1.02; unknown;0.01; unknown;4.39; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_4_1.smt2;0.14; sat;0.06; sat;0.07; sat;1.0; unknown;0.01; unknown;3.14; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_3_8.smt2;0.28; sat;0.16; sat;12.07; sat;1.01; unknown;0.0; unknown;4.53; sat;TO;TO
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_9_4.smt2;0.54; sat;TO;TO;0.32; sat;1.01; unknown;0.01; unknown;4.69; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_5_6.smt2;0.05; sat;0.42; sat;24.59; sat;1.0; unknown;0.0; unknown;4.62; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_1_0.smt2;0.04; sat;0.14; sat;0.33; sat;1.02; unknown;0.01; unknown;3.95; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_6_3.smt2;0.37; sat;0.65; sat;19.45; sat;1.01; unknown;0.0; unknown;5.28; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_1_5.smt2;0.03; sat;0.2; sat;0.03; sat;1.0; unknown;0.0; unknown;2.75; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_0_2.smt2;0.2; sat;0.1; sat;0.3; sat;1.01; unknown;0.0; unknown;3.98; sat;4.83; unsat
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_0_4.smt2;1.29; sat;TO;TO;0.37; sat;1.02; unknown;0.01; unknown;4.36; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_0_6.smt2;0.18; sat;0.4; sat;23.91; sat;1.01; unknown;0.01; unknown;11.05; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_2_6.smt2;0.03; sat;0.25; sat;23.06; sat;1.0; unknown;0.01; unknown;4.06; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_5_7.smt2;0.03; sat;0.16; sat;9.07; sat;1.0; unknown;0.0; unknown;3.83; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_9_2.smt2;0.18; sat;0.1; sat;0.29; sat;1.01; unknown;0.0; unknown;3.61; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_9_7.smt2;0.23; sat;0.17; sat;9.76; sat;1.02; unknown;0.01; unknown;12.27; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_0_3.smt2;0.2; sat;0.09; sat;0.34; sat;1.01; unknown;0.0; unknown;3.84; sat;2.37; unsat
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_7_2.smt2;0.78; sat;0.26; sat;7.31; sat;1.01; unknown;0.0; unknown;3.92; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_4_8.smt2;0.13; sat;0.17; sat;11.77; sat;1.0; unknown;0.01; unknown;5.37; sat;TO;TO
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_1_4.smt2;0.04; sat;0.09; sat;0.11; sat;1.02; unknown;0.0; unknown;3.07; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_5_2.smt2;0.02; sat;0.05; sat;0.04; sat;1.02; unknown;0.01; unknown;2.83; sat;4.43; unsat
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_8_3.smt2;0.16; sat;0.22; sat;2.44; sat;1.01; unknown;0.01; unknown;4.42; sat;TO;TO
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_3_9.smt2;0.24; sat;0.16; sat;0.3; sat;1.0; unknown;0.0; unknown;4.53; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_7_0.smt2;2.28; sat;TO;TO;8.76; sat;1.02; unknown;0.0; unknown;13.42; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_8_6.smt2;0.33; sat;TO;TO;27.67; sat;1.01; unknown;0.0; unknown;11.93; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_0_8.smt2;0.16; sat;0.19; sat;12.18; sat;1.0; unknown;0.01; unknown;5.37; sat;2.83; unsat
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_4_3.smt2;0.34; sat;0.06; sat;0.09; sat;1.02; unknown;0.01; unknown;3.17; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_9_3.smt2;0.22; sat;0.09; sat;0.28; sat;1.03; unknown;0.0; unknown;3.68; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_9_8.smt2;0.21; sat;0.2; sat;12.61; sat;1.01; unknown;0.0; unknown;9.07; sat;TO;TO
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_5_9.smt2;0.04; sat;0.07; sat;0.28; sat;1.01; unknown;0.01; unknown;4.11; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_8_7.smt2;0.19; sat;0.34; sat;12.75; sat;1.02; unknown;0.01; unknown;10.98; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_0_7.smt2;0.2; sat;0.18; sat;9.64; sat;1.01; unknown;0.01; unknown;7.85; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_8_0.smt2;0.25; sat;0.31; sat;2.84; sat;1.01; unknown;0.0; unknown;7.1; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/det_blowup/unsat/digit05_unsat.smt2;0.05; unsat;0.05; unsat;0.02; unsat;0.04; unsat;0.07; unsat;1.38; (error \\\"At line 9, near \\\"\\\") \\\"\\\"/\\\"\\\") (re\\\"\\\" :     Unrecoverable Syntax Error\\\");ERR;ERR
-../formulae/regex-smt-benchmarks/det_blowup/unsat/digit15_unsat.smt2;1.08; unsat;0.61; unsat;0.07; unsat;1.54; unsat;0.46; unsat;1.4; (error \\\"At line 9, near \\\"\\\") \\\"\\\"/\\\"\\\") (re\\\"\\\" :     Unrecoverable Syntax Error\\\");ERR;ERR
-../formulae/regex-smt-benchmarks/det_blowup/unsat/det_blowup_unsat_10.smt2;0.07; unsat;0.03; unsat;0.02; unsat;0.25; unsat;0.18; unsat;2.3; unsat;ERR;ERR
-../formulae/regex-smt-benchmarks/det_blowup/unsat/det_blowup_unsat_1.smt2;0.02; unsat;0.01; unsat;0.02; unsat;0.01; unsat;0.01; unsat;2.34; unsat;ERR;ERR
-../formulae/regex-smt-benchmarks/det_blowup/unsat/det_blowup_unsat_100.smt2;15.12; unsat;TO;TO;0.12; unsat;19.73; unsat;15.83; unsat;2.59; unsat;ERR;ERR
-../formulae/regex-smt-benchmarks/det_blowup/unsat/digit20_unsat.smt2;5.17; unsat;14.47; unsat;0.1; unsat;1.94; unsat;0.78; unsat;1.45; (error \\\"At line 9, near \\\"\\\") \\\"\\\"/\\\"\\\") (re\\\"\\\" :     Unrecoverable Syntax Error\\\");ERR;ERR
-../formulae/regex-smt-benchmarks/det_blowup/unsat/det_blowup_unsat_5.smt2;0.02; unsat;0.01; unsat;0.01; unsat;0.02; unsat;0.05; unsat;2.35; unsat;ERR;ERR
-../formulae/regex-smt-benchmarks/det_blowup/unsat/digit10_unsat.smt2;0.27; unsat;0.08; unsat;0.03; unsat;0.27; unsat;0.22; unsat;1.39; (error \\\"At line 9, near \\\"\\\") \\\"\\\"/\\\"\\\") (re\\\"\\\" :     Unrecoverable Syntax Error\\\");ERR;ERR
-../formulae/regex-smt-benchmarks/det_blowup/unsat/det_blowup_unsat_3.smt2;0.03; unsat;0.01; unsat;0.01; unsat;0.01; unsat;0.02; unsat;2.3; unsat;ERR;ERR
-../formulae/regex-smt-benchmarks/det_blowup/sat/det_blowup_sat_10.smt2;0.04; sat;0.01; sat;0.03; sat;0.04; sat;0.01; sat;2.36; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/det_blowup/sat/det_blowup_sat_100.smt2;9.28; sat;0.09; sat;0.07; sat;1.03; sat;0.02; sat;2.51; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/det_blowup/sat/det_blowup_sat_5.smt2;0.02; sat;0.01; sat;0.0; sat;0.02; sat;0.0; sat;2.49; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/det_blowup/sat/det_blowup_sat_3.smt2;0.03; sat;0.01; sat;0.01; sat;0.01; sat;0.0; sat;2.44; sat;ERR;ERR
-../formulae/regex-smt-benchmarks/det_blowup/sat/det_blowup_sat_1000.smt2;TO;TO;1.02; sat;5.03; sat;3.07; sat;1.55; sat;2.78; sat;ERR;ERR
+name;z3-runtime;z3-result;cvc5-runtime;cvc5-result;z3-noodler-9f5e602-runtime;z3-noodler-9f5e602-result;z3str4-runtime;z3str4-result;z3strRE-runtime;z3strRE-result;ostrich-runtime;ostrich-result;z3-trau-runtime;z3-trau-result;z3-noodler-ca14158-runtime;z3-noodler-ca14158-result;z3-noodler-3367691-runtime;z3-noodler-3367691-result
+../formulae/regex-smt-benchmarks/boolean_and_loops/unsat/inter_mod3_unsat.smt2;0.01; unsat;TO;TO;0.03; unsat;0.01; unsat;0.01; unsat;2.16; unsat;ERR;ERR;0.01; unsat;0.01; unsat
+../formulae/regex-smt-benchmarks/boolean_and_loops/unsat/deadloop3_unsat.smt2;0.11; unsat;0.01; unsat;0.03; unsat;0.48; unsat;0.01; unsat;2.21; unsat;0.04; unsat;0.01; unsat;0.02; unsat
+../formulae/regex-smt-benchmarks/boolean_and_loops/unsat/zelkova_fmcad18_example_explicit_inter_unsat.smt2;0.02; unsat;0.0; unsat;0.01; unsat;0.0; unsat;0.36; unsat;2.17; unsat;ERR;ERR;0.01; unsat;0.01; unsat
+../formulae/regex-smt-benchmarks/boolean_and_loops/unsat/simple_neq_unsat.smt2;0.02; unsat;ERR;ERR;ERR;ERR;0.0; unsat;0.01; sat;2.21; sat;0.35; unknown;0.02; unsat;0.02; unsat
+../formulae/regex-smt-benchmarks/boolean_and_loops/unsat/nestedloop1_unsat.smt2;0.03; unsat;0.02; unsat;0.03; unsat;0.17; unsat;0.01; unsat;2.32; unsat;0.04; unsat;0.02; unsat;0.02; unsat
+../formulae/regex-smt-benchmarks/boolean_and_loops/unsat/evil1_unsat.smt2;0.04; unsat;0.0; unsat;0.02; unsat;0.0; unsat;0.0; unsat;2.24; unsat;ERR;ERR;0.02; unsat;0.03; unsat
+../formulae/regex-smt-benchmarks/boolean_and_loops/unsat/simple_complement_unsat.smt2;0.02; unsat;TO;TO;0.02; unsat;1.02; unknown;0.0; unknown;2.24; unsat;ERR;ERR;0.01; unsat;0.02; unsat
+../formulae/regex-smt-benchmarks/boolean_and_loops/unsat/zelkova_fmcad18_example_implicit_inter_unsat.smt2;TO;TO;0.0; unsat;0.01; unsat;1.06; unsat;0.04; unsat;2.09; unsat;0.1; unsat;0.02; unsat;0.01; unsat
+../formulae/regex-smt-benchmarks/boolean_and_loops/unsat/evil1_neq_unsat.smt2;0.02; unsat;0.0; unsat;ERR;ERR;0.0; unsat;0.0; unsat;2.37; sat;0.03; unknown;0.02; unsat;0.01; unsat
+../formulae/regex-smt-benchmarks/boolean_and_loops/unsat/demo_unsat.smt2;0.01; unsat;0.02; unsat;0.02; unsat;0.0; unsat;0.0; unsat;2.28; unsat;ERR;ERR;0.01; unsat;0.02; unsat
+../formulae/regex-smt-benchmarks/boolean_and_loops/unsat/evil2_inter_unsat.smt2;0.02; unsat;0.04; unsat;0.02; unsat;0.0; unsat;2.53; unsat;1.33; (error \\\"At line 11, near \\\"\\\") (_ char\\\"\\\" :     Unrecoverable Syntax Error\\\");ERR;ERR;0.02; unsat;0.02; unsat
+../formulae/regex-smt-benchmarks/boolean_and_loops/unsat/comp1_inclusion_unsat.smt2;0.04; unsat;ERR;ERR;0.02; unknown;0.01; unsat;0.0; sat;2.26; sat;ERR;ERR;0.02; unsat;0.01; unsat
+../formulae/regex-smt-benchmarks/boolean_and_loops/unsat/nestedloop2_unsat.smt2;0.02; unsat;0.0; unsat;0.02; unsat;0.0; unsat;0.0; unsat;2.41; unsat;0.03; unsat;0.02; unsat;0.02; unsat
+../formulae/regex-smt-benchmarks/boolean_and_loops/unsat/inter_mod2_unsat.smt2;0.02; unsat;0.01; unsat;0.02; unsat;0.01; unsat;0.01; unsat;2.24; unsat;ERR;ERR;0.02; unsat;0.01; unsat
+../formulae/regex-smt-benchmarks/boolean_and_loops/sat/evil1_eq_sat.smt2;0.02; sat;0.0; sat;0.02; unknown;0.0; sat;0.0; sat;2.38; sat;0.03; sat;0.02; sat;0.01; sat
+../formulae/regex-smt-benchmarks/boolean_and_loops/sat/nestedloop2_sat.smt2;0.02; sat;0.01; sat;0.02; sat;0.0; sat;0.0; sat;2.44; sat;0.04; unsat;0.02; sat;0.02; sat
+../formulae/regex-smt-benchmarks/boolean_and_loops/sat/comp1_nonempty_trivial_sat.smt2;0.01; sat;0.0; sat;0.02; sat;0.01; sat;12.53; sat;2.41; sat;ERR;ERR;0.02; sat;0.02; sat
+../formulae/regex-smt-benchmarks/boolean_and_loops/sat/evil2_sat.smt2;0.02; sat;0.01; sat;0.02; sat;0.01; sat;0.01; sat;1.34; (error \\\"At line 9, near \\\"\\\") (_ char\\\"\\\" :     Unrecoverable Syntax Error\\\");ERR;ERR;0.01; sat;0.02; sat
+../formulae/regex-smt-benchmarks/boolean_and_loops/sat/deadloop2_sat.smt2;0.01; sat;0.0; sat;0.02; sat;0.01; sat;0.0; sat;2.32; sat;ERR;ERR;0.02; sat;0.02; sat
+../formulae/regex-smt-benchmarks/boolean_and_loops/sat/deadloop1_sat.smt2;0.02; sat;0.0; sat;0.01; sat;0.01; sat;0.0; sat;2.26; sat;ERR;ERR;0.02; sat;0.01; sat
+../formulae/regex-smt-benchmarks/boolean_and_loops/sat/comp1_inclusion_sat.smt2;0.02; sat;ERR;ERR;0.01; unknown;0.01; sat;0.0; sat;2.32; sat;ERR;ERR;0.0; sat;0.02; sat
+../formulae/regex-smt-benchmarks/date/unsat/contains_month_weekday_unsat.smt2;1.4; unsat;TO;TO;0.01; unsat;TO;TO;9.59; unsat;2.38; unsat;ERR;ERR;0.01; unsat;0.02; unsat
+../formulae/regex-smt-benchmarks/date/unsat/date_minimal_fixed_unsat.smt2;0.15; unsat;0.08; unsat;0.04; unsat;0.17; unsat;18.56; unsat;2.38; unsat;ERR;ERR;0.03; unsat;0.03; unsat
+../formulae/regex-smt-benchmarks/date/unsat/date_minimal_unsat.smt2;0.24; unsat;0.09; unsat;0.03; unsat;0.29; unsat;TO;TO;2.45; unsat;ERR;ERR;0.03; unsat;0.02; unsat
+../formulae/regex-smt-benchmarks/date/unsat/contains_month_weekday_unsat_ignorecase.smt2;8.34; unsat;TO;TO;0.02; unsat;TO;TO;TO;TO;2.73; unsat;ERR;ERR;0.03; unsat;0.03; unsat
+../formulae/regex-smt-benchmarks/date/unsat/date_inconsistent_format.smt2;0.03; unsat;TO;TO;0.02; unsat;0.12; unsat;0.01; unsat;2.73; unsat;TO;TO;0.02; unsat;0.02; unsat
+../formulae/regex-smt-benchmarks/date/unsat/date_unsat.smt2;5.51; unsat;0.11; unsat;0.09; unsat;TO;TO;TO;TO;2.6; unsat;ERR;ERR;0.08; unsat;0.08; unsat
+../formulae/regex-smt-benchmarks/date/sat/date2_sat.smt2;5.04; sat;TO;TO;0.11; sat;TO;TO;TO;TO;2.76; sat;ERR;ERR;0.09; sat;0.09; sat
+../formulae/regex-smt-benchmarks/date/sat/date_minimal_sat.smt2;0.24; sat;TO;TO;0.03; sat;0.37; sat;55.24; sat;2.48; sat;ERR;ERR;0.02; sat;0.02; sat
+../formulae/regex-smt-benchmarks/date/sat/contains_month_weekday_sat2.smt2;4.58; sat;0.2; sat;0.02; sat;5.88; sat;5.63; sat;2.54; sat;ERR;ERR;0.02; sat;0.02; sat
+../formulae/regex-smt-benchmarks/date/sat/contains_month_weekday_sat_ignorecase.smt2;0.36; sat;TO;TO;0.03; sat;13.28; sat;12.15; sat;2.95; sat;ERR;ERR;0.02; sat;0.02; sat
+../formulae/regex-smt-benchmarks/date/sat/date_format_days.smt2;0.07; sat;0.09; sat;0.03; sat;0.03; sat;0.0; sat;2.78; sat;TO;TO;0.03; sat;0.02; sat
+../formulae/regex-smt-benchmarks/date/sat/date_format_days_months_complete.smt2;0.89; sat;TO;TO;0.4; sat;0.39; sat;6.47; sat;5.61; sat;TO;TO;0.32; sat;0.33; sat
+../formulae/regex-smt-benchmarks/date/sat/contains_month_weekday_sat.smt2;0.09; sat;0.05; sat;0.02; sat;1.09; sat;0.16; sat;2.54; sat;ERR;ERR;0.01; sat;0.01; sat
+../formulae/regex-smt-benchmarks/date/sat/date_format_days_months_complete_complement.smt2;0.18; sat;0.28; sat;7.77; sat;0.01; sat;TO;TO;4.04; sat;TO;TO;7.22; sat;7.16; sat
+../formulae/regex-smt-benchmarks/date/sat/date_format_days_months_partial.smt2;0.21; sat;1.58; sat;0.03; sat;0.17; sat;1.0; sat;3.22; sat;TO;TO;0.03; sat;0.03; sat
+../formulae/regex-smt-benchmarks/date/sat/date_policy1_implies_date_policy2.smt2;0.9; sat;TO;TO;0.71; sat;0.78; sat;TO;TO;5.44; sat;TO;TO;0.62; sat;0.63; sat
+../formulae/regex-smt-benchmarks/date/sat/date_minimal_fixed_sat.smt2;0.12; sat;TO;TO;0.02; sat;0.19; sat;1.09; sat;2.15; sat;ERR;ERR;0.02; sat;0.02; sat
+../formulae/regex-smt-benchmarks/date/sat/date1_sat.smt2;5.31; sat;TO;TO;0.08; sat;TO;TO;TO;TO;2.41; sat;ERR;ERR;0.07; sat;0.07; sat
+../formulae/regex-smt-benchmarks/date/sat/contains_month_weekday_sat_9.smt2;2.02; sat;1.25; sat;0.03; sat;68.21; sat;78.93; sat;2.33; sat;ERR;ERR;0.03; sat;0.04; sat
+../formulae/regex-smt-benchmarks/state_space/sat/diamond_chain_100.smt2;22.09; sat;0.1; sat;0.06; sat;1.06; sat;0.06; sat;2.49; sat;ERR;ERR;0.06; sat;0.07; sat
+../formulae/regex-smt-benchmarks/state_space/sat/long_100.smt2;0.02; sat;0.0; sat;0.02; sat;0.1; sat;0.01; sat;3.39; sat;0.28; sat;0.02; sat;0.02; sat
+../formulae/regex-smt-benchmarks/state_space/sat/long_300.smt2;0.01; sat;0.01; sat;0.03; sat;0.68; sat;0.0; sat;4.43; sat;2.28; sat;0.03; sat;0.03; sat
+../formulae/regex-smt-benchmarks/state_space/sat/re_count_sat_hard.smt2;TO;TO;2.23; sat;TO;TO;TO;TO;TO;TO;6.12; sat;ERR;ERR;TO;TO;TO;TO
+../formulae/regex-smt-benchmarks/state_space/sat/diamond_chain_30.smt2;0.87; sat;0.04; sat;0.03; sat;1.01; sat;0.0; sat;2.42; sat;ERR;ERR;0.03; sat;0.03; sat
+../formulae/regex-smt-benchmarks/state_space/sat/inter_3_6_9.smt2;0.14; sat;0.02; sat;0.03; sat;17.67; sat;15.78; sat;2.73; sat;ERR;ERR;0.02; sat;0.02; sat
+../formulae/regex-smt-benchmarks/state_space/sat/inter_star_10_10.smt2;0.06; sat;0.01; sat;0.03; sat;1.69; sat;0.7; sat;2.57; sat;ERR;ERR;0.02; sat;0.02; sat
+../formulae/regex-smt-benchmarks/state_space/sat/diamond_chain_10.smt2;0.08; sat;0.01; sat;0.02; sat;0.26; sat;0.01; sat;2.45; sat;ERR;ERR;0.02; sat;0.02; sat
+../formulae/regex-smt-benchmarks/state_space/sat/re_count_sat_medium.smt2;0.64; sat;0.0; sat;0.03; sat;1.0; sat;0.01; sat;2.56; sat;ERR;ERR;0.01; sat;0.02; sat
+../formulae/regex-smt-benchmarks/state_space/sat/inter_30_60_90.smt2;TO;TO;0.17; sat;23.28; sat;101.55; unknown;94.04; unknown;TO;TO;ERR;ERR;20.53; sat;20.81; sat
+../formulae/regex-smt-benchmarks/state_space/sat/inter_1_2_3.smt2;0.02; sat;0.01; sat;0.03; sat;0.01; sat;0.03; sat;2.38; sat;ERR;ERR;0.02; sat;0.02; sat
+../formulae/regex-smt-benchmarks/state_space/sat/diamond_chain_3000.smt2;TO;TO;5.7; sat;64.54; sat;62.68; sat;TO;TO;3.75; sat;TO;TO;57.59; sat;60.21; sat
+../formulae/regex-smt-benchmarks/state_space/sat/inter_star_100_100.smt2;43.57; sat;0.09; sat;0.34; sat;TO;TO;TO;TO;6.09; sat;ERR;ERR;0.31; sat;0.31; sat
+../formulae/regex-smt-benchmarks/state_space/sat/inter_star_3_3.smt2;0.02; sat;0.01; sat;0.02; sat;0.01; sat;0.04; sat;2.49; sat;ERR;ERR;0.01; sat;0.01; sat
+../formulae/regex-smt-benchmarks/state_space/sat/diamond_chain_1000.smt2;TO;TO;1.35; sat;5.89; sat;6.05; sat;9.96; sat;3.21; sat;ERR;ERR;5.91; sat;5.98; sat
+../formulae/regex-smt-benchmarks/state_space/sat/long_10.smt2;0.01; sat;0.0; sat;0.02; sat;0.0; sat;0.0; sat;2.61; sat;0.03; sat;0.02; sat;0.01; sat
+../formulae/regex-smt-benchmarks/state_space/sat/long_30.smt2;0.03; sat;0.0; sat;0.02; sat;0.02; sat;0.0; sat;2.81; sat;0.05; sat;0.02; sat;0.02; sat
+../formulae/regex-smt-benchmarks/state_space/sat/re_count_sat_easy.smt2;0.04; sat;0.0; sat;0.02; sat;0.14; sat;0.01; sat;2.43; sat;ERR;ERR;0.02; sat;0.02; sat
+../formulae/regex-smt-benchmarks/state_space/sat/inter_star_30_30.smt2;1.34; sat;0.03; sat;0.04; sat;22.56; sat;21.43; sat;3.12; sat;ERR;ERR;0.03; sat;0.03; sat
+../formulae/regex-smt-benchmarks/state_space/sat/diamond_chain_300.smt2;TO;TO;0.31; sat;0.49; sat;1.5; sat;0.45; sat;2.78; sat;ERR;ERR;0.48; sat;0.47; sat
+../formulae/regex-smt-benchmarks/state_space/sat/inter_10_20_30.smt2;27.17; sat;0.06; sat;0.39; sat;92.98; unknown;84.99; unknown;7.8; sat;ERR;ERR;0.37; sat;0.35; sat
+../formulae/regex-smt-benchmarks/state_space/sat/long_3.smt2;0.01; sat;0.0; sat;0.02; sat;0.01; sat;0.0; sat;2.41; sat;0.03; sat;0.02; sat;0.01; sat
+../formulae/regex-smt-benchmarks/regexlib_intersection/unsat/intersect_2_7.smt2;1.17; unsat;113.58; unsat;6.63; unsat;1.01; unknown;0.01; unknown;3.72; unsat;ERR;ERR;6.5; unsat;6.54; unsat
+../formulae/regex-smt-benchmarks/regexlib_intersection/unsat/intersect_2_9.smt2;0.18; unsat;TO;TO;0.2; unsat;1.0; unknown;0.01; unknown;3.68; unsat;ERR;ERR;0.2; unsat;0.19; unsat
+../formulae/regex-smt-benchmarks/regexlib_intersection/unsat/intersect_2_4.smt2;0.19; unsat;22.24; unsat;0.06; unsat;1.02; unknown;0.01; unknown;3.14; unsat;ERR;ERR;0.06; unsat;0.04; unsat
+../formulae/regex-smt-benchmarks/regexlib_intersection/unsat/intersect_5_9.smt2;TO;TO;TO;TO;0.22; unsat;1.02; unknown;0.01; unknown;3.62; unsat;ERR;ERR;0.19; unsat;0.19; unsat
+../formulae/regex-smt-benchmarks/regexlib_intersection/unsat/intersect_1_8.smt2;TO;TO;TO;TO;2.17; unsat;1.0; unknown;0.0; unknown;3.58; unsat;0.72; unsat;2.17; unsat;2.24; unsat
+../formulae/regex-smt-benchmarks/regexlib_intersection/unsat/intersect_1_9.smt2;TO;TO;TO;TO;0.21; unsat;1.03; unknown;0.0; unknown;3.78; unsat;ERR;ERR;0.2; unsat;0.2; unsat
+../formulae/regex-smt-benchmarks/regexlib_intersection/unsat/intersect_0_3.smt2;TO;TO;TO;TO;0.28; unsat;1.02; unknown;0.01; unknown;3.94; unsat;ERR;ERR;0.28; unsat;0.27; unsat
+../formulae/regex-smt-benchmarks/regexlib_intersection/unsat/intersect_3_5.smt2;TO;TO;TO;TO;0.03; unsat;1.0; unknown;0.01; unknown;2.98; unsat;0.79; unsat;0.02; unsat;0.03; unsat
+../formulae/regex-smt-benchmarks/regexlib_intersection/unsat/intersect_2_5.smt2;0.01; unsat;TO;TO;0.01; unsat;1.0; unknown;0.0; unknown;3.05; unsat;2.47; unsat;0.03; unsat;0.02; unsat
+../formulae/regex-smt-benchmarks/regexlib_intersection/unsat/intersect_5_8.smt2;TO;TO;TO;TO;2.22; unsat;1.01; unknown;0.01; unknown;3.59; unsat;0.75; unsat;2.27; unsat;2.28; unsat
+../formulae/regex-smt-benchmarks/regexlib_intersection/unsat/intersect_4_5.smt2;TO;TO;TO;TO;0.1; unsat;1.01; unknown;0.01; unknown;2.66; unsat;ERR;ERR;0.06; unsat;0.06; unsat
+../formulae/regex-smt-benchmarks/regexlib_intersection/unsat/intersect_2_6.smt2;0.13; unsat;9.82; unsat;17.06; unsat;1.01; unknown;0.0; unknown;3.25; unsat;ERR;ERR;16.87; unsat;16.83; unsat
+../formulae/regex-smt-benchmarks/regexlib_intersection/unsat/intersect_1_4.smt2;TO;TO;TO;TO;0.06; unsat;1.01; unknown;0.0; unknown;2.7; unsat;ERR;ERR;0.06; unsat;0.06; unsat
+../formulae/regex-smt-benchmarks/regexlib_intersection/unsat/intersect_1_3.smt2;TO;TO;TO;TO;0.02; unsat;1.0; unknown;0.0; unknown;2.65; unsat;0.62; unsat;0.02; unsat;0.02; unsat
+../formulae/regex-smt-benchmarks/regexlib_intersection/unsat/intersect_2_3.smt2;0.18; unsat;24.38; unsat;0.03; unsat;1.0; unknown;0.0; unknown;2.72; unsat;2.66; unsat;0.03; unsat;0.03; unsat
+../formulae/regex-smt-benchmarks/regexlib_intersection/unsat/intersect_1_6.smt2;TO;TO;TO;TO;17.14; unsat;1.0; unknown;0.01; unknown;3.38; unsat;ERR;ERR;16.94; unsat;16.93; unsat
+../formulae/regex-smt-benchmarks/regexlib_intersection/unsat/intersect_2_8.smt2;0.08; unsat;TO;TO;2.17; unsat;1.01; unknown;0.01; unknown;3.16; unsat;3.01; unsat;2.26; unsat;2.28; unsat
+../formulae/regex-smt-benchmarks/regexlib_intersection/unsat/intersect_3_8.smt2;TO;TO;TO;TO;2.29; unsat;1.02; unknown;0.0; unknown;3.82; unsat;TO;TO;2.29; unsat;2.42; unsat
+../formulae/regex-smt-benchmarks/regexlib_intersection/unsat/intersect_3_6.smt2;TO;TO;31.79; unsat;17.54; unsat;1.01; unknown;0.0; unknown;3.97; unsat;ERR;ERR;17.31; unsat;17.02; unsat
+../formulae/regex-smt-benchmarks/regexlib_intersection/unsat/intersect_5_7.smt2;TO;TO;TO;TO;6.74; unsat;1.01; unknown;0.0; unknown;3.37; unsat;ERR;ERR;6.4; unsat;6.5; unsat
+../formulae/regex-smt-benchmarks/regexlib_intersection/unsat/intersect_3_9.smt2;TO;TO;TO;TO;0.22; unsat;1.01; unknown;0.0; unknown;3.43; unsat;ERR;ERR;0.22; unsat;0.2; unsat
+../formulae/regex-smt-benchmarks/regexlib_intersection/unsat/intersect_3_4.smt2;TO;TO;TO;TO;0.08; unsat;1.02; unknown;0.01; unknown;2.94; unsat;ERR;ERR;0.06; unsat;0.05; unsat
+../formulae/regex-smt-benchmarks/regexlib_intersection/unsat/intersect_0_5.smt2;TO;TO;TO;TO;0.27; unsat;1.01; unknown;0.0; unknown;3.53; unsat;ERR;ERR;0.25; unsat;0.25; unsat
+../formulae/regex-smt-benchmarks/regexlib_intersection/unsat/intersect_1_2.smt2;0.01; unsat;TO;TO;0.03; unsat;1.01; unknown;0.0; unknown;2.6; unsat;2.44; unsat;0.02; unsat;0.02; unsat
+../formulae/regex-smt-benchmarks/regexlib_intersection/unsat/intersect_0_1.smt2;TO;TO;TO;TO;0.28; unsat;1.01; unknown;0.01; unknown;3.22; unsat;ERR;ERR;0.26; unsat;0.25; unsat
+../formulae/regex-smt-benchmarks/regexlib_intersection/unsat/intersect_3_7.smt2;TO;TO;TO;TO;6.88; unsat;1.02; unknown;0.0; unknown;4.02; unsat;ERR;ERR;6.66; unsat;6.7; unsat
+../formulae/regex-smt-benchmarks/regexlib_intersection/unsat/intersect_0_2.smt2;0.17; unsat;TO;TO;0.28; unsat;1.0; unknown;0.01; unknown;3.37; unsat;ERR;ERR;0.25; unsat;0.26; unsat
+../formulae/regex-smt-benchmarks/regexlib_intersection/unsat/intersect_5_6.smt2;TO;TO;TO;TO;17.58; unsat;1.01; unknown;0.0; unknown;3.35; unsat;ERR;ERR;17.07; unsat;16.92; unsat
+../formulae/regex-smt-benchmarks/regexlib_intersection/unsat/intersect_1_7.smt2;TO;TO;TO;TO;6.85; unsat;1.01; unknown;0.01; unknown;3.25; unsat;ERR;ERR;6.42; unsat;6.54; unsat
+../formulae/regex-smt-benchmarks/regexlib_intersection/sat/intersect_4_7.smt2;0.28; sat;TO;TO;7.44; sat;1.0; unknown;0.01; unknown;5.78; sat;ERR;ERR;7.11; sat;7.19; sat
+../formulae/regex-smt-benchmarks/regexlib_intersection/sat/intersect_3_3.smt2;0.07; sat;0.11; sat;0.03; sat;1.01; unknown;0.0; unknown;3.05; sat;TO;TO;0.04; sat;0.03; sat
+../formulae/regex-smt-benchmarks/regexlib_intersection/sat/intersect_0_0.smt2;0.26; sat;0.39; sat;0.49; sat;1.02; unknown;0.01; unknown;4.73; sat;3.78; unsat;0.42; sat;0.43; sat
+../formulae/regex-smt-benchmarks/regexlib_intersection/sat/intersect_4_9.smt2;0.12; sat;0.31; sat;0.26; sat;1.01; unknown;0.0; unknown;4.47; sat;ERR;ERR;0.26; sat;0.25; sat
+../formulae/regex-smt-benchmarks/regexlib_intersection/sat/intersect_4_4.smt2;0.12; sat;0.08; sat;0.09; sat;1.01; unknown;0.0; unknown;3.23; sat;ERR;ERR;0.07; sat;0.09; sat
+../formulae/regex-smt-benchmarks/regexlib_intersection/sat/intersect_4_8.smt2;0.24; sat;TO;TO;2.35; sat;1.01; unknown;0.01; unknown;4.0; sat;ERR;ERR;2.35; sat;2.32; sat
+../formulae/regex-smt-benchmarks/regexlib_intersection/sat/intersect_0_9.smt2;0.16; sat;0.12; sat;0.52; sat;1.03; unknown;0.01; unknown;5.29; sat;ERR;ERR;0.5; sat;0.48; sat
+../formulae/regex-smt-benchmarks/regexlib_intersection/sat/intersect_5_5.smt2;0.03; sat;0.04; sat;0.02; sat;1.0; unknown;0.01; unknown;2.72; sat;1.23; sat;0.02; sat;0.02; sat
+../formulae/regex-smt-benchmarks/regexlib_intersection/sat/intersect_4_6.smt2;0.24; sat;20.01; sat;17.89; sat;0.99; unknown;0.01; unknown;5.53; sat;ERR;ERR;17.58; sat;17.92; sat
+../formulae/regex-smt-benchmarks/regexlib_intersection/sat/intersect_1_5.smt2;0.03; sat;0.07; sat;0.02; sat;1.02; unknown;0.01; unknown;2.8; sat;ERR;ERR;0.02; sat;0.01; sat
+../formulae/regex-smt-benchmarks/regexlib_intersection/sat/intersect_6_6.smt2;0.59; sat;1.22; sat;TO;TO;1.01; unknown;0.01; unknown;5.89; sat;ERR;ERR;TO;TO;TO;TO
+../formulae/regex-smt-benchmarks/regexlib_intersection/sat/intersect_8_8.smt2;0.12; sat;0.42; sat;TO;TO;1.01; unknown;0.01; unknown;76.32; sat;TO;TO;TO;TO;TO;TO
+../formulae/regex-smt-benchmarks/regexlib_intersection/sat/intersect_0_7.smt2;0.64; sat;TO;TO;8.03; sat;1.01; unknown;0.01; unknown;7.07; sat;ERR;ERR;7.48; sat;7.49; sat
+../formulae/regex-smt-benchmarks/regexlib_intersection/sat/intersect_0_8.smt2;0.16; sat;TO;TO;2.66; sat;1.01; unknown;0.0; unknown;4.87; sat;ERR;ERR;2.54; sat;2.55; sat
+../formulae/regex-smt-benchmarks/regexlib_intersection/sat/intersect_7_8.smt2;0.11; sat;0.62; sat;59.75; sat;1.01; unknown;0.01; unknown;6.31; sat;ERR;ERR;57.09; sat;56.36; sat
+../formulae/regex-smt-benchmarks/regexlib_intersection/sat/intersect_0_6.smt2;0.31; sat;7.49; sat;21.04; sat;1.02; unknown;0.01; unknown;7.19; sat;6.81; unsat;19.01; sat;19.36; sat
+../formulae/regex-smt-benchmarks/regexlib_intersection/sat/intersect_7_7.smt2;0.63; sat;0.44; sat;TO;TO;1.0; unknown;0.01; unknown;5.95; sat;ERR;ERR;TO;TO;TO;TO
+../formulae/regex-smt-benchmarks/regexlib_intersection/sat/intersect_2_2.smt2;0.02; sat;0.01; sat;0.01; sat;0.99; unknown;0.01; unknown;2.83; sat;4.16; unsat;0.03; sat;0.02; sat
+../formulae/regex-smt-benchmarks/regexlib_intersection/sat/intersect_6_8.smt2;0.28; sat;1.11; sat;107.73; sat;1.01; unknown;0.0; unknown;9.5; sat;ERR;ERR;92.09; sat;91.15; sat
+../formulae/regex-smt-benchmarks/regexlib_intersection/sat/intersect_7_9.smt2;0.74; sat;0.57; sat;10.52; sat;1.01; unknown;0.01; unknown;12.14; sat;ERR;ERR;8.63; sat;8.69; sat
+../formulae/regex-smt-benchmarks/regexlib_intersection/sat/intersect_1_1.smt2;0.02; sat;0.09; sat;0.03; sat;1.02; unknown;0.01; unknown;2.76; sat;ERR;ERR;0.02; sat;0.02; sat
+../formulae/regex-smt-benchmarks/regexlib_intersection/sat/intersect_9_9.smt2;0.19; sat;0.39; sat;0.4; sat;1.02; unknown;0.01; unknown;6.22; sat;ERR;ERR;0.36; sat;0.39; sat
+../formulae/regex-smt-benchmarks/regexlib_intersection/sat/intersect_8_9.smt2;0.42; sat;1.17; sat;2.94; sat;1.02; unknown;0.0; unknown;9.57; sat;ERR;ERR;2.93; sat;2.87; sat
+../formulae/regex-smt-benchmarks/regexlib_intersection/sat/intersect_0_4.smt2;0.29; sat;0.19; sat;0.32; sat;1.01; unknown;0.01; unknown;4.65; sat;ERR;ERR;0.31; sat;0.32; sat
+../formulae/regex-smt-benchmarks/regexlib_intersection/sat/intersect_6_7.smt2;0.55; sat;1.42; sat;TO;TO;1.01; unknown;0.01; unknown;15.78; sat;ERR;ERR;TO;TO;TO;TO
+../formulae/regex-smt-benchmarks/regexlib_intersection/sat/intersect_6_9.smt2;0.48; sat;1.16; sat;22.23; sat;1.01; unknown;0.02; unknown;12.51; sat;ERR;ERR;21.19; sat;21.04; sat
+../formulae/regex-smt-benchmarks/password/unsat/passw_very_complex_6_7_unsat.smt2;TO;TO;TO;TO;1.28; unsat;TO;TO;TO;TO;1.31; (error \\\"At line 15, near \\\"\\\") \\\"\\\"/\\\"\\\") (re\\\"\\\" :     Unrecoverable Syntax Error\\\");ERR;ERR;1.17; unsat;1.22; unsat
+../formulae/regex-smt-benchmarks/password/unsat/passw_very_complex_3_4_unsat.smt2;2.87; unsat;16.3; unsat;0.17; unsat;TO;TO;TO;TO;1.35; (error \\\"At line 15, near \\\"\\\") \\\"\\\"/\\\"\\\") (re\\\"\\\" :     Unrecoverable Syntax Error\\\");ERR;ERR;0.16; unsat;0.16; unsat
+../formulae/regex-smt-benchmarks/password/unsat/passw_neq_unsat1.smt2;0.03; unsat;ERR;ERR;ERR;ERR;0.25; unsat;0.0; sat;2.39; sat;0.03; unknown;0.04; unsat;0.04; unsat
+../formulae/regex-smt-benchmarks/password/unsat/passw_eq_unsat1.smt2;0.71; unknown;ERR;ERR;0.04; unknown;0.02; unsat;0.01; sat;2.43; sat;ERR;ERR;0.02; unsat;0.01; unsat
+../formulae/regex-smt-benchmarks/password/unsat/passw_very_complex_2_4_unsat.smt2;4.02; unsat;35.46; unsat;0.27; unsat;TO;TO;TO;TO;1.45; (error \\\"At line 15, near \\\"\\\") \\\"\\\"/\\\"\\\") (re\\\"\\\" :     Unrecoverable Syntax Error\\\");ERR;ERR;0.16; unsat;0.16; unsat
+../formulae/regex-smt-benchmarks/password/unsat/passw_very_complex_1_7_unsat.smt2;TO;TO;TO;TO;1.62; unsat;TO;TO;TO;TO;1.26; (error \\\"At line 15, near \\\"\\\") \\\"\\\"/\\\"\\\") (re\\\"\\\" :     Unrecoverable Syntax Error\\\");ERR;ERR;1.47; unsat;1.4; unsat
+../formulae/regex-smt-benchmarks/password/unsat/passw_very_complex_2_7_unsat.smt2;TO;TO;TO;TO;1.54; unsat;TO;TO;TO;TO;1.19; (error \\\"At line 15, near \\\"\\\") \\\"\\\"/\\\"\\\") (re\\\"\\\" :     Unrecoverable Syntax Error\\\");ERR;ERR;1.42; unsat;1.42; unsat
+../formulae/regex-smt-benchmarks/password/unsat/passw_minimal2_unsat.smt2;0.01; unsat;0.01; unsat;0.01; unsat;0.0; unsat;0.0; unsat;2.03; unsat;ERR;ERR;0.03; unsat;0.02; unsat
+../formulae/regex-smt-benchmarks/password/unsat/passw_unsat1.smt2;0.02; unsat;TO;TO;0.02; unsat;0.01; unsat;0.01; unsat;2.0; unsat;ERR;ERR;0.02; unsat;0.02; unsat
+../formulae/regex-smt-benchmarks/password/unsat/passw_very_complex_5_7_unsat.smt2;TO;TO;TO;TO;1.32; unsat;TO;TO;TO;TO;1.29; (error \\\"At line 15, near \\\"\\\") \\\"\\\"/\\\"\\\") (re\\\"\\\" :     Unrecoverable Syntax Error\\\");ERR;ERR;1.25; unsat;1.25; unsat
+../formulae/regex-smt-benchmarks/password/unsat/passw_very_complex_3_7_unsat.smt2;TO;TO;TO;TO;1.53; unsat;TO;TO;TO;TO;1.25; (error \\\"At line 15, near \\\"\\\") \\\"\\\"/\\\"\\\") (re\\\"\\\" :     Unrecoverable Syntax Error\\\");ERR;ERR;1.42; unsat;1.41; unsat
+../formulae/regex-smt-benchmarks/password/unsat/passw_unsat3.smt2;0.08; unsat;4.57; unsat;0.03; unsat;0.08; unsat;39.94; unsat;2.09; unsat;ERR;ERR;0.03; unsat;0.02; unsat
+../formulae/regex-smt-benchmarks/password/unsat/passw_very_complex_4_7_unsat.smt2;TO;TO;TO;TO;1.49; unsat;TO;TO;TO;TO;1.24; (error \\\"At line 15, near \\\"\\\") \\\"\\\"/\\\"\\\") (re\\\"\\\" :     Unrecoverable Syntax Error\\\");ERR;ERR;1.32; unsat;1.34; unsat
+../formulae/regex-smt-benchmarks/password/unsat/passw_minimal_unsat_neqversion.smt2;0.02; unsat;ERR;ERR;ERR;ERR;0.0; unsat;0.0; sat;2.12; sat;0.02; unknown;0.01; unsat;0.02; unsat
+../formulae/regex-smt-benchmarks/password/unsat/passw_unsat2.smt2;0.02; unsat;0.01; unsat;0.02; unsat;0.0; unsat;0.01; unsat;2.01; unsat;ERR;ERR;0.01; unsat;0.02; unsat
+../formulae/regex-smt-benchmarks/password/unsat/passw_minimal_unsat.smt2;0.02; unsat;0.01; unsat;0.02; unsat;0.0; unsat;0.0; unsat;2.11; unsat;ERR;ERR;0.02; unsat;0.02; unsat
+../formulae/regex-smt-benchmarks/password/sat/passw_very_complex_8_12_sat.smt2;TO;TO;2.14; sat;8.25; sat;TO;TO;TO;TO;1.22; (error \\\"At line 15, near \\\"\\\") \\\"\\\"/\\\"\\\") (re\\\"\\\" :     Unrecoverable Syntax Error\\\");ERR;ERR;7.97; sat;7.7; sat
+../formulae/regex-smt-benchmarks/password/sat/passw_sat2.smt2;0.03; sat;0.42; sat;0.03; sat;0.02; sat;0.14; sat;2.06; sat;ERR;ERR;0.02; sat;0.02; sat
+../formulae/regex-smt-benchmarks/password/sat/passw_complex_9_10_sat.smt2;56.31; sat;1.65; sat;1.11; sat;TO;TO;TO;TO;1.24; (error \\\"At line 15, near \\\"\\\") \\\"\\\"/\\\"\\\") (re\\\"\\\" :     Unrecoverable Syntax Error\\\");ERR;ERR;0.99; sat;1.03; sat
+../formulae/regex-smt-benchmarks/password/sat/passw_complex_5_10_sat.smt2;16.19; sat;1.36; sat;1.35; sat;TO;TO;TO;TO;1.24; (error \\\"At line 15, near \\\"\\\") \\\"\\\"/\\\"\\\") (re\\\"\\\" :     Unrecoverable Syntax Error\\\");ERR;ERR;1.26; sat;1.23; sat
+../formulae/regex-smt-benchmarks/password/sat/passw_minimal_sat.smt2;0.02; sat;ERR;ERR;0.02; unknown;0.01; sat;0.0; sat;2.18; sat;0.03; sat;0.01; sat;0.02; sat
+../formulae/regex-smt-benchmarks/password/sat/passw_very_complex_10_12_sat.smt2;TO;TO;2.01; sat;6.96; sat;TO;TO;TO;TO;1.27; (error \\\"At line 15, near \\\"\\\") \\\"\\\"/\\\"\\\") (re\\\"\\\" :     Unrecoverable Syntax Error\\\");ERR;ERR;6.8; sat;6.7; sat
+../formulae/regex-smt-benchmarks/password/sat/passw_very_complex_12_12_sat.smt2;TO;TO;2.22; sat;6.85; sat;TO;TO;TO;TO;1.26; (error \\\"At line 15, near \\\"\\\") \\\"\\\"/\\\"\\\") (re\\\"\\\" :     Unrecoverable Syntax Error\\\");ERR;ERR;6.57; sat;6.45; sat
+../formulae/regex-smt-benchmarks/password/sat/passw_sat3.smt2;0.25; sat;0.15; sat;0.21; sat;0.28; sat;TO;TO;2.5; sat;ERR;ERR;0.19; sat;0.2; sat
+../formulae/regex-smt-benchmarks/password/sat/passw_very_complex_11_12_sat.smt2;TO;TO;2.12; sat;6.71; sat;TO;TO;TO;TO;1.22; (error \\\"At line 15, near \\\"\\\") \\\"\\\"/\\\"\\\") (re\\\"\\\" :     Unrecoverable Syntax Error\\\");ERR;ERR;6.41; sat;6.47; sat
+../formulae/regex-smt-benchmarks/password/sat/passw_eq_sat1.smt2;0.41; sat;ERR;ERR;0.02; unknown;0.16; sat;0.0; sat;2.11; sat;0.04; sat;0.04; sat;0.04; sat
+../formulae/regex-smt-benchmarks/password/sat/passw_complex_4_10_sat.smt2;0.64; sat;1.26; sat;1.47; sat;0.44; sat;TO;TO;1.24; (error \\\"At line 15, near \\\"\\\") \\\"\\\"/\\\"\\\") (re\\\"\\\" :     Unrecoverable Syntax Error\\\");ERR;ERR;1.33; sat;1.33; sat
+../formulae/regex-smt-benchmarks/password/sat/passw_sat4.smt2;0.11; sat;0.12; sat;0.07; sat;0.1; sat;9.03; sat;2.24; sat;ERR;ERR;0.06; sat;0.07; sat
+../formulae/regex-smt-benchmarks/password/sat/passw_sat1.smt2;0.04; sat;0.46; sat;0.03; sat;0.02; sat;0.04; sat;2.06; sat;ERR;ERR;0.02; sat;0.02; sat
+../formulae/regex-smt-benchmarks/password/sat/passw_complex_6_10_sat.smt2;34.8; sat;1.44; sat;1.24; sat;TO;TO;TO;TO;1.24; (error \\\"At line 15, near \\\"\\\") \\\"\\\"/\\\"\\\") (re\\\"\\\" :     Unrecoverable Syntax Error\\\");ERR;ERR;1.15; sat;1.17; sat
+../formulae/regex-smt-benchmarks/password/sat/passw_complex_8_10_sat.smt2;36.65; sat;1.55; sat;1.1; sat;TO;TO;TO;TO;1.21; (error \\\"At line 15, near \\\"\\\") \\\"\\\"/\\\"\\\") (re\\\"\\\" :     Unrecoverable Syntax Error\\\");ERR;ERR;1.03; sat;1.04; sat
+../formulae/regex-smt-benchmarks/password/sat/passw_very_complex_9_12_sat.smt2;TO;TO;1.71; sat;7.64; sat;TO;TO;TO;TO;1.26; (error \\\"At line 15, near \\\"\\\") \\\"\\\"/\\\"\\\") (re\\\"\\\" :     Unrecoverable Syntax Error\\\");ERR;ERR;7.09; sat;7.15; sat
+../formulae/regex-smt-benchmarks/password/sat/passw_eq_sat2.smt2;0.01; sat;ERR;ERR;0.02; unknown;0.01; sat;0.01; sat;2.1; sat;0.03; sat;0.02; sat;0.02; sat
+../formulae/regex-smt-benchmarks/password/sat/passw_complex_7_10_sat.smt2;37.13; sat;1.57; sat;1.21; sat;TO;TO;TO;TO;1.26; (error \\\"At line 15, near \\\"\\\") \\\"\\\"/\\\"\\\") (re\\\"\\\" :     Unrecoverable Syntax Error\\\");ERR;ERR;1.06; sat;1.06; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/unsat/notsubset_3_3.smt2;TO;TO;TO;TO;0.04; unsat;1.01; unknown;0.0; unknown;2.87; unsat;116.34; unsat;0.03; unsat;0.03; unsat
+../formulae/regex-smt-benchmarks/regexlib_subset/unsat/notsubset_8_8.smt2;TO;TO;TO;TO;21.08; unsat;1.01; unknown;0.0; unknown;19.07; unsat;TO;TO;13.75; unsat;13.89; unsat
+../formulae/regex-smt-benchmarks/regexlib_subset/unsat/notsubset_6_6.smt2;TO;TO;TO;TO;56.15; unsat;1.02; unknown;0.0; unknown;7.25; unsat;ERR;ERR;48.6; unsat;48.86; unsat
+../formulae/regex-smt-benchmarks/regexlib_subset/unsat/notsubset_2_2.smt2;0.53; unsat;TO;TO;0.02; unsat;0.01; unknown;0.0; unknown;2.63; unsat;6.29; unsat;0.03; unsat;0.02; unsat
+../formulae/regex-smt-benchmarks/regexlib_subset/unsat/notsubset_5_5.smt2;TO;TO;TO;TO;0.02; unsat;1.01; unknown;0.01; unknown;2.66; unsat;7.62; unsat;0.02; unsat;0.03; unsat
+../formulae/regex-smt-benchmarks/regexlib_subset/unsat/notsubset_4_4.smt2;TO;TO;TO;TO;0.09; unsat;1.0; unknown;0.0; unknown;3.31; unsat;ERR;ERR;0.08; unsat;0.09; unsat
+../formulae/regex-smt-benchmarks/regexlib_subset/unsat/notsubset_1_1.smt2;TO;TO;TO;TO;0.03; unsat;1.01; unknown;0.0; unknown;2.7; unsat;3.17; unsat;0.02; unsat;0.03; unsat
+../formulae/regex-smt-benchmarks/regexlib_subset/unsat/notsubset_7_7.smt2;TO;TO;TO;TO;20.6; unsat;1.02; unknown;0.0; unknown;7.95; unsat;ERR;ERR;17.33; unsat;17.47; unsat
+../formulae/regex-smt-benchmarks/regexlib_subset/unsat/notsubset_9_9.smt2;TO;TO;TO;TO;0.58; unsat;1.01; unknown;0.0; unknown;8.27; unsat;ERR;ERR;0.42; unsat;0.42; unsat
+../formulae/regex-smt-benchmarks/regexlib_subset/unsat/notsubset_0_0.smt2;TO;TO;TO;TO;0.57; unsat;1.01; unknown;0.01; unknown;4.97; unsat;ERR;ERR;0.5; unsat;0.45; unsat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_4_9.smt2;0.13; sat;0.06; sat;0.38; sat;1.01; unknown;0.01; unknown;7.19; sat;ERR;ERR;0.3; sat;0.3; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_7_3.smt2;0.19; sat;0.26; sat;8.32; sat;1.02; unknown;0.01; unknown;4.65; sat;ERR;ERR;6.8; sat;6.9; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_4_2.smt2;0.14; sat;0.05; sat;0.07; sat;1.0; unknown;0.0; unknown;3.32; sat;ERR;ERR;0.06; sat;0.07; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_5_3.smt2;0.04; sat;0.04; sat;0.04; sat;1.02; unknown;0.0; unknown;3.09; sat;82.45; sat;0.03; sat;0.03; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_3_0.smt2;0.21; sat;0.17; sat;0.4; sat;1.01; unknown;0.01; unknown;4.54; sat;ERR;ERR;0.29; sat;0.29; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_5_8.smt2;0.02; sat;0.18; sat;12.34; sat;1.01; unknown;0.01; unknown;4.12; sat;TO;TO;5.04; sat;5.04; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_8_4.smt2;0.22; sat;TO;TO;2.48; sat;1.0; unknown;0.0; unknown;6.29; sat;ERR;ERR;2.41; sat;2.39; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_2_7.smt2;0.02; sat;0.07; sat;9.56; sat;1.01; unknown;0.0; unknown;4.16; sat;ERR;ERR;7.41; sat;7.35; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_2_9.smt2;0.02; sat;0.01; sat;0.33; sat;1.0; unknown;0.01; unknown;4.27; sat;ERR;ERR;0.24; sat;0.24; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_7_8.smt2;0.63; sat;TO;TO;21.79; sat;1.02; unknown;0.01; unknown;7.34; sat;TO;TO;13.2; sat;13.38; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_6_8.smt2;0.26; sat;0.74; sat;32.26; sat;1.0; unknown;0.01; unknown;5.97; sat;TO;TO;24.07; sat;23.93; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_7_9.smt2;1.86; sat;TO;TO;10.74; sat;1.01; unknown;0.01; unknown;19.68; sat;ERR;ERR;9.73; sat;9.66; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_7_5.smt2;0.59; sat;0.26; sat;7.27; sat;1.01; unknown;0.01; unknown;4.77; sat;ERR;ERR;6.6; sat;6.67; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_1_2.smt2;0.01; sat;0.05; sat;0.03; sat;1.01; unknown;0.01; unknown;3.32; sat;ERR;ERR;0.03; sat;0.02; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_0_5.smt2;0.2; sat;0.1; sat;0.32; sat;1.0; unknown;0.01; unknown;4.28; sat;2.65; unsat;0.29; sat;0.28; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_3_7.smt2;0.29; sat;0.2; sat;9.72; sat;1.0; unknown;0.0; unknown;6.74; sat;ERR;ERR;7.3; sat;7.45; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_5_4.smt2;0.04; sat;0.06; sat;0.07; sat;1.0; unknown;0.0; unknown;3.41; sat;ERR;ERR;0.05; sat;0.06; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_9_6.smt2;0.27; sat;0.4; sat;26.1; sat;1.01; unknown;0.0; unknown;17.21; sat;ERR;ERR;19.85; sat;19.84; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_0_9.smt2;4.14; sat;TO;TO;0.64; sat;1.0; unknown;0.01; unknown;7.85; sat;ERR;ERR;0.53; sat;0.56; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_5_1.smt2;0.03; sat;1.33; sat;0.04; sat;1.01; unknown;0.0; unknown;2.87; sat;ERR;ERR;0.02; sat;0.02; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_9_1.smt2;0.2; sat;0.1; sat;0.28; sat;1.01; unknown;0.01; unknown;3.91; sat;ERR;ERR;0.21; sat;0.23; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_8_5.smt2;0.08; sat;0.22; sat;2.55; sat;1.01; unknown;0.0; unknown;3.89; sat;TO;TO;2.37; sat;2.3; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_4_7.smt2;0.12; sat;0.13; sat;9.94; sat;1.01; unknown;0.01; unknown;7.46; sat;ERR;ERR;7.48; sat;7.52; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_6_2.smt2;0.28; sat;0.65; sat;20.16; sat;1.02; unknown;0.01; unknown;4.5; sat;ERR;ERR;17.37; sat;17.59; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_4_0.smt2;0.15; sat;0.06; sat;0.56; sat;1.01; unknown;0.01; unknown;5.14; sat;ERR;ERR;0.33; sat;0.34; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_1_6.smt2;0.03; sat;0.45; sat;23.56; sat;1.03; unknown;0.0; unknown;4.32; sat;ERR;ERR;19.18; sat;19.21; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_8_9.smt2;0.25; sat;0.29; sat;2.97; sat;1.02; unknown;0.0; unknown;12.54; sat;ERR;ERR;2.68; sat;2.82; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_7_6.smt2;1.6; sat;TO;TO;69.29; sat;1.01; unknown;0.01; unknown;51.6; sat;ERR;ERR;59.65; sat;59.67; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_2_5.smt2;0.03; sat;0.01; sat;0.03; sat;1.0; unknown;0.0; unknown;2.61; sat;15.41; unsat;0.03; sat;0.02; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_1_7.smt2;0.03; sat;0.2; sat;9.9; sat;1.0; unknown;0.01; unknown;3.76; sat;ERR;ERR;7.36; sat;7.37; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_9_0.smt2;0.49; sat;TO;TO;0.57; sat;1.0; unknown;0.01; unknown;6.53; sat;ERR;ERR;0.5; sat;0.48; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_9_5.smt2;0.21; sat;0.1; sat;0.25; sat;1.01; unknown;0.01; unknown;3.6; sat;ERR;ERR;0.23; sat;0.22; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_2_3.smt2;0.02; sat;0.0; sat;0.04; sat;1.01; unknown;0.0; unknown;2.68; sat;TO;TO;0.02; sat;0.03; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_3_2.smt2;0.07; sat;0.06; sat;0.06; sat;1.01; unknown;0.01; unknown;2.99; sat;14.21; sat;0.04; sat;0.03; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_7_4.smt2;2.18; sat;TO;TO;8.02; sat;1.01; unknown;0.0; unknown;6.95; sat;ERR;ERR;7.13; sat;7.13; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_0_1.smt2;0.21; sat;0.09; sat;0.3; sat;1.02; unknown;0.01; unknown;3.87; sat;2.28; unsat;0.29; sat;0.29; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_2_0.smt2;0.02; sat;0.01; sat;0.34; sat;1.02; unknown;0.0; unknown;3.92; sat;ERR;ERR;0.28; sat;0.28; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_2_4.smt2;0.01; sat;0.02; sat;0.09; sat;1.01; unknown;0.0; unknown;3.06; sat;ERR;ERR;0.07; sat;0.06; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_3_4.smt2;0.37; sat;0.1; sat;0.08; sat;1.01; unknown;0.0; unknown;3.29; sat;ERR;ERR;0.07; sat;0.07; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_1_3.smt2;0.04; sat;0.06; sat;0.04; sat;1.0; unknown;0.01; unknown;2.74; sat;ERR;ERR;0.03; sat;0.03; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_4_5.smt2;0.13; sat;0.06; sat;0.07; sat;1.01; unknown;0.0; unknown;2.9; sat;ERR;ERR;0.09; sat;0.06; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_3_5.smt2;0.13; sat;0.06; sat;0.04; sat;1.0; unknown;0.0; unknown;2.8; sat;45.06; sat;0.03; sat;0.03; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_1_8.smt2;0.03; sat;0.2; sat;12.21; sat;1.02; unknown;0.0; unknown;3.73; sat;TO;TO;5.03; sat;5.02; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_1_9.smt2;0.04; sat;0.12; sat;0.35; sat;1.02; unknown;0.0; unknown;3.75; sat;ERR;ERR;0.24; sat;0.24; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_6_9.smt2;0.37; sat;0.67; sat;23.11; sat;1.0; unknown;0.01; unknown;14.66; sat;ERR;ERR;20.47; sat;20.53; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_8_1.smt2;0.08; sat;0.22; sat;2.74; sat;1.01; unknown;0.01; unknown;3.96; sat;TO;TO;2.34; sat;2.33; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_4_6.smt2;0.16; sat;0.35; sat;24.1; sat;1.01; unknown;0.01; unknown;8.17; sat;ERR;ERR;19.15; sat;19.43; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_7_1.smt2;0.61; sat;0.26; sat;7.16; sat;1.01; unknown;0.0; unknown;4.24; sat;ERR;ERR;6.67; sat;6.67; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_2_8.smt2;0.02; sat;0.05; sat;11.93; sat;1.0; unknown;0.01; unknown;3.73; sat;TO;TO;5.03; sat;5.01; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_6_4.smt2;0.25; sat;5.03; sat;21.13; sat;1.01; unknown;0.0; unknown;6.44; sat;ERR;ERR;17.72; sat;17.93; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_6_1.smt2;0.31; sat;0.63; sat;19.02; sat;1.02; unknown;0.01; unknown;4.23; sat;ERR;ERR;17.26; sat;17.59; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_8_2.smt2;0.1; sat;0.22; sat;2.77; sat;1.0; unknown;0.01; unknown;3.83; sat;TO;TO;2.26; sat;2.34; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_6_7.smt2;0.35; sat;0.73; sat;44.98; sat;1.01; unknown;0.01; unknown;46.97; sat;ERR;ERR;39.89; sat;40.14; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_3_6.smt2;0.46; sat;0.4; sat;23.36; sat;1.01; unknown;0.01; unknown;7.58; sat;ERR;ERR;19.22; sat;19.2; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_2_1.smt2;0.02; sat;0.01; sat;0.03; sat;0.99; unknown;0.0; unknown;2.69; sat;ERR;ERR;0.02; sat;0.03; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_5_0.smt2;0.03; sat;0.08; sat;0.31; sat;0.98; unknown;0.0; unknown;4.05; sat;ERR;ERR;0.28; sat;0.27; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_6_0.smt2;0.24; sat;0.64; sat;20.27; sat;1.01; unknown;0.0; unknown;9.3; sat;ERR;ERR;19.13; sat;19.62; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_3_1.smt2;0.1; sat;0.06; sat;0.04; sat;1.0; unknown;0.0; unknown;2.94; sat;ERR;ERR;0.03; sat;0.04; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_6_5.smt2;0.35; sat;0.64; sat;18.26; sat;1.02; unknown;0.01; unknown;4.39; sat;ERR;ERR;17.24; sat;17.36; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_4_1.smt2;0.14; sat;0.06; sat;0.07; sat;1.0; unknown;0.01; unknown;3.14; sat;ERR;ERR;0.06; sat;0.06; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_3_8.smt2;0.28; sat;0.16; sat;12.07; sat;1.01; unknown;0.0; unknown;4.53; sat;TO;TO;5.03; sat;5.01; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_9_4.smt2;0.54; sat;TO;TO;0.32; sat;1.01; unknown;0.01; unknown;4.69; sat;ERR;ERR;0.26; sat;0.26; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_5_6.smt2;0.05; sat;0.42; sat;24.59; sat;1.0; unknown;0.0; unknown;4.62; sat;ERR;ERR;18.95; sat;19.27; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_1_0.smt2;0.04; sat;0.14; sat;0.33; sat;1.02; unknown;0.01; unknown;3.95; sat;ERR;ERR;0.29; sat;0.27; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_6_3.smt2;0.37; sat;0.65; sat;19.45; sat;1.01; unknown;0.0; unknown;5.28; sat;ERR;ERR;17.82; sat;17.61; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_1_5.smt2;0.03; sat;0.2; sat;0.03; sat;1.0; unknown;0.0; unknown;2.75; sat;ERR;ERR;0.02; sat;0.02; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_0_2.smt2;0.2; sat;0.1; sat;0.3; sat;1.01; unknown;0.0; unknown;3.98; sat;4.83; unsat;0.27; sat;0.28; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_0_4.smt2;1.29; sat;TO;TO;0.37; sat;1.02; unknown;0.01; unknown;4.36; sat;ERR;ERR;0.3; sat;0.32; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_0_6.smt2;0.18; sat;0.4; sat;23.91; sat;1.01; unknown;0.01; unknown;11.05; sat;ERR;ERR;19.53; sat;19.64; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_2_6.smt2;0.03; sat;0.25; sat;23.06; sat;1.0; unknown;0.01; unknown;4.06; sat;ERR;ERR;19.04; sat;19.08; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_5_7.smt2;0.03; sat;0.16; sat;9.07; sat;1.0; unknown;0.0; unknown;3.83; sat;ERR;ERR;7.37; sat;7.38; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_9_2.smt2;0.18; sat;0.1; sat;0.29; sat;1.01; unknown;0.0; unknown;3.61; sat;ERR;ERR;0.21; sat;0.23; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_9_7.smt2;0.23; sat;0.17; sat;9.76; sat;1.02; unknown;0.01; unknown;12.27; sat;ERR;ERR;7.77; sat;7.75; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_0_3.smt2;0.2; sat;0.09; sat;0.34; sat;1.01; unknown;0.0; unknown;3.84; sat;2.37; unsat;0.27; sat;0.28; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_7_2.smt2;0.78; sat;0.26; sat;7.31; sat;1.01; unknown;0.0; unknown;3.92; sat;ERR;ERR;6.69; sat;6.65; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_4_8.smt2;0.13; sat;0.17; sat;11.77; sat;1.0; unknown;0.01; unknown;5.37; sat;TO;TO;5.1; sat;5.13; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_1_4.smt2;0.04; sat;0.09; sat;0.11; sat;1.02; unknown;0.0; unknown;3.07; sat;ERR;ERR;0.05; sat;0.07; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_5_2.smt2;0.02; sat;0.05; sat;0.04; sat;1.02; unknown;0.01; unknown;2.83; sat;4.43; unsat;0.02; sat;0.02; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_8_3.smt2;0.16; sat;0.22; sat;2.44; sat;1.01; unknown;0.01; unknown;4.42; sat;TO;TO;2.37; sat;2.3; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_3_9.smt2;0.24; sat;0.16; sat;0.3; sat;1.0; unknown;0.0; unknown;4.53; sat;ERR;ERR;0.25; sat;0.26; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_7_0.smt2;2.28; sat;TO;TO;8.76; sat;1.02; unknown;0.0; unknown;13.42; sat;ERR;ERR;7.79; sat;7.89; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_8_6.smt2;0.33; sat;TO;TO;27.67; sat;1.01; unknown;0.0; unknown;11.93; sat;ERR;ERR;22.58; sat;22.49; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_0_8.smt2;0.16; sat;0.19; sat;12.18; sat;1.0; unknown;0.01; unknown;5.37; sat;2.83; unsat;5.26; sat;5.27; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_4_3.smt2;0.34; sat;0.06; sat;0.09; sat;1.02; unknown;0.01; unknown;3.17; sat;ERR;ERR;0.07; sat;0.07; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_9_3.smt2;0.22; sat;0.09; sat;0.28; sat;1.03; unknown;0.0; unknown;3.68; sat;ERR;ERR;0.24; sat;0.24; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_9_8.smt2;0.21; sat;0.2; sat;12.61; sat;1.01; unknown;0.0; unknown;9.07; sat;TO;TO;5.52; sat;5.53; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_5_9.smt2;0.04; sat;0.07; sat;0.28; sat;1.01; unknown;0.01; unknown;4.11; sat;ERR;ERR;0.24; sat;0.24; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_8_7.smt2;0.19; sat;0.34; sat;12.75; sat;1.02; unknown;0.01; unknown;10.98; sat;ERR;ERR;10.68; sat;10.89; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_0_7.smt2;0.2; sat;0.18; sat;9.64; sat;1.01; unknown;0.01; unknown;7.85; sat;ERR;ERR;7.72; sat;7.71; sat
+../formulae/regex-smt-benchmarks/regexlib_subset/sat/notsubset_8_0.smt2;0.25; sat;0.31; sat;2.84; sat;1.01; unknown;0.0; unknown;7.1; sat;ERR;ERR;2.65; sat;2.69; sat
+../formulae/regex-smt-benchmarks/det_blowup/unsat/digit05_unsat.smt2;0.05; unsat;0.05; unsat;0.02; unsat;0.04; unsat;0.07; unsat;1.38; (error \\\"At line 9, near \\\"\\\") \\\"\\\"/\\\"\\\") (re\\\"\\\" :     Unrecoverable Syntax Error\\\");ERR;ERR;0.03; unsat;0.02; unsat
+../formulae/regex-smt-benchmarks/det_blowup/unsat/digit15_unsat.smt2;1.08; unsat;0.61; unsat;0.07; unsat;1.54; unsat;0.46; unsat;1.4; (error \\\"At line 9, near \\\"\\\") \\\"\\\"/\\\"\\\") (re\\\"\\\" :     Unrecoverable Syntax Error\\\");ERR;ERR;0.05; unsat;0.05; unsat
+../formulae/regex-smt-benchmarks/det_blowup/unsat/det_blowup_unsat_10.smt2;0.07; unsat;0.03; unsat;0.02; unsat;0.25; unsat;0.18; unsat;2.3; unsat;ERR;ERR;0.02; unsat;0.01; unsat
+../formulae/regex-smt-benchmarks/det_blowup/unsat/det_blowup_unsat_1.smt2;0.02; unsat;0.01; unsat;0.02; unsat;0.01; unsat;0.01; unsat;2.34; unsat;ERR;ERR;0.01; unsat;0.01; unsat
+../formulae/regex-smt-benchmarks/det_blowup/unsat/det_blowup_unsat_100.smt2;15.12; unsat;TO;TO;0.12; unsat;19.73; unsat;15.83; unsat;2.59; unsat;ERR;ERR;0.11; unsat;0.11; unsat
+../formulae/regex-smt-benchmarks/det_blowup/unsat/digit20_unsat.smt2;5.17; unsat;14.47; unsat;0.1; unsat;1.94; unsat;0.78; unsat;1.45; (error \\\"At line 9, near \\\"\\\") \\\"\\\"/\\\"\\\") (re\\\"\\\" :     Unrecoverable Syntax Error\\\");ERR;ERR;0.07; unsat;0.09; unsat
+../formulae/regex-smt-benchmarks/det_blowup/unsat/det_blowup_unsat_5.smt2;0.02; unsat;0.01; unsat;0.01; unsat;0.02; unsat;0.05; unsat;2.35; unsat;ERR;ERR;0.02; unsat;0.01; unsat
+../formulae/regex-smt-benchmarks/det_blowup/unsat/digit10_unsat.smt2;0.27; unsat;0.08; unsat;0.03; unsat;0.27; unsat;0.22; unsat;1.39; (error \\\"At line 9, near \\\"\\\") \\\"\\\"/\\\"\\\") (re\\\"\\\" :     Unrecoverable Syntax Error\\\");ERR;ERR;0.03; unsat;0.04; unsat
+../formulae/regex-smt-benchmarks/det_blowup/unsat/det_blowup_unsat_3.smt2;0.03; unsat;0.01; unsat;0.01; unsat;0.01; unsat;0.02; unsat;2.3; unsat;ERR;ERR;0.02; unsat;0.02; unsat
+../formulae/regex-smt-benchmarks/det_blowup/sat/det_blowup_sat_10.smt2;0.04; sat;0.01; sat;0.03; sat;0.04; sat;0.01; sat;2.36; sat;ERR;ERR;0.02; sat;0.01; sat
+../formulae/regex-smt-benchmarks/det_blowup/sat/det_blowup_sat_100.smt2;9.28; sat;0.09; sat;0.07; sat;1.03; sat;0.02; sat;2.51; sat;ERR;ERR;0.06; sat;0.06; sat
+../formulae/regex-smt-benchmarks/det_blowup/sat/det_blowup_sat_5.smt2;0.02; sat;0.01; sat;0.0; sat;0.02; sat;0.0; sat;2.49; sat;ERR;ERR;0.02; sat;0.01; sat
+../formulae/regex-smt-benchmarks/det_blowup/sat/det_blowup_sat_3.smt2;0.03; sat;0.01; sat;0.01; sat;0.01; sat;0.0; sat;2.44; sat;ERR;ERR;0.02; sat;0.02; sat
+../formulae/regex-smt-benchmarks/det_blowup/sat/det_blowup_sat_1000.smt2;TO;TO;1.02; sat;5.03; sat;3.07; sat;1.55; sat;2.78; sat;ERR;ERR;4.38; sat;4.44; sat
