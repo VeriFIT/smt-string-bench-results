@@ -1,22 +1,25 @@
-HOST="debian@pc012170.fit.vutbr.cz"
-FILE_PATH_ON_HOST="smt-bench/bench"
+#!/bin/zsh
+
+# Fill these out
+HOST=
+PORT=
+FILE_PATH_ON_HOST=
 
 file_name=$1
 benchmark_name=${file_name%%-*}
 path_to_file=$benchmark_name/$file_name
 
-if ssh -p 6060 $HOST "test -e $FILE_PATH_ON_HOST/$file_name"; then
-	port_num="6060"
+if ssh -p $PORT $HOST "test -e $FILE_PATH_ON_HOST/$file_name"; then
+	scp -P $PORT $HOST:$FILE_PATH_ON_HOST/$file_name $path_to_file
 else
-	port_num="6068"
+	echo "File not found on any server"
+	exit 1
 fi
-
-scp -P $port_num $HOST:$FILE_PATH_ON_HOST/$file_name $path_to_file
 
 git_message=""
 
 if [[ $path_to_file == *"z3-noodler"* ]]; then
-	GIT_COMMIT=$(ggrep -m 1 -Po '.{7}(?=-result)' $path_to_file)
+	GIT_COMMIT=$(ggrep -m 1 -Po '.{15}(?=-result)' $path_to_file)
 	sed -i '' "s/$GIT_COMMIT-result/result/g" $path_to_file
 	sed -i '' "s/z3-noodler/z3-noodler-$GIT_COMMIT/g" $path_to_file
 	if [[ $path_to_file == *"z3-noodler-underapprox"* ]]; then
