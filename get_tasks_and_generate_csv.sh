@@ -24,6 +24,8 @@ if [[ $path_to_file == *"z3-noodler"* ]]; then
 	sed -i '' "s/z3-noodler/z3-noodler-$GIT_COMMIT/g" $path_to_file
 	if [[ $path_to_file == *"z3-noodler-underapprox"* ]]; then
 		git_message="z3-noodler-underapprox-$GIT_COMMIT on $benchmark_name"
+	else if [[ $path_to_file == *"z3-noodler-loop"* ]]; then
+		git_message="z3-noodler-loop-$GIT_COMMIT on $benchmark_name"
 	else
 		git_message="z3-noodler-$GIT_COMMIT on $benchmark_name"
 	fi
