@@ -1,9 +1,9 @@
 #!/bin/zsh
 
 # Fill these out
-HOST=
-PORT=
-FILE_PATH_ON_HOST=
+HOST=""
+PORT=""
+FILE_PATH_ON_HOST=""
 
 file_name=$1
 benchmark_name=${file_name%%-*}
@@ -23,9 +23,11 @@ if [[ $path_to_file == *"z3-noodler"* ]]; then
 	sed -i '' "s/$GIT_COMMIT-result/result/g" $path_to_file
 	sed -i '' "s/z3-noodler/z3-noodler-$GIT_COMMIT/g" $path_to_file
 	if [[ $path_to_file == *"z3-noodler-underapprox"* ]]; then
-		git_message="z3-noodler-underapprox-$GIT_COMMIT on $benchmark_name"
+		git_message="z3-noodler-$GIT_COMMIT-underapprox on $benchmark_name"
 	elif [[ $path_to_file == *"z3-noodler-loop"* ]]; then
-		git_message="z3-noodler-loop-$GIT_COMMIT on $benchmark_name"
+		git_message="z3-noodler-$GIT_COMMIT-loop on $benchmark_name"
+	elif [[ $path_to_file == *"z3-noodler-nielsen"* ]]; then
+		git_message="z3-noodler-$GIT_COMMIT-nielsen on $benchmark_name"
 	else
 		git_message="z3-noodler-$GIT_COMMIT on $benchmark_name"
 	fi
