@@ -11,7 +11,7 @@ FILE_PATH_ON_HOST=""
 # where date has the form "YYYY-MM-DD-hh-mm".
 extract_tool_name() {
     # tool name should start after "*-to120-"
-    local tool_name=${$1#*to120-}
+    local tool_name=${1#*to120-}
     # remove .tasks from the end
     tool_name=${tool_name%.tasks}
     # remove date (should be exactly 17 characters long)
