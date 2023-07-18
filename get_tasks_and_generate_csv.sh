@@ -5,43 +5,63 @@ HOST=""
 PORT=""
 FILE_PATH_ON_HOST=""
 
-file_name=$1
-benchmark_name=${file_name%%-*}
-path_to_file=$benchmark_name/$file_name
+# Exctracts tool name from the first argument which is assumed
+# to be a file path of form
+#     benchmark_name-to120-tool_name-date.tasks
+# where date has the form "YYYY-MM-DD-hh-mm".
+extract_tool_name() {
+    # tool name should start after "*-to120-"
+    local tool_name=${$1#*to120-}
+    # remove .tasks from the end
+    tool_name=${tool_name%.tasks}
+    # remove date (should be exactly 17 characters long)
+    tool_name=${tool_name:0:-17}
+    
+    echo "$tool_name"
+}
 
-if ssh -p $PORT $HOST "test -e $FILE_PATH_ON_HOST/$file_name"; then
-	scp -P $PORT $HOST:$FILE_PATH_ON_HOST/$file_name $path_to_file
-else
-	echo "File not found on any server"
-	exit 1
-fi
+# Extracts the tool version from the .tasks file given as an argument.
+# It assumes that the .tasks file contains at least one line
+# containing substring ";version-result".
+get_tool_version() {
+	local line_with_version=$(grep -m 1 "-result" "$1")
+	line_with_version=${line_with_version%-result*}
+	line_with_version=${line_with_version##*;}
+	echo ${line_with_version%;}
+}
 
-git_message=""
+# Takes .tasks file as an argument which is downloaded from
+# the server, processed, new .csv is created and git commited.
+process_tasks() {
+	local file_name=$1
+	local tool_name=$(extract_tool_name "$file_name")
+	local benchmark_name=${file_name%%-*}
+	local path_to_file=$benchmark_name/$file_name
 
-if [[ $path_to_file == *"z3-noodler"* ]]; then
-	GIT_COMMIT=$(ggrep -m 1 -Po '.{15}(?=-result)' $path_to_file)
-	sed -i '' "s/$GIT_COMMIT-result/result/g" $path_to_file
-	sed -i '' "s/z3-noodler/z3-noodler-$GIT_COMMIT/g" $path_to_file
-	if [[ $path_to_file == *"z3-noodler-underapprox"* ]]; then
-		git_message="z3-noodler-$GIT_COMMIT-underapprox on $benchmark_name"
-	elif [[ $path_to_file == *"z3-noodler-loop"* ]]; then
-		git_message="z3-noodler-$GIT_COMMIT-loop on $benchmark_name"
-	elif [[ $path_to_file == *"z3-noodler-nielsen"* ]]; then
-		git_message="z3-noodler-$GIT_COMMIT-nielsen on $benchmark_name"
+	if ssh -p $PORT $HOST "test -e $FILE_PATH_ON_HOST/$file_name"; then
+		scp -P $PORT $HOST:$FILE_PATH_ON_HOST/$file_name $path_to_file
 	else
-		git_message="z3-noodler-$GIT_COMMIT on $benchmark_name"
+		echo "File not found on any server"
+		exit 1
 	fi
-else
-	tools="${path_to_file#*to120-}"
-	tools="${tools%%-2023*}"
-	tools="${tools/z3-trau/z3 trau}"
-	tools="${tools//-/, }"
-	tools="${tools/z3 trau/z3-trau}"
-	git_message="$tools on $benchmark_name"
-fi
+
+	local git_message=""
+
+	if grep -q "-result" "$path_to_file"; then
+		local version=$(get_tool_version $path_to_file)
+		sed -i '' "s/$version-result/result/g" $path_to_file
+		sed -i '' "s/$tool_name/$tool_name-$version/g" $path_to_file
+		git_message="$tool_name-$version on $benchmark_name"
+	else
+		git_message="$tool_name on $benchmark_name"
+	fi
 
 
-# ls $benchmark_name/*.tasks | sed "s/-underapprox/underapprox/g" | sort -t- -k 5 | sed "s/underapprox/-underapprox/g" | xargs cat | python3 pyco_proc --csv > $benchmark_name/to120.csv
-ls $benchmark_name/*.tasks | sed "s/2023/@/g" | sort -t@ -k 2 | sed "s/@/2023/g" | xargs cat | python3 pyco_proc --csv > $benchmark_name/to120.csv
-git add $path_to_file $benchmark_name/to120.csv
-git commit -m "$git_message"
+	# Take all the .tasks files for the given benchmark, sort them by dates and give that to pyco_proc, so that newest benchmarks are always at the end of csv.
+	ls $benchmark_name/*.tasks | awk '{print substr($0, 1, length($0)-22) "@" substr($0, length($0)-21)}' | sort -t@ -k 2 | sed "s/@//g" | xargs cat | python3 pyco_proc --csv > $benchmark_name/to120.csv
+
+	git add $path_to_file $benchmark_name/to120.csv
+	git commit -m "$git_message"
+}
+
+process_tasks $1
