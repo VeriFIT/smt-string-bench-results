@@ -1,9 +1,12 @@
 #!/bin/zsh
 
 # Fill these out
-HOST=""
-PORT=""
-FILE_PATH_ON_HOST=""
+# HOST=""
+# PORT=""
+# FILE_PATH_ON_HOST=""
+HOST="strings@ju.fit.vutbr.cz"
+PORT="20022"
+FILE_PATH_ON_HOST="smt-bench/bench"
 
 # Exctracts tool name from the first argument which is assumed
 # to be a file path of form
@@ -50,7 +53,7 @@ process_tasks() {
 	if grep -q "-result" "$path_to_file"; then
 		local version=$(get_tool_version $path_to_file)
 		sed -i '' "s/$version-result/result/g" $path_to_file
-		sed -i '' "s/$tool_name/$tool_name-$version/g" $path_to_file
+		sed -i '' "s/$tool_name;/$tool_name-$version;/g" $path_to_file
 		git_message="$tool_name-$version on $benchmark_name"
 	else
 		git_message="$tool_name on $benchmark_name"
