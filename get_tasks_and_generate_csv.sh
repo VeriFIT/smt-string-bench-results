@@ -45,7 +45,7 @@ process_tasks() {
 
 	local git_message=""
 
-	local line_with_version=$(grep -m 1 "-result" "$path_to_file")
+	local line_with_version=$(grep -m 1 -- "-result" "$path_to_file")
 	if [ -z "$line_with_version" ]; then
 		git_message="$tool_name on $benchmark_name"
 	else
