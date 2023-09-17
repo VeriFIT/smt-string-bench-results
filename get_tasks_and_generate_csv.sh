@@ -1,12 +1,9 @@
 #!/bin/zsh
 
 # Fill these out
-# HOST=""
-# PORT=""
-# FILE_PATH_ON_HOST=""
-HOST="strings@ju.fit.vutbr.cz"
-PORT="20022"
-FILE_PATH_ON_HOST="smt-bench/bench"
+HOST=""
+PORT=""
+FILE_PATH_ON_HOST=""
 
 # Exctracts tool name from the first argument which is assumed
 # to be a file path of form
@@ -23,11 +20,9 @@ extract_tool_name() {
     echo "$tool_name"
 }
 
-# Extracts the tool version from the .tasks file given as an argument.
-# It assumes that the .tasks file contains at least one line
-# containing substring ";version-result".
+# Extracts the tool version from the line containing substring ";version-result".
 get_tool_version() {
-	local line_with_version=$(grep -m 1 "-result" "$1")
+	local line_with_version="$1"
 	line_with_version=${line_with_version%-result*}
 	line_with_version=${line_with_version##*;}
 	echo ${line_with_version%;}
@@ -50,13 +45,14 @@ process_tasks() {
 
 	local git_message=""
 
-	if grep -q "-result" "$path_to_file"; then
-		local version=$(get_tool_version $path_to_file)
+	local line_with_version=$(grep -m 1 "-result" "$path_to_file")
+	if [ -z "$line_with_version" ]; then
+		git_message="$tool_name on $benchmark_name"
+	else
+		local version=$(get_tool_version "$line_with_version")
 		sed -i '' "s/$version-result/result/g" $path_to_file
 		sed -i '' "s/$tool_name;/$tool_name-$version;/g" $path_to_file
 		git_message="$tool_name-$version on $benchmark_name"
-	else
-		git_message="$tool_name on $benchmark_name"
 	fi
 
 
