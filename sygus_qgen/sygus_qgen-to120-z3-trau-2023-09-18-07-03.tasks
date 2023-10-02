@@ -1,686 +1,686 @@
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query5197.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3444.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query10584.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query10642.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query10681.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query5512.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3487.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query8654.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3864.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query4860.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query9747.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3465.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query8045.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query10675.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3577.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3424.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query10634.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3189.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query6221.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query10663.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3449.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query6796.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3214.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query10680.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3111.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3516.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query5315.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query5196.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3767.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3423.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3950.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3356.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query10629.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3252.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3316.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query10669.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query5169.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query4685.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query4914.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query7904.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query5108.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query8917.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query4871.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query5519.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3336.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query10608.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query8468.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3231.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3323.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query4673.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3712.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3591.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query10611.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query8867.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query5582.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query10650.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query9276.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query7455.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query8962.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query5700.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3494.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query10112.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query10684.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query5281.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query5852.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query4255.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query6842.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query10295.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query10041.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3549.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3450.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3574.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3309.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query9155.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3221.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query4858.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3332.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query9416.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query9050.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query5423.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3723.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query6223.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3943.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query4443.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query10657.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query6203.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query10682.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query6917.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query5100.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query7145.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3556.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query4293.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query6754.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3151.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3444.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query9049.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query6979.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query6345.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query4114.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3239.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query8926.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query5400.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query4092.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3429.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3096.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query6914.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3350.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query7313.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query7493.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3203.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3468.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3487.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query5380.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3331.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query7958.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query5436.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3720.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query6109.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3188.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3864.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3167.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query4933.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query8855.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query4319.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3465.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query5948.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3520.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3873.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3577.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query4932.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3424.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3218.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query5289.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3473.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query4267.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3234.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3664.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3330.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query7723.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3367.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3255.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3310.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3469.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query9064.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3214.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query4617.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query5905.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3428.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query6780.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query6387.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3185.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query5753.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3392.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3238.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3111.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3541.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query8589.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3146.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3296.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query4416.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query8966.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3150.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3445.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query8486.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3225.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query4299.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3767.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3321.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query7698.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query8582.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3458.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query6932.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query8957.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3474.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3423.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3435.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query6637.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3570.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3462.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3177.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query5742.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3229.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query4446.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query7051.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query6569.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query8824.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3454.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query5216.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3116.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3546.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query8865.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3182.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query6380.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3478.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query7657.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query6768.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3205.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query9063.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3194.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query7704.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3253.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query5041.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query7990.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3711.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3438.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3479.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3547.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3793.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3269.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query5997.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query8649.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3455.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3156.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3506.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3463.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3434.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3208.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query5763.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query6620.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3137.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3475.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query7820.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3160.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query5098.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3459.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3336.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query5935.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3361.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3224.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query5222.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query6635.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query4258.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3358.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query7989.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3476.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query8955.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query4673.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3335.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3250.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3179.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3196.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3591.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query7481.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3568.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3246.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query4583.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query7985.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3495.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query9132.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query8867.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3401.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3456.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3143.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query5202.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3155.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query7116.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3694.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3102.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query8523.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query8348.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query8962.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query4107.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query4111.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query5491.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query6481.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3569.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query8149.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query8333.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3969.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query6842.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3314.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query5690.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query6136.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query5599.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query5433.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query6966.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query8094.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query6823.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query6462.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3549.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3532.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3359.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query8000.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query5848.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query4936.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query6008.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3318.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3201.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query5013.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query7487.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query8288.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3186.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3450.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3368.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3489.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3523.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3466.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3574.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3124.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3427.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query8512.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3165.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3470.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query4399.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3149.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3519.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3325.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query8343.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query7665.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query8601.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3558.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3671.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query4858.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3324.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3236.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query8303.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3308.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query8952.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3534.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query5819.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3164.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3471.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3133.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3563.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query4249.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query8856.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query7561.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3555.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3386.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query4443.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3369.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query2885.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3113.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3543.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3168.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query9070.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3304.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3241.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query5511.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3979.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query8335.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query3191.smt2
-execute;z3-trau-1.1;../formulae/sygus-qgen/queries/query9066.smt2
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query10584.smt2;0;result: sat;;0.32
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query10642.smt2;0;result: sat;;0.54
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3487.smt2;0;result: sat;;6.0
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query5512.smt2;0;result: sat;;7.18
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3444.smt2;0;result: sat;;7.63
-error;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3864.smt2;real 7.76###user 7.58###sys 0.06
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query10681.smt2;0;result: sat;;8.4
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query4860.smt2;0;result: sat;;7.92
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query10675.smt2;0;result: sat;;0.49
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query10634.smt2;0;result: sat;;0.36
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query5197.smt2;0;result: sat;;10.17
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query9747.smt2;0;result: sat;;5.49
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query10663.smt2;0;result: sat;;0.51
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3465.smt2;0;result: sat;;5.99
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3189.smt2;0;result: sat;;4.56
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3424.smt2;0;result: sat;;5.56
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query8045.smt2;0;result: sat;;6.7
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query10680.smt2;0;result: sat;;0.51
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query6221.smt2;0;result: sat;;6.13
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3577.smt2;0;result: sat;;8.35
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3516.smt2;0;result: sat;;2.85
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3111.smt2;0;result: sat;;5.27
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query5315.smt2;0;result: sat;;4.01
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query8654.smt2;0;result: sat;;20.71
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3214.smt2;0;result: sat;;10.44
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query6796.smt2;0;result: sat;;10.92
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3449.smt2;0;result: sat;;12.19
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query5196.smt2;0;result: sat;;7.5
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query10629.smt2;0;result: sat;;0.51
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query10669.smt2;0;result: sat;;0.36
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query5169.smt2;0;result: sat;;3.31
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query4685.smt2;0;result: sat;;3.35
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3316.smt2;0;result: sat;;6.07
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query4914.smt2;0;result: sat;;2.78
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3423.smt2;0;result: sat;;11.53
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3356.smt2;0;result: sat;;13.34
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query5108.smt2;0;result: sat;;3.87
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3950.smt2;0;result: sat;;13.85
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query10608.smt2;0;result: sat;;0.5
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query7904.smt2;0;result: sat;;8.93
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3252.smt2;0;result: sat;;13.01
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query8917.smt2;0;result: sat;;7.23
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3767.smt2;0;result: sat;;21.29
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query4871.smt2;0;result: sat;;8.49
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query4673.smt2;0;result: sat;;2.09
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3323.smt2;0;result: sat;;2.89
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3591.smt2;0;result: sat;;2.8
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3231.smt2;0;result: sat;;5.86
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query10650.smt2;0;result: sat;;2.84
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query10611.smt2;0;result: sat;;6.64
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query8468.smt2;0;result: sat;;11.96
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query8867.smt2;0;result: sat;;6.66
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3336.smt2;0;result: sat;;13.18
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query5582.smt2;0;result: sat;;5.88
-error;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query10112.smt2;real 2.03###user 1.87###sys 0.03
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query10684.smt2;0;result: sat;;0.51
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query9276.smt2;0;result: sat;;5.93
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query5281.smt2;0;result: sat;;1.73
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query7455.smt2;0;result: sat;;8.36
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3712.smt2;0;result: sat;;18.15
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3494.smt2;0;result: sat;;14.73
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query10041.smt2;0;result: sat;;2.49
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query6842.smt2;0;result: sat;;10.27
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query5852.smt2;0;result: sat;;14.61
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query5700.smt2;0;result: sat;;20.23
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3549.smt2;0;result: sat;;5.4
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3309.smt2;0;result: sat;;4.08
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query4255.smt2;0;result: sat;;19.24
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query10295.smt2;0;result: sat;;15.12
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3450.smt2;0;result: sat;;7.61
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query8962.smt2;0;result: sat;;26.83
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query4858.smt2;0;result: sat;;2.18
-error;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3332.smt2;real 3.82###user 3.64###sys 0.06
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3221.smt2;0;result: sat;;5.57
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query9155.smt2;0;result: sat;;7.14
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query9050.smt2;0;result: sat;;4.39
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query9416.smt2;0;result: sat;;6.69
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query10657.smt2;0;result: sat;;0.51
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3574.smt2;0;result: sat;;14.52
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query10682.smt2;0;result: sat;;3.28
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query6203.smt2;0;result: sat;;4.85
-error;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3723.smt2;real 9.53###user 9.36###sys 0.09
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query5423.smt2;0;result: sat;;13.81
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query7145.smt2;0;result: sat;;6.02
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query4443.smt2;0;result: sat;;13.81
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query5100.smt2;0;result: sat;;9.87
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3151.smt2;0;result: sat;;0.57
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query3943.smt2;0;result: sat;;19.65
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query4293.smt2;0;result: sat;;6.07
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query6754.smt2;0;result: sat;;5.63
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3556.smt2;0;result: sat;;9.86
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query5519.smt2;0;result: sat;;63.8
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query6917.smt2;0;result: sat;;14.57
-error;z3-trau-1.1;../formulae/sygus-qgen/queries/query3239.smt2;real 0.96###user 0.86###sys 0.03
-error;z3-trau-1.1;../formulae/sygus-qgen/queries/query4114.smt2;real 2.17###user 2.02###sys 0.03
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query9049.smt2;0;result: sat;;4.42
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3444.smt2;0;result: sat;;6.6
-error;z3-trau-1.1;../formulae/sygus-qgen/queries/query3429.smt2;real 0.85###user 0.71###sys 0.02
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query6979.smt2;0;result: sat;;5.09
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3350.smt2;0;result: sat;;0.45
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query5400.smt2;0;result: sat;;4.73
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query6914.smt2;0;result: sat;;1.37
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query6345.smt2;0;result: sat;;6.35
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query8926.smt2;0;result: sat;;6.04
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query4092.smt2;0;result: sat;;7.02
-error;z3-trau-1.1;../formulae/sygus-qgen/queries/query7493.smt2;real 7.95###user 7.75###sys 0.07
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3331.smt2;0;result: sat;;0.42
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query7313.smt2;0;result: sat;;8.95
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3487.smt2;0;result: sat;;8.12
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3096.smt2;0;result: sat;;12.94
-error;z3-trau-1.1;../formulae/sygus-qgen/queries/query3468.smt2;real 11.27###user 11.04###sys 0.12
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3188.smt2;0;result: sat;;0.49
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query6109.smt2;0;result: sat;;3.06
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3203.smt2;0;result: sat;;14.65
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query5380.smt2;0;result: sat;;14.3
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query7958.smt2;0;result: sat;;9.72
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3167.smt2;0;result: sat;;4.31
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3720.smt2;0;result: sat;;9.84
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query4933.smt2;0;result: sat;;6.46
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3465.smt2;0;result: sat;;3.46
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries-no-ree/query6223.smt2;0;result: sat;;49.94
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3864.smt2;0;result: sat;;11.32
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3577.smt2;0;result: sat;;0.97
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query4932.smt2;0;result: sat;;5.55
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3218.smt2;0;result: sat;;0.63
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query5948.smt2;0;result: sat;;10.97
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3424.smt2;0;result: sat;;6.18
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3520.smt2;0;result: sat;;9.37
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query5436.smt2;0;result: sat;;24.33
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query5289.smt2;0;result: sat;;5.4
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query8855.smt2;0;result: sat;;17.14
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query4319.smt2;0;result: sat;;17.3
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3330.smt2;0;result: sat;;0.88
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3367.smt2;0;result: sat;;0.4
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3255.smt2;0;result: sat;;0.18
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3473.smt2;0;result: sat;;6.08
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3469.smt2;0;result: sat;;0.71
-error;z3-trau-1.1;../formulae/sygus-qgen/queries/query9064.smt2;real 0.99###user 0.83###sys 0.05
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query4267.smt2;0;result: sat;;7.85
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3873.smt2;0;result: sat;;18.56
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3428.smt2;0;result: sat;;0.49
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3310.smt2;0;result: sat;;5.97
-error;z3-trau-1.1;../formulae/sygus-qgen/queries/query5905.smt2;real 7.85###user 7.64###sys 0.10
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3214.smt2;0;result: sat;;10.18
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query4617.smt2;0;result: sat;;11.15
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3392.smt2;0;result: sat;;0.48
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query6780.smt2;0;result: sat;;7.47
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query5753.smt2;0;result: sat;;3.42
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query6387.smt2;0;result: sat;;9.21
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3234.smt2;0;result: sat;;21.44
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3111.smt2;0;result: sat;;3.67
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3146.smt2;0;result: sat;;0.69
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3185.smt2;0;result: sat;;6.96
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query7723.smt2;0;result: sat;;18.13
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query4416.smt2;0;result: sat;;3.05
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3664.smt2;0;result: sat;;23.22
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3445.smt2;0;result: sat;;0.58
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3225.smt2;0;result: sat;;0.46
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3238.smt2;0;result: sat;;8.32
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query8966.smt2;0;result: sat;;4.68
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3321.smt2;0;result: sat;;0.37
-error;z3-trau-1.1;../formulae/sygus-qgen/queries/query3150.smt2;real 4.97###user 4.82###sys 0.04
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query8589.smt2;0;result: sat;;7.28
-error;z3-trau-1.1;../formulae/sygus-qgen/queries/query7698.smt2;real 1.13###user 0.98###sys 0.02
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3767.smt2;0;result: sat;;2.77
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query8582.smt2;0;result: sat;;2.65
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3296.smt2;0;result: sat;;9.36
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query8486.smt2;0;result: sat;;7.05
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3541.smt2;0;result: sat;;13.89
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3458.smt2;0;result: sat;;7.03
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3570.smt2;0;result: sat;;0.21
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3462.smt2;0;result: sat;;0.47
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3177.smt2;0;result: sat;;0.34
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3423.smt2;0;result: sat;;4.8
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query6637.smt2;0;result: sat;;3.36
-error;z3-trau-1.1;../formulae/sygus-qgen/queries/query3229.smt2;real 1.15###user 1.02###sys 0.02
-error;z3-trau-1.1;../formulae/sygus-qgen/queries/query6932.smt2;real 11.51###user 11.30###sys 0.11
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query8957.smt2;0;result: sat;;12.03
-error;z3-trau-1.1;../formulae/sygus-qgen/queries/query5742.smt2;real 5.83###user 5.66###sys 0.07
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3454.smt2;0;result: sat;;0.5
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3474.smt2;0;result: sat;;12.72
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query7051.smt2;0;result: sat;;6.33
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3116.smt2;0;result: sat;;1.83
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query4446.smt2;0;result: sat;;8.9
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3182.smt2;0;result: sat;;0.63
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query8824.smt2;0;result: sat;;6.9
-error;z3-trau-1.1;../formulae/sygus-qgen/queries/query3546.smt2;real 5.09###user 4.88###sys 0.09
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3435.smt2;0;result: sat;;18.63
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query6380.smt2;0;result: sat;;7.17
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3205.smt2;0;result: sat;;0.68
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3478.smt2;0;result: sat;;6.63
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3194.smt2;0;result: sat;;0.58
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query6569.smt2;0;result: sat;;16.08
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3253.smt2;0;result: sat;;0.13
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query8865.smt2;0;result: sat;;12.06
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query6768.smt2;0;result: sat;;5.85
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query7657.smt2;0;result: sat;;8.4
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query7990.smt2;0;result: sat;;2.85
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query5216.smt2;0;result: sat;;18.48
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query5041.smt2;0;result: sat;;4.87
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3711.smt2;0;result: sat;;4.75
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query4299.smt2;0;result: sat;;37.76
-error;z3-trau-1.1;../formulae/sygus-qgen/queries/query3479.smt2;real 7.05###user 6.86###sys 0.07
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3547.smt2;0;result: sat;;5.99
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3455.smt2;0;result: sat;;0.59
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3156.smt2;0;result: sat;;0.64
-error;z3-trau-1.1;../formulae/sygus-qgen/queries/query3506.smt2;real 0.89###user 0.75###sys 0.02
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query8649.smt2;0;result: sat;;2.27
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3463.smt2;0;result: sat;;0.65
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3269.smt2;0;result: sat;;10.41
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query7704.smt2;0;result: sat;;16.69
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3438.smt2;0;result: sat;;16.74
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3434.smt2;0;result: sat;;5.45
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3137.smt2;0;result: sat;;0.6
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query9063.smt2;0;result: sat;;20.39
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query5997.smt2;0;result: sat;;10.93
-error;z3-trau-1.1;../formulae/sygus-qgen/queries/query3475.smt2;real 0.60###user 0.45###sys 0.03
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3160.smt2;0;result: sat;;0.64
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3208.smt2;0;result: sat;;8.01
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3459.smt2;0;result: sat;;4.85
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query5098.smt2;0;result: sat;;5.0
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3793.smt2;0;result: sat;;19.09
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3361.smt2;0;result: sat;;0.62
-error;z3-trau-1.1;../formulae/sygus-qgen/queries/query3224.smt2;real 1.10###user 0.96###sys 0.01
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query5763.smt2;0;result: sat;;9.73
-error;z3-trau-1.1;../formulae/sygus-qgen/queries/query3336.smt2;real 6.64###user 6.46###sys 0.08
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query6620.smt2;0;result: sat;;10.13
-error;z3-trau-1.1;../formulae/sygus-qgen/queries/query6635.smt2;real 2.02###user 1.85###sys 0.05
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query8955.smt2;0;result: sat;;0.37
-error;z3-trau-1.1;../formulae/sygus-qgen/queries/query5935.smt2;real 7.17###user 6.97###sys 0.08
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query4258.smt2;0;result: sat;;3.9
-error;z3-trau-1.1;../formulae/sygus-qgen/queries/query3358.smt2;real 5.91###user 5.72###sys 0.07
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3179.smt2;0;result: sat;;0.5
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query7989.smt2;0;result: sat;;6.85
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3250.smt2;0;result: sat;;4.2
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query4673.smt2;0;result: sat;;7.16
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3476.smt2;0;result: sat;;8.34
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query7820.smt2;0;result: sat;;16.6
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3335.smt2;0;result: sat;;6.92
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3246.smt2;0;result: sat;;2.08
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3495.smt2;0;result: sat;;0.48
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query5222.smt2;0;result: sat;;13.34
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3568.smt2;0;result: sat;;4.28
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3591.smt2;0;result: sat;;5.43
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query4583.smt2;0;result: sat;;3.36
-error;z3-trau-1.1;../formulae/sygus-qgen/queries/query3401.smt2;real 3.24###user 3.08###sys 0.04
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query7985.smt2;0;result: sat;;6.07
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query9132.smt2;0;result: sat;;5.17
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3456.smt2;0;result: sat;;4.92
-error;z3-trau-1.1;../formulae/sygus-qgen/queries/query3196.smt2;real 11.25###user 11.06###sys 0.08
-error;z3-trau-1.1;../formulae/sygus-qgen/queries/query7116.smt2;real 0.97###user 0.81###sys 0.04
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3102.smt2;0;result: sat;;0.29
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query8867.smt2;0;result: sat;;8.29
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query8348.smt2;0;result: sat;;5.6
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query8523.smt2;0;result: sat;;5.76
-error;z3-trau-1.1;../formulae/sygus-qgen/queries/query5202.smt2;real 8.26###user 8.04###sys 0.10
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query4111.smt2;0;result: sat;;0.57
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query8962.smt2;0;result: sat;;4.62
-error;z3-trau-1.1;../formulae/sygus-qgen/queries/query3569.smt2;real 0.27###user 0.15###sys 0.03
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3694.smt2;0;result: sat;;9.63
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query4107.smt2;0;result: sat;;5.29
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3143.smt2;0;result: sat;;16.41
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query8333.smt2;0;result: sat;;3.28
-error;z3-trau-1.1;../formulae/sygus-qgen/queries/query6481.smt2;real 6.74###user 6.55###sys 0.06
-error;z3-trau-1.1;../formulae/sygus-qgen/queries/query3314.smt2;real 0.79###user 0.65###sys 0.04
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query5491.smt2;0;result: sat;;7.39
-error;z3-trau-1.1;../formulae/sygus-qgen/queries/query8149.smt2;real 7.97###user 7.79###sys 0.07
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query5599.smt2;0;result: sat;;1.69
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3155.smt2;0;result: sat;;18.48
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3969.smt2;0;result: sat;;9.13
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query8094.smt2;0;result: sat;;3.78
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query6966.smt2;0;result: sat;;5.5
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query7481.smt2;0;result: sat;;31.24
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query5433.smt2;0;result: sat;;6.09
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query5690.smt2;0;result: sat;;8.03
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3532.smt2;0;result: sat;;0.62
-error;z3-trau-1.1;../formulae/sygus-qgen/queries/query3359.smt2;real 0.87###user 0.75###sys 0.02
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query6136.smt2;0;result: sat;;11.7
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query4936.smt2;0;result: sat;;3.58
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query6842.smt2;0;result: sat;;14.65
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3201.smt2;0;result: sat;;0.61
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query5848.smt2;0;result: sat;;5.35
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query6823.smt2;0;result: sat;;7.27
-error;z3-trau-1.1;../formulae/sygus-qgen/queries/query6462.smt2;real 7.68###user 7.49###sys 0.08
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3186.smt2;0;result: sat;;2.06
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query8000.smt2;0;result: sat;;9.46
-error;z3-trau-1.1;../formulae/sygus-qgen/queries/query6008.smt2;real 6.32###user 6.12###sys 0.07
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query7487.smt2;0;result: sat;;4.65
-error;z3-trau-1.1;../formulae/sygus-qgen/queries/query5013.smt2;real 5.28###user 5.11###sys 0.05
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3489.smt2;0;result: sat;;0.53
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3523.smt2;0;result: sat;;0.58
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3124.smt2;0;result: sat;;0.47
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3574.smt2;0;result: sat;;1.14
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3427.smt2;0;result: sat;;0.64
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3318.smt2;0;result: sat;;8.96
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3470.smt2;0;result: sat;;0.7
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query8288.smt2;0;result: sat;;8.16
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3549.smt2;0;result: sat;;15.01
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query8512.smt2;0;result: sat;;6.61
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3466.smt2;0;result: sat;;8.96
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3519.smt2;0;result: sat;;5.02
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3165.smt2;0;result: sat;;9.27
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query7665.smt2;0;result: sat;;2.34
-error;z3-trau-1.1;../formulae/sygus-qgen/queries/query3558.smt2;real 0.60###user 0.44###sys 0.04
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3450.smt2;0;result: sat;;15.15
-error;z3-trau-1.1;../formulae/sygus-qgen/queries/query8601.smt2;real 3.00###user 2.86###sys 0.03
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query4858.smt2;0;result: sat;;1.61
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3325.smt2;0;result: sat;;7.46
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3368.smt2;0;result: sat;;16.51
-error;z3-trau-1.1;../formulae/sygus-qgen/queries/query3236.smt2;real 0.80###user 0.67###sys 0.01
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3308.smt2;0;result: sat;;0.65
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query4399.smt2;0;result: sat;;12.55
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3534.smt2;0;result: sat;;1.13
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3149.smt2;0;result: sat;;13.76
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3671.smt2;0;result: sat;;6.91
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3324.smt2;0;result: sat;;5.36
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3133.smt2;0;result: sat;;0.67
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3471.smt2;0;result: sat;;6.24
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query5819.smt2;0;result: sat;;9.11
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query4249.smt2;0;result: sat;;5.69
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3563.smt2;0;result: sat;;8.52
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query8303.smt2;0;result: sat;;12.23
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query8343.smt2;0;result: sat;;19.16
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3386.smt2;0;result: sat;;0.62
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query8856.smt2;0;result: sat;;6.86
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3113.smt2;0;result: sat;;0.3
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query2885.smt2;0;result: sat;;3.05
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3555.smt2;0;result: sat;;6.42
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3369.smt2;0;result: sat;;6.75
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query8952.smt2;0;result: sat;;19.54
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query4443.smt2;0;result: sat;;9.93
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3164.smt2;0;result: sat;;20.72
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3304.smt2;0;result: sat;;3.45
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3241.smt2;0;result: sat;;5.64
-error;z3-trau-1.1;../formulae/sygus-qgen/queries/query3191.smt2;real 0.89###user 0.75###sys 0.03
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3168.smt2;0;result: sat;;11.51
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query8335.smt2;0;result: sat;;4.81
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query7561.smt2;0;result: sat;;19.45
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query9066.smt2;0;result: sat;;4.72
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3543.smt2;0;result: sat;;17.28
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query5511.smt2;0;result: sat;;13.53
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query9070.smt2;0;result: sat;;22.38
-finished;z3-trau-1.1;../formulae/sygus-qgen/queries/query3979.smt2;0;result: sat;;19.19
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query5197.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3444.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10584.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10642.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10681.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query5512.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3487.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query8654.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3864.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query4860.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query9747.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3465.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query8045.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10675.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3577.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3424.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10634.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3189.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query6221.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10663.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3449.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query6796.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3214.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10680.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3111.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3516.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query5315.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query5196.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3767.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3423.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3950.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3356.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10629.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3252.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3316.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10669.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query5169.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query4685.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query4914.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query7904.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query5108.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query8917.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query4871.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query5519.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3336.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10608.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query8468.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3231.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3323.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query4673.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3712.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3591.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10611.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query8867.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query5582.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10650.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query9276.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query7455.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query8962.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query5700.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3494.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10112.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10684.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query5281.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query5852.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query4255.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query6842.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10295.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10041.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3549.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3450.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3574.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3309.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query9155.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3221.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query4858.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3332.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query9416.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query9050.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query5423.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3723.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query6223.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3943.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query4443.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10657.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query6203.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10682.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query6917.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query5100.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query7145.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3556.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query4293.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query6754.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3151.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3444.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query9049.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query6979.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query6345.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query4114.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3239.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query8926.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query5400.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query4092.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3429.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3096.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query6914.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3350.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query7313.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query7493.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3203.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3468.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3487.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query5380.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3331.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query7958.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query5436.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3720.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query6109.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3188.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3864.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3167.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query4933.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query8855.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query4319.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3465.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query5948.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3520.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3873.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3577.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query4932.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3424.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3218.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query5289.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3473.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query4267.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3234.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3664.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3330.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query7723.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3367.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3255.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3310.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3469.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query9064.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3214.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query4617.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query5905.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3428.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query6780.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query6387.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3185.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query5753.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3392.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3238.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3111.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3541.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query8589.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3146.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3296.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query4416.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query8966.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3150.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3445.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query8486.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3225.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query4299.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3767.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3321.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query7698.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query8582.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3458.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query6932.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query8957.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3474.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3423.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3435.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query6637.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3570.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3462.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3177.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query5742.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3229.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query4446.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query7051.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query6569.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query8824.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3454.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query5216.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3116.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3546.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query8865.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3182.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query6380.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3478.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query7657.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query6768.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3205.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query9063.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3194.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query7704.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3253.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query5041.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query7990.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3711.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3438.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3479.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3547.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3793.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3269.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query5997.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query8649.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3455.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3156.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3506.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3463.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3434.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3208.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query5763.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query6620.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3137.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3475.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query7820.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3160.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query5098.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3459.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3336.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query5935.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3361.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3224.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query5222.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query6635.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query4258.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3358.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query7989.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3476.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query8955.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query4673.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3335.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3250.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3179.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3196.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3591.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query7481.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3568.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3246.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query4583.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query7985.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3495.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query9132.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query8867.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3401.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3456.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3143.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query5202.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3155.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query7116.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3694.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3102.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query8523.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query8348.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query8962.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query4107.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query4111.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query5491.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query6481.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3569.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query8149.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query8333.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3969.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query6842.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3314.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query5690.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query6136.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query5599.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query5433.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query6966.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query8094.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query6823.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query6462.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3549.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3532.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3359.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query8000.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query5848.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query4936.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query6008.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3318.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3201.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query5013.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query7487.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query8288.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3186.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3450.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3368.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3489.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3523.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3466.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3574.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3124.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3427.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query8512.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3165.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3470.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query4399.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3149.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3519.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3325.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query8343.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query7665.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query8601.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3558.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3671.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query4858.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3324.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3236.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query8303.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3308.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query8952.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3534.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query5819.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3164.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3471.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3133.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3563.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query4249.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query8856.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query7561.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3555.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3386.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query4443.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3369.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query2885.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3113.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3543.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3168.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query9070.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3304.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3241.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query5511.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3979.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query8335.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3191.smt2
+execute;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query9066.smt2
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10584.smt2;0;result: sat;;0.32
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10642.smt2;0;result: sat;;0.54
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3487.smt2;0;result: sat;;6.0
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query5512.smt2;0;result: sat;;7.18
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3444.smt2;0;result: sat;;7.63
+error;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3864.smt2;real 7.76###user 7.58###sys 0.06
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10681.smt2;0;result: sat;;8.4
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query4860.smt2;0;result: sat;;7.92
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10675.smt2;0;result: sat;;0.49
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10634.smt2;0;result: sat;;0.36
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query5197.smt2;0;result: sat;;10.17
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query9747.smt2;0;result: sat;;5.49
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10663.smt2;0;result: sat;;0.51
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3465.smt2;0;result: sat;;5.99
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3189.smt2;0;result: sat;;4.56
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3424.smt2;0;result: sat;;5.56
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query8045.smt2;0;result: sat;;6.7
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10680.smt2;0;result: sat;;0.51
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query6221.smt2;0;result: sat;;6.13
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3577.smt2;0;result: sat;;8.35
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3516.smt2;0;result: sat;;2.85
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3111.smt2;0;result: sat;;5.27
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query5315.smt2;0;result: sat;;4.01
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query8654.smt2;0;result: sat;;20.71
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3214.smt2;0;result: sat;;10.44
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query6796.smt2;0;result: sat;;10.92
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3449.smt2;0;result: sat;;12.19
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query5196.smt2;0;result: sat;;7.5
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10629.smt2;0;result: sat;;0.51
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10669.smt2;0;result: sat;;0.36
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query5169.smt2;0;result: sat;;3.31
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query4685.smt2;0;result: sat;;3.35
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3316.smt2;0;result: sat;;6.07
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query4914.smt2;0;result: sat;;2.78
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3423.smt2;0;result: sat;;11.53
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3356.smt2;0;result: sat;;13.34
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query5108.smt2;0;result: sat;;3.87
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3950.smt2;0;result: sat;;13.85
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10608.smt2;0;result: sat;;0.5
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query7904.smt2;0;result: sat;;8.93
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3252.smt2;0;result: sat;;13.01
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query8917.smt2;0;result: sat;;7.23
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3767.smt2;0;result: sat;;21.29
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query4871.smt2;0;result: sat;;8.49
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query4673.smt2;0;result: sat;;2.09
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3323.smt2;0;result: sat;;2.89
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3591.smt2;0;result: sat;;2.8
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3231.smt2;0;result: sat;;5.86
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10650.smt2;0;result: sat;;2.84
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10611.smt2;0;result: sat;;6.64
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query8468.smt2;0;result: sat;;11.96
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query8867.smt2;0;result: sat;;6.66
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3336.smt2;0;result: sat;;13.18
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query5582.smt2;0;result: sat;;5.88
+error;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10112.smt2;real 2.03###user 1.87###sys 0.03
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10684.smt2;0;result: sat;;0.51
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query9276.smt2;0;result: sat;;5.93
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query5281.smt2;0;result: sat;;1.73
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query7455.smt2;0;result: sat;;8.36
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3712.smt2;0;result: sat;;18.15
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3494.smt2;0;result: sat;;14.73
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10041.smt2;0;result: sat;;2.49
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query6842.smt2;0;result: sat;;10.27
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query5852.smt2;0;result: sat;;14.61
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query5700.smt2;0;result: sat;;20.23
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3549.smt2;0;result: sat;;5.4
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3309.smt2;0;result: sat;;4.08
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query4255.smt2;0;result: sat;;19.24
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10295.smt2;0;result: sat;;15.12
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3450.smt2;0;result: sat;;7.61
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query8962.smt2;0;result: sat;;26.83
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query4858.smt2;0;result: sat;;2.18
+error;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3332.smt2;real 3.82###user 3.64###sys 0.06
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3221.smt2;0;result: sat;;5.57
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query9155.smt2;0;result: sat;;7.14
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query9050.smt2;0;result: sat;;4.39
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query9416.smt2;0;result: sat;;6.69
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10657.smt2;0;result: sat;;0.51
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3574.smt2;0;result: sat;;14.52
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10682.smt2;0;result: sat;;3.28
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query6203.smt2;0;result: sat;;4.85
+error;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3723.smt2;real 9.53###user 9.36###sys 0.09
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query5423.smt2;0;result: sat;;13.81
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query7145.smt2;0;result: sat;;6.02
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query4443.smt2;0;result: sat;;13.81
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query5100.smt2;0;result: sat;;9.87
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3151.smt2;0;result: sat;;0.57
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3943.smt2;0;result: sat;;19.65
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query4293.smt2;0;result: sat;;6.07
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query6754.smt2;0;result: sat;;5.63
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3556.smt2;0;result: sat;;9.86
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query5519.smt2;0;result: sat;;63.8
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query6917.smt2;0;result: sat;;14.57
+error;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3239.smt2;real 0.96###user 0.86###sys 0.03
+error;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query4114.smt2;real 2.17###user 2.02###sys 0.03
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query9049.smt2;0;result: sat;;4.42
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3444.smt2;0;result: sat;;6.6
+error;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3429.smt2;real 0.85###user 0.71###sys 0.02
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query6979.smt2;0;result: sat;;5.09
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3350.smt2;0;result: sat;;0.45
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query5400.smt2;0;result: sat;;4.73
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query6914.smt2;0;result: sat;;1.37
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query6345.smt2;0;result: sat;;6.35
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query8926.smt2;0;result: sat;;6.04
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query4092.smt2;0;result: sat;;7.02
+error;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query7493.smt2;real 7.95###user 7.75###sys 0.07
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3331.smt2;0;result: sat;;0.42
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query7313.smt2;0;result: sat;;8.95
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3487.smt2;0;result: sat;;8.12
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3096.smt2;0;result: sat;;12.94
+error;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3468.smt2;real 11.27###user 11.04###sys 0.12
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3188.smt2;0;result: sat;;0.49
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query6109.smt2;0;result: sat;;3.06
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3203.smt2;0;result: sat;;14.65
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query5380.smt2;0;result: sat;;14.3
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query7958.smt2;0;result: sat;;9.72
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3167.smt2;0;result: sat;;4.31
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3720.smt2;0;result: sat;;9.84
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query4933.smt2;0;result: sat;;6.46
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3465.smt2;0;result: sat;;3.46
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query6223.smt2;0;result: sat;;49.94
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3864.smt2;0;result: sat;;11.32
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3577.smt2;0;result: sat;;0.97
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query4932.smt2;0;result: sat;;5.55
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3218.smt2;0;result: sat;;0.63
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query5948.smt2;0;result: sat;;10.97
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3424.smt2;0;result: sat;;6.18
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3520.smt2;0;result: sat;;9.37
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query5436.smt2;0;result: sat;;24.33
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query5289.smt2;0;result: sat;;5.4
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query8855.smt2;0;result: sat;;17.14
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query4319.smt2;0;result: sat;;17.3
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3330.smt2;0;result: sat;;0.88
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3367.smt2;0;result: sat;;0.4
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3255.smt2;0;result: sat;;0.18
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3473.smt2;0;result: sat;;6.08
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3469.smt2;0;result: sat;;0.71
+error;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query9064.smt2;real 0.99###user 0.83###sys 0.05
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query4267.smt2;0;result: sat;;7.85
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3873.smt2;0;result: sat;;18.56
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3428.smt2;0;result: sat;;0.49
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3310.smt2;0;result: sat;;5.97
+error;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query5905.smt2;real 7.85###user 7.64###sys 0.10
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3214.smt2;0;result: sat;;10.18
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query4617.smt2;0;result: sat;;11.15
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3392.smt2;0;result: sat;;0.48
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query6780.smt2;0;result: sat;;7.47
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query5753.smt2;0;result: sat;;3.42
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query6387.smt2;0;result: sat;;9.21
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3234.smt2;0;result: sat;;21.44
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3111.smt2;0;result: sat;;3.67
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3146.smt2;0;result: sat;;0.69
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3185.smt2;0;result: sat;;6.96
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query7723.smt2;0;result: sat;;18.13
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query4416.smt2;0;result: sat;;3.05
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3664.smt2;0;result: sat;;23.22
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3445.smt2;0;result: sat;;0.58
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3225.smt2;0;result: sat;;0.46
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3238.smt2;0;result: sat;;8.32
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query8966.smt2;0;result: sat;;4.68
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3321.smt2;0;result: sat;;0.37
+error;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3150.smt2;real 4.97###user 4.82###sys 0.04
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query8589.smt2;0;result: sat;;7.28
+error;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query7698.smt2;real 1.13###user 0.98###sys 0.02
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3767.smt2;0;result: sat;;2.77
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query8582.smt2;0;result: sat;;2.65
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3296.smt2;0;result: sat;;9.36
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query8486.smt2;0;result: sat;;7.05
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3541.smt2;0;result: sat;;13.89
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3458.smt2;0;result: sat;;7.03
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3570.smt2;0;result: sat;;0.21
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3462.smt2;0;result: sat;;0.47
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3177.smt2;0;result: sat;;0.34
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3423.smt2;0;result: sat;;4.8
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query6637.smt2;0;result: sat;;3.36
+error;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3229.smt2;real 1.15###user 1.02###sys 0.02
+error;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query6932.smt2;real 11.51###user 11.30###sys 0.11
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query8957.smt2;0;result: sat;;12.03
+error;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query5742.smt2;real 5.83###user 5.66###sys 0.07
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3454.smt2;0;result: sat;;0.5
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3474.smt2;0;result: sat;;12.72
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query7051.smt2;0;result: sat;;6.33
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3116.smt2;0;result: sat;;1.83
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query4446.smt2;0;result: sat;;8.9
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3182.smt2;0;result: sat;;0.63
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query8824.smt2;0;result: sat;;6.9
+error;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3546.smt2;real 5.09###user 4.88###sys 0.09
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3435.smt2;0;result: sat;;18.63
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query6380.smt2;0;result: sat;;7.17
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3205.smt2;0;result: sat;;0.68
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3478.smt2;0;result: sat;;6.63
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3194.smt2;0;result: sat;;0.58
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query6569.smt2;0;result: sat;;16.08
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3253.smt2;0;result: sat;;0.13
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query8865.smt2;0;result: sat;;12.06
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query6768.smt2;0;result: sat;;5.85
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query7657.smt2;0;result: sat;;8.4
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query7990.smt2;0;result: sat;;2.85
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query5216.smt2;0;result: sat;;18.48
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query5041.smt2;0;result: sat;;4.87
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3711.smt2;0;result: sat;;4.75
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query4299.smt2;0;result: sat;;37.76
+error;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3479.smt2;real 7.05###user 6.86###sys 0.07
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3547.smt2;0;result: sat;;5.99
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3455.smt2;0;result: sat;;0.59
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3156.smt2;0;result: sat;;0.64
+error;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3506.smt2;real 0.89###user 0.75###sys 0.02
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query8649.smt2;0;result: sat;;2.27
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3463.smt2;0;result: sat;;0.65
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3269.smt2;0;result: sat;;10.41
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query7704.smt2;0;result: sat;;16.69
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3438.smt2;0;result: sat;;16.74
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3434.smt2;0;result: sat;;5.45
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3137.smt2;0;result: sat;;0.6
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query9063.smt2;0;result: sat;;20.39
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query5997.smt2;0;result: sat;;10.93
+error;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3475.smt2;real 0.60###user 0.45###sys 0.03
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3160.smt2;0;result: sat;;0.64
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3208.smt2;0;result: sat;;8.01
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3459.smt2;0;result: sat;;4.85
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query5098.smt2;0;result: sat;;5.0
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3793.smt2;0;result: sat;;19.09
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3361.smt2;0;result: sat;;0.62
+error;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3224.smt2;real 1.10###user 0.96###sys 0.01
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query5763.smt2;0;result: sat;;9.73
+error;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3336.smt2;real 6.64###user 6.46###sys 0.08
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query6620.smt2;0;result: sat;;10.13
+error;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query6635.smt2;real 2.02###user 1.85###sys 0.05
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query8955.smt2;0;result: sat;;0.37
+error;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query5935.smt2;real 7.17###user 6.97###sys 0.08
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query4258.smt2;0;result: sat;;3.9
+error;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3358.smt2;real 5.91###user 5.72###sys 0.07
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3179.smt2;0;result: sat;;0.5
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query7989.smt2;0;result: sat;;6.85
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3250.smt2;0;result: sat;;4.2
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query4673.smt2;0;result: sat;;7.16
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3476.smt2;0;result: sat;;8.34
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query7820.smt2;0;result: sat;;16.6
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3335.smt2;0;result: sat;;6.92
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3246.smt2;0;result: sat;;2.08
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3495.smt2;0;result: sat;;0.48
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query5222.smt2;0;result: sat;;13.34
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3568.smt2;0;result: sat;;4.28
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3591.smt2;0;result: sat;;5.43
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query4583.smt2;0;result: sat;;3.36
+error;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3401.smt2;real 3.24###user 3.08###sys 0.04
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query7985.smt2;0;result: sat;;6.07
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query9132.smt2;0;result: sat;;5.17
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3456.smt2;0;result: sat;;4.92
+error;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3196.smt2;real 11.25###user 11.06###sys 0.08
+error;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query7116.smt2;real 0.97###user 0.81###sys 0.04
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3102.smt2;0;result: sat;;0.29
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query8867.smt2;0;result: sat;;8.29
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query8348.smt2;0;result: sat;;5.6
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query8523.smt2;0;result: sat;;5.76
+error;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query5202.smt2;real 8.26###user 8.04###sys 0.10
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query4111.smt2;0;result: sat;;0.57
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query8962.smt2;0;result: sat;;4.62
+error;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3569.smt2;real 0.27###user 0.15###sys 0.03
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3694.smt2;0;result: sat;;9.63
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query4107.smt2;0;result: sat;;5.29
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3143.smt2;0;result: sat;;16.41
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query8333.smt2;0;result: sat;;3.28
+error;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query6481.smt2;real 6.74###user 6.55###sys 0.06
+error;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3314.smt2;real 0.79###user 0.65###sys 0.04
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query5491.smt2;0;result: sat;;7.39
+error;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query8149.smt2;real 7.97###user 7.79###sys 0.07
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query5599.smt2;0;result: sat;;1.69
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3155.smt2;0;result: sat;;18.48
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3969.smt2;0;result: sat;;9.13
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query8094.smt2;0;result: sat;;3.78
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query6966.smt2;0;result: sat;;5.5
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query7481.smt2;0;result: sat;;31.24
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query5433.smt2;0;result: sat;;6.09
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query5690.smt2;0;result: sat;;8.03
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3532.smt2;0;result: sat;;0.62
+error;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3359.smt2;real 0.87###user 0.75###sys 0.02
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query6136.smt2;0;result: sat;;11.7
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query4936.smt2;0;result: sat;;3.58
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query6842.smt2;0;result: sat;;14.65
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3201.smt2;0;result: sat;;0.61
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query5848.smt2;0;result: sat;;5.35
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query6823.smt2;0;result: sat;;7.27
+error;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query6462.smt2;real 7.68###user 7.49###sys 0.08
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3186.smt2;0;result: sat;;2.06
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query8000.smt2;0;result: sat;;9.46
+error;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query6008.smt2;real 6.32###user 6.12###sys 0.07
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query7487.smt2;0;result: sat;;4.65
+error;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query5013.smt2;real 5.28###user 5.11###sys 0.05
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3489.smt2;0;result: sat;;0.53
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3523.smt2;0;result: sat;;0.58
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3124.smt2;0;result: sat;;0.47
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3574.smt2;0;result: sat;;1.14
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3427.smt2;0;result: sat;;0.64
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3318.smt2;0;result: sat;;8.96
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3470.smt2;0;result: sat;;0.7
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query8288.smt2;0;result: sat;;8.16
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3549.smt2;0;result: sat;;15.01
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query8512.smt2;0;result: sat;;6.61
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3466.smt2;0;result: sat;;8.96
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3519.smt2;0;result: sat;;5.02
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3165.smt2;0;result: sat;;9.27
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query7665.smt2;0;result: sat;;2.34
+error;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3558.smt2;real 0.60###user 0.44###sys 0.04
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3450.smt2;0;result: sat;;15.15
+error;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query8601.smt2;real 3.00###user 2.86###sys 0.03
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query4858.smt2;0;result: sat;;1.61
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3325.smt2;0;result: sat;;7.46
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3368.smt2;0;result: sat;;16.51
+error;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3236.smt2;real 0.80###user 0.67###sys 0.01
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3308.smt2;0;result: sat;;0.65
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query4399.smt2;0;result: sat;;12.55
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3534.smt2;0;result: sat;;1.13
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3149.smt2;0;result: sat;;13.76
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3671.smt2;0;result: sat;;6.91
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3324.smt2;0;result: sat;;5.36
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3133.smt2;0;result: sat;;0.67
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3471.smt2;0;result: sat;;6.24
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query5819.smt2;0;result: sat;;9.11
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query4249.smt2;0;result: sat;;5.69
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3563.smt2;0;result: sat;;8.52
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query8303.smt2;0;result: sat;;12.23
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query8343.smt2;0;result: sat;;19.16
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3386.smt2;0;result: sat;;0.62
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query8856.smt2;0;result: sat;;6.86
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3113.smt2;0;result: sat;;0.3
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query2885.smt2;0;result: sat;;3.05
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3555.smt2;0;result: sat;;6.42
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3369.smt2;0;result: sat;;6.75
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query8952.smt2;0;result: sat;;19.54
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query4443.smt2;0;result: sat;;9.93
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3164.smt2;0;result: sat;;20.72
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3304.smt2;0;result: sat;;3.45
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3241.smt2;0;result: sat;;5.64
+error;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3191.smt2;real 0.89###user 0.75###sys 0.03
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3168.smt2;0;result: sat;;11.51
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query8335.smt2;0;result: sat;;4.81
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query7561.smt2;0;result: sat;;19.45
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query9066.smt2;0;result: sat;;4.72
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3543.smt2;0;result: sat;;17.28
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query5511.smt2;0;result: sat;;13.53
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query9070.smt2;0;result: sat;;22.38
+finished;z3-trau-1.1;../formulae/QF_S/2020-sygus-qgen/queries/query3979.smt2;0;result: sat;;19.19
