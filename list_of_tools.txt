@@ -136,3 +136,6 @@
 # branch new-new-z3 (both are basically the same, but the first one is older mata)
 "z3-noodler-3233733-2cddb2f",
 "z3-noodler-ec4ce36-d95fe13",
+
+# branch regex-loop
+"z3-noodler-7b3e5c5-d95fe13", (contains a bug)
