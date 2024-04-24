@@ -1,0 +1,138 @@
+# NOT run with 8GB limit (and some of them are not complete + at some point pycobench got broken and set 60s TO always)
+"cvc5-1.0.5",
+"z3-4.12.1",
+"z3-4.12.2-nomem",
+"z3-trau",
+"z3strRE-nomem",
+"z3str4-nomem",
+"ostrich-1.2", # run with ol
+"ostrich-1.3",
+
+# run with 8GB limit (they should be also complete, and pycobench works probably correctly)
+"cvc5-1.0.8",
+"z3-4.12.2",
+"z3str4",
+"ostrich-70d01e2d2", # 1.3 with some extra commits that seems to fix some bugs + run with '-portfolio=strings'
+"ostrich-70d01e2d2-parikh", # same as previous but also run with +parikh (not run on pyex)
+"z3strRE",
+"z3-trau-1.1",
+
+# run on pikachu with 6 processes in parallel (not 8 like previously)
+"cvc5-1.1.1",
+"cvc5-1.1.2",
+"z3-4.12.5",
+"z3-4.12.6",
+"z3-4.13.0",
+"ostrich-5dd2e10ca", # 1.3 with even more commits than 70d01e2d2 (run without any arguments)
+"z3-noodler-fb447e3-2cddb2f", # v1.0.0
+"z3-noodler-0751e1e-2cddb2f", # v1.1.0
+
+
+### PREVIOUS NOODLER VERSIONS ###
+
+# noodler from OOPSLA paper
+"z3-noodler-9f5e602",
+"z3-noodler-9f5e602-underapprox", # for kaluza
+
+# # noodler that was run on everything except pyex (but there was some problem with stringfuzz and leetcode)
+"z3-noodler-6e14cda",
+# # noodler that was run on everything except pyex (with infinite loop thingy)
+"z3-noodler-59658f7",
+# # noodler that was run on everything except pyex (without infinite loop thingy)
+"z3-noodler-e8a4269",
+
+# noodler that was run on everything (with wrong results on pyex)
+"z3-noodler-daa40de",
+# noodler that was run on everything (with wrong results on pyex)
+"z3-noodler-5f32279",
+
+# noodler after merging PR64: Regex construction optimization (right before refactoring, with bug in mata for removing unused states - 3 norn and 190 pyex bad)
+"z3-noodler-49295a5-8781b7d",
+
+# noodler after refactoring that was run on everything (with bug in mata for removing unused states - 3 wrong results on norn)
+"z3-noodler-d1676a5-8781b7d",
+"z3-noodler-d1676a5-8781b7d-underapprox",
+"z3-noodler-d1676a5-8781b7d-nielsen",
+
+# noodler after refactoring, with fixed bug in mata
+"z3-noodler-loop-13af422-5fa5ea0",
+"z3-noodler-13af422-5fa5ea0",
+
+# just before merging branch opt-pred-inst
+"z3-noodler-d83b1b9-2f0ef53",
+
+# just before merging loop-protection-fix
+"z3-noodler-loop-1a1ac35-2f0ef53",
+"z3-noodler-loop-mem", # 1a1ac35-2f0ef53 but with 8GB memory limit
+
+### Everything after this has loop protection by default + is run with 8GB memory limit
+
+# just before merging regex-info
+"z3-noodler-381ffd1-2f0ef53",
+
+# from dec-proc-default, both run only with either nielsen or underapproximation allowed
+"z3-noodler-nielsen-0746e08-8ba88ce",
+"z3-noodler-underapprox-ab28d76-2f0ef53",
+
+# str_int where dec-proc-default was not yet in
+"z3-noodler-63aa361-8ba88ce",
+
+### Everything after this has also nielsen and underapproximation on by default
+
+# devel after merging nielsen_first
+"z3-noodler-a0e3745-8ba88ce",
+
+# just before merging new_mata
+"z3-noodler-0ae38ae-40ca1cd",
+
+# after updating to z3 v4.12.2
+"z3-noodler-1ba1904-40ca1cd"
+
+# noodler stays the same, but we update mata
+"z3-noodler-f211b89-7831cdc",
+"z3-noodler-f211b89-bb85433",
+"z3-noodler-1482571-a57f582"
+
+# branch noodle_reduce
+"z3-noodler-feada45-a57f582",
+
+# branch underapprox-opt
+"z3-noodler-482f3c0-387babd",
+
+# branch pyex-opt-it2
+"z3-noodler-8de5f2c-387babd",
+
+# branch to-from-int
+"z3-noodler-147a0e0-fb6e2b1",
+"z3-noodler-34ea542-2cddb2f", # for errors, instead of unknown, it shows the error message in the result
+
+# branch tp-from-int-2
+"z3-noodler-7421e81-2cddb2f",
+
+# branch to-from-int-3
+"z3-noodler-c69c980-2cddb2f",
+
+# branch asserts-fixing
+"z3-noodler-1174fd1-2cddb2f",
+
+# branch full-int-opt
+"z3-noodler-bdb7f83-2cddb2f",
+
+# branch to-int-eq
+"z3-noodler-a0d4232-2cddb2f",
+
+# branch to-from-int-length-based,
+"z3-noodler-bee36a1-2cddb2f",
+
+# branch to-from-int-more-precise
+"z3-noodler-005708c-2cddb2f",
+
+# branch rewrite-inre
+"z3-noodler-789525b-2cddb2f",
+
+# branch underapprox-unsound
+"z3-noodler-77f7c04-2cddb2f",
+
+# branch new-new-z3 (both are basically the same, but the first one is older mata)
+"z3-noodler-3233733-2cddb2f",
+"z3-noodler-ec4ce36-d95fe13",
