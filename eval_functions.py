@@ -12,6 +12,46 @@ def read_file(filename):
         )
     return df_loc
 
+def load_benches(benches, tools, bench_selection):
+    dfs = dict()
+    for bench in benches:
+        df = read_file(bench + "/to120.csv")
+        df["benchmark"] = bench
+        dfs[bench] = df
+
+    # we select only columns with used tools
+    df_all = pd.concat(dfs, ignore_index=True)[["benchmark"] + ["name"] + [f(tool) for tool in tools for f in (lambda x: x+"-result", lambda x: x+"-runtime")]]
+
+    for tool in tools:
+        # set runtime to 120 for nonsolved instances (unknown, TO, ERR or something else)
+        df_all.loc[(df_all[f"{tool}-result"] != " sat")&(df_all[f"{tool}-result"] != " unsat"), f"{tool}-runtime"] = 120
+        # runtime columns should be floats
+        df_all[f"{tool}-runtime"] = df_all[f"{tool}-runtime"].astype(float)
+
+    if bench_selection == "INT_CONVS":
+        # we select only those formulae that contain to_int/from_int
+        with open("int_convs_not-full_str_int.txt") as file:
+            # fsi_not_conv is a list of formulae from full_str_int that do not contain to_int/from_int
+            fsi_not_conv = file.read().splitlines()
+        with open("int_convs-str_small_rw.txt") as file:
+            # ssr_conv is a list of formulae from str_small_rw that contain to_int/from_int
+            ssr_conv = file.read().splitlines()
+        with open("int_convs-stringfuzz.txt") as file:
+            # sf_conv is a list of formulae from stringfuzz that contain to_int/from_int
+            sf_conv = file.read().splitlines()
+        df_all = df_all[(df_all.benchmark != "full_str_int")|(~(df_all.name.isin(fsi_not_conv)))]
+        df_all = df_all[((df_all.benchmark != "str_small_rw")&(df_all.benchmark != "stringfuzz"))|((df_all.name.isin(ssr_conv))|(df_all.name.isin(sf_conv)))]
+    
+    if bench_selection == "QF_S":
+        # for woorpje, QF_S benchmarks are those that are not in 20230329-woorpje-lu/track05/
+        df_all = df_all[(df_all.benchmark != "woorpje")|(~(df_all.name.str.contains("/track05/")))]
+
+    if bench_selection == "QF_SLIA":
+        # for woorpje, QF_SLIA benchmarks are those that are in 20230329-woorpje-lu/track05/
+        df_all = df_all[(df_all.benchmark != "woorpje")|(df_all.name.str.contains("/track05/"))]
+    
+    return df_all
+
 def scatter_plot(df, x_tool, y_tool, clamp=True, clamp_domain=[0.01, 120], xname=None, yname=None, log=True, width=6, height=6, show_legend=True, legend_width=2):
     """Returns scatter plot plotting the values of df[x_tool] and df[y_tool] columns.
 
@@ -218,8 +258,8 @@ def simple_table(df, tools, benches, separately=False):
         result += "--------------------------------------------------\n"
         table = [header]
         for tool in tools:
-            sat = len(df[df[tool + "-result"] == " sat"])
-            unsat = len(df[df[tool + "-result"] == " unsat"])
+            sat = len(df[df[tool + "-result"].str.strip() == " sat"])
+            unsat = len(df[df[tool + "-result"].str.strip() == " unsat"])
             solved = get_solved(df, tool)[f"{tool}-runtime"]
             avg_solved = solved.mean()
             median_solved = solved.median()
@@ -260,11 +300,11 @@ def add_vbs(df, tools_list, name = None):
     def get_result(row):
         nonlocal tools_list
         if "sat" in [row[f"{tool}-result"].strip() for tool in tools_list]:
-            return " sat"
+            return "sat"
         elif "unsat" in [row[f"{tool}-result"].strip() for tool in tools_list]:
-            return " unsat"
+            return "unsat"
         else:
-            return " unknown"
+            return "unknown"
     df[f"{name}-result"] = df.apply(get_result, axis=1) # https://stackoverflow.com/questions/26886653/create-new-column-based-on-values-from-other-columns-apply-a-function-of-multi
     return df
 
