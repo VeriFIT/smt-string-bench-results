@@ -4,9 +4,6 @@ import mizani.formatters as mizani
 import plotnine as p9
 import tabulate as tab
 
-TIME_MIN = 0.01
-TIMEOUT = 120
-
 def read_file(filename):
     """Reads a CSV file into Panda's data frame"""
     df_loc = pd.read_csv(
@@ -15,7 +12,7 @@ def read_file(filename):
         )
     return df_loc
 
-def scatter_plot(df, x_tool, y_tool, clamp=True, clamp_domain=[TIME_MIN, TIMEOUT], xname=None, yname=None, log=True, width=6, height=6, show_legend=True):
+def scatter_plot(df, x_tool, y_tool, clamp=True, clamp_domain=[0.01, 120], xname=None, yname=None, log=True, width=6, height=6, show_legend=True, legend_width=2):
     """Returns scatter plot plotting the values of df[x_tool] and df[y_tool] columns.
 
     Args:
@@ -43,6 +40,9 @@ def scatter_plot(df, x_tool, y_tool, clamp=True, clamp_domain=[TIME_MIN, TIMEOUT
     
     x_tool = x_tool+"-runtime"
     y_tool = y_tool+"-runtime"
+
+    if show_legend:
+        width += legend_width
 
     # formatter for axes' labels
     ax_formatter = mizani.custom_format('{:n}')
@@ -119,9 +119,7 @@ def cactus_plot(df, tools, tool_names = None, start = 0, end = None, logarithmic
         
         concat[name] = pd.Series(sorted(get_solved(df, tool)[tool + "-runtime"].tolist()))
 
-    # def add_vbs(tools_list, name):
-    #     df = df_all_no_nan[[f"{tool}-runtime" for tool in tools_list]].min(axis=1)
-    #     concat[name] = pd.Series(sorted(df[df != 120].tolist()))
+    
 
     # add_vbs(["cvc5-1.1.2", "z3-4.13.0"], "cvc5+Z3")
     # add_vbs(["cvc5-1.1.2", "z3-4.13.0", "z3-noodler-0751e1e-2cddb2f"], "cvc5+Z3+Z3-Noodler")
@@ -205,7 +203,7 @@ def simple_table(df, tools, benches, separately=False):
     """Prints a simple table with statistics for each tools.
 
     Args:
-        df (Dataframe): _description_
+        df (Dataframe): data
         tools (list): List of tools.
         benches (list): List of benchmark sets.
         separately (bool, optional): Should we print table for each benchmark separately. Defaults to False.
@@ -214,7 +212,7 @@ def simple_table(df, tools, benches, separately=False):
     result = ""
 
     def print_table_from_full_df(df):
-        header = ["tool", "✅", "❌", "avg", "med", "time", "sat", "unsat", "unknown", "TO", "MO+ERR", "other"]
+        header = ["tool", "✅", "❌", "time", "avg", "med", "std", "sat", "unsat", "unknown", "TO", "MO+ERR", "other"]
         result = ""
         result += f"# of formulae: {len(df)}\n"
         result += "--------------------------------------------------\n"
@@ -226,11 +224,12 @@ def simple_table(df, tools, benches, separately=False):
             avg_solved = solved.mean()
             median_solved = solved.median()
             total_solved = solved.sum()
+            std_solved = solved.std()
             unknown = len(get_unknowns(df, tool))
             to = len(get_timeouts(df, tool))
             err = len(get_errors(df, tool))
             other = len(get_invalid(df, tool))
-            table.append([tool, sat+unsat, unknown+to+err+other, avg_solved, median_solved, total_solved, sat, unsat, unknown, to, err, other])
+            table.append([tool, sat+unsat, unknown+to+err+other, total_solved, avg_solved, median_solved, std_solved, sat, unsat, unknown, to, err, other])
         result += tab.tabulate(table, headers='firstrow', floatfmt=".2f") + "\n"
         result += "--------------------------------------------------\n\n"
         return result
@@ -243,3 +242,31 @@ def simple_table(df, tools, benches, separately=False):
         result += print_table_from_full_df(df[df["benchmark"].isin(benches)])
     
     return result
+
+def add_vbs(df, tools_list, name = None):
+    """Adds virtual best solvers from tools in tool_list
+
+    Args:
+        df (Dataframe): data
+        tools_list (list): list of tools
+        name (str, optional): Name of the vbs used for the new columns. If not set (=None), the name is generated from the name of tools in tool_list.
+
+    Returns:
+        Dataframe: same as df but with new columns for the vbs
+    """
+    if name == None:
+        name = "+".join(tools_list)
+    df[f"{name}-runtime"] = df[[f"{tool}-runtime" for tool in tools_list]].min(axis=1)
+    def get_result(row):
+        nonlocal tools_list
+        if "sat" in [row[f"{tool}-result"].strip() for tool in tools_list]:
+            return " sat"
+        elif "unsat" in [row[f"{tool}-result"].strip() for tool in tools_list]:
+            return " unsat"
+        else:
+            return " unknown"
+    df[f"{name}-result"] = df.apply(get_result, axis=1) # https://stackoverflow.com/questions/26886653/create-new-column-based-on-values-from-other-columns-apply-a-function-of-multi
+    return df
+
+def fuck():
+    print("fuck")
