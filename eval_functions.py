@@ -131,7 +131,7 @@ def scatter_plot(df, x_tool, y_tool, clamp=True, clamp_domain=[0.01, 120], xname
 
     return res
 
-def cactus_plot(df, tools, tool_names = None, start = 0, end = None, logarithmic_y_axis=True, width=6, height=6, show_legend=True, legend_loc="upper left"):
+def cactus_plot(df, tools, tool_names = None, start = 0, end = None, logarithmic_y_axis=True, width=6, height=6, show_legend=True, put_legend_outside=False):
     """Returns cactus plot (sorted runtimes of each tool in tools). To print the result use result.figure.savefig("name_of_file.pdf", transparent=True).
 
     Args:
@@ -144,7 +144,7 @@ def cactus_plot(df, tools, tool_names = None, start = 0, end = None, logarithmic
         width (int, optional): Figure width in inches. Defaults to 6.
         height (int, optional): Figure height in inches. Defaults to 6.
         show_legend (bool, optional): Print legend. Defaults to True.
-        legend_loc (str, optional): Legend location. Defaults to "upper left".
+        put_legend_outside (bool, optional): Whether to put legend outside the plot. Defaults to False.
     """
     if tool_names == None:
         tool_names = { tool:tool for tool in tools }
@@ -158,15 +158,6 @@ def cactus_plot(df, tools, tool_names = None, start = 0, end = None, logarithmic
         name = tool_names[tool]
         
         concat[name] = pd.Series(sorted(get_solved(df, tool)[tool + "-runtime"].tolist()))
-
-    
-
-    # add_vbs(["cvc5-1.1.2", "z3-4.13.0"], "cvc5+Z3")
-    # add_vbs(["cvc5-1.1.2", "z3-4.13.0", "z3-noodler-0751e1e-2cddb2f"], "cvc5+Z3+Z3-Noodler")
-    # add_vbs(["cvc5-1.1.2", "z3-4.13.0", "ostrich-5dd2e10ca"], "cvc5+z3+ostrich")
-    # add_vbs(["cvc5-1.1.2", "z3-4.13.0", "ostrich-5dd2e10ca", "z3-noodler-0751e1e-2cddb2f"], "cvc5+z3+ostrich+noodler")
-    # add_vbs([tool for tool in TOOLS if tool != "z3-noodler-0751e1e-2cddb2f"], "vbs without noodler")
-    # add_vbs(TOOLS, "vbs")
 
     concat = pd.DataFrame(concat)
 
@@ -182,8 +173,11 @@ def cactus_plot(df, tools, tool_names = None, start = 0, end = None, logarithmic
     plt.set_ylabel("Runtime [s]", fontsize=16)
 
     if show_legend:
-        plt.legend(loc=legend_loc)
-        # plt.legend(bbox_to_anchor=(1.04, 1), loc='upper left')
+        if put_legend_outside:
+            plt.legend(bbox_to_anchor=(1.04, 1), loc='upper left')
+        else:
+            plt.legend(loc='upper left')
+
         # plt.axvline(x=end)
 
         # plt.get_legend().remove()
