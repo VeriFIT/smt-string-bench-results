@@ -252,8 +252,8 @@ def simple_table(df, tools, benches, separately=False):
         result += "--------------------------------------------------\n"
         table = [header]
         for tool in tools:
-            sat = len(df[df[tool + "-result"].str.strip() == " sat"])
-            unsat = len(df[df[tool + "-result"].str.strip() == " unsat"])
+            sat = len(df[df[tool + "-result"].str.strip() == "sat"])
+            unsat = len(df[df[tool + "-result"].str.strip() == "unsat"])
             solved = get_solved(df, tool)[f"{tool}-runtime"]
             avg_solved = solved.mean()
             median_solved = solved.median()
