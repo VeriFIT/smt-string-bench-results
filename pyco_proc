@@ -12,8 +12,6 @@ fmt = 'csv'
 # number of parameters of execution
 PARAMS_NUM = 1
 
-
-###########################################
 def proc_res(fd, args):
     """proc_res(fd, args) -> _|_
 
@@ -51,7 +49,7 @@ def proc_res(fd, args):
             eng_res["error"] = err
             eng_res["output"] = dict()
 
-            out_lines = out.split("###")
+            out_lines = [out]
             for line in out_lines:
                 spl = line.split(':', 1)
                 if len(spl) != 2:  # jump over lines not in the format
@@ -143,8 +141,6 @@ def proc_res(fd, args):
         raise Exception('Invalid output format: "{}"'.format(fmt))
     return
 
-
-###############################
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='''proc_results.py - \
 Processes results of benchmarks from pycobench''')
