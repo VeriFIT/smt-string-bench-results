@@ -138,8 +138,15 @@
 "z3-noodler-ec4ce36-d95fe13",
 
 # branch regex-loop
-"z3-noodler-7b3e5c5-d95fe13", (contains a bug)
+"z3-noodler-7b3e5c5-d95fe13", # (contains a bug)
 "z3-noodler-b0899c4-d95fe13",
 
 # branch nielsen-opts
 "z3-noodler-605ccd5-d95fe13"
+
+# branch fix_rewriter
+"z3-noodler-e58cb97-d95fe13", # after reenabling (a \in to_str b) -> a = b rewriter rule
+
+# branch move_rewriter_rule
+"z3-noodler-ffcd4ad-d95fe13", # after moving rules str.len s = n -> s \in \Sigma^n and similar for <= and for str.to_int directly into rewriter (with a bug)
+"z3-noodler-43f4868-d95fe13", # run only on conversion benchmarks; trying to fix the bug, does not work for full_str_int (and there is performance degradation)
