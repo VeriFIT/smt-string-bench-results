@@ -9,6 +9,7 @@ def read_file(filename):
     df_loc = pd.read_csv(
         filename,
         sep=";",
+        dtype='unicode',
         )
     return df_loc
 
@@ -205,33 +206,23 @@ def sanity_check(df, tool, compare_with):
 
 def get_invalid(df, tool):
     """Returns dataframe containing rows of df, where df[tool-result] is not a valid result (sat/unsat/unknown/TO/ERR)"""
-    pt = df
-    pt = pt[((pt[tool+"-result"].str.strip() != 'sat') & (pt[tool+"-result"].str.strip() != 'unsat') & (pt[tool+"-result"].str.strip() != 'unknown') & (pt[tool+"-result"].str.strip() != 'TO') & (pt[tool+"-result"].str.strip() != 'ERR'))]
-    return pt
+    return df[((df[tool+"-result"].str.strip() != 'sat') & (df[tool+"-result"].str.strip() != 'unsat') & (df[tool+"-result"].str.strip() != 'unknown') & (df[tool+"-result"].str.strip() != 'TO') & (df[tool+"-result"].str.strip() != 'ERR'))]
 
 def get_solved(df, tool):
     """Returns dataframe containing rows of df, where df[tool-result] is a result, i.e., either 'sat' or 'unsat'"""
-    pt = df
-    pt = pt[(pt[tool+"-result"].str.strip() == 'sat')|(pt[tool+"-result"].str.strip() == 'unsat')]
-    return pt
+    return df[(df[tool+"-result"].str.strip() == 'sat')|(df[tool+"-result"].str.strip() == 'unsat')]
 
 def get_unknowns(df, tool):
     """Returns dataframe containing rows of df, where df[tool-result] is 'unknown'"""
-    pt = df
-    pt = pt[(pt[tool+"-result"].str.strip() == 'unknown')]
-    return pt
+    return df[(df[tool+"-result"].str.strip() == 'unknown')]
 
 def get_timeouts(df, tool):
     """Returns dataframe containing rows of df, where df[tool-result] is timeout, i.e., 'TO'"""
-    pt = df
-    pt = pt[(pt[tool+"-result"].str.strip() == 'TO')]
-    return pt
+    return df[(df[tool+"-result"].str.strip() == 'TO')]
 
 def get_errors(df, tool):
     """Returns dataframe containing rows of df, where df[tool-result] is some error or memout, i.e., 'ERR'"""
-    pt = df
-    pt = pt[((pt[tool+"-result"].str.strip() != 'sat') & (pt[tool+"-result"].str.strip() != 'unsat') & (pt[tool+"-result"].str.strip() != 'unknown') & (pt[tool+"-result"].str.strip() != 'TO'))]
-    return pt
+    return df[(df[tool+"-result"].str.strip() == 'ERR')]
 
 def simple_table(df, tools, benches, separately=False):
     """Prints a simple table with statistics for each tools.
@@ -293,9 +284,9 @@ def add_vbs(df, tools_list, name = None):
     df[f"{name}-runtime"] = df[[f"{tool}-runtime" for tool in tools_list]].min(axis=1)
     def get_result(row):
         nonlocal tools_list
-        if "sat" in [row[f"{tool}-result"].strip() for tool in tools_list]:
+        if "sat" in [str(row[f"{tool}-result"]).strip() for tool in tools_list]:
             return "sat"
-        elif "unsat" in [row[f"{tool}-result"].strip() for tool in tools_list]:
+        elif "unsat" in [str(row[f"{tool}-result"]).strip() for tool in tools_list]:
             return "unsat"
         else:
             return "unknown"
