@@ -151,3 +151,6 @@
 # branch move_rewriter_rule
 "z3-noodler-ffcd4ad-d95fe13", # after moving rules str.len s = n -> s \in \Sigma^n and similar for <= and for str.to_int directly into rewriter (with a bug)
 "z3-noodler-43f4868-d95fe13", # run only on conversion benchmarks; trying to fix the bug, does not work for full_str_int (and there is performance degradation)
+
+# branch lazy_intersection
+"z3-noodler-60c4a76-d95fe13", # contains a bug
