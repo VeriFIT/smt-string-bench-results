@@ -154,3 +154,4 @@
 
 # branch lazy_intersection
 "z3-noodler-60c4a76-d95fe13", # contains a bug
+"z3-noodler-7380a2a-d95fe13", # fixed
