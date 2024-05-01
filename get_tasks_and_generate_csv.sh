@@ -63,4 +63,9 @@ process_tasks() {
 	git commit -m "$git_message"
 }
 
+if [ "$#" -ne 1 ]; then
+    echo "ERROR: script expects exactly one argument - name of the .tasks file that should be downloaded and processed"
+	exit -1
+fi
+
 process_tasks $1
