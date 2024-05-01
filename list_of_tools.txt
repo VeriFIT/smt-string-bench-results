@@ -146,7 +146,7 @@
 
 # branch fix_rewriter
 "z3-noodler-e58cb97-d95fe13", # after reenabling (a \in to_str b) -> a = b rewriter rule
-z3-noodler-debug-5e0e87f-d95fe13, # same (after merging to devel), but debug version
+"z3-noodler-debug-5e0e87f-d95fe13", # same (after merging to devel), but debug version
 
 # branch move_rewriter_rule
 "z3-noodler-ffcd4ad-d95fe13", # after moving rules str.len s = n -> s \in \Sigma^n and similar for <= and for str.to_int directly into rewriter (with a bug)
