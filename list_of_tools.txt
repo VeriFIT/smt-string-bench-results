@@ -24,6 +24,7 @@
 "z3-4.12.6",
 "z3-4.13.0",
 "ostrich-5dd2e10ca", # 1.3 with even more commits than 70d01e2d2 (run without any arguments)
+"ostrich-e386836db", # newer version
 "z3-noodler-fb447e3-2cddb2f", # v1.0.0
 "z3-noodler-0751e1e-2cddb2f", # v1.1.0
 

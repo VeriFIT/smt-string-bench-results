@@ -224,7 +224,7 @@ def get_errors(df, tool):
     """Returns dataframe containing rows of df, where df[tool-result] is some error or memout, i.e., 'ERR'"""
     return df[(df[tool+"-result"].str.strip() == 'ERR')]
 
-def simple_table(df, tools, benches, separately=False):
+def simple_table(df, tools, benches, separately=False, times_from_solved=True):
     """Prints a simple table with statistics for each tools.
 
     Args:
@@ -232,6 +232,7 @@ def simple_table(df, tools, benches, separately=False):
         tools (list): List of tools.
         benches (list): List of benchmark sets.
         separately (bool, optional): Should we print table for each benchmark separately. Defaults to False.
+        times_from_solved (bool, optional): Should we compute total, average and median time from only solved instances. Defaults to True.
     """
 
     result = ""
@@ -245,16 +246,18 @@ def simple_table(df, tools, benches, separately=False):
         for tool in tools:
             sat = len(df[df[tool + "-result"].str.strip() == "sat"])
             unsat = len(df[df[tool + "-result"].str.strip() == "unsat"])
-            solved = get_solved(df, tool)[f"{tool}-runtime"]
-            avg_solved = solved.mean()
-            median_solved = solved.median()
-            total_solved = solved.sum()
-            std_solved = solved.std()
+            runtime_col = df[f"{tool}-runtime"]
+            if times_from_solved:
+                runtime_col = get_solved(df, tool)[f"{tool}-runtime"]
+            avg = runtime_col.mean()
+            median = runtime_col.median()
+            total = runtime_col.sum()
+            std = runtime_col.std()
             unknown = len(get_unknowns(df, tool))
             to = len(get_timeouts(df, tool))
             err = len(get_errors(df, tool))
             other = len(get_invalid(df, tool))
-            table.append([tool, sat+unsat, unknown+to+err+other, total_solved, avg_solved, median_solved, std_solved, sat, unsat, unknown, to, err, other])
+            table.append([tool, sat+unsat, unknown+to+err+other, total, avg, median, std, sat, unsat, unknown, to, err, other])
         result += tab.tabulate(table, headers='firstrow', floatfmt=".2f") + "\n"
         result += "--------------------------------------------------\n\n"
         return result
