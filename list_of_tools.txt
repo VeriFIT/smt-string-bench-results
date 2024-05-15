@@ -156,3 +156,7 @@
 # branch lazy_intersection
 "z3-noodler-60c4a76-d95fe13", # contains a bug
 "z3-noodler-7380a2a-d95fe13", # fixed
+
+# branch infinite-looping
+"z3-noodler-82db97c-d95fe13",
+"z3-noodler-6802421-d95fe13", # top version
