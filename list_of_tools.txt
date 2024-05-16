@@ -158,5 +158,8 @@
 "z3-noodler-7380a2a-d95fe13", # fixed
 
 # branch infinite-looping
-"z3-noodler-82db97c-d95fe13",
 "z3-noodler-6802421-d95fe13", # top version
+"z3-noodler-82db97c-d95fe13",
+
+# branch snia
+"z3-noodler-f552b5f-d95fe13",
