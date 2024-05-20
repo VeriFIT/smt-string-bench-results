@@ -53,7 +53,7 @@ def load_benches(benches, tools, bench_selection):
     
     return df_all
 
-def scatter_plot(df, x_tool, y_tool, clamp=True, clamp_domain=[0.01, 120], xname=None, yname=None, log=True, width=6, height=6, show_legend=True, legend_width=2):
+def scatter_plot(df, x_tool, y_tool, clamp=True, clamp_domain=[0.01, 120], xname=None, yname=None, log=True, width=6, height=6, show_legend=True, legend_width=2, file_name_to_save=None):
     """Returns scatter plot plotting the values of df[x_tool] and df[y_tool] columns.
 
     Args:
@@ -68,6 +68,7 @@ def scatter_plot(df, x_tool, y_tool, clamp=True, clamp_domain=[0.01, 120], xname
         width (int, optional): Figure width in inches. Defaults to 6.
         height (int, optional): Figure height in inches. Defaults to 6.
         show_legend (bool, optional): Print legend. Defaults to True.
+        file_name_to_save (str, optional): If not None, save the result to file_name_to_save.pdf. Defaults to None.
     """
     assert len(clamp_domain) == 2
 
@@ -128,11 +129,12 @@ def scatter_plot(df, x_tool, y_tool, clamp=True, clamp_domain=[0.01, 120], xname
     scatter += p9.geom_vline(xintercept=clamp_domain[1], linetype=DASH_PATTERN)  # vertical rule
     scatter += p9.geom_hline(yintercept=clamp_domain[1], linetype=DASH_PATTERN)  # horizontal rule
 
-    res = scatter
+    if file_name_to_save != None:
+        scatter.save(filename=f"{file_name_to_save}.pdf", dpi=500, verbose = False)
 
-    return res
+    return scatter
 
-def cactus_plot(df, tools, tool_names = None, start = 0, end = None, logarithmic_y_axis=True, width=6, height=6, show_legend=True, put_legend_outside=False):
+def cactus_plot(df, tools, tool_names = None, start = 0, end = None, logarithmic_y_axis=True, width=6, height=6, show_legend=True, put_legend_outside=False, file_name_to_save=None, num_of_x_ticks=5):
     """Returns cactus plot (sorted runtimes of each tool in tools). To print the result use result.figure.savefig("name_of_file.pdf", transparent=True).
 
     Args:
@@ -146,6 +148,8 @@ def cactus_plot(df, tools, tool_names = None, start = 0, end = None, logarithmic
         height (int, optional): Figure height in inches. Defaults to 6.
         show_legend (bool, optional): Print legend. Defaults to True.
         put_legend_outside (bool, optional): Whether to put legend outside the plot. Defaults to False.
+        file_name_to_save (str, optional): If not None, save the result to file_name_to_save.pdf. Defaults to None.
+        num_of_x_ticks (int, optional): Number of ticks on the x-axis. Defaults to 5.
     """
     if tool_names == None:
         tool_names = { tool:tool for tool in tools }
@@ -163,9 +167,10 @@ def cactus_plot(df, tools, tool_names = None, start = 0, end = None, logarithmic
     concat = pd.DataFrame(concat)
 
 
-    plt = concat.plot.line(grid=True, fontsize=10, lw=2, figsize=(width, height))
-    ticks = np.linspace(start, end, 5, dtype=int)
+    plt = concat.plot.line(figsize=(width, height))
+    ticks = np.linspace(start, end, num_of_x_ticks, dtype=int)
     plt.set_xticks(ticks)
+    plt.grid(True, linestyle='--', alpha=0.5)
     plt.set_xlim([start, end])
     plt.set_ylim([0.1, 120])
     if logarithmic_y_axis:
@@ -188,7 +193,8 @@ def cactus_plot(df, tools, tool_names = None, start = 0, end = None, logarithmic
         # plt.figure.savefig(f"graphs/fig-cactus-{file_name}.pdf", dpi=1000, bbox_inches='tight')
 
     plt.figure.tight_layout()
-    # plt.figure.savefig("cactus.pdf", transparent=True)
+    if file_name_to_save != None:
+        plt.figure.savefig(f"{file_name_to_save}.pdf", transparent=True)
     return plt
 
 def sanity_check(df, tool, compare_with):
