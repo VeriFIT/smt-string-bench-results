@@ -166,4 +166,8 @@
 "z3-noodler-b7b8ad5-d95fe13",
 
 # branch length-dec-proc
-"z3-noodler-52a04e9-d95fe13"
+"z3-noodler-52a04e9-d95fe13",
+
+# branch regex_union
+"z3-noodler-df77d80-d95fe13", # only automatark
+"z3-noodler-5d9f410-d95fe13"
