@@ -53,7 +53,7 @@ def load_benches(benches, tools, bench_selection):
     
     return df_all
 
-def scatter_plot(df, x_tool, y_tool, clamp=True, clamp_domain=[0.01, 120], xname=None, yname=None, log=True, width=6, height=6, show_legend=True, legend_width=2, file_name_to_save=None):
+def scatter_plot(df, x_tool, y_tool, clamp=True, clamp_domain=[0.01, 120], xname=None, yname=None, log=True, width=6, height=6, show_legend=True, legend_width=2, file_name_to_save=None, transparent=False):
     """Returns scatter plot plotting the values of df[x_tool] and df[y_tool] columns.
 
     Args:
@@ -69,6 +69,7 @@ def scatter_plot(df, x_tool, y_tool, clamp=True, clamp_domain=[0.01, 120], xname
         height (int, optional): Figure height in inches. Defaults to 6.
         show_legend (bool, optional): Print legend. Defaults to True.
         file_name_to_save (str, optional): If not None, save the result to file_name_to_save.pdf. Defaults to None.
+        transparent (bool, optional): Whether the generated plot should have transparent background.
     """
     assert len(clamp_domain) == 2
 
@@ -120,6 +121,14 @@ def scatter_plot(df, x_tool, y_tool, clamp=True, clamp_domain=[0.01, 120], xname
     scatter += p9.theme(axis_text=p9.element_text(size=24, color="black"))
     scatter += p9.theme(axis_title=p9.element_text(size=24, color="black"))
     scatter += p9.theme(legend_text=p9.element_text(size=12))
+    if transparent:
+        scatter += p9.theme(
+            plot_background=p9.element_blank(),
+            panel_background = p9.element_rect(alpha=0.0),
+            panel_border = p9.element_rect(colour = "black"),
+            legend_background=p9.element_rect(alpha=0.0),
+            legend_box_background=p9.element_rect(alpha=0.0),
+        )
 
     if not show_legend:
         scatter += p9.theme(legend_position='none')
@@ -130,7 +139,7 @@ def scatter_plot(df, x_tool, y_tool, clamp=True, clamp_domain=[0.01, 120], xname
     scatter += p9.geom_hline(yintercept=clamp_domain[1], linetype=DASH_PATTERN)  # horizontal rule
 
     if file_name_to_save != None:
-        scatter.save(filename=f"{file_name_to_save}.pdf", dpi=500, verbose = False)
+        scatter.save(filename=f"{file_name_to_save}.pdf", dpi=500, verbose=False)
 
     return scatter
 
@@ -180,9 +189,9 @@ def cactus_plot(df, tools, tool_names = None, start = 0, end = None, logarithmic
 
     if show_legend:
         if put_legend_outside:
-            plt.legend(bbox_to_anchor=(1.04, 1), loc='upper left')
+            plt.legend(bbox_to_anchor=(1.04, 1), loc='upper left',framealpha=0.1)
         else:
-            plt.legend(loc='upper left')
+            plt.legend(loc='upper left',framealpha=0.1)
 
         # plt.axvline(x=end)
 
