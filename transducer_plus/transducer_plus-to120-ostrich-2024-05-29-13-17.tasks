@@ -1,0 +1,182 @@
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/addslashes-htmlUnescape.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/htmlUnescape-trim.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/htmlUnescape-toUpper.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/addslashes-toUpper.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/addslashes-htmlEscape.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/addslashes-escapeString.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/addslashes-toLower.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/htmlUnescape-toLower.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/toLower-escapeString.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/escapeString-toUpper.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/htmlUnescape-escapeString.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/htmlEscape-toLower.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/htmlEscape-toUpper.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/trim-escapeString.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/htmlEscape-escapeString.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/addslashes-trim.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/trim-toLower.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/htmlEscape-trim.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/toLower-toUpper.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/htmlUnescape-htmlEscape.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/trim-toUpper.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/addslashes-htmlUnescape.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/htmlUnescape-trim.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/htmlUnescape-toUpper.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/addslashes-toUpper.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/addslashes-htmlEscape.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/addslashes-escapeString.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/addslashes-toLower.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/htmlUnescape-toLower.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/toLower-escapeString.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/escapeString-toUpper.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/htmlUnescape-escapeString.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/htmlEscape-toLower.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/htmlEscape-toUpper.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/trim-escapeString.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/htmlEscape-escapeString.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/addslashes-trim.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/trim-toLower.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/htmlEscape-trim.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/toLower-toUpper.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/htmlUnescape-htmlEscape.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/trim-toUpper.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Idempotence/trim.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Idempotence/addslashes.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Idempotence/toUpper.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Idempotence/toLower.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Idempotence/htmlEscape.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Idempotence/htmlUnescape.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Idempotence/escapeString.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/addslashes-htmlUnescape.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/escapeString-toLower.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/toLower-htmlEscape.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/htmlUnescape-addslashes.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/toLower-htmlUnescape.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/toUpper-trim.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/htmlUnescape-trim.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/htmlUnescape-toUpper.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/toLower-addslashes.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/addslashes-toUpper.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/addslashes-htmlEscape.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/addslashes-escapeString.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/toUpper-addslashes.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/addslashes-toLower.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/htmlUnescape-toLower.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/toLower-escapeString.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/escapeString-toUpper.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/htmlEscape-addslashes.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/toUpper-escapeString.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/toUpper-toLower.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/trim-addslashes.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/htmlUnescape-escapeString.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/htmlEscape-toLower.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/htmlEscape-toUpper.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/trim-escapeString.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/toUpper-htmlUnescape.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/htmlEscape-escapeString.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/addslashes-trim.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/trim-htmlUnescape.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/trim-toLower.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/escapeString-addslashes.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/htmlEscape-trim.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/htmlEscape-htmlUnescape.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/toLower-toUpper.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/htmlUnescape-htmlEscape.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/toUpper-htmlEscape.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/toLower-trim.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/escapeString-htmlEscape.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/trim-htmlEscape.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/escapeString-trim.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/trim-toUpper.smt2
+execute;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/escapeString-htmlUnescape.smt2
+finished;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/addslashes-toUpper.smt2;0;result: sat;;19.2
+finished;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/addslashes-htmlEscape.smt2;0;result: unsat;;19.6
+finished;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/addslashes-toLower.smt2;0;result: Prover 2: WARNING: cyclic definitions found, ignoring them###sat;;28.54
+finished;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/addslashes-escapeString.smt2;0;result: sat;;48.66
+finished;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/escapeString-toUpper.smt2;0;result: sat;;54.94
+finished;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/toLower-escapeString.smt2;0;result: sat;;89.74
+finished;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/htmlEscape-toLower.smt2;0;result: sat;;35.16
+finished;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/htmlEscape-toUpper.smt2;0;result: sat;;33.77
+timeout;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/htmlUnescape-toUpper.smt2
+timeout;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/addslashes-htmlUnescape.smt2
+timeout;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/htmlUnescape-trim.smt2
+finished;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/addslashes-trim.smt2;0;result: sat;;6.12
+timeout;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/htmlUnescape-toLower.smt2
+finished;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/trim-escapeString.smt2;0;result: sat;;82.39
+timeout;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/htmlUnescape-escapeString.smt2
+timeout;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/htmlEscape-escapeString.smt2
+timeout;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/trim-toLower.smt2
+finished;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/addslashes-htmlUnescape.smt2;0;result: sat;;5.17
+finished;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/htmlUnescape-trim.smt2;0;result: sat;;4.95
+timeout;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/htmlEscape-trim.smt2
+finished;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/addslashes-toUpper.smt2;0;result: sat;;9.01
+timeout;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/toLower-toUpper.smt2
+finished;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/addslashes-htmlEscape.smt2;0;result: sat;;20.95
+finished;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/addslashes-toLower.smt2;0;result: sat;;8.27
+finished;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/addslashes-escapeString.smt2;0;result: sat;;31.58
+finished;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/escapeString-toUpper.smt2;0;result: sat;;36.97
+timeout;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/htmlUnescape-htmlEscape.smt2
+timeout;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/trim-toUpper.smt2
+finished;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/toLower-escapeString.smt2;0;result: sat;;71.22
+finished;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/trim-escapeString.smt2;0;result: sat;;63.84
+timeout;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/htmlUnescape-toUpper.smt2
+finished;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/htmlEscape-escapeString.smt2;0;result: sat;;37.43
+finished;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/addslashes-trim.smt2;0;result: sat;;5.2
+finished;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/htmlEscape-trim.smt2;0;result: sat;;6.04
+finished;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/trim-toLower.smt2;0;result: sat;;8.72
+timeout;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/htmlUnescape-toLower.smt2
+finished;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/trim-toUpper.smt2;0;result: sat;;9.72
+finished;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Idempotence/trim.smt2;0;result: sat;;51.11
+finished;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Idempotence/addslashes.smt2;0;result: sat;;4.34
+timeout;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/htmlUnescape-escapeString.smt2
+timeout;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/htmlEscape-toLower.smt2
+finished;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Idempotence/htmlEscape.smt2;0;result: sat;;7.19
+timeout;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/htmlEscape-toUpper.smt2
+finished;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Idempotence/toUpper.smt2;0;result: unsat;;72.02
+finished;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Idempotence/toLower.smt2;0;result: unsat;;73.68
+timeout;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/toLower-toUpper.smt2
+timeout;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/htmlUnescape-htmlEscape.smt2
+finished;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/toLower-htmlEscape.smt2;0;result: sat;;18.56
+finished;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/escapeString-toLower.smt2;0;result: sat;;104.55
+finished;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/toUpper-trim.smt2;0;result: sat;;11.89
+finished;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/htmlUnescape-trim.smt2;0;result: sat;;5.84
+timeout;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Idempotence/htmlUnescape.smt2
+timeout;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Idempotence/escapeString.smt2
+finished;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/toLower-addslashes.smt2;0;result: sat;;12.93
+finished;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/addslashes-toUpper.smt2;0;result: sat;;8.0
+finished;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/addslashes-htmlEscape.smt2;0;result: sat;;5.23
+finished;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/toUpper-addslashes.smt2;0;result: sat;;11.88
+finished;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/addslashes-toLower.smt2;0;result: sat;;7.64
+timeout;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/addslashes-htmlUnescape.smt2
+finished;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/addslashes-escapeString.smt2;0;result: sat;;68.64
+timeout;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/htmlUnescape-addslashes.smt2
+finished;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/htmlEscape-addslashes.smt2;0;result: sat;;5.49
+timeout;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/toLower-htmlUnescape.smt2
+finished;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/escapeString-toUpper.smt2;0;result: sat;;91.84
+finished;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/toLower-escapeString.smt2;0;result: Prover 2: WARNING: cyclic definitions found, ignoring them###sat;;97.45
+finished;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/trim-addslashes.smt2;0;result: sat;;5.19
+timeout;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/htmlUnescape-toUpper.smt2
+finished;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/htmlEscape-toLower.smt2;0;result: sat;;11.27
+finished;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/htmlEscape-toUpper.smt2;0;result: sat;;9.68
+finished;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/trim-escapeString.smt2;0;result: sat;;38.99
+timeout;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/htmlUnescape-toLower.smt2
+finished;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/toUpper-escapeString.smt2;0;result: sat;;81.44
+finished;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/trim-htmlUnescape.smt2;0;result: sat;;5.95
+finished;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/addslashes-trim.smt2;0;result: sat;;6.6
+finished;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/trim-toLower.smt2;0;result: sat;;8.73
+finished;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/htmlEscape-trim.smt2;0;result: sat;;15.48
+finished;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/htmlEscape-htmlUnescape.smt2;0;result: sat;;9.26
+finished;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/htmlEscape-escapeString.smt2;0;result: sat;;71.19
+finished;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/escapeString-addslashes.smt2;0;result: sat;;64.71
+finished;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/toUpper-htmlEscape.smt2;0;result: sat;;17.91
+finished;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/toLower-trim.smt2;0;result: sat;;12.91
+timeout;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/toUpper-toLower.smt2
+finished;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/trim-htmlEscape.smt2;0;result: sat;;6.23
+timeout;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/htmlUnescape-escapeString.smt2
+finished;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/trim-toUpper.smt2;0;result: sat;;8.83
+finished;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/escapeString-trim.smt2;0;result: sat;;36.7
+timeout;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/toUpper-htmlUnescape.smt2
+timeout;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/toLower-toUpper.smt2
+timeout;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/htmlUnescape-htmlEscape.smt2
+timeout;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/escapeString-htmlEscape.smt2
+timeout;ostrich-1.4pre;../formulae/QF_SLIA/20230331-transducer-plus/Duality/escapeString-htmlUnescape.smt2
