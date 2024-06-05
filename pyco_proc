@@ -90,9 +90,9 @@ def proc_res(fd, args):
                         if out in bench_res["output"]:
                             ls.append(bench_res["output"][out])
                         else:
-                            sys.stderr.write("Warning: in {} and {}: "
-                                "element {} not in {}\n".format(bench, eng,
-                                out, bench_res["output"]))
+                            # sys.stderr.write("Warning: in {} and {}: "
+                            #     "element {} not in {}\n".format(bench, eng,
+                            #     out, bench_res["output"]))
                             ls.append("MISSING")
                             # assert False
             else:
