@@ -29,6 +29,7 @@
 "ostrich-1.4pre", # smt-comp2024
 "z3-noodler-fb447e3-2cddb2f", # v1.0.0
 "z3-noodler-0751e1e-2cddb2f", # v1.1.0
+"z3-noodler-4bcf006-d95fe13", # v1.2.0
 
 
 ### PREVIOUS NOODLER VERSIONS ###
