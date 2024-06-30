@@ -193,6 +193,7 @@
 # branch model-gen
 "z3-noodler-aa883d5-d95fe13", # based on sat-return, without snia
 "z3-noodler-88a35a2-d95fe13",
+"z3-noodler-07ed037-d95fe13",
 
 # branch refact-prepro
 "z3-noodler-3f0112f-d95fe13",
