@@ -57,10 +57,6 @@ process_tasks() {
 		path_to_file="${path_to_file//$tool_name/$tool_name-$version}"
 	fi
 
-
-	# Take all the .tasks files for the given benchmark, sort them by dates and give that to pyco_proc, so that newest benchmarks are always at the end of csv.
-	ls $benchmark_name/*.tasks | awk '{print substr($0, 1, length($0)-22) "@" substr($0, length($0)-21)}' | sort -t@ -k 2 | sed "s/@//g" | xargs cat | python3 pyco_proc --csv > $benchmark_name/to120.csv
-
 	git add $path_to_file $benchmark_name/to120.csv
 	git commit -m "$git_message"
 }
