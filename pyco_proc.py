@@ -6,11 +6,8 @@ import csv
 import sys
 from tabulate import tabulate
 
-#  fmt = 'text'
-fmt = 'csv'
-
 # number of parameters of execution
-PARAMS_NUM = 1
+__PYCO_PROC_PARAMS_NUM = 1
 
 def proc_res(fd, args):
     """proc_res(fd, args) -> _|_
@@ -26,10 +23,10 @@ def proc_res(fd, args):
     engines_outs = dict()
     results = dict()
     for row in reader:
-        assert len(row) >= 1 + 1 + PARAMS_NUM  # status + engine name + params
+        assert len(row) >= 1 + 1 + __PYCO_PROC_PARAMS_NUM  # status + engine name + params
         status, eng = row[0], row[1]
-        params = tuple(row[2:(PARAMS_NUM+2)])
-        row_tail = row[(PARAMS_NUM+2):]
+        params = tuple(row[2:(__PYCO_PROC_PARAMS_NUM+2)])
+        row_tail = row[(__PYCO_PROC_PARAMS_NUM+2):]
         if params not in results:
             results[params] = dict()
         if eng not in engines:
