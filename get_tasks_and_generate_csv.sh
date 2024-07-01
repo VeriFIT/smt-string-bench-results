@@ -7,11 +7,11 @@ FILE_PATH_ON_HOST="smt-bench/bench"
 
 # Exctracts tool name from the first argument which is assumed
 # to be a file path of form
-#     benchmark_name-to120-tool_name-date.tasks
-# where date has the form "YYYY-MM-DD-hh-mm".
+#     benchmark_name-toD*-tool_name-date.tasks
+# where D is some digit and date has the form "YYYY-MM-DD-hh-mm".
 extract_tool_name() {
-    # tool name should start after "*-to120-"
-    local tool_name=${1#*to120-}
+    # tool name should start after second occurence of '-'
+    local tool_name=$(cut -d- -f3- <<< $1)
     # remove .tasks from the end
     tool_name=${tool_name%.tasks}
     # remove date (should be exactly 17 characters long)
@@ -53,6 +53,8 @@ process_tasks() {
 		sed -i '' "s/$version-result/result/g" $path_to_file
 		sed -i '' "s/$tool_name;/$tool_name-$version;/g" $path_to_file
 		git_message="$tool_name-$version on $benchmark_name"
+		mv $path_to_file "${path_to_file//$tool_name/$tool_name-$version}"
+		path_to_file="${path_to_file//$tool_name/$tool_name-$version}"
 	fi
 
 
