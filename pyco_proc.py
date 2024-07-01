@@ -5,6 +5,7 @@ import argparse
 import csv
 import sys
 from tabulate import tabulate
+import io
 
 # number of parameters of execution
 __PYCO_PROC_PARAMS_NUM = 1
@@ -126,15 +127,17 @@ def proc_res(fd, args):
         fmt = "html"
 
     if fmt == 'html':
-        print(tabulate(list_ptrns, header, tablefmt='html'))
+        return tabulate(list_ptrns, header, tablefmt='html')
     elif fmt == 'text':
-        print(tabulate(list_ptrns, header, tablefmt='text'))
+        return tabulate(list_ptrns, header, tablefmt='text')
     elif fmt == 'csv':
+        output = io.StringIO()
         writer = csv.writer(
-            sys.stdout, delimiter=';', quotechar='"', escapechar='\\',
+            output, delimiter=';', quotechar='"', escapechar='\\',
             doublequote=False, quoting=csv.QUOTE_MINIMAL)
         writer.writerow(header)
         writer.writerows(list_ptrns)
+        return output.getvalue()
     else:
         raise Exception('Invalid output format: "{}"'.format(fmt))
     return
@@ -160,6 +163,6 @@ Processes results of benchmarks from pycobench''')
     else:
         fd = sys.stdin
 
-    proc_res(fd, args)
+    print(proc_res(fd, args, sys.stdout))
     if args.results:
         fd.close()

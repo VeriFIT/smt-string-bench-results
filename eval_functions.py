@@ -3,20 +3,34 @@ import numpy as np
 import mizani.formatters as mizani
 import plotnine as p9
 import tabulate as tab
+import pyco_proc
+from argparse import Namespace
+import io
+import os
 
-def read_file(filename):
-    """Reads a CSV file into Panda's data frame"""
-    df_loc = pd.read_csv(
-        filename,
-        sep=";",
-        dtype='unicode',
-        )
-    return df_loc
+def read_latest_result_file(bench, tool):
+    matching_files = []
+    for root, _, files in os.walk(bench):
+        for file in files:
+            if tool in file:
+                matching_files.append(os.path.join(root, file))
+    latest_file_name = sorted(matching_files, key = lambda x: x[-23:])[-1]
+    with open(latest_file_name) as latest_file:
+        return latest_file.read()
+
 
 def load_benches(benches, tools, bench_selection):
     dfs = dict()
     for bench in benches:
-        df = read_file(bench + "/to120.csv")
+        input = ""
+        for tool in tools:
+            input += read_latest_result_file(bench, tool)
+        input = pyco_proc.proc_res(io.StringIO(input), Namespace(csv=True,html=False,text=False,tick=False))
+        df = pd.read_csv(
+                io.StringIO(input),
+                sep=";",
+                dtype='unicode',
+        )
         df["benchmark"] = bench
         dfs[bench] = df
 
