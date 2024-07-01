@@ -57,7 +57,7 @@ process_tasks() {
 		path_to_file="${path_to_file//$tool_name/$tool_name-$version}"
 	fi
 
-	git add $path_to_file $benchmark_name/to120.csv
+	git add $path_to_file
 	git commit -m "$git_message"
 }
 
