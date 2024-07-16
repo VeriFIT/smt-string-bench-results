@@ -195,6 +195,7 @@
 "z3-noodler-88a35a2-d95fe13",
 "z3-noodler-07ed037-d95fe13",
 "z3-noodler-model-a8ca33a-2cddb2f",
+"check-model-a8ca33a-2cddb2f",
 "z3-noodler-a8ca33a-d95fe13",
 
 # branch refact-prepro

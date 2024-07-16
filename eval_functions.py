@@ -256,6 +256,14 @@ def get_errors(df, tool):
     """Returns dataframe containing rows of df, where df[tool-result] is some error or memout, i.e., 'ERR'"""
     return df[(df[tool+"-result"].str.strip() == 'ERR')]
 
+def get_sat(df, tool):
+    """Returns dataframe containing rows of df, where df[tool-result] is 'sat'"""
+    return df[(df[tool+"-result"].str.strip() == 'sat')]
+
+def get_unsat(df, tool):
+    """Returns dataframe containing rows of df, where df[tool-result] is 'unsat'"""
+    return df[(df[tool+"-result"].str.strip() == 'unsat')]
+
 def simple_table(df, tools, benches, separately=False, times_from_solved=True):
     """Prints a simple table with statistics for each tools.
 
