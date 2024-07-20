@@ -215,3 +215,8 @@
 
 # after merging everything before
 "z3-noodler-9dacadd-bdcb62d",
+
+# branch nielsen-models
+"z3-noodler-61c998e-bdcb62d",
+"z3-noodler-model-61c998e-bdcb62d",
+"check-model-61c998e-bdcb62d",
