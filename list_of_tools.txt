@@ -215,3 +215,7 @@
 
 # after merging everything before
 "z3-noodler-9dacadd-bdcb62d",
+
+# branch model-gen2
+"z3-noodler-model-c2eea75-bdcb62d",
+"z3-noodler-c2eea75-bdcb62d",
