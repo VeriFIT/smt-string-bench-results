@@ -20,6 +20,7 @@
 # run on pikachu with 6 processes in parallel (not 8 like previously)
 "cvc5-1.1.1",
 "cvc5-1.1.2",
+"cvc5-model-1.1.2",
 "z3-4.12.5",
 "z3-4.12.6",
 "z3-4.13.0",
@@ -233,3 +234,10 @@
 
 # after merging all previous model branches
 "z3-noodler-756c48c-2756940",
+
+# branch fix_handle_replace_re
+"z3-noodler-d3ad231-2756940",
+
+# branch model-gen3
+"check-model-bea7a42-2756940",
+"z3-noodler-model-bea7a42-2756940",
