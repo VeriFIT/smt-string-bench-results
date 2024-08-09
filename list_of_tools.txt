@@ -246,3 +246,8 @@
 "z3-noodler-model-86a65bd-2756940",
 "check-model-86a65bd-2756940",
 "z3-noodler-7525ba0-2756940",
+
+# branch model-gen4
+"check-model-839bd01-2756940",
+"z3-noodler-model-839bd01-2756940",
+"z3-noodler-65b4048-2756940",
