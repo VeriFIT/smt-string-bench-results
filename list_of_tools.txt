@@ -261,3 +261,7 @@
 "z3-noodler-model-ab88926-2756940",
 "check-model-ab88926-2756940",
 
+# branch len-dec-proc-model
+"check-model-321a050-2756940", # kaluza
+"z3-noodler-model-321a050-2756940", # kaluza
+"z3-noodler-length-ab1b074-2756940",
