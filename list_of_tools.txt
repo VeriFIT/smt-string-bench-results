@@ -265,3 +265,7 @@
 "check-model-321a050-2756940", # kaluza
 "z3-noodler-model-321a050-2756940", # kaluza
 "z3-noodler-length-ab1b074-2756940",
+
+# branch fix_weird_bug
+"z3-noodler-be33653-2756940",
+"z3-noodler-model-be33653-9ab1675",
