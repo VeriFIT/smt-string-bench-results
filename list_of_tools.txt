@@ -269,3 +269,8 @@
 # branch fix_weird_bug
 "z3-noodler-be33653-2756940",
 "z3-noodler-model-be33653-9ab1675",
+
+# devel after merging previous
+"z3-noodler-f08aeb7-17ffaf6",
+"z3-noodler-model-f08aeb7-17ffaf6",
+"check-model-f08aeb7-17ffaf6",
