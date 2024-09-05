@@ -274,3 +274,7 @@
 "z3-noodler-f08aeb7-17ffaf6",
 "z3-noodler-model-f08aeb7-17ffaf6",
 "check-model-f08aeb7-17ffaf6",
+
+# branch small_refactor
+"z3-noodler-f44faf4-17ffaf6",
+"z3-noodler-model-f44faf4-17ffaf6",
