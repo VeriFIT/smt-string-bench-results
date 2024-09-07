@@ -21,6 +21,7 @@
 "cvc5-1.1.1",
 "cvc5-1.1.2",
 "cvc5-model-1.1.2",
+"cvc5-1.2.0",
 "z3-4.12.5",
 "z3-4.12.6",
 "z3-4.13.0",
@@ -278,3 +279,7 @@
 # branch small_refactor
 "z3-noodler-f44faf4-17ffaf6",
 "z3-noodler-model-f44faf4-17ffaf6",
+
+# branch remove_regular_twice
+"z3-noodler-fb0e55b-17ffaf6",
+"z3-noodler-model-fb0e55b-17ffaf6",
