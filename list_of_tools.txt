@@ -21,6 +21,8 @@
 "cvc5-1.1.1",
 "cvc5-1.1.2",
 "cvc5-model-1.1.2",
+"cvc5-1.2.0",
+"cvc5-model-1.2.0",
 "z3-4.12.5",
 "z3-4.12.6",
 "z3-4.13.0",
@@ -265,3 +267,26 @@
 "check-model-321a050-2756940", # kaluza
 "z3-noodler-model-321a050-2756940", # kaluza
 "z3-noodler-length-ab1b074-2756940",
+
+# branch fix_weird_bug
+"z3-noodler-be33653-2756940",
+"z3-noodler-model-be33653-9ab1675",
+
+# devel after merging previous
+"z3-noodler-f08aeb7-17ffaf6",
+"z3-noodler-model-f08aeb7-17ffaf6",
+"check-model-f08aeb7-17ffaf6",
+
+# branch small_refactor
+"z3-noodler-f44faf4-17ffaf6",
+"z3-noodler-model-f44faf4-17ffaf6",
+
+# branch remove_regular_twice
+"z3-noodler-fb0e55b-17ffaf6",
+"z3-noodler-model-fb0e55b-17ffaf6",
+"z3-noodler-1cae537-17ffaf6",
+"z3-noodler-model-1cae537-17ffaf6",
+
+# branch concatenation_model_fix
+"z3-noodler-5249443-17ffaf6",
+"z3-noodler-model-5249443-17ffaf6",
