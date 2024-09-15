@@ -296,3 +296,7 @@
 
 # branch prefix-fix
 "z3-noodler-0122b33-17ffaf6",
+
+# branch fix_predicates_lvl0
+"z3-noodler-a56b5a1-17ffaf6",
+"z3-noodler-model-a56b5a1-17ffaf6",
