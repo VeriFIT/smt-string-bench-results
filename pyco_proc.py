@@ -85,7 +85,12 @@ def proc_res(fd, args):
             name = ""
 
             # out_lines = [out]
-            out_lines = out.split("###")
+            out_lines = []
+            lines = out.split("###")
+            for line in lines:
+                if "WARNING" in line:
+                    continue
+                out_lines.append(line)
             inner_block_type: None | InnerBlockType = None
             inner_block = ""
             for line in out_lines:
