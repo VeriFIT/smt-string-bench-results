@@ -9,6 +9,8 @@ import io
 import os
 
 def read_latest_result_file(bench, tool):
+    assert tool != ""
+
     matching_files = []
     for root, _, files in os.walk(bench):
         for file in files:
@@ -27,6 +29,7 @@ def load_benches(benches, tools, bench_selection):
     for bench in benches:
         input = ""
         for tool in tools:
+            assert tool != ""
             input += read_latest_result_file(bench, tool)
         input = pyco_proc.proc_res(io.StringIO(input), Namespace(csv=True,html=False,text=False,tick=False,stats=None))
         df = pd.read_csv(
