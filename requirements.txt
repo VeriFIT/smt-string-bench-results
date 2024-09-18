@@ -1,0 +1,6 @@
+ipykernel
+pandas
+mizani
+plotnine
+tabulate
+itables
