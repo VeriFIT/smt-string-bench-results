@@ -28,7 +28,7 @@ def load_benches(benches, tools, bench_selection):
         input = ""
         for tool in tools:
             input += read_latest_result_file(bench, tool)
-        input = pyco_proc.proc_res(io.StringIO(input), Namespace(csv=True,html=False,text=False,tick=False))
+        input = pyco_proc.proc_res(io.StringIO(input), Namespace(csv=True,html=False,text=False,tick=False,stats=None))
         df = pd.read_csv(
                 io.StringIO(input),
                 sep=";",
