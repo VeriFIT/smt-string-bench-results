@@ -300,3 +300,13 @@
 # branch fix_predicates_lvl0
 "z3-noodler-a56b5a1-17ffaf6",
 "z3-noodler-model-a56b5a1-17ffaf6",
+
+# branch model_gen_one_word
+"z3-noodler-cd34a4a-17ffaf6",
+"z3-noodler-model-cd34a4a-17ffaf6",
+"check-model-cd34a4a-17ffaf6",
+
+# devel after merging most previous branches
+"z3-noodler-1c4083d-17ffaf6",
+"z3-noodler-model-1c4083d-17ffaf6",
+"check-model-1c4083d-17ffaf6",
