@@ -1,12 +1,17 @@
 import pandas as pd
+import json
 import numpy as np
 import mizani.formatters as mizani
 import plotnine as p9
 import tabulate as tab
-import pyco_proc
 from argparse import Namespace
 import io
 import os
+import sys
+from enum import Enum
+
+import pyco_proc
+from pyco_proc import StatsFormat, StatsDestination
 
 def read_latest_result_file(bench, tool):
     assert tool != ""
@@ -31,23 +36,41 @@ def load_benches(benches, tools, bench_selection):
         for tool in tools:
             assert tool != ""
             input += read_latest_result_file(bench, tool)
-        input = pyco_proc.proc_res(io.StringIO(input), Namespace(csv=True,html=False,text=False,tick=False,stats=None))
+        input = pyco_proc.proc_res(io.StringIO(input), Namespace(csv=True,html=False,text=False,tick=False,stats=StatsDestination.OUTPUT_FILE, stats_format=StatsFormat.JSON))
         df = pd.read_csv(
                 io.StringIO(input),
                 sep=";",
                 dtype='unicode',
         )
+        for key in df.keys():
+            if key.endswith("-stats"):
+                df[key] = df[key] \
+                    .apply(lambda value: value.replace("TO", "{}").replace("ERR", "{}")) \
+                    .apply(lambda value: value.replace("###", "").replace("\\", "")) \
+                    .apply(json.loads)
+
+                # TODO: Bugfix for the incorrectly named value.
+                #  Remove when "str-num-proc-underapprox-solved-preprocess" is no longer being generated and "str-num-proc-length-solved-preprocess" is being correctly generated instead.
+                def rename_underapprox_solved_preprocess_to_length_solved_preprocess(stats_dict):
+                    if "str-num-proc-underapprox-solved-preprocess" in stats_dict:
+                        stats_dict["str-num-proc-length-solved-preprocess"] = stats_dict.pop("str-num-proc-underapprox-solved-preprocess")
+                    return stats_dict
+                df[key] = df[key].apply(rename_underapprox_solved_preprocess_to_length_solved_preprocess)
         df["benchmark"] = bench
         dfs[bench] = df
 
+    # tools_no_dates = ['-'.join(tool.split("-")[:-5]) for tool in tools]
+
     # we select only columns with used tools
-    df_all = pd.concat(dfs, ignore_index=True)[["benchmark"] + ["name"] + [f(tool) for tool in tools for f in (lambda x: x+"-result", lambda x: x+"-runtime")]]
+    df_stats = pd.concat(dfs, ignore_index=True)[["benchmark"] + ["name"] + [f"{tool}-stats" for tool in tools if "stats" in tool]]
+
+    df_runtime_result = pd.concat(dfs, ignore_index=True)[["benchmark"] + ["name"] + [f(tool) for tool in tools for f in (lambda x: x + "-result", lambda x: x + "-runtime")]]
 
     for tool in tools:
         # set runtime to 120 for nonsolved instances (unknown, TO, ERR or something else)
-        df_all.loc[(df_all[f"{tool}-result"] != "sat")&(df_all[f"{tool}-result"] != "unsat"), f"{tool}-runtime"] = 120
+        df_runtime_result.loc[(df_runtime_result[f"{tool}-result"] != "sat")&(df_runtime_result[f"{tool}-result"] != "unsat"), f"{tool}-runtime"] = 120
         # runtime columns should be floats
-        df_all[f"{tool}-runtime"] = df_all[f"{tool}-runtime"].astype(float)
+        df_runtime_result[f"{tool}-runtime"] = df_runtime_result[f"{tool}-runtime"].astype(float)
 
     if bench_selection == "INT_CONVS":
         # we select only those formulae that contain to_int/from_int
@@ -60,17 +83,18 @@ def load_benches(benches, tools, bench_selection):
         with open("int_convs-stringfuzz.txt") as file:
             # sf_conv is a list of formulae from stringfuzz that contain to_int/from_int
             sf_conv = file.read().splitlines()
-        df_all = df_all[(df_all.benchmark != "full_str_int")|(~(df_all.name.isin(fsi_not_conv)))]
-        df_all = df_all[((df_all.benchmark != "str_small_rw")&(df_all.benchmark != "stringfuzz"))|((df_all.name.isin(ssr_conv))|(df_all.name.isin(sf_conv)))]
-    
+        df_runtime_result = df_runtime_result[(df_runtime_result.benchmark != "full_str_int")|(~(df_runtime_result.name.isin(fsi_not_conv)))]
+        df_runtime_result = df_runtime_result[((df_runtime_result.benchmark != "str_small_rw")&(df_runtime_result.benchmark != "stringfuzz"))|((df_runtime_result.name.isin(ssr_conv))|(df_runtime_result.name.isin(sf_conv)))]
+
     if bench_selection == "QF_S":
         # for woorpje, QF_S benchmarks are those that are not in 20230329-woorpje-lu/track05/
-        df_all = df_all[(df_all.benchmark != "woorpje")|(~(df_all.name.str.contains("/track05/")))]
+        df_runtime_result = df_runtime_result[(df_runtime_result.benchmark != "woorpje")|(~(df_runtime_result.name.str.contains("/track05/")))]
 
     if bench_selection == "QF_SLIA":
         # for woorpje, QF_SLIA benchmarks are those that are in 20230329-woorpje-lu/track05/
-        df_all = df_all[(df_all.benchmark != "woorpje")|(df_all.name.str.contains("/track05/"))]
-    
+        df_runtime_result = df_runtime_result[(df_runtime_result.benchmark != "woorpje")|(df_runtime_result.name.str.contains("/track05/"))]
+
+    df_all = df_runtime_result.merge(df_stats)
     return df_all
 
 def scatter_plot(df, x_tool, y_tool, clamp=True, clamp_domain=[0.01, 120], xname=None, yname=None, log=True, width=6, height=6, show_legend=True, legend_width=2, file_name_to_save=None, transparent=False, color_by_benchmark=True):
@@ -101,7 +125,7 @@ def scatter_plot(df, x_tool, y_tool, clamp=True, clamp_domain=[0.01, 120], xname
         xname = x_tool
     if yname is None:
         yname = y_tool
-    
+
     x_tool = x_tool+"-runtime"
     y_tool = y_tool+"-runtime"
 
@@ -175,7 +199,7 @@ def cactus_plot(df, tools, tool_names = None, start = 0, end = None, logarithmic
     Args:
         df (Dataframe): Dataframe containing for each tool in tools column tool-result and tool-runtime containing the result and runtime for each benchmark.
         tools (list): List of tools to plot.
-        tool_names (dict, optional): Maps each tool to its name that is used in the legend. If not set (=None), the names are taken directly from tools. 
+        tool_names (dict, optional): Maps each tool to its name that is used in the legend. If not set (=None), the names are taken directly from tools.
         start (int, optional): The starting position of the x-axis. Defaults to 0.
         end (int, optional): The ending position of the x-axis. If not set (=None), defaults to number of benchmarks, i.e. len(df).
         logarithmic_y_axis (bool, optional): Use logarithmic scale for the y-axis. Defaults to True.
@@ -188,7 +212,7 @@ def cactus_plot(df, tools, tool_names = None, start = 0, end = None, logarithmic
     """
     if tool_names == None:
         tool_names = { tool:tool for tool in tools }
-    
+
     if end == None:
         end = len(df)
 
@@ -196,7 +220,7 @@ def cactus_plot(df, tools, tool_names = None, start = 0, end = None, logarithmic
 
     for tool in tools:
         name = tool_names[tool]
-        
+
         concat[name] = pd.Series(sorted(get_solved(df, tool)[tool + "-runtime"].tolist()))
 
     concat = pd.DataFrame(concat)
@@ -317,7 +341,7 @@ def simple_table(df, tools, benches, separately=False, times_from_solved=True):
             result += print_table_from_full_df(df[df["benchmark"] == bench])
     else:
         result += print_table_from_full_df(df[df["benchmark"].isin(benches)])
-    
+
     return result
 
 def add_vbs(df, tools_list, name = None):
@@ -347,3 +371,245 @@ def add_vbs(df, tools_list, name = None):
 
 def fuck():
     print("fuck")
+
+
+def q75(x):
+    return np.percentile(a=x, q=75)
+
+
+def q25(x):
+    return np.percentile(a=x, q=25)
+
+
+def get_stats_total(df: pd.DataFrame, tool: str, benchmarks: list[str]) -> pd.DataFrame:
+    return df.loc[df["benchmark"].isin(benchmarks)].drop(["name", "benchmark", f"{tool}-result"], axis=1).agg(['mean', 'std', 'min', 'max', 'sum', 'var', 'median'])
+
+
+class StatsDataType(Enum):
+  INT = 0
+  FLOAT = 1
+  STRING = 2
+
+
+STATS_DATA_TYPES = {
+    "added-eqs": StatsDataType.INT,
+    "arith-bound-propagations-lp": StatsDataType.INT,
+    "arith-eq-adapter": StatsDataType.INT,
+    "arith-fixed-eqs": StatsDataType.INT,
+    "arith-lower": StatsDataType.INT,
+    "arith-make-feasible": StatsDataType.INT,
+    "arith-max-columns": StatsDataType.INT,
+    "arith-max-rows": StatsDataType.INT,
+    "arith-upper": StatsDataType.INT,
+    "binary-propagations": StatsDataType.INT,
+    "decisions": StatsDataType.INT,
+    "del-clause": StatsDataType.INT,
+    "final-checks": StatsDataType.INT,
+    "noodler-final_checks": StatsDataType.INT,
+    "max-memory": StatsDataType.FLOAT,
+    "memory": StatsDataType.FLOAT,
+    "mk-bool-var": StatsDataType.INT,
+    "mk-clause": StatsDataType.INT,
+    "mk-clause-binary": StatsDataType.INT,
+    "num-allocs": StatsDataType.INT,
+    "num-checks": StatsDataType.INT,
+    "propagations": StatsDataType.INT,
+    "rlimit-count": StatsDataType.INT,
+    "str-num-proc-stabilization-finish": StatsDataType.INT,
+    "str-num-proc-stabilization-start": StatsDataType.INT,
+    "time": StatsDataType.FLOAT,
+    "total-time": StatsDataType.FLOAT,
+    "conflicts": StatsDataType.INT,
+    "str-num-solved-preprocess": StatsDataType.INT,
+    "str-num-proc-multi-memb-heur-finish": StatsDataType.INT,
+    "str-num-proc-multi-memb-heur-start": StatsDataType.INT,
+    "arith-diseq": StatsDataType.INT,
+    "arith-offset-eqs": StatsDataType.INT,
+    "str-num-proc-underapprox-finish": StatsDataType.INT,
+    "str-num-proc-underapprox-start": StatsDataType.INT,
+    "arith-gcd-calls": StatsDataType.INT,
+    "arith-patches": StatsDataType.INT,
+    "arith-patches-success": StatsDataType.INT,
+    "str-num-proc-length-finish": StatsDataType.INT,
+    "str-num-proc-length-start": StatsDataType.INT,
+    "str-num-proc-single-memb-heur-finish": StatsDataType.INT,
+    "str-num-proc-single-memb-heur-start": StatsDataType.INT,
+    "solve-eqs-elim-vars": StatsDataType.INT,
+    "solve-eqs-steps": StatsDataType.INT,
+    "str-num-proc-nielsen-finish": StatsDataType.INT,
+    "str-num-proc-nielsen-start": StatsDataType.INT,
+    "str-num-proc-unary-finish": StatsDataType.INT,
+    "str-num-proc-unary-start": StatsDataType.INT,
+    "str-num-proc-stabilization-solved-preprocess": StatsDataType.INT,
+    "str-num-proc-length-solved-preprocess": StatsDataType.INT,
+}
+
+
+def get_stats_dfs(df, tool, order=None):
+    global STATS_DATA_TYPES
+    TOOL_STATS_STR = f"{tool}-stats"
+    TOOL_RUNTIME_STR = f"{tool}-runtime"
+    TOOL_RESULT_STR = f"{tool}-result"
+    additional_columns_strs = ['name', "benchmark", TOOL_RUNTIME_STR, TOOL_RESULT_STR]
+    df_stats = pd.json_normalize(df[TOOL_STATS_STR].copy())
+
+    stats_columns_to_keep_strs = []
+    for column in df_stats.keys():
+        if column.endswith("-start") or \
+        column.endswith("-finish") or \
+        column.endswith("-preprocess") or \
+        column in ["noodler-final_checks"]:
+            stats_columns_to_keep_strs.append(column)
+
+    df_stats = df_stats[stats_columns_to_keep_strs]
+    df_stats = pd.concat([df[additional_columns_strs], df_stats], axis=1)
+    df_stats.replace({"benchmark": {"snia": "kaluza"}}, inplace=True)
+
+    for column in df_stats:
+        if column not in additional_columns_strs:
+            if STATS_DATA_TYPES[column] == StatsDataType.INT:
+                df_stats[column] = df_stats[column].astype('Int64')
+            elif STATS_DATA_TYPES[column] == StatsDataType.FLOAT:
+                df_stats[column] = df_stats[column].astype(float)
+            elif STATS_DATA_TYPES[column] == StatsDataType.STRING:
+                df_stats[column] = df_stats[column].astype(str)
+
+    # for column in df_stats.columns:
+    #     if column.endswith("-start") or column.endswith("-finish"):
+    #         column_per_final_check_name = f"{column}-per-final-check"
+    #         df_stats[column_per_final_check_name] = df_stats[column] / df_stats["final-checks"]
+
+    #         df_stats[column_per_final_check_name] = df_stats[column_per_final_check_name].astype('Int64')
+
+    if order:
+        if "unknown" not in order:
+            order.append("unknown")
+        df_stats["benchmark"] = pd.Categorical(df_stats["benchmark"], order)
+        df_stats.sort_values("benchmark")
+
+    fill_nan_dict = {}
+    for column in df_stats.keys():
+        fill_nan_dict[column] = 0
+    fill_nan_dict["name"] = "unknown"
+    fill_nan_dict["benchmark"] = "unknown"
+    df_stats_zeroed_nans = df_stats.fillna(value=fill_nan_dict, inplace=False)
+
+    return df_stats, df_stats_zeroed_nans
+
+
+def get_stats_grouped_by_benchmark(df, tool):
+    df_stats_grouped_by_benchmark = df.drop(["name", f"{tool}-result"], axis=1).groupby(["benchmark"], observed=True).agg(['sum', ])
+
+    return df_stats_grouped_by_benchmark
+
+
+def get_stats_grouped_by_benchmark_counts(df, tool):
+    return df.drop(["name", f"{tool}-result"], axis=1).groupby(["benchmark"], observed=True).agg(['count'])
+
+
+def get_stats_characteristics_grouped_by_benchmark_characteristics(df, tool):
+    return df.drop(["name", f"{tool}-result"], axis=1).groupby(["benchmark"]).agg(['mean', 'std', 'min', 'max', 'sum', 'var', q25, 'median', q75])
+
+
+def group_to_benchmark_groups(df, benchmark_to_group, order=None):
+    df_grouped = df.copy()
+    # df_grouped.replace({"benchmark": benchmark_to_group}, inplace=True)
+    df_grouped["benchmark"] = df_grouped["benchmark"] \
+        .map(benchmark_to_group) \
+        # .astype('category')
+    # df_grouped["benchmark"].cat.set_categories(order)
+    # df_grouped["benchmark"].sort_values(inplace=True)
+    if order:
+        if "unknown" not in order:
+            order.append("unknown")
+        df_grouped["benchmark"] = pd.Categorical(df_grouped["benchmark"], order)
+        df_grouped.sort_values("benchmark")
+    return df_grouped
+
+
+def get_stats_paper(df):
+    df_paper = pd.DataFrame()
+    # df_paper["name"] = df["name"]
+    df_paper["benchmark"] = df["benchmark"]
+    df_paper["noodler-final_checks"] = df["noodler-final_checks"]
+
+    df_paper["str-num-proc-memb-heur-start"] = \
+        df["str-num-proc-multi-memb-heur-start"] \
+        + df["str-num-proc-single-memb-heur-finish"]
+        # + df["str-num-proc-single-memb-heur-start"] \
+    df_paper["str-num-proc-memb-heur-finish"] = df["str-num-proc-multi-memb-heur-finish"] + df["str-num-proc-single-memb-heur-finish"]
+
+    df_paper["str-num-proc-nielsen-start"] = df["str-num-proc-nielsen-start"]
+    df_paper["str-num-proc-nielsen-finish"] = df["str-num-proc-nielsen-finish"]
+
+    df_paper["str-num-proc-length-start"] = df["str-num-proc-length-start"] + df["str-num-proc-length-solved-preprocess"]
+    df_paper["str-num-proc-length-finish"] = df["str-num-proc-length-finish"] + df["str-num-proc-length-solved-preprocess"]
+    df_paper["str-num-proc-length-solved-preprocess"] = df["str-num-proc-length-solved-preprocess"]
+
+
+    df_paper["str-num-proc-stabilization-start"] = \
+        df["str-num-proc-stabilization-start"] \
+        + df["str-num-proc-underapprox-finish"] \
+        + df["str-num-proc-stabilization-solved-preprocess"]
+        # df["str-num-proc-underapprox-start"] \
+    df_paper["str-num-proc-stabilization-finish"] = df["str-num-proc-stabilization-finish"] + df["str-num-proc-underapprox-finish"] \
+        + df["str-num-proc-stabilization-solved-preprocess"]
+    df_paper["str-num-proc-stabilization-solved-preprocess"] = df["str-num-proc-stabilization-solved-preprocess"]
+
+    return df_paper
+
+def get_stats_per_benchmark_paper(df):
+    df_paper = get_stats_paper(df)
+    df_stats_per_benchmark_sum = df_paper.groupby("benchmark", observed=True).sum()
+
+    for key in df_stats_per_benchmark_sum.keys():
+        if key.endswith("-finish") or key.endswith("-start") or key.endswith("-solved-preprocess"):
+            df_stats_per_benchmark_sum[key] = df_stats_per_benchmark_sum[key] / df_stats_per_benchmark_sum["noodler-final_checks"] * 100
+            df_stats_per_benchmark_sum[key] = df_stats_per_benchmark_sum[key].round(decimals=2)
+
+    return df_stats_per_benchmark_sum
+
+
+def write_latex_table_body(df, file_name, float_format="{:.2f}", format_benchmark_name=True):
+    def format_benchmark_name_default(name):
+        benchmark_to_latex = {
+            # Benchmark names.
+            "sygus_qgen": "\\sygusqgen",
+            "denghang": "\\denghang",
+            "automatark": "\\automatark",
+            "stringfuzz": "\\stringfuzz",
+            "redos": "\\redos",
+
+            "norn": "\\nornbench",
+            "slog": "\\slog",
+            "slent": "\\slent",
+            "omark": "\\omark",
+            "kepler": "\\keplerbench",
+            "woorpje": "\\woorpje",
+            "webapp": "\\webapp",
+            "kaluza": "\\kaluza",
+
+            "transducer_plus": "\\transducerplus",
+            "leetcode": "\\leetcode",
+            "str_small_rw": "\\strsmall",
+            "pyex": "\\pyex",
+            "full_str_int": "\\fullstrint",
+
+            # Group names.
+            "regex": "\\regexbench",
+            "equations": "\\eqbench",
+            "predicates": "\\predbench",
+            "total": "total",
+        }
+        if name in benchmark_to_latex:
+            return benchmark_to_latex[name]
+
+        return name
+
+    df_table = df
+    if format_benchmark_name:
+        df_table = df.rename(index=format_benchmark_name_default)
+    with open(file_name, "w+") as f:
+        f.write('\n'.join(df_table.to_latex(buf=None, columns=None, header=False, index=True, na_rep='NaN', formatters=None, float_format=float_format.format, sparsify=None, index_names=True, bold_rows=False, column_format=None, longtable=None, escape=None, encoding=None, decimal='.', multicolumn=None, multicolumn_format=None, multirow=None, caption=None, label=None, position=None).splitlines() \
+            [4 if format_benchmark_name else 3:-2]
+        ))
