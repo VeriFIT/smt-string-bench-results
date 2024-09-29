@@ -6,14 +6,43 @@ import csv
 import sys
 from tabulate import tabulate
 import io
+from enum import Enum
+from pathlib import Path
+import datetime
+
+from z3_statistics import Z3StatisticsParser, StatsFormat
+
+#  fmt = 'text'
+fmt = 'csv'
 
 # number of parameters of execution
 __PYCO_PROC_PARAMS_NUM = 1
 
+
+class StatsDestination(Enum):
+    """Output destination for statistics."""
+    OUTPUT_FILE = "output_file"
+    SEPARATE_FILES = "separate_files"
+
+
+class RunResult(Enum):
+    """Result of a benchmark instance run."""
+    FINISHED = 1
+    ERROR = 2
+    TIMEOUT = 3
+
+
+class InnerBlockType(Enum):
+    """Type of parsed inner block."""
+    MODEL = "model"
+    STATISTICS = "statistics"
+
+
+###########################################
 def proc_res(fd, args):
     """proc_res(fd, args) -> _|_
 
-    processes results of pycobench from file descriptor 'fd' using command line
+    processes results of pycobench.py from file descriptor 'fd' using command line
     arguments 'args'
 """
     reader = csv.reader(
@@ -23,6 +52,11 @@ def proc_res(fd, args):
     engines = list()
     engines_outs = dict()
     results = dict()
+
+    current_time = datetime.datetime.now().strftime("%Y-%m-%d-%H-%M-%S")
+    if args.stats and args.stats == StatsDestination.SEPARATE_FILES:
+        Path(f"./stats/{current_time}/").mkdir(parents=True, exist_ok=True)
+
     for row in reader:
         assert len(row) >= 1 + 1 + __PYCO_PROC_PARAMS_NUM  # status + engine name + params
         status, eng = row[0], row[1]
@@ -32,7 +66,8 @@ def proc_res(fd, args):
             results[params] = dict()
         if eng not in engines:
             engines.append(eng)
-            engines_outs[eng] = ["result"]
+            engines_outs[eng] = list()
+            # engines_outs[eng] = ["result"]
 
         # we don't have some results twice
         assert eng not in results[params]
@@ -46,25 +81,62 @@ def proc_res(fd, args):
             eng_res["retcode"] = retcode
             eng_res["error"] = err
             eng_res["output"] = dict()
+            eng_res["run_result"] = RunResult.FINISHED
+            name = ""
 
-            out_lines = [out]
+            # out_lines = [out]
+            out_lines = []
+            lines = out.split("###")
+            for line in lines:
+                if "WARNING" in line:
+                    continue
+                out_lines.append(line)
+            inner_block_type: None | InnerBlockType = None
+            inner_block = ""
             for line in out_lines:
-                spl = line.split(':', 1)
-                if len(spl) != 2:  # jump over lines not in the format
-                    continue
-                name, val = spl[0], spl[1]
-                if name != 'result':
-                    # sys.stderr.write(f"Warning: line in wrong format: {spl}\n")
-                    continue
-                eng_res["output"][name] = val
+                if inner_block_type:
+                    inner_block += line + "\n"
+
+                    if line.endswith(")"):
+                        if inner_block_type == InnerBlockType.STATISTICS:
+                            engine_stats_name = "stats"
+                            assert engine_stats_name not in eng_res["output"]
+                            if engine_stats_name not in engines_outs[eng]:
+                                engines_outs[eng].append(engine_stats_name)
+                            eng_res["output"][engine_stats_name] = Z3StatisticsParser(inner_block).stats
+                        elif inner_block_type == InnerBlockType.MODEL:
+                            # TODO: Add model block handling.
+                            # print("model:")
+                            # print(inner_block)
+                            pass
+
+                        inner_block = ""
+                        inner_block_type = None
+                elif line.startswith("(:"):
+                    inner_block_type = InnerBlockType.STATISTICS
+                    inner_block += line + "\n"
+                elif line == "(":
+                    inner_block_type = InnerBlockType.MODEL
+                    inner_block += line + "\n"
+                else:
+                    spl = line.split(':', 1)
+                    if len(spl) != 2:  # jump over lines not in the format
+                        continue
+                    name, val = spl[0].strip(), spl[1].strip()
+
+                    assert name not in eng_res["output"]
+                    if name not in engines_outs[eng]:
+                        engines_outs[eng].append(name)
+                    eng_res["output"][name] = val
 
             results[params][eng] = eng_res
+        elif status == 'error':
+            results[params][eng] = {}
+            results[params][eng]["run_result"] = RunResult.ERROR
+        elif status == 'timeout':
+            results[params][eng] = {}
+            results[params][eng]["run_result"] = RunResult.TIMEOUT
 
-        if status == 'error':
-            results[params][eng] = "ERR"
-
-        if status == 'timeout':
-            results[params][eng] = "TO"
 
     list_ptrns = list()
     for bench in results:
@@ -74,10 +146,15 @@ def proc_res(fd, args):
             out_len = len(engines_outs[eng]) + 1    # +1 = time
             if eng in results[bench]:
                 bench_res = results[bench][eng]
-                if bench_res == "ERR":
+                for out in engines_outs[eng]:
+                    if out == "stats":
+                        bench_res["output"][out] = \
+                            Z3StatisticsParser.stats_formatter(bench_res["output"][out], args.stats_format)
+
+                if bench_res["run_result"] == RunResult.ERROR:
                     for i in range(out_len):
                         ls.append("ERR")
-                elif bench_res == "TO":
+                elif bench_res["run_result"] == RunResult.TIMEOUT:
                     for i in range(out_len):
                         ls.append("TO")
                 else:
@@ -87,11 +164,23 @@ def proc_res(fd, args):
                     ls.append(bench_res["runtime"])
                     for out in engines_outs[eng]:
                         if out in bench_res["output"]:
-                            ls.append(bench_res["output"][out])
+                            out_data = bench_res["output"][out]
+
+                            if out == "stats":
+                                if args.stats == StatsDestination.SEPARATE_FILES:
+                                    stats_file_name = f"{eng}-{bench[0].replace('/', '_').replace('.', '_')}-stats.json"
+                                    with open(f"./stats/{current_time}/{stats_file_name}", "w") as f:
+                                        f.write(out_data)
+                                elif args.stats == StatsDestination.OUTPUT_FILE:
+                                    if args.csv:
+                                       out_data = out_data.replace("\n", "###")
+                                    ls.append(out_data)
+                            else:
+                                ls.append(out_data)
+
                         else:
-                            # sys.stderr.write("Warning: in {} and {}: "
-                            #     "element {} not in {}\n".format(bench, eng,
-                            #     out, bench_res["output"]))
+                            sys.stderr.write(f"Warning: in {bench} and {eng}: element {out} not in "
+                                             f"{bench_res['output']}\n")
                             ls.append("MISSING")
                             # assert False
             else:
@@ -116,7 +205,10 @@ def proc_res(fd, args):
     for eng in engines:
         header += [eng + "-runtime"]
         for out in engines_outs[eng]:
-            header += [eng + "-result"]
+            if out == "stats" and args.stats != StatsDestination.OUTPUT_FILE:
+                continue
+            header += [eng + "-" + out]
+            # header += [eng + "-result"]
 
     fmt = "text"
     if args.csv:
@@ -140,14 +232,14 @@ def proc_res(fd, args):
         return output.getvalue()
     else:
         raise Exception('Invalid output format: "{}"'.format(fmt))
-    return
 
-if __name__ == '__main__':
-    parser = argparse.ArgumentParser(description='''proc_results.py - \
-Processes results of benchmarks from pycobench''')
-    parser.add_argument('results', metavar='result-file', nargs='?',
-                        help='file with results (output of pycobench);'
-                             'if not provided stdin is used')
+
+def parse_args():
+    parser = argparse.ArgumentParser(description="Processes results of benchmarks from pycobench.py")
+    parser.add_argument('result_file', nargs='?',
+                        help='file with results (output of pycobench.py) (default: \'<stdin>\')',
+                        type=argparse.FileType('r'), default=sys.stdin)
+    parser.add_argument("-o", "--output", help="Output file to print the parsed results (default: \'<stdout>\')", nargs="?", type=argparse.FileType('w'), default=sys.stdout)
     parser.add_argument('--csv', action="store_true",
                         help='output in CSV')
     parser.add_argument('--text', action="store_true",
@@ -156,13 +248,27 @@ Processes results of benchmarks from pycobench''')
                         help='output in HTML')
     parser.add_argument('--tick', action="store_true",
                         help='tick finished benchmarks (usable for filtering)')
+    parser.add_argument('--stats-format',
+                        choices=list(format_option.name.lower() for format_option in StatsFormat), 
+                        default=StatsFormat.JSON.value,
+                        help='Which format to use for printing statistics (default: \'%(default)s\')')
+    parser.add_argument('--stats', nargs='?',
+                        choices=list(destination_option.name.lower() for destination_option in StatsDestination),
+                        const="output_file", default=None,
+                        help='Whether to output statistics and where (default: skipping stats, flag without \
+                              argument: \'%(const)s\')')
     args = parser.parse_args()
 
-    if args.results:
-        fd = open(args.results, "r")
-    else:
-        fd = sys.stdin
+    if args.stats:
+        args.stats = StatsDestination[args.stats.upper()]
+    if args.stats_format:
+        args.stats_format = StatsFormat[args.stats_format.upper()]
 
-    print(proc_res(fd, args, sys.stdout))
-    if args.results:
-        fd.close()
+    return args
+
+
+###############################
+if __name__ == '__main__':
+    args = parse_args()
+    processed_results = proc_res(args.result_file, args)
+    args.output.write(processed_results)

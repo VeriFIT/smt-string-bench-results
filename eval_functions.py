@@ -9,6 +9,8 @@ import io
 import os
 
 def read_latest_result_file(bench, tool):
+    assert tool != ""
+
     matching_files = []
     for root, _, files in os.walk(bench):
         for file in files:
@@ -27,8 +29,9 @@ def load_benches(benches, tools, bench_selection):
     for bench in benches:
         input = ""
         for tool in tools:
+            assert tool != ""
             input += read_latest_result_file(bench, tool)
-        input = pyco_proc.proc_res(io.StringIO(input), Namespace(csv=True,html=False,text=False,tick=False))
+        input = pyco_proc.proc_res(io.StringIO(input), Namespace(csv=True,html=False,text=False,tick=False,stats=None))
         df = pd.read_csv(
                 io.StringIO(input),
                 sep=";",
@@ -42,7 +45,7 @@ def load_benches(benches, tools, bench_selection):
 
     for tool in tools:
         # set runtime to 120 for nonsolved instances (unknown, TO, ERR or something else)
-        df_all.loc[(df_all[f"{tool}-result"] != " sat")&(df_all[f"{tool}-result"] != " unsat"), f"{tool}-runtime"] = 120
+        df_all.loc[(df_all[f"{tool}-result"] != "sat")&(df_all[f"{tool}-result"] != "unsat"), f"{tool}-runtime"] = 120
         # runtime columns should be floats
         df_all[f"{tool}-runtime"] = df_all[f"{tool}-runtime"].astype(float)
 
