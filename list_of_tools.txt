@@ -326,3 +326,4 @@
 "z3-noodler-no-length-de1bfed-17ffaf6",
 "z3-noodler-no-underapprox-de1bfed-17ffaf6",
 "z3-noodler-no-memb-a2e1205-17ffaf6",
+"z3-noodler-no-unary-a2e1205-17ffaf6",
