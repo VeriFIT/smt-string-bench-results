@@ -321,3 +321,8 @@
 # branch compute_memb_model_from_inclusion
 "z3-noodler-f86003b-17ffaf6",
 "z3-noodler-model-f86003b-17ffaf6",
+"check-model-f86003b-17ffaf6",
+"z3-noodler-no-nielsen-de1bfed-17ffaf6",
+"z3-noodler-no-length-de1bfed-17ffaf6",
+"z3-noodler-no-underapprox-de1bfed-17ffaf6",
+"z3-noodler-no-memb-a2e1205-17ffaf6",
