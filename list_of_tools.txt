@@ -328,5 +328,5 @@
 "z3-noodler-no-memb-a2e1205-17ffaf6",
 "z3-noodler-no-unary-a2e1205-17ffaf6",
 
-# devel after stats shit
-"z3-noodler-stats-f003203-17ffaf6",
+# devel after merging fix_stat_name
+"z3-noodler-stats-4318f62-17ffaf6",
