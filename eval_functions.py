@@ -570,9 +570,7 @@ def get_stats_per_benchmark_paper(df):
     return df_stats_per_benchmark_sum
 
 
-def write_latex_table_body(df, file_name, float_format="{:.2f}", format_benchmark_name=True):
-    def format_benchmark_name_default(name):
-        benchmark_to_latex = {
+def write_latex_table_body(df, file_name, float_format="{:.2f}", format_benchmark_name=True, benchmark_to_latex = {
             # Benchmark names.
             "sygus_qgen": "\\sygusqgen",
             "denghang": "\\denghang",
@@ -600,7 +598,8 @@ def write_latex_table_body(df, file_name, float_format="{:.2f}", format_benchmar
             "equations": "\\eqbench",
             "predicates": "\\predbench",
             "total": "total",
-        }
+        }):
+    def format_benchmark_name_default(name):
         if name in benchmark_to_latex:
             return benchmark_to_latex[name]
 
