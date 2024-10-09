@@ -4,3 +4,4 @@ mizani
 plotnine
 tabulate
 itables
+jinja2
