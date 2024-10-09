@@ -340,3 +340,6 @@
 "z3-noodler-model-2e63d1e-17ffaf6",
 "z3-noodler-stats-2e63d1e-17ffaf6",
 "z3-noodler-only-stabilization-2e63d1e-17ffaf6",
+"z3-noodler-no-nielsen-stats-2e63d1e-17ffaf6",
+"z3-noodler-no-length-stats-2e63d1e-17ffaf6",
+"z3-noodler-no-memb-stats-2e63d1e-17ffaf6",
