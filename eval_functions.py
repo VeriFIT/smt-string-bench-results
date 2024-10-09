@@ -97,7 +97,7 @@ def load_benches(benches, tools, bench_selection):
     df_all = df_runtime_result.merge(df_stats)
     return df_all
 
-def scatter_plot(df, x_tool, y_tool, clamp=True, clamp_domain=[0.01, 120], xname=None, yname=None, log=True, width=6, height=6, show_legend=True, legend_width=2, file_name_to_save=None, transparent=False, color_by_benchmark=True):
+def scatter_plot(df, x_tool, y_tool, clamp=True, clamp_domain=[0.01, 120], xname=None, yname=None, log=True, width=6, height=6, show_legend=True, legend_width=2, file_name_to_save=None, transparent=False, color_by_benchmark=True, color_column="benchmark", value_order=None):
     """Returns scatter plot plotting the values of df[x_tool] and df[y_tool] columns.
 
     Args:
@@ -115,6 +115,7 @@ def scatter_plot(df, x_tool, y_tool, clamp=True, clamp_domain=[0.01, 120], xname
         file_name_to_save (str, optional): If not None, save the result to file_name_to_save.pdf. Defaults to None.
         transparent (bool, optional): Whether the generated plot should have transparent background. Defaults to False.
         color_by_benchmark (bool, optional): Whether the dots should be colored based on the benchmark (if not, there will be just one color). Defaults to True.
+        color_column (str, optional): Name of the column to use for coloring. Defaults to 'benchmark'.
     """
     assert len(clamp_domain) == 2
 
@@ -143,12 +144,14 @@ def scatter_plot(df, x_tool, y_tool, clamp=True, clamp_domain=[0.01, 120], xname
     # generate scatter plot
     scatter = p9.ggplot(df)
     if color_by_benchmark:
-        scatter += p9.aes(x=x_tool, y=y_tool, color="benchmark")
+        scatter += p9.aes(x=x_tool, y=y_tool, color=color_column,)
         scatter += p9.geom_point(size=POINT_SIZE, na_rm=True, show_legend=show_legend, raster=True)
         # rug plots
         scatter += p9.geom_rug(na_rm=True, sides="tr", alpha=0.05, raster=True)
     else:
-        scatter += p9.aes(x=x_tool, y=y_tool)
+        scatter += p9.aes(x=x_tool, y=y_tool, \
+        color=color_column, \
+        )
         scatter += p9.geom_point(size=POINT_SIZE, na_rm=True, show_legend=show_legend, raster=True, color="orange")
         # rug plots
         scatter += p9.geom_rug(na_rm=True, sides="tr", alpha=0.05, raster=True, color="orange")
