@@ -573,45 +573,14 @@ def get_stats_per_benchmark_paper(df):
     return df_stats_per_benchmark_sum
 
 
-def write_latex_table_body(df, file_name, float_format="{:.2f}", format_benchmark_name=True, benchmark_to_latex = {
-            # Benchmark names.
-            "sygus_qgen": "\\sygusqgen",
-            "denghang": "\\denghang",
-            "automatark": "\\automatark",
-            "stringfuzz": "\\stringfuzz",
-            "redos": "\\redos",
-
-            "norn": "\\nornbench",
-            "slog": "\\slog",
-            "slent": "\\slent",
-            "omark": "\\omark",
-            "kepler": "\\keplerbench",
-            "woorpje": "\\woorpje",
-            "webapp": "\\webapp",
-            "kaluza": "\\kaluza",
-
-            "transducer_plus": "\\transducerplus",
-            "leetcode": "\\leetcode",
-            "str_small_rw": "\\strsmall",
-            "pyex": "\\pyex",
-            "full_str_int": "\\fullstrint",
-
-            # Group names.
-            "regex": "\\regexbench",
-            "equations": "\\eqbench",
-            "predicates": "\\predbench",
-            "total": "total",
-        }):
-    def format_benchmark_name_default(name):
-        if name in benchmark_to_latex:
-            return benchmark_to_latex[name]
+def write_latex_table_body(df, float_format="{:.2f}", format_index_name=True, index_to_latex=None):
+    def format_index_name_default(name):
+        if index_to_latex and name in index_to_latex:
+            return index_to_latex[name]
 
         return name
 
     df_table = df
-    if format_benchmark_name:
-        df_table = df.rename(index=format_benchmark_name_default)
-    with open(file_name, "w+") as f:
-        f.write('\n'.join(df_table.to_latex(buf=None, columns=None, header=False, index=True, na_rep='NaN', formatters=None, float_format=float_format.format, sparsify=None, index_names=True, bold_rows=False, column_format=None, longtable=None, escape=None, encoding=None, decimal='.', multicolumn=None, multicolumn_format=None, multirow=None, caption=None, label=None, position=None).splitlines() \
-            [4 if format_benchmark_name else 3:-2]
-        ))
+    if format_index_name:
+        df_table = df.rename(index=format_index_name_default)
+    return df_table.to_latex(buf=None, columns=None, header=False, index=True, na_rep='NaN', formatters=None, float_format=float_format.format, sparsify=None, index_names=True, bold_rows=False, column_format=None, longtable=None, escape=None, encoding=None, decimal='.', multicolumn=None, multicolumn_format=None, multirow=None, caption=None, label=None, position=None).splitlines()
