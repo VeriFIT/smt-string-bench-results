@@ -137,7 +137,6 @@ def proc_res(fd, args):
             results[params][eng] = {}
             results[params][eng]["run_result"] = RunResult.TIMEOUT
 
-
     list_ptrns = list()
     for bench in results:
         all_engs = True
@@ -147,7 +146,7 @@ def proc_res(fd, args):
             if eng in results[bench]:
                 bench_res = results[bench][eng]
                 for out in engines_outs[eng]:
-                    if out == "stats":
+                    if out == "stats" and "output" in bench_res and out in bench_res["output"]:
                         bench_res["output"][out] = \
                             Z3StatisticsParser.stats_formatter(bench_res["output"][out], args.stats_format)
 
@@ -207,7 +206,7 @@ def proc_res(fd, args):
         for out in engines_outs[eng]:
             if out == "stats" and args.stats != StatsDestination.OUTPUT_FILE:
                 continue
-            header += [eng + "-" + out]
+            header += [f"{eng}-{out}"]
             # header += [eng + "-result"]
 
     fmt = "text"
