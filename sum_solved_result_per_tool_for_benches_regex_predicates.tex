@@ -1,15 +1,16 @@
-\begin{booktabs}{colspec={lQ[r,gray!30]Q[r,gray!30]rrQ[r,gray!30]Q[r,gray!30]rrQ[r,gray!30]Q[r,gray!30]rrQ[r,gray!30]Q[r,gray!30]rrQ[r,gray!30]Q[r,gray!30]rr},rowsep=0pt,row{4-5}={yellow}}
+\begin{booktabs}{colspec={lQ[r,gray!30]Q[r,gray!30]rrQ[r,gray!30]Q[r,gray!30]rrQ[r,gray!30]Q[r,gray!30]rrQ[r,gray!30]Q[r,gray!30]rrQ[r,gray!30]Q[r,gray!30]rr},rowsep=0pt,row{5-6}={yellow}}
 \toprule
+& \SetCell[c=10]{c} \regexbench &&&&&&&&&& \SetCell[c=8]{c} \predbench &&&&&&&\\\cmidrule[lr]{2-11}\cmidrule[lr]{12-19}
 & \SetCell[c=2]{c}\sygusqgen & & \SetCell[c=2]{c}\denghang & & \SetCell[c=2]{c}\automatark & & \SetCell[c=2]{c}\stringfuzz & & \SetCell[c=2]{c}\redos & & \SetCell[c=2]{c}\leetcode & & \SetCell[c=2]{c}\strsmall & & \SetCell[c=2]{c}\pyex & & \SetCell[c=2]{c}\fullstrint & \\
-& \SetCell[c=2]{c} (343) & & \SetCell[c=2]{c} (999) & & \SetCell[c=2]{c} (15995) & & \SetCell[c=2]{c} (11618) & & \SetCell[c=2]{c} (3287) & & \SetCell[c=2]{c} (2652) & & \SetCell[c=2]{c} (1880) & & \SetCell[c=2]{c} (23845) & & \SetCell[c=2]{c} (16968) & \\
+& \SetCell[c=2]{c} (343) & & \SetCell[c=2]{c} (999) & & \SetCell[c=2]{c} (15,995) & & \SetCell[c=2]{c} (11,618) & & \SetCell[c=2]{c} (3,287) & & \SetCell[c=2]{c} (2,652) & & \SetCell[c=2]{c} (1,880) & & \SetCell[c=2]{c} (23,845) & & \SetCell[c=2]{c} (16,968) & \\
 \cmidrule[lr]{2-3}\cmidrule[lr]{4-5}\cmidrule[lr]{6-7}\cmidrule[lr]{8-9}\cmidrule[lr]{10-11}\cmidrule[lr]{12-13}\cmidrule[lr]{14-15}\cmidrule[lr]{16-17}\cmidrule[lr]{18-19}
 & solved & time & solved & time & solved & time & solved & time & solved & time & solved & time & solved & time & solved & time & solved & time \\
 \midrule
-\ziiinoodler & 343 & 4.21 & 999 & 43.16 & 15990 & 1352.65 & 11616 & 554.16 & 3284 & 2934.13 & 2649 & 408.12 & 1814 & 8238.18 & 23754 & 15549.32 & 16818 & 19357.81 \\
-\ziiinoodlermodel & 343 & 5.97 & 999 & 49.44 & 15990 & 1488.49 & 11613 & 1076.05 & 3283 & 3070.34 & 2647 & 664.68 & 1816 & 8092.46 & 23752 & 16479.40 & 16820 & 19284.16 \\
-\cvcv & 343 & 80.99 & 982 & 2411.55 & 15903 & 13236.84 & 10946 & 110689.07 & 1116 & 287527.04 & 2652 & 36.00 & 1860 & 2434.43 & 23820 & 9002.12 & 16963 & 5672.37 \\
-\cvcvmodel & 343 & 84.08 & 982 & 2435.63 & 15902 & 13425.01 & 10946 & 110888.31 & 1114 & 287659.37 & 2652 & 71.60 & 1860 & 2465.39 & 23820 & 9201.99 & 16963 & 5996.12 \\
-\ziii & 343 & 10.35 & 883 & 14246.28 & 15871 & 20987.03 & 11090 & 107998.05 & 888 & 288177.55 & 2652 & 41.89 & 1821 & 7282.53 & 22895 & 169228.54 & 16732 & 46940.60 \\
-\ziiimodel & 343 & 12.02 & 883 & 14258.76 & 15869 & 21197.77 & 11081 & 109526.82 & 888 & 288194.31 & 2652 & 48.73 & 1821 & 7281.41 & 22889 & 169974.90 & 16733 & 47402.66 \\
+\ziiinoodler & 343 & 4 & 999 & 43 & 15,990 & 753 & 11,616 & 314 & 3,284 & 2,574 & 2,649 & 48 & 1,814 & 318 & 23,754 & 4,629 & 16,818 & 1,358 \\
+\ziiinoodlermodel & 343 & 6 & 999 & 49 & 15,990 & 888 & 11,613 & 476 & 3,283 & 2,590 & 2,647 & 65 & 1,816 & 412 & 23,752 & 5,319 & 16,820 & 1,524 \\
+\cvcv & 343 & 81 & 982 & 372 & 15,903 & 2,197 & 10,946 & 30,049 & 1,116 & 27,007 & 2,652 & 36 & 1,860 & 34 & 23,820 & 6,002 & 16,963 & 5,072 \\
+\cvcvmodel & 343 & 84 & 982 & 396 & 15,902 & 2,265 & 10,946 & 30,248 & 1,114 & 26,899 & 2,652 & 72 & 1,860 & 65 & 23,820 & 6,202 & 16,963 & 5,396 \\
+\ziii & 343 & 10 & 883 & 326 & 15,871 & 6,107 & 11,090 & 44,638 & 888 & 298 & 2,652 & 42 & 1,821 & 203 & 22,895 & 55,229 & 16,732 & 18,621 \\
+\ziiimodel & 343 & 12 & 883 & 339 & 15,869 & 6,078 & 11,081 & 45,087 & 888 & 314 & 2,652 & 49 & 1,821 & 201 & 22,889 & 55,255 & 16,733 & 19,203 \\
 \bottomrule
 \end{booktabs}

@@ -584,3 +584,24 @@ def write_latex_table_body(df, float_format="{:.2f}", format_index_name=True, in
     if format_index_name:
         df_table = df.rename(index=format_index_name_default)
     return df_table.to_latex(buf=None, columns=None, header=False, index=True, na_rep='NaN', formatters=None, float_format=float_format.format, sparsify=None, index_names=True, bold_rows=False, column_format=None, longtable=None, escape=None, encoding=None, decimal='.', multicolumn=None, multicolumn_format=None, multirow=None, caption=None, label=None, position=None).splitlines()
+
+
+def table_solved_time(df, df_all, benchmarks, benchmark_to_latex, tool_to_latex):
+    table_lines = write_latex_table_body(df, format_index_name=True, index_to_latex=tool_to_latex, float_format="{:,.0f}")
+    table_lines.insert(2, "")
+    table_lines.insert(3, "")
+    table_lines.insert(4, "")
+    table_lines.insert(5, "")
+    i = 2
+    for benchmark in benchmarks:
+        table_lines[2] += "& \\SetCell[c=2]{c}" + f"{benchmark_to_latex[benchmark]} & "
+        table_lines[3] += "& \\SetCell[c=2]{c}" + f" ({df_all[df_all["benchmark"] == benchmark].count().iloc[0]:,}) & "
+        table_lines[4] += "\\cmidrule[lr]{" + str(i) + "-" + str(i + 1) + "}"
+        i += 2
+        table_lines[5] += f"& solved & time "
+    table_lines[2] += "\\\\"
+    table_lines[3] += "\\\\"
+    table_lines[5] += "\\\\"
+    del table_lines[6]
+    table_lines = table_lines[1:-1]
+    return table_lines
