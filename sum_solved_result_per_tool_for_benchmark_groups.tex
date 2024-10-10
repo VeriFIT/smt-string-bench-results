@@ -1,0 +1,19 @@
+\begin{booktabs}{colspec={lQ[r,gray!30]Q[r,gray!30]rrQ[r,gray!30]Q[r,gray!30]rr},rowsep=0pt,row{4-5}={yellow},cell{1,2}{even}={c=2}{c}}
+\toprule
+& \regexbench & & \eqbench & & \predbench & & All & \\
+& (32,242) & & (25,727) & & (45,436) & & (103,405) & \\
+\cmidrule[lr]{2-3}\cmidrule[lr]{4-5}\cmidrule[lr]{6-7}\cmidrule[lr]{8-9}
+& solved & time & solved & time & solved & time & solved & time \\
+\midrule
+\ziiinoodler & 32,232 & 3,688 & 25,301 & 1,147 & 45,035 & 6,353 & 102,568 & 11,189 \\
+\ziiinoodlermodel & 32,228 & 4,010 & 25,299 & 1,456 & 45,035 & 7,321 & 102,562 & 12,787 \\
+\ziiinoodleronlystabilization & 32,192 & 6,223 & 24,398 & 3,590 & 45,034 & 5,959 & 101,624 & 15,772 \\
+\ziiinoodlernonielsen & 32,231 & 3,578 & 24,538 & 1,283 & 45,036 & 6,460 & 101,805 & 11,320 \\
+\ziiinoodlernolength & 32,232 & 3,679 & 25,179 & 1,960 & 45,037 & 6,380 & 102,448 & 12,019 \\
+\ziiinoodlernomemb & 32,189 & 6,279 & 25,302 & 1,116 & 45,035 & 6,286 & 102,526 & 13,682 \\
+\cvcv & 29,290 & 59,705 & 25,214 & 2,529 & 45,337 & 11,627 & 99,841 & 73,861 \\
+\cvcvmodel & 29,287 & 59,892 & 25,214 & 2,756 & 45,337 & 12,220 & 99,838 & 74,868 \\
+\ziii & 29,075 & 51,379 & 24,569 & 3,240 & 44,101 & 74,094 & 97,745 & 128,712 \\
+\ziiimodel & 29,064 & 51,830 & 24,571 & 4,013 & 44,096 & 74,708 & 97,731 & 130,551 \\
+\bottomrule
+\end{booktabs}

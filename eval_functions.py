@@ -29,7 +29,7 @@ def read_latest_result_file(bench, tool):
         return latest_file.read()
 
 
-def load_benches(benches, tools, bench_selection):
+def load_benches(benches, tools, bench_selection, benchmark_to_group):
     dfs = dict()
     for bench in benches:
         input = ""
@@ -57,14 +57,15 @@ def load_benches(benches, tools, bench_selection):
                     return stats_dict
                 df[key] = df[key].apply(rename_underapprox_solved_preprocess_to_length_solved_preprocess)
         df["benchmark"] = bench
+        df["benchmark-group"] = benchmark_to_group[bench]
         dfs[bench] = df
 
     # tools_no_dates = ['-'.join(tool.split("-")[:-5]) for tool in tools]
 
     # we select only columns with used tools
-    df_stats = pd.concat(dfs, ignore_index=True)[["benchmark"] + ["name"] + [f"{tool}-stats" for tool in tools if "stats" in tool]]
+    df_stats = pd.concat(dfs, ignore_index=True)[["benchmark", "benchmark-group", "name"] + [f"{tool}-stats" for tool in tools if "stats" in tool]]
 
-    df_runtime_result = pd.concat(dfs, ignore_index=True)[["benchmark"] + ["name"] + [f(tool) for tool in tools for f in (lambda x: x + "-result", lambda x: x + "-runtime")]]
+    df_runtime_result = pd.concat(dfs, ignore_index=True)[["benchmark", "benchmark-group", "name"] + [f(tool) for tool in tools for f in (lambda x: x + "-result", lambda x: x + "-runtime")]]
 
     for tool in tools:
         # set runtime to 120 for nonsolved instances (unknown, TO, ERR or something else)
@@ -586,7 +587,7 @@ def write_latex_table_body(df, float_format="{:.2f}", format_index_name=True, in
     return df_table.to_latex(buf=None, columns=None, header=False, index=True, na_rep='NaN', formatters=None, float_format=float_format.format, sparsify=None, index_names=True, bold_rows=False, column_format=None, longtable=None, escape=None, encoding=None, decimal='.', multicolumn=None, multicolumn_format=None, multirow=None, caption=None, label=None, position=None).splitlines()
 
 
-def table_solved_time(df, df_all, benchmarks, benchmark_to_latex, tool_to_latex):
+def table_solved_time(df, df_all, benchmarks, benchmark_to_latex, tool_to_latex, per_column="benchmark"):
     table_lines = write_latex_table_body(df, format_index_name=True, index_to_latex=tool_to_latex, float_format="{:,.0f}")
     table_lines.insert(2, "")
     table_lines.insert(3, "")
@@ -595,7 +596,11 @@ def table_solved_time(df, df_all, benchmarks, benchmark_to_latex, tool_to_latex)
     i = 2
     for benchmark in benchmarks:
         table_lines[2] += "& " + f"{benchmark_to_latex[benchmark]} & "
-        table_lines[3] += "& " + f"({df_all[df_all["benchmark"] == benchmark].count().iloc[0]:,}) & "
+        if benchmark == "all":
+            count = df_all.count().iloc[0]
+        else:
+            count = df_all[df_all[per_column] == benchmark].count().iloc[0]
+        table_lines[3] += "& " + f"({count:,}) & "
         table_lines[4] += "\\cmidrule[lr]{" + str(i) + "-" + str(i + 1) + "}"
         i += 2
         table_lines[5] += f"& solved & time "
@@ -605,3 +610,38 @@ def table_solved_time(df, df_all, benchmarks, benchmark_to_latex, tool_to_latex)
     del table_lines[6]
     table_lines = table_lines[1:-1]
     return table_lines
+
+
+def solved_time_transpose_per_benchmark(df_solved_time):
+    df_solved_time_transposed = df_solved_time.transpose()
+    concat_rows = []
+    for index, _ in df_solved_time_transposed.iterrows():
+        if not index.endswith("-result"):
+            continue
+
+        index_result_name = index
+        index_runtime_name = index_result_name.replace("-result", "-runtime")
+        procedure_name = index_result_name.replace("-result", "")
+        result_row = df_solved_time_transposed.loc[[index_result_name]]
+        runtime_row = df_solved_time_transposed.loc[[index_runtime_name]]
+
+        concat_row = [procedure_name]
+        values_result = list(result_row.values)
+        values_runtime = list(runtime_row.values)
+        for val_result, val_runtime in zip(values_result, values_runtime):
+            for val_result, val_runtime in zip(val_result, val_runtime):
+                concat_row += [val_result, val_runtime]
+
+        concat_rows.append(concat_row)
+
+    columns = ["tool"]
+    for column in df_solved_time_transposed.keys():
+        columns.append(f"{column}-result")
+        columns.append(f"{column}-runtime")
+    df_concat_rows = pd.DataFrame(concat_rows, columns=columns)
+    df_concat_rows.set_index("tool", inplace=True)
+    for column in df_concat_rows.columns:
+        if column.endswith("-result"):
+            df_concat_rows[column] = df_concat_rows[column].apply(lambda x: '{:,}'.format(x))
+    
+    return df_concat_rows
