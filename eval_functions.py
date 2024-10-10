@@ -594,8 +594,8 @@ def table_solved_time(df, df_all, benchmarks, benchmark_to_latex, tool_to_latex)
     table_lines.insert(5, "")
     i = 2
     for benchmark in benchmarks:
-        table_lines[2] += "& \\SetCell[c=2]{c}" + f"{benchmark_to_latex[benchmark]} & "
-        table_lines[3] += "& \\SetCell[c=2]{c}" + f" ({df_all[df_all["benchmark"] == benchmark].count().iloc[0]:,}) & "
+        table_lines[2] += "& " + f"{benchmark_to_latex[benchmark]} & "
+        table_lines[3] += "& " + f"({df_all[df_all["benchmark"] == benchmark].count().iloc[0]:,}) & "
         table_lines[4] += "\\cmidrule[lr]{" + str(i) + "-" + str(i + 1) + "}"
         i += 2
         table_lines[5] += f"& solved & time "
