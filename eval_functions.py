@@ -493,9 +493,11 @@ def get_stats_dfs(df, tool, order=None):
 
     fill_nan_dict = {}
     for column in df_stats.keys():
+        if column in ["name", "benchmark"]:
+            continue
         fill_nan_dict[column] = 0
-    fill_nan_dict["name"] = "unknown"
-    fill_nan_dict["benchmark"] = "unknown"
+    # fill_nan_dict["name"] = "unknown"
+    # fill_nan_dict["benchmark"] = "unknown"
     df_stats_zeroed_nans = df_stats.fillna(value=fill_nan_dict, inplace=False)
 
     return df_stats, df_stats_zeroed_nans
