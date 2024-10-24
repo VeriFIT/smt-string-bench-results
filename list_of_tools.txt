@@ -360,7 +360,11 @@
 "z3-noodler-model-2e63d1e-15282c5"
 
 # branch fix_unused_var_non_length
-"z3-noodler-165a3ef-15282c5",
 "z3-noodler-model-e133446-15282c5",
+"z3-noodler-165a3ef-15282c5",
 "z3-noodler-model-165a3ef-15282c5",
 "check-model-165a3ef-15282c5",
+
+# branch compute_memb_model_from_inclusion (again)
+"z3-noodler-24767ef-16fb25d",
+"z3-noodler-model-24767ef-16fb25d",
