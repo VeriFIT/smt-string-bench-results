@@ -1,0 +1,1200 @@
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/0.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/100.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/101.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/102.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/103.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/104.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/105.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/106.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/107.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/108.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/109.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/10.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/110.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/111.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/112.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/113.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/114.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/115.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/116.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/117.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/118.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/119.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/11.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/120.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/121.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/122.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/123.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/124.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/125.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/126.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/127.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/128.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/129.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/12.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/130.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/131.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/132.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/133.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/134.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/135.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/136.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/137.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/138.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/139.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/13.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/140.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/141.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/142.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/143.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/144.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/145.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/146.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/147.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/148.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/149.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/14.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/15.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/16.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/17.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/18.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/19.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/1.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/20.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/21.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/22.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/23.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/24.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/25.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/26.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/27.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/28.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/29.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/2.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/30.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/31.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/32.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/33.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/34.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/35.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/36.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/37.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/38.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/39.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/3.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/40.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/41.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/42.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/43.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/44.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/45.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/46.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/47.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/48.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/49.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/4.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/50.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/51.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/52.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/53.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/54.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/55.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/56.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/57.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/58.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/59.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/5.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/60.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/61.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/62.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/63.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/64.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/65.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/66.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/67.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/68.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/69.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/6.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/70.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/71.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/72.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/73.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/74.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/75.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/76.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/77.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/78.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/79.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/7.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/80.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/81.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/82.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/83.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/84.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/85.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/86.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/87.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/88.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/89.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/8.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/90.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/91.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/92.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/93.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/94.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/95.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/96.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/97.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/98.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/99.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/9.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/0.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/100.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/101.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/102.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/103.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/104.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/105.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/106.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/107.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/108.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/109.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/10.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/110.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/111.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/112.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/113.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/114.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/115.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/116.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/117.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/118.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/119.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/11.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/120.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/121.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/122.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/123.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/124.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/125.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/126.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/127.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/128.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/129.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/12.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/130.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/131.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/132.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/133.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/134.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/135.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/136.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/137.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/138.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/139.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/13.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/140.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/141.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/142.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/143.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/144.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/145.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/146.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/147.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/148.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/149.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/14.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/15.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/16.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/17.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/18.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/19.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/1.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/20.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/21.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/22.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/23.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/24.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/25.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/26.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/27.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/28.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/29.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/2.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/30.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/31.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/32.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/33.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/34.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/35.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/36.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/37.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/38.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/39.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/3.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/40.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/41.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/42.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/43.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/44.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/45.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/46.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/47.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/48.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/49.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/4.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/50.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/51.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/52.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/53.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/54.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/55.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/56.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/57.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/58.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/59.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/5.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/60.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/61.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/62.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/63.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/64.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/65.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/66.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/67.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/68.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/69.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/6.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/70.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/71.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/72.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/73.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/74.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/75.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/76.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/77.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/78.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/79.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/7.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/80.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/81.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/82.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/83.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/84.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/85.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/86.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/87.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/88.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/89.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/8.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/90.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/91.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/92.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/93.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/94.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/95.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/96.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/97.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/98.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/99.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/9.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/0.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/100.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/101.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/102.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/103.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/104.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/105.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/106.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/107.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/108.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/109.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/10.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/110.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/111.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/112.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/113.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/114.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/115.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/116.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/117.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/118.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/119.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/11.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/120.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/121.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/122.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/123.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/124.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/125.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/126.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/127.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/128.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/129.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/12.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/130.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/131.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/132.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/133.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/134.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/135.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/136.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/137.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/138.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/139.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/13.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/140.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/141.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/142.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/143.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/144.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/145.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/146.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/147.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/148.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/149.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/14.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/15.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/16.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/17.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/18.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/19.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/1.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/20.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/21.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/22.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/23.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/24.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/25.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/26.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/27.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/28.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/29.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/2.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/30.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/31.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/32.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/33.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/34.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/35.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/36.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/37.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/38.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/39.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/3.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/40.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/41.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/42.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/43.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/44.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/45.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/46.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/47.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/48.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/49.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/4.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/50.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/51.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/52.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/53.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/54.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/55.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/56.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/57.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/58.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/59.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/5.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/60.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/61.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/62.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/63.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/64.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/65.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/66.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/67.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/68.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/69.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/6.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/70.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/71.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/72.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/73.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/74.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/75.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/76.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/77.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/78.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/79.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/7.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/80.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/81.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/82.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/83.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/84.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/85.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/86.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/87.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/88.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/89.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/8.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/90.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/91.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/92.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/93.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/94.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/95.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/96.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/97.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/98.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/99.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/9.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/0.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/100.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/101.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/102.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/103.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/104.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/105.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/106.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/107.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/108.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/109.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/10.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/110.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/111.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/112.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/113.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/114.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/115.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/116.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/117.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/118.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/119.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/11.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/120.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/121.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/122.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/123.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/124.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/125.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/126.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/127.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/128.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/129.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/12.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/130.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/131.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/132.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/133.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/134.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/135.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/136.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/137.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/138.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/139.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/13.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/140.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/141.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/142.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/143.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/144.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/145.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/146.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/147.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/148.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/149.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/14.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/15.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/16.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/17.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/18.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/19.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/1.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/20.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/21.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/22.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/23.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/24.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/25.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/26.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/27.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/28.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/29.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/2.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/30.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/31.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/32.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/33.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/34.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/35.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/36.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/37.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/38.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/39.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/3.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/40.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/41.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/42.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/43.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/44.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/45.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/46.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/47.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/48.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/49.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/4.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/50.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/51.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/52.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/53.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/54.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/55.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/56.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/57.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/58.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/59.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/5.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/60.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/61.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/62.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/63.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/64.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/65.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/66.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/67.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/68.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/69.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/6.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/70.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/71.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/72.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/73.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/74.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/75.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/76.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/77.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/78.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/79.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/7.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/80.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/81.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/82.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/83.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/84.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/85.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/86.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/87.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/88.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/89.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/8.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/90.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/91.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/92.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/93.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/94.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/95.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/96.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/97.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/98.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/99.smt2
+execute;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/9.smt2
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/102.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/103.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/101.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/105.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/108.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/104.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/0.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/106.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/110.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/109.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/100.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/10.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/107.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/114.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/112.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/111.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/113.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/118.smt2;0;result: sat;;0.01
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/116.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/117.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/121.smt2;0;result: sat;;0.01
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/120.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/115.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/123.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/11.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/119.smt2;0;result: sat;;0.01
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/122.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/125.smt2;0;result: sat;;0.01
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/124.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/127.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/128.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/126.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/129.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/12.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/130.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/134.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/135.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/131.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/132.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/137.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/133.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/138.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/139.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/141.smt2;0;result: sat;;0.01
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/13.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/140.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/143.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/142.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/136.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/146.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/145.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/147.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/144.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/148.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/149.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/15.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/16.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/18.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/14.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/19.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/17.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/20.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/1.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/22.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/21.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/24.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/25.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/23.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/27.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/26.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/29.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/28.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/2.smt2;0;result: sat;;0.01
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/30.smt2;0;result: sat;;0.01
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/33.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/32.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/31.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/34.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/36.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/35.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/37.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/3.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/38.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/40.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/39.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/44.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/43.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/42.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/41.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/45.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/46.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/47.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/48.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/49.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/50.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/4.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/51.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/52.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/55.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/54.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/53.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/56.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/58.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/57.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/59.smt2;0;result: sat;;0.01
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/60.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/62.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/64.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/61.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/63.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/5.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/65.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/68.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/66.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/67.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/6.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/69.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/71.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/73.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/70.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/75.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/72.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/74.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/76.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/79.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/78.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/77.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/7.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/80.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/84.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/81.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/82.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/83.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/86.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/88.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/87.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/89.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/8.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/85.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/92.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/90.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/93.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/91.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/94.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/95.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/96.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/9.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/97.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/99.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-a/98.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/101.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/0.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/102.smt2;0;result: sat;;0.01
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/100.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/103.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/106.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/104.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/107.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/105.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/109.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/110.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/10.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/108.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/111.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/113.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/114.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/112.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/116.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/119.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/118.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/117.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/121.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/115.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/11.smt2;0;result: sat;;0.01
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/120.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/123.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/124.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/122.smt2;0;result: sat;;0.01
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/126.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/129.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/127.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/125.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/12.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/131.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/130.smt2;0;result: sat;;0.01
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/133.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/128.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/132.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/135.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/137.smt2;0;result: sat;;0.01
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/138.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/136.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/134.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/139.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/142.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/141.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/140.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/144.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/143.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/13.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/148.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/147.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/149.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/145.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/146.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/16.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/14.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/15.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/18.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/17.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/19.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/21.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/20.smt2;0;result: sat;;0.01
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/1.smt2;0;result: sat;;0.01
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/23.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/27.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/22.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/25.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/26.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/24.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/30.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/29.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/28.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/31.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/2.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/32.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/34.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/35.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/33.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/36.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/38.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/37.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/40.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/41.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/44.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/39.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/3.smt2;0;result: sat;;0.01
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/43.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/42.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/45.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/46.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/48.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/47.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/49.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/4.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/53.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/51.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/52.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/56.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/50.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/57.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/54.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/55.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/5.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/59.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/58.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/60.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/63.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/62.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/61.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/64.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/66.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/65.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/68.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/67.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/69.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/6.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/70.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/71.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/74.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/77.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/72.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/76.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/78.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/73.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/75.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/79.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/81.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/7.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/80.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/85.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/83.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/82.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/86.smt2;0;result: sat;;0.01
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/84.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/89.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/87.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/88.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/90.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/91.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/8.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/92.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/95.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/97.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/93.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/9.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/96.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/94.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/98.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/100.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/101.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/0.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-ab/99.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/102.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/103.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/104.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/106.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/107.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/105.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/109.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/111.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/110.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/10.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/108.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/112.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/113.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/114.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/115.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/116.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/118.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/119.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/117.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/121.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/120.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/124.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/123.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/126.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/122.smt2;0;result: sat;;0.01
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/11.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/125.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/127.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/128.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/12.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/129.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/130.smt2;0;result: sat;;0.01
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/131.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/132.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/134.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/133.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/136.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/135.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/137.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/139.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/13.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/138.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/140.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/141.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/142.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/143.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/144.smt2;0;result: sat;;0.01
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/145.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/146.smt2;0;result: sat;;0.01
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/14.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/15.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/149.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/147.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/148.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/16.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/18.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/1.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/20.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/21.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/19.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/22.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/17.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/23.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/24.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/26.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/27.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/25.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/30.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/2.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/31.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/28.smt2;0;result: sat;;0.01
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/29.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/34.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/35.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/32.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/36.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/37.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/33.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/39.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/3.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/40.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/38.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/41.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/43.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/46.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/42.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/45.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/44.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/47.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/48.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/4.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/50.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/49.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/52.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/53.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/54.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/51.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/56.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/59.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/60.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/55.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/57.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/58.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/61.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/65.smt2;0;result: sat;;0.01
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/5.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/62.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/66.smt2;0;result: sat;;0.01
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/63.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/67.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/68.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/69.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/64.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/6.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/72.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/70.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/73.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/75.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/71.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/74.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/79.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/78.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/77.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/7.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/76.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/83.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/80.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/81.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/82.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/84.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/86.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/85.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/87.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/89.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/88.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/8.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/90.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/92.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/94.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/91.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/93.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/95.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/97.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/98.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/96.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/9.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abc/99.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/100.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/101.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/102.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/0.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/103.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/104.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/105.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/106.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/107.smt2;0;result: sat;;0.01
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/10.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/108.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/109.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/110.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/112.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/115.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/111.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/113.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/114.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/117.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/118.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/116.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/119.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/11.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/120.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/123.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/121.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/125.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/126.smt2;0;result: sat;;0.01
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/122.smt2;0;result: sat;;0.01
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/128.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/124.smt2;0;result: sat;;0.01
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/130.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/127.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/129.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/12.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/133.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/132.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/134.smt2;0;result: sat;;0.01
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/131.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/135.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/136.smt2;0;result: sat;;0.01
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/137.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/138.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/139.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/142.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/141.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/13.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/145.smt2;0;result: sat;;0.01
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/144.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/140.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/147.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/143.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/146.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/14.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/148.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/18.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/16.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/15.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/1.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/149.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/17.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/20.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/24.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/19.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/21.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/23.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/22.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/27.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/25.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/2.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/26.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/29.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/28.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/30.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/33.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/32.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/34.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/31.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/36.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/3.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/39.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/35.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/38.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/40.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/37.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/43.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/45.smt2;0;result: sat;;0.01
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/41.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/42.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/46.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/44.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/48.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/47.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/51.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/49.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/4.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/50.smt2;0;result: sat;;0.01
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/52.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/54.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/53.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/56.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/55.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/5.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/57.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/58.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/59.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/60.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/61.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/62.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/65.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/63.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/64.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/66.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/68.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/69.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/71.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/70.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/67.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/73.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/6.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/74.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/72.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/76.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/77.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/75.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/7.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/81.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/78.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/80.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/84.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/82.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/79.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/85.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/87.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/88.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/83.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/86.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/89.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/90.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/8.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/92.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/94.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/91.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/93.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/98.smt2;0;result: sat;;0.01
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/95.smt2;0;result: sat;;0.03
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/97.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/99.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/9.smt2;0;result: sat;;0.02
+finished;z3-trau-1.1;../formulae/notContains-benchmarks/not-contains-abcd/96.smt2;0;result: sat;;0.02
