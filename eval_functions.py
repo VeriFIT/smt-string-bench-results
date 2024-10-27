@@ -42,6 +42,10 @@ def load_benches(benches, tools, bench_selection, benchmark_to_group):
                 sep=";",
                 dtype='unicode',
         )
+        # for the case one tool has only timeouts
+        for tool in tools:
+            if tool+"-result" not in df.keys():
+                df[tool+"-result"] = "TO"
         for key in df.keys():
             if key.endswith("-stats"):
                 df[key] = df[key] \
