@@ -368,3 +368,10 @@
 # branch compute_memb_model_from_inclusion (again)
 "z3-noodler-24767ef-16fb25d",
 "z3-noodler-model-24767ef-16fb25d",
+
+# PLDI'25 submission results
+"z3-noodler-notcont-721245e-84ecd6a" # not-contains branch
+"z3-noodler-130017a-84ecd6a" # rewriter-rules branch
+
+# branch rewriter-rules 
+"z3-noodler-785a5cb-84ecd6a"

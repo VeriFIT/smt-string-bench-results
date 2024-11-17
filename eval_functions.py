@@ -36,7 +36,8 @@ def load_benches(benches, tools, bench_selection, benchmark_to_group):
         for tool in tools:
             assert tool != ""
             input += read_latest_result_file(bench, tool)
-        input = pyco_proc.proc_res(io.StringIO(input), Namespace(csv=True,html=False,text=False,tick=False,stats=StatsDestination.OUTPUT_FILE, stats_format=StatsFormat.JSON))
+        has_error_bench = "django" in benches or "biopython" in benches or "thefuck" in benches
+        input = pyco_proc.proc_res(io.StringIO(input), Namespace(csv=True,html=False,text=False,tick=False,stats=StatsDestination.OUTPUT_FILE, stats_format=StatsFormat.JSON, ignore_error=has_error_bench))
         df = pd.read_csv(
                 io.StringIO(input),
                 sep=";",
