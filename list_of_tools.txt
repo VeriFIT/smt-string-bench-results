@@ -379,3 +379,7 @@
 # branch fix-incr
 "z3-noodler-775efa4-84ecd6a",
 "z3-noodler-4a8f9d9-84ecd6a",
+
+# branch not-contains (run with 8 CPUs in parallel)
+"z3-noodler-da8bd67-56780ef",
+"z3-noodler-notcont-da8bd67-56780ef", #ca_constr=true
