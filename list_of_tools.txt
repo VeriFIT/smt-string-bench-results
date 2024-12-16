@@ -383,3 +383,7 @@
 # branch not-contains (run with 8 CPUs in parallel)
 "z3-noodler-da8bd67-56780ef",
 "z3-noodler-notcont-da8bd67-56780ef", #ca_constr=true
+
+# branch small-refactoring
+"z3-noodler-c46085b-56780ef",
+"z3-noodler-6470df8-56780ef",
