@@ -387,3 +387,7 @@
 # branch small-refactoring
 "z3-noodler-c46085b-56780ef",
 "z3-noodler-6470df8-56780ef",
+
+# branch new_z3_4.13.4
+"z3-noodler-d935db5-56780ef"
+"z3-noodler-983a432-56780ef",
