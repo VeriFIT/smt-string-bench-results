@@ -1,0 +1,584 @@
+execute;z3str-4.13.4;../formulae/str_2_test/quad-195-4-1-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-169-4-2-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-278-5-4-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-101-4-2-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-204-4-2-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-269-5-2-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-080-4-2-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-292-6-2-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-286-5-4-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-267-5-2-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-030-3-1-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-049-3-7-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-175-4-3-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-156-4-4-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-138-4-2-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-122-4-0-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-222-5-3-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-051-3-7-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-166-4-1-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-050-3-7-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-031-3-1-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-180-4-3-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-151-4-3-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-259-4-5-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-079-4-2-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-243-4-3-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-140-4-2-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-084-4-3-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-285-5-4-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-254-4-4-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-121-4-0-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-191-4-1-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-076-4-2-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-010-2-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-272-5-3-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-141-4-3-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-160-4-4-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-040-3-3-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-293-6-2-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-181-4-2-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-291-6-2-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-149-4-3-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-202-4-2-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-136-4-2-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-110-4-3-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-131-4-2-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-268-5-2-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-118-4-4-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-111-4-3-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-172-4-2-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-164-4-1-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-054-3-7-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-019-2-4-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-288-6-1-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-074-4-1-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-024-3-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-167-4-2-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-226-5-4-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-153-4-4-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-027-2-2-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-070-4-1-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-119-4-4-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-279-5-4-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-150-4-3-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-274-5-3-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-210-4-5-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-059-3-7-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-240-6-2-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-025-2-2-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-112-4-3-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-242-4-2-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-216-5-1-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-033-3-2-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-211-5-0-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-266-5-2-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-197-4-2-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-020-2-4-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-133-4-2-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-206-4-3-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-095-4-1-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-155-4-4-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-203-4-2-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-014-2-2-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-184-4-3-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-085-4-3-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-055-3-7-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-189-4-4-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-249-4-3-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-220-5-2-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-247-4-3-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-185-4-4-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-215-5-1-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-177-4-3-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-235-6-1-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-047-3-7-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-097-4-1-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-171-4-2-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-091-4-0-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-046-3-6-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-219-5-2-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-161-4-0-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-255-4-4-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-262-5-1-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-165-4-1-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-182-4-2-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-088-4-4-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-length-044-3-5-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-299-6-3-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-143-4-3-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-221-5-3-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-296-6-3-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-072-4-1-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-297-6-3-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-192-4-1-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-198-4-2-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-263-5-1-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-038-3-2-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-271-5-3-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-260-4-5-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-124-4-1-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-144-4-3-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-170-4-2-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-239-6-2-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-002-1-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-264-5-1-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-287-6-1-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-246-4-3-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-013-2-2-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-241-4-2-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-026-2-2-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-023-3-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-273-5-3-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-048-3-7-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-186-4-4-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-094-4-1-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-115-4-3-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-265-5-2-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-015-2-3-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-length-120-4-4-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-196-4-1-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-238-6-2-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-073-4-1-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-075-4-2-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-173-4-2-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-277-5-4-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-060-3-7-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-207-4-4-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-229-5-5-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-183-4-3-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-099-4-2-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-107-4-3-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-022-3-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-065-4-1-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-104-4-2-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-016-2-3-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-158-4-4-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-223-5-4-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-102-4-2-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-218-5-2-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-042-3-4-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-245-4-3-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-276-5-3-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-252-4-3-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-109-4-3-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-length-146-4-3-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-159-4-4-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-208-4-4-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-123-4-1-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-077-4-2-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-096-4-1-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-034-3-2-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-130-4-1-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-289-6-1-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-041-3-4-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-163-4-1-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-135-4-2-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-017-2-4-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-147-4-3-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-178-4-3-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-127-4-1-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-231-6-0-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-056-3-7-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-008-2-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-230-5-5-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-069-4-1-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-113-4-3-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-092-4-0-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-012-2-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-009-2-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-004-2-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-125-4-1-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-187-4-4-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-283-5-4-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-057-3-7-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-148-4-3-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-237-6-2-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-256-4-4-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-228-5-5-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-251-4-3-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-248-4-3-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-294-6-2-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-032-3-1-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-199-4-1-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-129-4-1-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-205-4-3-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-083-4-3-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-275-5-3-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-236-6-1-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-270-5-2-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-068-4-1-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-007-2-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-225-5-4-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-116-4-3-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-152-4-3-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-028-2-2-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-174-4-2-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-234-6-1-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-018-2-4-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-126-4-1-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-281-5-4-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-188-4-4-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-200-4-1-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-179-4-3-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-295-6-3-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-066-4-1-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-100-4-2-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-078-4-2-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-168-4-2-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-114-4-3-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-201-4-2-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-137-4-2-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-176-4-3-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-145-4-3-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-length-250-4-3-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-261-5-1-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-053-3-7-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-082-4-2-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-067-4-1-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-062-4-0-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-045-3-6-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-280-5-4-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-029-3-1-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-193-4-2-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-087-4-4-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-086-4-3-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-071-4-1-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-064-4-0-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-117-4-4-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-213-5-1-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-162-4-0-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-224-5-4-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-103-4-2-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-290-6-1-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-190-4-4-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-154-4-4-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-233-6-1-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-157-4-4-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-212-5-0-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-214-5-1-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-106-4-2-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-128-4-1-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-232-6-0-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-217-5-2-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-081-4-2-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-098-4-1-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-052-3-7-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-194-4-2-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-244-4-3-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-300-6-3-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-043-3-5-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-132-4-2-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-011-2-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-258-4-4-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-108-4-3-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-003-2-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-063-4-0-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-090-4-4-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-006-2-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-134-4-2-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-284-5-4-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-282-5-4-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-036-3-2-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-058-3-7-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-093-4-1-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-227-5-5-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-037-3-2-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-253-4-4-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-089-4-4-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-005-2-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-142-4-3-unsat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-257-4-4-sat.smt2
+execute;z3str-4.13.4;../formulae/str_2_test/quad-298-6-3-unsat.smt2
+finished;z3str-4.13.4;../formulae/str_2_test/quad-080-4-2-unsat.smt2;0;result: unknown;;0.01
+finished;z3str-4.13.4;../formulae/str_2_test/quad-030-3-1-unsat.smt2;0;result: unsat;;0.0
+finished;z3str-4.13.4;../formulae/str_2_test/quad-267-5-2-sat.smt2;0;result: sat;;0.03
+finished;z3str-4.13.4;../formulae/str_2_test/quad-269-5-2-sat.smt2;0;result: sat;;0.03
+finished;z3str-4.13.4;../formulae/str_2_test/quad-195-4-1-sat.smt2;0;result: sat;;0.05
+finished;z3str-4.13.4;../formulae/str_2_test/quad-169-4-2-sat.smt2;0;result: sat;;0.06
+finished;z3str-4.13.4;../formulae/str_2_test/quad-101-4-2-sat.smt2;0;result: sat;;0.07
+finished;z3str-4.13.4;../formulae/str_2_test/quad-049-3-7-sat.smt2;0;result: sat;;0.05
+finished;z3str-4.13.4;../formulae/str_2_test/quad-051-3-7-sat.smt2;0;result: sat;;0.02
+finished;z3str-4.13.4;../formulae/str_2_test/quad-138-4-2-unsat.smt2;0;result: unknown;;0.08
+finished;z3str-4.13.4;../formulae/str_2_test/quad-122-4-0-unsat.smt2;0;result: unknown;;0.08
+finished;z3str-4.13.4;../formulae/str_2_test/quad-031-3-1-sat.smt2;0;result: sat;;0.06
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-175-4-3-sat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-204-4-2-unsat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-286-5-4-unsat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-292-6-2-unsat.smt2
+finished;z3str-4.13.4;../formulae/str_2_test/quad-151-4-3-sat.smt2;0;result: sat;;0.05
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-156-4-4-unsat.smt2
+finished;z3str-4.13.4;../formulae/str_2_test/quad-084-4-3-unsat.smt2;0;result: unknown;;0.01
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-222-5-3-unsat.smt2
+finished;z3str-4.13.4;../formulae/str_2_test/quad-259-4-5-sat.smt2;0;result: sat;;0.07
+finished;z3str-4.13.4;../formulae/str_2_test/quad-079-4-2-sat.smt2;0;result: sat;;0.06
+finished;z3str-4.13.4;../formulae/str_2_test/quad-285-5-4-sat.smt2;0;result: sat;;0.04
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-278-5-4-unsat.smt2
+finished;z3str-4.13.4;../formulae/str_2_test/quad-121-4-0-sat.smt2;0;result: sat;;0.02
+finished;z3str-4.13.4;../formulae/str_2_test/quad-076-4-2-unsat.smt2;0;result: unknown;;0.02
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-166-4-1-unsat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-050-3-7-unsat.smt2
+finished;z3str-4.13.4;../formulae/str_2_test/quad-140-4-2-unsat.smt2;0;result: unknown;;0.16
+finished;z3str-4.13.4;../formulae/str_2_test/quad-191-4-1-sat.smt2;0;result: sat;;0.08
+finished;z3str-4.13.4;../formulae/str_2_test/quad-181-4-2-sat.smt2;0;result: sat;;0.03
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-180-4-3-unsat.smt2
+finished;z3str-4.13.4;../formulae/str_2_test/quad-293-6-2-sat.smt2;0;result: sat;;0.09
+finished;z3str-4.13.4;../formulae/str_2_test/quad-291-6-2-sat.smt2;0;result: sat;;0.06
+finished;z3str-4.13.4;../formulae/str_2_test/quad-136-4-2-unsat.smt2;0;result: unknown;;0.13
+finished;z3str-4.13.4;../formulae/str_2_test/quad-149-4-3-sat.smt2;0;result: sat;;0.24
+finished;z3str-4.13.4;../formulae/str_2_test/quad-141-4-3-sat.smt2;0;result: sat;;0.37
+finished;z3str-4.13.4;../formulae/str_2_test/quad-110-4-3-unsat.smt2;0;result: unknown;;0.01
+finished;z3str-4.13.4;../formulae/str_2_test/quad-131-4-2-sat.smt2;0;result: sat;;0.06
+finished;z3str-4.13.4;../formulae/str_2_test/quad-111-4-3-sat.smt2;0;result: sat;;0.05
+finished;z3str-4.13.4;../formulae/str_2_test/quad-172-4-2-unsat.smt2;0;result: unsat;;0.0
+finished;z3str-4.13.4;../formulae/str_2_test/quad-243-4-3-sat.smt2;0;result: sat;;22.55
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-254-4-4-unsat.smt2
+finished;z3str-4.13.4;../formulae/str_2_test/quad-019-2-4-sat.smt2;0;result: sat;;0.02
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-010-2-unsat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-160-4-4-unsat.smt2
+finished;z3str-4.13.4;../formulae/str_2_test/quad-074-4-1-unsat.smt2;0;result: unknown;;0.01
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-272-5-3-unsat.smt2
+finished;z3str-4.13.4;../formulae/str_2_test/quad-167-4-2-sat.smt2;0;result: sat;;0.03
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-040-3-3-unsat.smt2
+finished;z3str-4.13.4;../formulae/str_2_test/quad-027-2-2-sat.smt2;0;result: sat;;0.01
+finished;z3str-4.13.4;../formulae/str_2_test/quad-153-4-4-sat.smt2;0;result: sat;;0.05
+finished;z3str-4.13.4;../formulae/str_2_test/quad-119-4-4-sat.smt2;0;result: sat;;0.04
+finished;z3str-4.13.4;../formulae/str_2_test/quad-070-4-1-unsat.smt2;0;result: unknown;;0.1
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-202-4-2-unsat.smt2
+finished;z3str-4.13.4;../formulae/str_2_test/quad-279-5-4-sat.smt2;0;result: sat;;0.14
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-118-4-4-unsat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-268-5-2-unsat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-164-4-1-unsat.smt2
+finished;z3str-4.13.4;../formulae/str_2_test/quad-025-2-2-sat.smt2;0;result: sat;;0.0
+finished;z3str-4.13.4;../formulae/str_2_test/quad-112-4-3-unsat.smt2;0;result: unknown;;0.0
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-054-3-7-unsat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-288-6-1-unsat.smt2
+finished;z3str-4.13.4;../formulae/str_2_test/quad-033-3-2-sat.smt2;0;result: sat;;0.0
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-226-5-4-unsat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-024-3-unsat.smt2
+finished;z3str-4.13.4;../formulae/str_2_test/quad-197-4-2-sat.smt2;0;result: sat;;0.07
+finished;z3str-4.13.4;../formulae/str_2_test/quad-211-5-0-sat.smt2;0;result: sat;;0.14
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-150-4-3-unsat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-274-5-3-unsat.smt2
+finished;z3str-4.13.4;../formulae/str_2_test/quad-133-4-2-sat.smt2;0;result: sat;;0.19
+finished;z3str-4.13.4;../formulae/str_2_test/quad-095-4-1-sat.smt2;0;result: sat;;0.02
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-210-4-5-unsat.smt2
+finished;z3str-4.13.4;../formulae/str_2_test/quad-203-4-2-sat.smt2;0;result: sat;;0.05
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-059-3-7-sat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-240-6-2-unsat.smt2
+finished;z3str-4.13.4;../formulae/str_2_test/quad-085-4-3-sat.smt2;0;result: sat;;0.08
+finished;z3str-4.13.4;../formulae/str_2_test/quad-055-3-7-sat.smt2;0;result: sat;;0.05
+finished;z3str-4.13.4;../formulae/str_2_test/quad-155-4-4-sat.smt2;0;result: sat;;0.25
+finished;z3str-4.13.4;../formulae/str_2_test/quad-249-4-3-sat.smt2;0;result: sat;;0.03
+finished;z3str-4.13.4;../formulae/str_2_test/quad-189-4-4-sat.smt2;0;result: sat;;0.07
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-242-4-2-unsat.smt2
+finished;z3str-4.13.4;../formulae/str_2_test/quad-185-4-4-sat.smt2;0;result: sat;;0.05
+finished;z3str-4.13.4;../formulae/str_2_test/quad-247-4-3-sat.smt2;0;result: sat;;0.08
+finished;z3str-4.13.4;../formulae/str_2_test/quad-215-5-1-sat.smt2;0;result: sat;;0.07
+finished;z3str-4.13.4;../formulae/str_2_test/quad-047-3-7-sat.smt2;0;result: sat;;0.05
+finished;z3str-4.13.4;../formulae/str_2_test/quad-097-4-1-sat.smt2;0;result: sat;;0.07
+finished;z3str-4.13.4;../formulae/str_2_test/quad-235-6-1-sat.smt2;0;result: sat;;0.23
+finished;z3str-4.13.4;../formulae/str_2_test/quad-171-4-2-sat.smt2;0;result: sat;;0.04
+finished;z3str-4.13.4;../formulae/str_2_test/quad-046-3-6-unsat.smt2;0;result: unknown;;0.01
+finished;z3str-4.13.4;../formulae/str_2_test/quad-091-4-0-sat.smt2;0;result: sat;;0.08
+finished;z3str-4.13.4;../formulae/str_2_test/quad-161-4-0-sat.smt2;0;result: sat;;0.03
+finished;z3str-4.13.4;../formulae/str_2_test/quad-255-4-4-sat.smt2;0;result: sat;;0.18
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-216-5-1-unsat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-266-5-2-unsat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-020-2-4-unsat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-206-4-3-unsat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-014-2-2-unsat.smt2
+finished;z3str-4.13.4;../formulae/str_2_test/quad-299-6-3-sat.smt2;0;result: sat;;0.04
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-184-4-3-unsat.smt2
+finished;z3str-4.13.4;../formulae/str_2_test/quad-143-4-3-sat.smt2;0;result: sat;;0.05
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-220-5-2-unsat.smt2
+finished;z3str-4.13.4;../formulae/str_2_test/quad-072-4-1-unsat.smt2;0;result: unknown;;0.01
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-177-4-3-sat.smt2
+finished;z3str-4.13.4;../formulae/str_2_test/quad-192-4-1-unsat.smt2;0;result: unknown;;0.02
+finished;z3str-4.13.4;../formulae/str_2_test/quad-297-6-3-sat.smt2;0;result: sat;;0.05
+finished;z3str-4.13.4;../formulae/str_2_test/quad-198-4-2-unsat.smt2;0;result: unknown;;0.01
+finished;z3str-4.13.4;../formulae/str_2_test/quad-038-3-2-unsat.smt2;0;result: unknown;;0.0
+finished;z3str-4.13.4;../formulae/str_2_test/quad-221-5-3-sat.smt2;0;result: sat;;0.27
+finished;z3str-4.13.4;../formulae/str_2_test/quad-271-5-3-sat.smt2;0;result: sat;;0.04
+finished;z3str-4.13.4;../formulae/str_2_test/quad-263-5-1-sat.smt2;0;result: sat;;0.07
+finished;z3str-4.13.4;../formulae/str_2_test/quad-144-4-3-unsat.smt2;0;result: unknown;;0.02
+finished;z3str-4.13.4;../formulae/str_2_test/quad-124-4-1-unsat.smt2;0;result: unknown;;0.06
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-219-5-2-sat.smt2
+finished;z3str-4.13.4;../formulae/str_2_test/quad-002-1-unsat.smt2;0;result: unknown;;0.0
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-262-5-1-unsat.smt2
+finished;z3str-4.13.4;../formulae/str_2_test/quad-287-6-1-sat.smt2;0;result: sat;;0.38
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-165-4-1-sat.smt2
+finished;z3str-4.13.4;../formulae/str_2_test/quad-013-2-2-sat.smt2;0;result: sat;;0.02
+finished;z3str-4.13.4;../formulae/str_2_test/quad-241-4-2-sat.smt2;0;result: sat;;0.08
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-182-4-2-unsat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-088-4-4-unsat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-length-044-3-5-unsat.smt2
+finished;z3str-4.13.4;../formulae/str_2_test/quad-273-5-3-sat.smt2;0;result: sat;;0.09
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-296-6-3-unsat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-260-4-5-unsat.smt2
+finished;z3str-4.13.4;../formulae/str_2_test/quad-115-4-3-sat.smt2;0;result: sat;;0.1
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-170-4-2-unsat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-239-6-2-sat.smt2
+finished;z3str-4.13.4;../formulae/str_2_test/quad-015-2-3-sat.smt2;0;result: sat;;0.02
+finished;z3str-4.13.4;../formulae/str_2_test/quad-length-120-4-4-unsat.smt2;0;result: unknown;;0.1
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-264-5-1-unsat.smt2
+finished;z3str-4.13.4;../formulae/str_2_test/quad-265-5-2-sat.smt2;0;result: sat;;0.3
+finished;z3str-4.13.4;../formulae/str_2_test/quad-073-4-1-sat.smt2;0;result: sat;;0.09
+finished;z3str-4.13.4;../formulae/str_2_test/quad-075-4-2-sat.smt2;0;result: sat;;0.18
+finished;z3str-4.13.4;../formulae/str_2_test/quad-277-5-4-sat.smt2;0;result: sat;;0.09
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-246-4-3-unsat.smt2
+finished;z3str-4.13.4;../formulae/str_2_test/quad-207-4-4-sat.smt2;0;result: sat;;0.01
+finished;z3str-4.13.4;../formulae/str_2_test/quad-229-5-5-sat.smt2;0;result: sat;;0.03
+finished;z3str-4.13.4;../formulae/str_2_test/quad-183-4-3-sat.smt2;0;result: sat;;0.02
+finished;z3str-4.13.4;../formulae/str_2_test/quad-099-4-2-sat.smt2;0;result: sat;;0.05
+finished;z3str-4.13.4;../formulae/str_2_test/quad-107-4-3-sat.smt2;0;result: sat;;0.01
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-026-2-2-unsat.smt2
+finished;z3str-4.13.4;../formulae/str_2_test/quad-065-4-1-sat.smt2;0;result: sat;;0.05
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-023-3-sat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-186-4-4-unsat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-048-3-7-unsat.smt2
+finished;z3str-4.13.4;../formulae/str_2_test/quad-223-5-4-sat.smt2;0;result: sat;;0.06
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-094-4-1-unsat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-196-4-1-unsat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-238-6-2-unsat.smt2
+finished;z3str-4.13.4;../formulae/str_2_test/quad-245-4-3-sat.smt2;0;result: sat;;0.02
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-173-4-2-sat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-060-3-7-unsat.smt2
+finished;z3str-4.13.4;../formulae/str_2_test/quad-109-4-3-sat.smt2;0;result: sat;;0.05
+finished;z3str-4.13.4;../formulae/str_2_test/quad-length-146-4-3-unsat.smt2;0;result: unknown;;0.1
+finished;z3str-4.13.4;../formulae/str_2_test/quad-159-4-4-sat.smt2;0;result: sat;;0.04
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-022-3-unsat.smt2
+finished;z3str-4.13.4;../formulae/str_2_test/quad-123-4-1-sat.smt2;0;result: sat;;0.04
+finished;z3str-4.13.4;../formulae/str_2_test/quad-077-4-2-sat.smt2;0;result: sat;;0.13
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-104-4-2-unsat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-016-2-3-unsat.smt2
+finished;z3str-4.13.4;../formulae/str_2_test/quad-130-4-1-unsat.smt2;0;result: unknown;;0.05
+finished;z3str-4.13.4;../formulae/str_2_test/quad-289-6-1-sat.smt2;0;result: sat;;0.07
+finished;z3str-4.13.4;../formulae/str_2_test/quad-041-3-4-sat.smt2;0;result: sat;;0.05
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-158-4-4-unsat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-102-4-2-unsat.smt2
+finished;z3str-4.13.4;../formulae/str_2_test/quad-017-2-4-sat.smt2;0;result: sat;;0.02
+finished;z3str-4.13.4;../formulae/str_2_test/quad-135-4-2-sat.smt2;0;result: sat;;0.21
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-218-5-2-unsat.smt2
+finished;z3str-4.13.4;../formulae/str_2_test/quad-127-4-1-sat.smt2;0;result: sat;;0.03
+finished;z3str-4.13.4;../formulae/str_2_test/quad-147-4-3-sat.smt2;0;result: sat;;0.27
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-042-3-4-unsat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-276-5-3-unsat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-252-4-3-unsat.smt2
+finished;z3str-4.13.4;../formulae/str_2_test/quad-069-4-1-sat.smt2;0;result: sat;;0.03
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-208-4-4-unsat.smt2
+finished;z3str-4.13.4;../formulae/str_2_test/quad-092-4-0-unsat.smt2;0;result: unknown;;0.07
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-096-4-1-unsat.smt2
+finished;z3str-4.13.4;../formulae/str_2_test/quad-009-2-sat.smt2;0;result: sat;;0.0
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-034-3-2-unsat.smt2
+finished;z3str-4.13.4;../formulae/str_2_test/quad-125-4-1-sat.smt2;0;result: sat;;0.42
+finished;z3str-4.13.4;../formulae/str_2_test/quad-187-4-4-sat.smt2;0;result: sat;;0.14
+finished;z3str-4.13.4;../formulae/str_2_test/quad-283-5-4-sat.smt2;0;result: sat;;0.03
+finished;z3str-4.13.4;../formulae/str_2_test/quad-057-3-7-sat.smt2;0;result: sat;;0.04
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-163-4-1-sat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-178-4-3-unsat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-231-6-0-sat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-056-3-7-unsat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-230-5-5-unsat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-008-2-unsat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-113-4-3-sat.smt2
+finished;z3str-4.13.4;../formulae/str_2_test/quad-032-3-1-unsat.smt2;0;result: unknown;;0.04
+finished;z3str-4.13.4;../formulae/str_2_test/quad-199-4-1-sat.smt2;0;result: sat;;0.02
+finished;z3str-4.13.4;../formulae/str_2_test/quad-129-4-1-sat.smt2;0;result: sat;;0.04
+finished;z3str-4.13.4;../formulae/str_2_test/quad-205-4-3-sat.smt2;0;result: sat;;0.02
+finished;z3str-4.13.4;../formulae/str_2_test/quad-083-4-3-sat.smt2;0;result: sat;;0.06
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-012-2-unsat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-004-2-unsat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-148-4-3-unsat.smt2
+finished;z3str-4.13.4;../formulae/str_2_test/quad-068-4-1-unsat.smt2;0;result: unknown;;0.05
+finished;z3str-4.13.4;../formulae/str_2_test/quad-007-2-sat.smt2;0;result: sat;;0.0
+finished;z3str-4.13.4;../formulae/str_2_test/quad-225-5-4-sat.smt2;0;result: sat;;0.32
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-237-6-2-sat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-256-4-4-unsat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-228-5-5-unsat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-251-4-3-sat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-294-6-2-unsat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-248-4-3-unsat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-275-5-3-sat.smt2
+finished;z3str-4.13.4;../formulae/str_2_test/quad-281-5-4-sat.smt2;0;result: sat;;0.04
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-236-6-1-unsat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-270-5-2-unsat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-116-4-3-unsat.smt2
+finished;z3str-4.13.4;../formulae/str_2_test/quad-295-6-3-sat.smt2;0;result: sat;;0.02
+finished;z3str-4.13.4;../formulae/str_2_test/quad-066-4-1-unsat.smt2;0;result: unknown;;0.01
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-152-4-3-unsat.smt2
+finished;z3str-4.13.4;../formulae/str_2_test/quad-078-4-2-unsat.smt2;0;result: unknown;;0.01
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-028-2-2-unsat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-174-4-2-unsat.smt2
+finished;z3str-4.13.4;../formulae/str_2_test/quad-201-4-2-sat.smt2;0;result: sat;;0.01
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-234-6-1-unsat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-126-4-1-unsat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-018-2-4-unsat.smt2
+finished;z3str-4.13.4;../formulae/str_2_test/quad-145-4-3-sat.smt2;0;result: sat;;0.18
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-188-4-4-unsat.smt2
+finished;z3str-4.13.4;../formulae/str_2_test/quad-261-5-1-sat.smt2;0;result: sat;;0.23
+finished;z3str-4.13.4;../formulae/str_2_test/quad-053-3-7-sat.smt2;0;result: sat;;0.05
+finished;z3str-4.13.4;../formulae/str_2_test/quad-082-4-2-unsat.smt2;0;result: unknown;;0.01
+finished;z3str-4.13.4;../formulae/str_2_test/quad-062-4-0-unsat.smt2;0;result: unknown;;0.01
+finished;z3str-4.13.4;../formulae/str_2_test/quad-067-4-1-sat.smt2;0;result: sat;;0.05
+finished;z3str-4.13.4;../formulae/str_2_test/quad-045-3-6-sat.smt2;0;result: sat;;0.04
+finished;z3str-4.13.4;../formulae/str_2_test/quad-029-3-1-sat.smt2;0;result: sat;;0.01
+finished;z3str-4.13.4;../formulae/str_2_test/quad-193-4-2-sat.smt2;0;result: sat;;0.03
+finished;z3str-4.13.4;../formulae/str_2_test/quad-087-4-4-sat.smt2;0;result: sat;;0.06
+finished;z3str-4.13.4;../formulae/str_2_test/quad-086-4-3-unsat.smt2;0;result: unknown;;0.02
+finished;z3str-4.13.4;../formulae/str_2_test/quad-071-4-1-sat.smt2;0;result: sat;;0.03
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-200-4-1-unsat.smt2
+finished;z3str-4.13.4;../formulae/str_2_test/quad-117-4-4-sat.smt2;0;result: sat;;0.06
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-179-4-3-sat.smt2
+finished;z3str-4.13.4;../formulae/str_2_test/quad-162-4-0-unsat.smt2;0;result: unknown;;0.06
+finished;z3str-4.13.4;../formulae/str_2_test/quad-280-5-4-unsat.smt2;0;result: unknown;;1.64
+finished;z3str-4.13.4;../formulae/str_2_test/quad-103-4-2-sat.smt2;0;result: sat;;0.14
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-100-4-2-unsat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-168-4-2-unsat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-114-4-3-unsat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-137-4-2-sat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-176-4-3-unsat.smt2
+finished;z3str-4.13.4;../formulae/str_2_test/quad-233-6-1-sat.smt2;0;result: sat;;0.34
+finished;z3str-4.13.4;../formulae/str_2_test/quad-157-4-4-sat.smt2;0;result: sat;;0.05
+finished;z3str-4.13.4;../formulae/str_2_test/quad-106-4-2-unsat.smt2;0;result: unknown;;0.0
+finished;z3str-4.13.4;../formulae/str_2_test/quad-128-4-1-unsat.smt2;0;result: unknown;;0.09
+finished;z3str-4.13.4;../formulae/str_2_test/quad-212-5-0-unsat.smt2;0;result: unknown;;0.22
+finished;z3str-4.13.4;../formulae/str_2_test/quad-217-5-2-sat.smt2;0;result: sat;;0.03
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-length-250-4-3-unsat.smt2
+finished;z3str-4.13.4;../formulae/str_2_test/quad-098-4-1-unsat.smt2;0;result: unknown;;0.27
+finished;z3str-4.13.4;../formulae/str_2_test/quad-052-3-7-unsat.smt2;0;result: unknown;;0.05
+finished;z3str-4.13.4;../formulae/str_2_test/quad-194-4-2-unsat.smt2;0;result: unknown;;0.0
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-064-4-0-unsat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-213-5-1-sat.smt2
+finished;z3str-4.13.4;../formulae/str_2_test/quad-043-3-5-sat.smt2;0;result: sat;;0.05
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-224-5-4-unsat.smt2
+finished;z3str-4.13.4;../formulae/str_2_test/quad-011-2-sat.smt2;0;result: sat;;0.02
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-290-6-1-unsat.smt2
+finished;z3str-4.13.4;../formulae/str_2_test/quad-108-4-3-unsat.smt2;0;result: unknown;;0.01
+finished;z3str-4.13.4;../formulae/str_2_test/quad-003-2-sat.smt2;0;result: sat;;0.0
+finished;z3str-4.13.4;../formulae/str_2_test/quad-063-4-0-sat.smt2;0;result: sat;;0.05
+finished;z3str-4.13.4;../formulae/str_2_test/quad-090-4-4-unsat.smt2;0;result: unknown;;0.01
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-190-4-4-unsat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-154-4-4-unsat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-214-5-1-unsat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-232-6-0-unsat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-081-4-2-sat.smt2
+finished;z3str-4.13.4;../formulae/str_2_test/quad-058-3-7-unsat.smt2;0;result: unknown;;0.07
+finished;z3str-4.13.4;../formulae/str_2_test/quad-093-4-1-sat.smt2;0;result: sat;;0.11
+finished;z3str-4.13.4;../formulae/str_2_test/quad-227-5-5-sat.smt2;0;result: sat;;0.08
+finished;z3str-4.13.4;../formulae/str_2_test/quad-037-3-2-sat.smt2;0;result: sat;;0.0
+finished;z3str-4.13.4;../formulae/str_2_test/quad-253-4-4-sat.smt2;0;result: sat;;0.12
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-244-4-3-unsat.smt2
+finished;z3str-4.13.4;../formulae/str_2_test/quad-005-2-sat.smt2;0;result: sat;;0.0
+finished;z3str-4.13.4;../formulae/str_2_test/quad-089-4-4-sat.smt2;0;result: sat;;0.15
+finished;z3str-4.13.4;../formulae/str_2_test/quad-142-4-3-unsat.smt2;0;result: unknown;;0.1
+finished;z3str-4.13.4;../formulae/str_2_test/quad-257-4-4-sat.smt2;0;result: sat;;0.17
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-300-6-3-unsat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-132-4-2-unsat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-258-4-4-unsat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-006-2-unsat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-134-4-2-unsat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-284-5-4-unsat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-282-5-4-unsat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-036-3-2-unsat.smt2
+timeout;z3str-4.13.4;../formulae/str_2_test/quad-298-6-3-unsat.smt2
