@@ -3,9 +3,10 @@
 # Fill these out
 # HOST="vojta@pikachu.fit.vutbr.cz"
 # PORT="6067"
-# FILE_PATH_ON_HOST="smt-bench/bench"
-HOST="vojta@bulbasaur.fit.vutbr.cz"
-PORT="6095"
+# HOST="vojta@bulbasaur.fit.vutbr.cz"
+# PORT="6095"
+HOST="vojta@verifit3.fit.vutbr.cz"
+PORT="6065"
 FILE_PATH_ON_HOST="smt-bench/bench"
 
 # Exctracts tool name from the first argument which is assumed

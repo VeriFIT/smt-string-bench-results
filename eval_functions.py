@@ -20,7 +20,8 @@ def read_latest_result_file(bench, tool):
     for root, _, files in os.walk(bench):
         for file in files:
             if tool in file:
-                matching_files.append(os.path.join(root, file))
+                if len(file.split(tool)[1]) == 23:
+                    matching_files.append(os.path.join(root, file))
     if not matching_files:
         print(f"WARNING: {tool} has no .tasks file for {bench}")
         return ""
@@ -250,7 +251,7 @@ def cactus_plot(df, tools, tool_names = None, start = 0, end = None, logarithmic
         if put_legend_outside:
             plt.legend(bbox_to_anchor=(1.04, 1), loc='upper left',framealpha=0.1)
         else:
-            plt.legend(loc='upper left',framealpha=0.1)
+            plt.legend(loc='upper left',framealpha=1)
 
         # plt.axvline(x=end)
 

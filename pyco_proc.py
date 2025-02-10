@@ -178,8 +178,8 @@ def proc_res(fd, args):
                                 ls.append(out_data)
 
                         else:
-                            sys.stderr.write(f"Warning: in {bench} and {eng}: element {out} not in "
-                                             f"{bench_res['output']}\n")
+                            # sys.stderr.write(f"Warning: in {bench} and {eng}: element {out} not in "
+                            #                  f"{bench_res['output']}\n")
                             ls.append("MISSING")
                             # assert False
             else:
