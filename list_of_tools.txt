@@ -373,6 +373,9 @@
 "z3-noodler-notcont-721245e-84ecd6a" # not-contains branch
 "z3-noodler-130017a-84ecd6a" # rewriter-rules branch
 
+# PLDI'25 rebuttal (timeout 1200 sec)
+"z3-noodler-notcont-5227eea-9bc5557",
+
 # branch rewriter-rules 
 "z3-noodler-785a5cb-84ecd6a"
 
