@@ -13,13 +13,15 @@ from enum import Enum
 import pyco_proc
 from pyco_proc import StatsFormat, StatsDestination
 
-def read_latest_result_file(bench, tool):
+def read_latest_result_file(bench, tool, timeout):
     assert tool != ""
 
+    #substring to filter files with the same timeout
+    timeout_str = f"to{timeout}-"
     matching_files = []
     for root, _, files in os.walk(bench):
         for file in files:
-            if tool in file:
+            if tool in file and timeout_str in file:
                 matching_files.append(os.path.join(root, file))
     if not matching_files:
         print(f"WARNING: {tool} has no .tasks file for {bench}")
@@ -29,13 +31,13 @@ def read_latest_result_file(bench, tool):
         return latest_file.read()
 
 
-def load_benches(benches, tools, bench_selection, benchmark_to_group):
+def load_benches(benches, tools, bench_selection, benchmark_to_group, timeout = 120):
     dfs = dict()
     for bench in benches:
         input = ""
         for tool in tools:
             assert tool != ""
-            input += read_latest_result_file(bench, tool)
+            input += read_latest_result_file(bench, tool, timeout)
         has_error_bench = "django" in benches or "biopython" in benches or "thefuck" in benches
         input = pyco_proc.proc_res(io.StringIO(input), Namespace(csv=True,html=False,text=False,tick=False,stats=StatsDestination.OUTPUT_FILE, stats_format=StatsFormat.JSON, ignore_error=has_error_bench))
         df = pd.read_csv(
@@ -73,8 +75,8 @@ def load_benches(benches, tools, bench_selection, benchmark_to_group):
     df_runtime_result = pd.concat(dfs, ignore_index=True)[["benchmark", "benchmark-group", "name"] + [f(tool) for tool in tools for f in (lambda x: x + "-result", lambda x: x + "-runtime")]]
 
     for tool in tools:
-        # set runtime to 120 for nonsolved instances (unknown, TO, ERR or something else)
-        df_runtime_result.loc[(df_runtime_result[f"{tool}-result"] != "sat")&(df_runtime_result[f"{tool}-result"] != "unsat"), f"{tool}-runtime"] = 120
+        # set runtime to the given parameter for nonsolved instances (unknown, TO, ERR or something else)
+        df_runtime_result.loc[(df_runtime_result[f"{tool}-result"] != "sat")&(df_runtime_result[f"{tool}-result"] != "unsat"), f"{tool}-runtime"] = timeout
         # runtime columns should be floats
         df_runtime_result[f"{tool}-runtime"] = df_runtime_result[f"{tool}-runtime"].astype(float)
 
@@ -103,7 +105,7 @@ def load_benches(benches, tools, bench_selection, benchmark_to_group):
     df_all = df_runtime_result.merge(df_stats)
     return df_all
 
-def scatter_plot(df, x_tool, y_tool, clamp=True, clamp_domain=[0.01, 120], xname=None, yname=None, log=True, width=6, height=6, show_legend=True, legend_width=2, file_name_to_save=None, transparent=False, color_by_benchmark=True, color_column="benchmark", value_order=None):
+def scatter_plot(df, x_tool, y_tool, timeout = 120, clamp=True, clamp_domain=[0.01, 120], xname=None, yname=None, log=True, width=6, height=6, show_legend=True, legend_width=2, file_name_to_save=None, transparent=False, color_by_benchmark=True, color_column="benchmark", value_order=None):
     """Returns scatter plot plotting the values of df[x_tool] and df[y_tool] columns.
 
     Args:
@@ -143,6 +145,7 @@ def scatter_plot(df, x_tool, y_tool, clamp=True, clamp_domain=[0.01, 120], xname
     ax_formatter = mizani.custom_format('{:n}')
 
     if clamp:  # clamp overflowing values if required
+        clamp_domain[1] = timeout
         df = df.copy(deep=True)
         df.loc[df[x_tool] > clamp_domain[1], x_tool] = clamp_domain[1]
         df.loc[df[y_tool] > clamp_domain[1], y_tool] = clamp_domain[1]
@@ -202,7 +205,7 @@ def scatter_plot(df, x_tool, y_tool, clamp=True, clamp_domain=[0.01, 120], xname
 
     return scatter
 
-def cactus_plot(df, tools, tool_names = None, start = 0, end = None, logarithmic_y_axis=True, width=6, height=6, show_legend=True, put_legend_outside=False, file_name_to_save=None, num_of_x_ticks=5):
+def cactus_plot(df, tools, timeout = 120, tool_names = None, start = 0, end = None, logarithmic_y_axis=True, width=6, height=6, show_legend=True, put_legend_outside=False, file_name_to_save=None, num_of_x_ticks=5):
     """Returns cactus plot (sorted runtimes of each tool in tools). To print the result use result.figure.savefig("name_of_file.pdf", transparent=True).
 
     Args:
@@ -240,7 +243,7 @@ def cactus_plot(df, tools, tool_names = None, start = 0, end = None, logarithmic
     plt.set_xticks(ticks)
     plt.grid(True, linestyle='--', alpha=0.5)
     plt.set_xlim([start, end])
-    plt.set_ylim([0.1, 120])
+    plt.set_ylim([0.1, timeout])
     if logarithmic_y_axis:
         plt.set_yscale('log')
     plt.set_xlabel("Instances", fontsize=16)
