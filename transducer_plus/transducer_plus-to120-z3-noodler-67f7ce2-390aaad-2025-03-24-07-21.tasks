@@ -1,0 +1,182 @@
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/addslashes-htmlUnescape.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/htmlUnescape-trim.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/htmlUnescape-toUpper.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/addslashes-toUpper.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/addslashes-htmlEscape.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/addslashes-escapeString.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/addslashes-toLower.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/htmlUnescape-toLower.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/toLower-escapeString.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/escapeString-toUpper.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/htmlUnescape-escapeString.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/htmlEscape-toLower.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/htmlEscape-toUpper.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/trim-escapeString.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/htmlEscape-escapeString.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/addslashes-trim.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/trim-toLower.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/htmlEscape-trim.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/toLower-toUpper.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/htmlUnescape-htmlEscape.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/trim-toUpper.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/addslashes-htmlUnescape.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/htmlUnescape-trim.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/htmlUnescape-toUpper.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/addslashes-toUpper.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/addslashes-htmlEscape.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/addslashes-escapeString.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/addslashes-toLower.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/htmlUnescape-toLower.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/toLower-escapeString.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/escapeString-toUpper.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/htmlUnescape-escapeString.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/htmlEscape-toLower.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/htmlEscape-toUpper.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/trim-escapeString.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/htmlEscape-escapeString.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/addslashes-trim.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/trim-toLower.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/htmlEscape-trim.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/toLower-toUpper.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/htmlUnescape-htmlEscape.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/trim-toUpper.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Idempotence/trim.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Idempotence/addslashes.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Idempotence/toUpper.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Idempotence/toLower.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Idempotence/htmlEscape.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Idempotence/htmlUnescape.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Idempotence/escapeString.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/addslashes-htmlUnescape.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/escapeString-toLower.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/toLower-htmlEscape.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/htmlUnescape-addslashes.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/toLower-htmlUnescape.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/toUpper-trim.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/htmlUnescape-trim.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/htmlUnescape-toUpper.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/toLower-addslashes.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/addslashes-toUpper.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/addslashes-htmlEscape.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/addslashes-escapeString.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/toUpper-addslashes.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/addslashes-toLower.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/htmlUnescape-toLower.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/toLower-escapeString.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/escapeString-toUpper.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/htmlEscape-addslashes.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/toUpper-escapeString.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/toUpper-toLower.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/trim-addslashes.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/htmlUnescape-escapeString.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/htmlEscape-toLower.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/htmlEscape-toUpper.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/trim-escapeString.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/toUpper-htmlUnescape.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/htmlEscape-escapeString.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/addslashes-trim.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/trim-htmlUnescape.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/trim-toLower.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/escapeString-addslashes.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/htmlEscape-trim.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/htmlEscape-htmlUnescape.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/toLower-toUpper.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/htmlUnescape-htmlEscape.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/toUpper-htmlEscape.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/toLower-trim.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/escapeString-htmlEscape.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/trim-htmlEscape.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/escapeString-trim.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/trim-toUpper.smt2
+execute;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/escapeString-htmlUnescape.smt2
+finished;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/addslashes-htmlEscape.smt2;0;result: unsat;;0.01
+error;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/addslashes-htmlUnescape.smt2;terminate called after throwing an instance of 'std::bad_alloc'###  what():  std::bad_alloc###real 40.35###user 33.22###sys 7.05
+error;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/addslashes-toUpper.smt2;terminate called after throwing an instance of 'std::bad_alloc'###  what():  std::bad_alloc###real 57.09###user 50.17###sys 6.84
+error;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/addslashes-toLower.smt2;terminate called after throwing an instance of 'std::bad_alloc'###  what():  std::bad_alloc###real 61.17###user 53.75###sys 7.33
+error;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/htmlUnescape-trim.smt2;terminate called after throwing an instance of 'std::bad_alloc'###  what():  std::bad_alloc###real 66.31###user 64.30###sys 1.92
+error;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/htmlEscape-toLower.smt2;terminate called after throwing an instance of 'std::bad_alloc'###  what():  std::bad_alloc###real 40.46###user 35.12###sys 5.25
+error;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/htmlEscape-toUpper.smt2;terminate called after throwing an instance of 'std::bad_alloc'###  what():  std::bad_alloc###real 48.64###user 42.87###sys 5.68
+timeout;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/toLower-escapeString.smt2
+timeout;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/htmlUnescape-toUpper.smt2
+timeout;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/addslashes-escapeString.smt2
+timeout;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/htmlUnescape-toLower.smt2
+error;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/toLower-toUpper.smt2;terminate called after throwing an instance of 'std::bad_alloc'###  what():  std::bad_alloc###real 29.19###user 23.56###sys 5.54
+error;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/addslashes-trim.smt2;terminate called after throwing an instance of 'std::bad_alloc'###  what():  std::bad_alloc###real 29.78###user 24.66###sys 5.03
+error;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/trim-toLower.smt2;terminate called after throwing an instance of 'std::bad_alloc'###  what():  std::bad_alloc###real 32.84###user 26.71###sys 6.05
+timeout;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/escapeString-toUpper.smt2
+error;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/trim-toUpper.smt2;terminate called after throwing an instance of 'std::bad_alloc'###  what():  std::bad_alloc###real 26.81###user 21.72###sys 5.02
+timeout;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/htmlUnescape-escapeString.smt2
+error;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/trim-escapeString.smt2;terminate called after throwing an instance of 'std::bad_alloc'###  what():  std::bad_alloc###real 89.09###user 81.67###sys 7.33
+error;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/htmlUnescape-trim.smt2;terminate called after throwing an instance of 'std::bad_alloc'###  what():  std::bad_alloc###real 42.50###user 34.78###sys 7.64
+error;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/addslashes-toUpper.smt2;terminate called after throwing an instance of 'std::bad_alloc'###  what():  std::bad_alloc###real 44.33###user 37.44###sys 6.81
+error;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/htmlUnescape-toUpper.smt2;terminate called after throwing an instance of 'std::bad_alloc'###  what():  std::bad_alloc###real 45.10###user 39.92###sys 5.09
+timeout;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/htmlEscape-escapeString.smt2
+error;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/addslashes-htmlEscape.smt2;terminate called after throwing an instance of 'std::bad_alloc'###  what():  std::bad_alloc###real 44.67###user 39.27###sys 5.32
+timeout;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/htmlEscape-trim.smt2
+error;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/addslashes-toLower.smt2;terminate called after throwing an instance of 'std::bad_alloc'###  what():  std::bad_alloc###real 45.58###user 39.13###sys 6.34
+timeout;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Commutativity/htmlUnescape-htmlEscape.smt2
+error;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/htmlUnescape-toLower.smt2;terminate called after throwing an instance of 'std::bad_alloc'###  what():  std::bad_alloc###real 49.21###user 43.70###sys 5.42
+timeout;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/addslashes-htmlUnescape.smt2
+error;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/htmlEscape-toLower.smt2;terminate called after throwing an instance of 'std::bad_alloc'###  what():  std::bad_alloc###real 52.40###user 46.70###sys 5.61
+error;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/htmlEscape-toUpper.smt2;terminate called after throwing an instance of 'std::bad_alloc'###  what():  std::bad_alloc###real 49.56###user 43.55###sys 5.92
+timeout;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/addslashes-escapeString.smt2
+error;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/htmlEscape-trim.smt2;terminate called after throwing an instance of 'std::bad_alloc'###  what():  std::bad_alloc###real 20.23###user 15.33###sys 4.80
+error;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/addslashes-trim.smt2;terminate called after throwing an instance of 'std::bad_alloc'###  what():  std::bad_alloc###real 30.89###user 25.12###sys 5.68
+timeout;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/toLower-escapeString.smt2
+timeout;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/escapeString-toUpper.smt2
+timeout;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/htmlUnescape-escapeString.smt2
+error;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/htmlUnescape-htmlEscape.smt2;terminate called after throwing an instance of 'std::bad_alloc'###  what():  std::bad_alloc###real 24.09###user 18.54###sys 5.47
+timeout;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/trim-escapeString.smt2
+timeout;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/htmlEscape-escapeString.smt2
+error;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/toLower-toUpper.smt2;terminate called after throwing an instance of 'std::bad_alloc'###  what():  std::bad_alloc###real 54.78###user 47.91###sys 6.79
+error;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Idempotence/htmlUnescape.smt2;terminate called after throwing an instance of 'std::bad_alloc'###  what():  std::bad_alloc###real 25.77###user 19.47###sys 6.21
+timeout;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/trim-toLower.smt2
+error;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Idempotence/htmlEscape.smt2;terminate called after throwing an instance of 'std::bad_alloc'###  what():  std::bad_alloc###real 46.57###user 41.20###sys 5.29
+timeout;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Equivalence/trim-toUpper.smt2
+timeout;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Idempotence/trim.smt2
+timeout;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Idempotence/addslashes.smt2
+error;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/addslashes-htmlUnescape.smt2;terminate called after throwing an instance of 'std::bad_alloc'###  what():  std::bad_alloc###real 40.95###user 33.45###sys 7.41
+timeout;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Idempotence/toUpper.smt2
+error;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/toLower-htmlEscape.smt2;terminate called after throwing an instance of 'std::bad_alloc'###  what():  std::bad_alloc###real 34.89###user 29.39###sys 5.41
+timeout;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Idempotence/toLower.smt2
+error;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/escapeString-toLower.smt2;terminate called after throwing an instance of 'std::bad_alloc'###  what():  std::bad_alloc###real 91.74###user 82.12###sys 9.54
+error;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/htmlUnescape-trim.smt2;terminate called after throwing an instance of 'std::bad_alloc'###  what():  std::bad_alloc###real 39.36###user 37.58###sys 1.69
+timeout;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Idempotence/escapeString.smt2
+error;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/toLower-addslashes.smt2;terminate called after throwing an instance of 'std::bad_alloc'###  what():  std::bad_alloc###real 34.09###user 28.22###sys 5.78
+error;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/toUpper-trim.smt2;terminate called after throwing an instance of 'std::bad_alloc'###  what():  std::bad_alloc###real 76.78###user 67.57###sys 9.12
+error;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/addslashes-htmlEscape.smt2;terminate called after throwing an instance of 'std::bad_alloc'###  what():  std::bad_alloc###real 28.18###user 21.65###sys 6.44
+error;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/addslashes-toUpper.smt2;terminate called after throwing an instance of 'std::bad_alloc'###  what():  std::bad_alloc###real 32.15###user 26.07###sys 6.00
+error;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/toUpper-addslashes.smt2;terminate called after throwing an instance of 'std::bad_alloc'###  what():  std::bad_alloc###real 31.51###user 24.73###sys 6.69
+error;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/addslashes-toLower.smt2;terminate called after throwing an instance of 'std::bad_alloc'###  what():  std::bad_alloc###real 30.88###user 25.36###sys 5.44
+timeout;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/htmlUnescape-addslashes.smt2
+timeout;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/toLower-htmlUnescape.smt2
+error;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/htmlEscape-addslashes.smt2;terminate called after throwing an instance of 'std::bad_alloc'###  what():  std::bad_alloc###real 28.93###user 22.97###sys 5.86
+finished;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/trim-addslashes.smt2;0;result: unknown;;0.04
+timeout;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/htmlUnescape-toUpper.smt2
+error;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/toUpper-toLower.smt2;terminate called after throwing an instance of 'std::bad_alloc'###  what():  std::bad_alloc###real 47.63###user 40.97###sys 6.57
+timeout;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/addslashes-escapeString.smt2
+finished;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/trim-escapeString.smt2;0;result: unknown;;0.13
+error;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/htmlEscape-toLower.smt2;terminate called after throwing an instance of 'std::bad_alloc'###  what():  std::bad_alloc###real 37.61###user 30.89###sys 6.63
+timeout;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/htmlUnescape-toLower.smt2
+timeout;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/toLower-escapeString.smt2
+finished;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/trim-htmlUnescape.smt2;0;result: unknown;;0.04
+finished;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/trim-toLower.smt2;0;result: unknown;;0.06
+error;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/htmlEscape-toUpper.smt2;terminate called after throwing an instance of 'std::bad_alloc'###  what():  std::bad_alloc###real 40.79###user 34.22###sys 6.48
+timeout;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/escapeString-toUpper.smt2
+error;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/addslashes-trim.smt2;terminate called after throwing an instance of 'std::bad_alloc'###  what():  std::bad_alloc###real 22.66###user 17.00###sys 5.57
+timeout;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/toUpper-escapeString.smt2
+error;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/htmlEscape-trim.smt2;terminate called after throwing an instance of 'std::bad_alloc'###  what():  std::bad_alloc###real 30.68###user 24.85###sys 5.75
+error;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/htmlEscape-htmlUnescape.smt2;terminate called after throwing an instance of 'std::bad_alloc'###  what():  std::bad_alloc###real 37.89###user 31.88###sys 5.93
+timeout;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/htmlUnescape-escapeString.smt2
+error;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/toLower-toUpper.smt2;terminate called after throwing an instance of 'std::bad_alloc'###  what():  std::bad_alloc###real 34.71###user 29.13###sys 5.50
+finished;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/trim-htmlEscape.smt2;0;result: unknown;;0.04
+error;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/toUpper-htmlEscape.smt2;terminate called after throwing an instance of 'std::bad_alloc'###  what():  std::bad_alloc###real 34.25###user 28.24###sys 5.91
+finished;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/trim-toUpper.smt2;0;result: unknown;;0.05
+error;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/escapeString-addslashes.smt2;terminate called after throwing an instance of 'std::bad_alloc'###  what():  std::bad_alloc###real 97.17###user 89.55###sys 7.54
+timeout;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/toUpper-htmlUnescape.smt2
+timeout;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/htmlEscape-escapeString.smt2
+error;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/escapeString-htmlEscape.smt2;terminate called after throwing an instance of 'std::bad_alloc'###  what():  std::bad_alloc###real 63.29###user 55.57###sys 7.64
+error;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/toLower-trim.smt2;terminate called after throwing an instance of 'std::bad_alloc'###  what():  std::bad_alloc###real 68.34###user 60.34###sys 7.91
+timeout;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/htmlUnescape-htmlEscape.smt2
+timeout;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/escapeString-trim.smt2
+timeout;z3-noodler-67f7ce2-390aaad;../formulae/QF_SLIA/20230331-transducer-plus/Duality/escapeString-htmlUnescape.smt2
