@@ -409,3 +409,9 @@
 
 # branch fix-incr-bug
 "cbd8f8d-bf3ec09",
+
+# devel after merging parikh-transducer
+"d63857f-f17ea99",
+
+# branch build_transducers_together
+"4626660-d97833a",
