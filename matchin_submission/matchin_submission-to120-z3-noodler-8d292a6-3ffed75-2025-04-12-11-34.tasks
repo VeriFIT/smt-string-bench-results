@@ -1,0 +1,492 @@
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-26.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-14.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-27.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-13.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-15.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-128.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-107.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-13.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-39.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-125.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-111.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-46.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-09.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-02.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-19.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-35.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-101.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-85.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-65.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-16.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-15.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-06.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-115.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-83.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-103.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-33.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-23.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-11.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-20.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-37.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-19.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-4.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-25.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-10.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-39.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-41.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-23.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-66.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-59.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-38.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-22.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-36.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-47.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-15.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-73.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-60.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-37.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-34.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-116.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-3.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-24.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-105.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-122.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-92.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-36.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-56.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-48.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-21.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-8.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-12.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-16.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-109.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-81.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-34.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-43.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-20.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-1.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-45.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-35.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-20.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-42.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-27.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-117.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-97.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-16.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-21.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-12.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-6.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-45.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-33.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-118.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-55.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-9.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-32.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-72.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-3.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-63.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-48.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-102.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-88.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-68.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-126.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-43.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-82.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-113.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-43.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-91.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-90.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-35.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-26.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-2.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-14.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-28.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-42.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-106.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-5.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-104.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-38.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-130.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-24.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-47.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-112.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-46.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-124.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-61.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-9.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-75.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-03.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-05.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-12.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-44.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-24.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-44.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-31.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-13.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-30.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-33.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-25.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-50.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-49.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-19.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-94.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-32.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-28.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-07.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-29.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-79.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-119.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-89.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-08.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-54.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-7.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-67.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-100.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-37.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-46.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-10.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-18.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-30.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-95.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-22.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-40.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-39.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-11.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-47.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-86.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-11.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-31.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-80.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-53.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-14.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-127.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-17.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-96.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-49.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-2.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-30.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-29.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-40.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-29.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-120.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-45.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-34.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-44.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-22.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-98.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-129.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-1.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-62.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-23.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-04.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-50.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-121.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-42.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-18.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-70.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-64.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-4.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-10.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-123.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-74.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-77.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-76.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-71.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-48.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-84.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-5.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-26.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-18.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-93.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-7.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-6.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-51.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-87.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-58.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-99.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-01.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-114.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-57.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-28.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-32.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-40.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-17.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-21.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-108.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-17.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-25.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-36.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-49.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-50.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-41.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-110.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-31.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-38.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-27.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-52.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-41.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-69.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-8.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-78.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-unsat-8.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-unsat-1.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-sat-5.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-unsat-3.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-unsat-4.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-unsat-2.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-unsat-10.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-unsat-7.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-sat-2.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-unsat-5.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-sat-1.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-unsat-6.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-sat-3.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-sat-6.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-unsat-9.smt2
+execute;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-sat-4.smt2
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-128.smt2;0;result: sat;;0.08
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-107.smt2;0;result: sat;;0.64
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-125.smt2;0;result: sat;;0.69
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-39.smt2;0;result: unsat;;1.52
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-111.smt2;0;result: sat;;0.33
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-26.smt2;0;result: unsat;;2.16
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-27.smt2;0;result: unsat;;3.65
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-13.smt2;0;result: sat;;4.69
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-14.smt2;0;result: unsat;;4.79
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-19.smt2;0;result: unsat;;1.37
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-101.smt2;0;result: sat;;0.31
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-46.smt2;0;result: sat;;4.71
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-15.smt2;0;result: sat;;6.58
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-02.smt2;0;result: unsat;;3.8
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-35.smt2;0;result: sat;;2.62
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-115.smt2;0;result: sat;;0.19
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-83.smt2;0;result: unsat;;1.5
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-15.smt2;0;result: unsat;;2.63
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-103.smt2;0;result: sat;;0.1
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-16.smt2;0;result: sat;;2.88
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-06.smt2;0;result: unsat;;3.11
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-11.smt2;0;result: unsat;;1.44
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-20.smt2;0;result: unsat;;4.71
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-37.smt2;0;result: sat;;4.26
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-23.smt2;0;result: unsat;;7.09
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-33.smt2;0;result: unsat;;8.51
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-25.smt2;0;result: unsat;;3.26
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-13.smt2;0;result: unsat;;16.22
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-19.smt2;0;result: sat;;5.5
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-4.smt2;0;result: sat;;5.3
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-41.smt2;0;result: sat;;2.14
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-09.smt2;0;result: unsat;;16.87
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-39.smt2;0;result: unsat;;3.69
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-59.smt2;0;result: unsat;;1.32
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-65.smt2;0;result: unsat;;15.6
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-66.smt2;0;result: unsat;;3.37
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-85.smt2;0;result: unsat;;15.7
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-47.smt2;0;result: unsat;;1.31
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-15.smt2;0;result: unsat;;1.35
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-10.smt2;0;result: unsat;;8.32
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-36.smt2;0;result: unsat;;4.17
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-116.smt2;0;result: sat;;0.02
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-23.smt2;0;result: sat;;7.83
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-38.smt2;0;result: sat;;6.02
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-105.smt2;0;result: sat;;0.26
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-122.smt2;0;result: sat;;0.08
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-22.smt2;0;result: unsat;;5.79
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-34.smt2;0;result: unsat;;3.17
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-92.smt2;0;result: unsat;;1.54
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-24.smt2;0;result: sat;;4.03
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-3.smt2;0;result: unsat;;5.11
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-48.smt2;0;result: sat;;2.25
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-37.smt2;0;result: unsat;;7.56
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-60.smt2;0;result: unsat;;7.1
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-109.smt2;0;result: sat;;0.61
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-12.smt2;0;result: sat;;2.85
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-36.smt2;0;result: unsat;;6.91
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-56.smt2;0;result: unsat;;7.24
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-34.smt2;0;result: unsat;;3.39
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-8.smt2;0;result: unsat;;6.59
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-43.smt2;0;result: unsat;;3.75
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-16.smt2;0;result: unsat;;7.27
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-1.smt2;0;result: unsat;;3.89
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-20.smt2;0;result: sat;;2.09
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-73.smt2;0;result: unsat;;15.65
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-117.smt2;0;result: sat;;1.09
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-45.smt2;0;result: sat;;5.86
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-20.smt2;0;result: unsat;;7.62
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-27.smt2;0;result: sat;;3.01
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-35.smt2;0;result: unsat;;6.25
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-42.smt2;0;result: unsat;;4.59
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-97.smt2;0;result: unsat;;2.87
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-16.smt2;0;result: unsat;;3.55
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-118.smt2;0;result: sat;;0.15
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-55.smt2;0;result: unsat;;1.25
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-33.smt2;0;result: sat;;2.14
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-6.smt2;0;result: sat;;3.66
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-21.smt2;0;result: unsat;;16.34
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-81.smt2;0;result: unsat;;15.5
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-21.smt2;0;result: unsat;;7.79
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-63.smt2;0;result: unsat;;1.38
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-3.smt2;0;result: sat;;3.0
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-12.smt2;0;result: unsat;;8.85
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-102.smt2;0;result: sat;;0.52
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-126.smt2;0;result: sat;;0.3
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-9.smt2;0;result: sat;;6.63
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-43.smt2;0;result: unsat;;1.57
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-113.smt2;0;result: sat;;0.67
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-32.smt2;0;result: unsat;;7.03
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-72.smt2;0;result: unsat;;7.42
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-91.smt2;0;result: unsat;;1.4
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-90.smt2;0;result: unsat;;1.85
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-43.smt2;0;result: sat;;3.13
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-82.smt2;0;result: unsat;;4.23
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-35.smt2;0;result: unsat;;1.36
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-48.smt2;0;result: unsat;;7.11
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-88.smt2;0;result: unsat;;7.34
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-106.smt2;0;result: sat;;0.05
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-68.smt2;0;result: unsat;;7.41
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-104.smt2;0;result: sat;;0.06
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-2.smt2;0;result: sat;;2.57
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-14.smt2;0;result: sat;;2.81
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-26.smt2;0;result: unsat;;3.13
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-130.smt2;0;result: sat;;0.69
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-42.smt2;0;result: sat;;3.27
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-5.smt2;0;result: unsat;;2.39
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-124.smt2;0;result: sat;;0.01
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-112.smt2;0;result: sat;;1.04
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-45.smt2;0;result: unsat;;15.22
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-28.smt2;0;result: unsat;;5.18
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-75.smt2;0;result: unsat;;1.37
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-46.smt2;0;result: unsat;;3.46
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-03.smt2;0;result: unsat;;1.73
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-47.smt2;0;result: sat;;4.4
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-9.smt2;0;result: unsat;;4.19
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-24.smt2;0;result: unsat;;7.34
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-44.smt2;0;result: sat;;4.5
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-24.smt2;0;result: unsat;;5.14
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-38.smt2;0;result: unsat;;10.42
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-31.smt2;0;result: sat;;2.44
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-12.smt2;0;result: unsat;;7.37
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-13.smt2;0;result: unsat;;3.96
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-44.smt2;0;result: unsat;;7.31
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-30.smt2;0;result: unsat;;5.89
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-50.smt2;0;result: sat;;3.97
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-94.smt2;0;result: unsat;;1.65
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-19.smt2;0;result: unsat;;4.06
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-32.smt2;0;result: sat;;2.61
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-07.smt2;0;result: unsat;;1.34
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-25.smt2;0;result: sat;;9.0
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-61.smt2;0;result: unsat;;14.78
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-119.smt2;0;result: sat;;0.34
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-28.smt2;0;result: sat;;2.66
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-49.smt2;0;result: unsat;;7.46
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-79.smt2;0;result: unsat;;1.42
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-89.smt2;0;result: unsat;;1.47
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-05.smt2;0;result: unsat;;15.25
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-67.smt2;0;result: unsat;;1.38
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-100.smt2;0;result: sat;;1.28
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-7.smt2;0;result: unsat;;2.73
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-54.smt2;0;result: unsat;;3.65
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-29.smt2;0;result: unsat;;5.28
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-95.smt2;0;result: unsat;;1.32
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-10.smt2;0;result: unsat;;3.08
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-46.smt2;0;result: unsat;;3.93
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-18.smt2;0;result: unsat;;3.64
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-22.smt2;0;result: sat;;1.64
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-30.smt2;0;result: unsat;;3.46
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-08.smt2;0;result: unsat;;7.32
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-39.smt2;0;result: sat;;3.88
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-40.smt2;0;result: unsat;;4.92
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-86.smt2;0;result: unsat;;3.06
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-11.smt2;0;result: sat;;3.18
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-47.smt2;0;result: unsat;;4.07
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-33.smt2;0;result: unsat;;17.96
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-127.smt2;0;result: sat;;0.79
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-11.smt2;0;result: unsat;;5.77
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-96.smt2;0;result: unsat;;1.59
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-14.smt2;0;result: unsat;;3.41
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-49.smt2;0;result: sat;;3.12
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-31.smt2;0;result: unsat;;7.74
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-30.smt2;0;result: sat;;3.49
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-2.smt2;0;result: unsat;;4.2
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-120.smt2;0;result: sat;;0.67
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-80.smt2;0;result: unsat;;7.63
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-34.smt2;0;result: sat;;1.6
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-37.smt2;0;result: unsat;;15.7
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-40.smt2;0;result: sat;;4.4
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-45.smt2;0;result: unsat;;3.73
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-129.smt2;0;result: sat;;0.7
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-98.smt2;0;result: unsat;;1.86
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-22.smt2;0;result: unsat;;3.36
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-23.smt2;0;result: unsat;;1.4
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-44.smt2;0;result: unsat;;6.26
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-29.smt2;0;result: sat;;9.07
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-62.smt2;0;result: unsat;;3.21
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-121.smt2;0;result: sat;;0.61
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-53.smt2;0;result: unsat;;15.44
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-1.smt2;0;result: sat;;7.01
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-17.smt2;0;result: unsat;;15.89
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-18.smt2;0;result: unsat;;3.32
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-42.smt2;0;result: unsat;;3.54
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-123.smt2;0;result: sat;;0.39
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-10.smt2;0;result: sat;;1.32
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-50.smt2;0;result: unsat;;6.42
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-70.smt2;0;result: unsat;;3.62
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-29.smt2;0;result: unsat;;16.1
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-71.smt2;0;result: unsat;;1.38
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-74.smt2;0;result: unsat;;3.2
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-48.smt2;0;result: unsat;;1.68
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-04.smt2;0;result: unsat;;11.45
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-4.smt2;0;result: unsat;;7.81
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-26.smt2;0;result: sat;;2.3
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-64.smt2;0;result: unsat;;7.71
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-5.smt2;0;result: sat;;3.97
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-93.smt2;0;result: unsat;;1.52
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-51.smt2;0;result: unsat;;1.52
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-18.smt2;0;result: sat;;3.33
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-76.smt2;0;result: unsat;;7.46
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-87.smt2;0;result: unsat;;1.39
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-114.smt2;0;result: sat;;0.27
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-6.smt2;0;result: unsat;;3.19
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-01.smt2;0;result: unsat;;0.94
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-99.smt2;0;result: unsat;;1.6
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-84.smt2;0;result: unsat;;7.66
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-58.smt2;0;result: unsat;;3.45
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-7.smt2;0;result: sat;;7.41
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-108.smt2;0;result: sat;;0.69
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-32.smt2;0;result: unsat;;4.85
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-21.smt2;0;result: sat;;3.3
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-17.smt2;0;result: unsat;;5.34
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-28.smt2;0;result: unsat;;7.14
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-36.smt2;0;result: sat;;3.4
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-40.smt2;0;result: unsat;;7.4
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-77.smt2;0;result: unsat;;16.08
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-110.smt2;0;result: sat;;1.17
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-31.smt2;0;result: unsat;;1.37
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-50.smt2;0;result: unsat;;3.62
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-27.smt2;0;result: unsat;;1.33
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-38.smt2;0;result: unsat;;3.22
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-17.smt2;0;result: sat;;9.31
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-41.smt2;0;result: unsat;;5.79
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-57.smt2;0;result: unsat;;15.31
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-52.smt2;0;result: unsat;;7.31
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-unsat-8.smt2;0;result: unsat;;2.84
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-8.smt2;0;result: sat;;7.68
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-78.smt2;0;result: unsat;;3.41
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-25.smt2;0;result: unsat;;15.49
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-49.smt2;0;result: unsat;;16.05
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-unsat-1.smt2;0;result: unsat;;7.71
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-unsat-2.smt2;0;result: unsat;;3.7
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-unsat-10.smt2;0;result: unsat;;2.59
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-41.smt2;0;result: unsat;;16.64
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-unsat-4.smt2;0;result: unsat;;7.83
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-unsat-7.smt2;0;result: unsat;;3.61
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-unsat-3.smt2;0;result: unsat;;10.35
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-unsat-6.smt2;0;result: unsat;;3.61
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-69.smt2;0;result: unsat;;16.98
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-sat-5.smt2;0;result: sat;;13.31
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-unsat-5.smt2;0;result: unsat;;6.84
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-unsat-9.smt2;0;result: unsat;;3.46
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-sat-2.smt2;0;result: sat;;14.2
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-sat-1.smt2;0;result: sat;;13.13
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-sat-3.smt2;0;result: sat;;13.34
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-sat-6.smt2;0;result: sat;;14.16
+finished;z3-noodler-8d292a6-3ffed75;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-sat-4.smt2;0;result: sat;;13.68
