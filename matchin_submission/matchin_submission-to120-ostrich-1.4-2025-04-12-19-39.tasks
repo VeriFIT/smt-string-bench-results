@@ -1,0 +1,492 @@
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-26.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-14.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-27.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-13.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-15.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-128.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-107.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-13.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-39.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-125.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-111.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-46.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-09.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-02.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-19.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-35.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-101.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-85.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-65.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-16.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-15.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-06.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-115.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-83.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-103.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-33.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-23.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-11.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-20.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-37.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-19.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-4.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-25.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-10.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-39.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-41.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-23.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-66.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-59.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-38.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-22.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-36.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-47.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-15.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-73.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-60.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-37.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-34.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-116.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-3.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-24.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-105.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-122.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-92.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-36.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-56.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-48.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-21.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-8.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-12.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-16.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-109.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-81.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-34.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-43.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-20.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-45.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-35.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-20.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-42.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-27.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-117.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-97.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-16.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-21.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-12.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-6.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-45.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-33.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-118.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-55.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-9.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-32.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-72.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-3.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-63.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-48.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-102.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-88.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-68.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-126.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-43.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-82.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-113.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-43.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-91.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-90.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-35.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-26.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-14.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-28.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-42.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-106.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-5.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-104.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-38.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-130.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-24.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-47.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-112.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-46.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-124.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-61.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-9.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-75.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-03.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-05.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-12.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-44.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-24.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-44.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-31.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-13.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-30.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-33.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-25.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-50.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-49.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-19.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-94.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-32.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-28.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-07.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-29.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-79.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-119.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-89.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-08.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-54.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-7.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-67.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-100.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-37.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-46.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-10.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-18.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-30.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-95.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-22.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-40.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-39.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-11.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-47.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-86.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-11.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-31.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-80.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-53.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-14.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-127.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-17.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-96.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-49.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-30.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-29.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-40.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-29.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-120.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-45.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-34.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-44.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-22.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-98.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-129.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-62.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-23.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-04.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-50.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-121.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-42.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-18.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-70.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-64.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-4.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-10.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-123.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-74.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-77.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-76.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-71.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-48.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-84.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-5.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-26.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-18.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-93.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-7.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-6.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-51.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-87.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-58.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-99.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-01.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-114.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-57.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-28.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-32.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-40.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-17.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-21.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-108.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-17.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-25.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-36.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-49.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-50.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-41.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-110.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-31.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-38.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-27.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-52.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-41.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-69.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-8.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-78.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-unsat-8.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-unsat-1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-sat-5.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-unsat-3.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-unsat-4.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-unsat-2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-unsat-10.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-unsat-7.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-sat-2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-unsat-5.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-sat-1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-unsat-6.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-sat-3.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-sat-6.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-unsat-9.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-sat-4.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-128.smt2;0;result: sat;;3.49
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-107.smt2;0;result: sat;;4.6
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-13.smt2;0;result: sat;;9.15
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-125.smt2;0;result: sat;;4.22
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-39.smt2;0;result: sat;;7.54
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-111.smt2;0;result: sat;;4.08
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-09.smt2;0;result: sat;;9.03
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-02.smt2;0;result: sat;;6.69
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-19.smt2;0;result: sat;;8.03
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-101.smt2;0;result: sat;;4.04
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-85.smt2;0;result: sat;;9.88
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-65.smt2;0;result: sat;;9.42
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-15.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-13.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-27.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-26.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-14.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-115.smt2;0;result: sat;;4.02
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-103.smt2;0;result: sat;;3.32
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-83.smt2;0;result: sat;;7.59
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-06.smt2;0;result: sat;;8.35
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-46.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-11.smt2;0;result: sat;;7.54
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-35.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-16.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-15.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-33.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-23.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-20.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-37.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-19.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-66.smt2;0;result: sat;;8.67
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-59.smt2;0;result: sat;;7.74
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-4.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-25.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-47.smt2;0;result: sat;;7.83
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-15.smt2;0;result: sat;;7.45
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-73.smt2;0;result: sat;;9.49
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-60.smt2;0;result: sat;;8.66
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-10.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-39.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-41.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-34.smt2;0;result: sat;;8.8
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-23.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-116.smt2;0;result: sat;;2.76
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-122.smt2;0;result: sat;;3.32
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-105.smt2;0;result: sat;;4.5
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-92.smt2;0;result: sat;;7.3
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-38.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-36.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-22.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-36.smt2;0;result: sat;;8.4
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-56.smt2;0;result: sat;;8.68
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-21.smt2;0;result: sat;;9.01
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-16.smt2;0;result: sat;;8.67
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-109.smt2;0;result: sat;;5.03
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-81.smt2;0;result: sat;;9.7
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-37.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-20.smt2;0;result: sat;;8.32
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-3.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-24.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-48.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-8.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-12.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-34.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-117.smt2;0;result: sat;;5.74
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-43.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-97.smt2;0;result: sat;;7.38
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-1.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-45.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-35.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-45.smt2;0;result: sat;;9.37
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-20.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-42.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-27.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-118.smt2;0;result: sat;;3.84
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-55.smt2;0;result: sat;;7.85
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-32.smt2;0;result: sat;;8.59
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-72.smt2;0;result: sat;;8.66
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-63.smt2;0;result: sat;;7.34
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-16.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-21.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-102.smt2;0;result: sat;;4.25
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-48.smt2;0;result: sat;;8.9
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-126.smt2;0;result: sat;;4.25
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-88.smt2;0;result: sat;;9.08
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-68.smt2;0;result: sat;;8.67
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-43.smt2;0;result: sat;;7.47
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-113.smt2;0;result: sat;;4.99
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-82.smt2;0;result: sat;;8.1
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-91.smt2;0;result: sat;;7.04
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-90.smt2;0;result: sat;;7.38
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-35.smt2;0;result: sat;;7.9
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-26.smt2;0;result: sat;;8.63
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-12.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-6.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-33.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-106.smt2;0;result: sat;;3.01
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-9.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-104.smt2;0;result: sat;;3.26
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-3.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-130.smt2;0;result: sat;;5.03
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-24.smt2;0;result: sat;;8.96
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-43.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-112.smt2;0;result: sat;;5.47
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-46.smt2;0;result: sat;;8.38
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-124.smt2;0;result: sat;;1.94
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-2.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-14.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-28.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-61.smt2;0;result: sat;;9.4
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-75.smt2;0;result: sat;;7.7
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-03.smt2;0;result: sat;;5.65
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-05.smt2;0;result: sat;;9.48
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-12.smt2;0;result: sat;;8.29
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-44.smt2;0;result: sat;;8.93
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-42.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-5.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-38.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-33.smt2;0;result: sat;;9.94
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-47.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-9.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-44.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-24.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-94.smt2;0;result: sat;;7.42
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-31.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-13.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-07.smt2;0;result: sat;;7.79
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-30.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-79.smt2;0;result: sat;;7.8
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-119.smt2;0;result: sat;;4.06
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-89.smt2;0;result: sat;;7.35
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-25.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-08.smt2;0;result: sat;;8.88
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-54.smt2;0;result: sat;;9.0
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-50.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-67.smt2;0;result: sat;;8.05
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-100.smt2;0;result: sat;;5.66
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-37.smt2;0;result: sat;;9.62
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-10.smt2;0;result: sat;;8.17
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-18.smt2;0;result: sat;;8.9
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-49.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-30.smt2;0;result: sat;;8.79
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-95.smt2;0;result: sat;;7.15
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-19.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-32.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-28.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-29.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-86.smt2;0;result: sat;;8.5
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-7.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-46.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-80.smt2;0;result: sat;;8.95
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-53.smt2;0;result: sat;;9.52
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-14.smt2;0;result: sat;;9.01
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-127.smt2;0;result: sat;;5.03
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-22.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-40.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-96.smt2;0;result: sat;;7.29
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-17.smt2;0;result: sat;;9.73
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-39.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-29.smt2;0;result: sat;;8.98
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-11.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-47.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-120.smt2;0;result: sat;;4.25
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-11.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-31.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-49.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-2.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-30.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-22.smt2;0;result: sat;;8.7
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-98.smt2;0;result: sat;;7.01
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-129.smt2;0;result: sat;;4.76
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-40.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-23.smt2;0;result: sat;;7.69
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-62.smt2;0;result: sat;;8.46
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-29.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-121.smt2;0;result: sat;;4.3
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-45.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-04.smt2;0;result: sat;;10.63
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-42.smt2;0;result: sat;;8.69
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-70.smt2;0;result: sat;;8.82
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-64.smt2;0;result: sat;;8.62
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-123.smt2;0;result: sat;;4.32
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-74.smt2;0;result: sat;;8.57
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-77.smt2;0;result: sat;;9.64
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-76.smt2;0;result: sat;;9.3
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-71.smt2;0;result: sat;;7.65
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-34.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-84.smt2;0;result: sat;;9.15
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-44.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-1.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-50.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-18.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-93.smt2;0;result: sat;;6.62
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-4.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-10.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-51.smt2;0;result: sat;;7.49
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-87.smt2;0;result: sat;;7.88
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-58.smt2;0;result: sat;;8.71
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-99.smt2;0;result: sat;;7.22
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-01.smt2;0;result: sat;;4.66
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-114.smt2;0;result: sat;;4.24
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-57.smt2;0;result: sat;;9.38
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-48.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-28.smt2;0;result: sat;;8.75
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-40.smt2;0;result: sat;;8.85
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-5.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-108.smt2;0;result: sat;;4.69
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-26.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-25.smt2;0;result: sat;;9.62
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-18.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-49.smt2;0;result: sat;;9.43
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-7.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-50.smt2;0;result: sat;;8.75
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-6.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-110.smt2;0;result: sat;;5.3
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-31.smt2;0;result: sat;;7.33
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-41.smt2;0;result: sat;;9.75
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-38.smt2;0;result: sat;;7.9
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-27.smt2;0;result: sat;;6.79
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-52.smt2;0;result: sat;;8.79
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-69.smt2;0;result: sat;;10.11
+finished;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/wildcard-matching-regex-78.smt2;0;result: sat;;8.83
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-32.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-17.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-21.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-17.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-36.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-unsat-41.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_S/20250410-matching/sub-matching-sat-8.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-unsat-8.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-unsat-1.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-sat-5.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-unsat-3.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-unsat-4.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-unsat-2.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-unsat-10.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-unsat-7.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-sat-2.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-unsat-5.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-sat-1.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-unsat-6.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-sat-3.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-sat-6.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-unsat-9.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission-main/non-incremental/QF_SLIA/20250410-matching/sub-find-sat-4.smt2
