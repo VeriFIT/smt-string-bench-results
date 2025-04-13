@@ -412,6 +412,11 @@
 
 # devel after merging parikh-transducer
 "d63857f-f17ea99",
+"d63857f-3ffed75"
+
+# branch fix_recursion
+"2c21483-3ffed75",
+"8d292a6-3ffed75",
 
 # branch build_transducers_together
 "4626660-d97833a",
