@@ -1,0 +1,820 @@
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_0_6.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_2_14.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_1_24.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_0_32.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_3.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_4_8.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_1_0_24.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_6_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_3.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_3_14.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_9_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_1_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_1_19.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_3_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_15_0_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_4_9.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_4_12.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_3_17.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_1_0_4.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_1_2_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_3_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_6_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_8_7.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_0_12.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_4_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_11_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_5.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_0_33.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_5.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_2_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_7_7.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_1_17.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_1_2_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_0_5.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_7_4.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_3_3.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_2_5.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_3_19.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_1_3_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_3_3.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_8_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_1_0_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_0_18.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_0_23.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_8_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_4_15.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_0_6.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_1_8.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_7_8.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_8.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_0_9.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_18_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_7_6.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_3_4.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_2_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_0_28.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_1_2_3.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_0_7.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_6_9.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_8_3.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_2_9.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_0_22.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_4_6.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_1_22.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_1_5.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_5_12.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_0_20.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_0_32.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_5_7.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_1_5_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_1_0_29.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_1_3_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_2_3.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_1_1_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_18_0_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_1_20.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_6_7.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_1_29.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_2_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_0_24.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_0_4.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_5_3.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_3_12.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_10_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_5_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_1_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_2_10.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_2_20.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_1_9.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_0_6.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_14_0_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_0_18.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_1_25.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_6_8.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_4_5.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_38_0_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_9_3.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_0_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_7_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_2_4.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_1_0_6.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_0_29.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_2_15.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_4_0_5.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_0_8.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_2_3.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_5_5.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_17_0_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_2_13.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_14.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_2_5.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_1_11.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_6_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_2_7.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_4_4.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_0_30.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_0_12.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_1_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_6_6.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_2_13.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_18_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_7_4.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_14_0_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_15_0_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_1_6_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_0_26.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_1_28.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_0_26.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_1_3.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_2_14.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_11.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_4_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_3_5.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_0_18.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_0_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_5_8.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_0_19.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_3_16.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_2_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_2_0_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_1_23.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_0_4.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_4.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_7_3.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_4_4.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_6_3.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_1_0_15.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_4_8.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_0_16.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_1_26.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_7_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_0_19.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_4_10.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_2_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_6_4.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_3.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_0_5.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_2_4.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_1_1_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_2_11.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_5_4.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_1_4.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_2_6.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_1_17.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_2_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_1_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_0_9.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_5_11.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_1_0_17.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_2_0_3.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_5_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_1_3.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_1_15.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_2_16.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_1_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_3_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_2_6.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_1_14.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_1_3.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_0_20.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_17_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_3_6.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_0_13.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_0_30.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_6_5.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_9_5.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_6_5.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_15.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_1_8.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_1_1_3.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_6.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_3_8.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_0_27.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_0_34.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_4_7.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_5_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_1_13.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_2_3.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_1_0_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_9.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_9_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_0_30.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_0_28.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_3_9.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_1_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_0_13.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_5_3.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_3_11.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_0_16.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_1_13.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_1_4.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_6_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_0_29.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_0_17.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_8_4.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_9.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_28_0_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_1_0_27.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_4_0_12.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_16_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_4_9.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_1_7.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_4_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_3_12.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_6_3.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_2_10.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_0_36.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_4_0_8.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_2_12.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_9_4.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_1_26.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_1_14.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_2_0_10.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_2_19.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_1_5.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_0_17.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_12.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_7.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_1_0_9.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_8.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_0_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_2_15.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_5_5.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_1_0_3.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_0_26.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_0_10.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_1_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_3_5.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_9.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_10_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_9_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_2_20.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_6.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_4.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_8.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_6_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_6_4.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_14_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_1_18.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_0_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_7_5.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_1_20.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_1_5.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_8_3.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_6_6.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_7.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_7.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_0_23.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_3_11.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_7_5.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_3_13.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_8_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_0_31.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_3_10.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_8_8.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_5_4.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_1_0_26.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_0_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_1_3.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_4_14.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_5_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_3_6.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_1_22.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_2_4.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_0_10.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_2_18.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_1_16.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_2_12.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_13.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_4_6.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_7_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_2_0_4.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_5_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_1_3.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_2_9.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_2_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_1_2_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_4_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_5_9.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_0_35.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_4_5.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_1_23.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_7_3.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_2_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_1_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_1_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_3_15.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_10_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_3_7.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_40_0_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_6_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_0_25.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_1_4.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_0_4.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_19_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_1_25.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_2_1_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_0_22.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_1_0_16.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_1_4.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_0_32.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_0_11.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_5_6.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_0_27.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_2_17.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_1_10.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_4_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_0_3.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_3_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_2_11.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_0_33.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_8_6.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_15_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_3_7.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_17_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_1_16.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_8_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_1_0_8.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_7_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_4_13.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_0_25.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_2_22.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_5_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_1_27.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_1_12.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_2_8.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_2_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_6_0_5.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_1_18.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_1_27.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_39_0_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_15_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_8_5.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_3_10.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_1_0_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_2_16.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_5_10.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_1_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_5_7.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_1_5.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_3_8.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_1_15.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_1_12.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_1_21.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_1_4_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_1_6.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_3_3.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_0_24.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_0_17.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_1_1_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_6.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_16_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_3_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_6_0_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_2_17.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_4_7.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_0_34.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_2_1_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_16_0_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_0_9.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_3_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_4.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_2_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_4_3.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_2_19.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_0_16.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_1_1_5.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_2_18.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_2_21.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_1_21.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_2_23.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_10.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_5.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_0_15.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_1_5.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_37_0_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_0_15.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_1_1_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_2_0_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_10.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_4_11.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_2_3.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_3_9.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_4_2.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_0_6.smt2;0;result: sat;;1.8
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_2_14.smt2;0;result: unsat;;2.09
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_1_0_24.smt2;0;result: unsat;;1.97
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_4_8.smt2;0;result: sat;;2.39
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_1_24.smt2;0;result: unsat;;2.17
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_6_1.smt2;0;result: unsat;;2.13
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_3.smt2;0;result: sat;;2.44
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_3_1.smt2;0;result: unsat;;1.69
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_3_14.smt2;0;result: unsat;;2.28
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_9_1.smt2;0;result: unsat;;2.08
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_1_19.smt2;0;result: sat;;2.72
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_15_0_2.smt2;0;result: unsat;;2.39
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_1_1.smt2;0;result: sat;;2.44
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_4_9.smt2;0;result: unsat;;1.94
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_3_17.smt2;0;result: unsat;;1.86
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_4_12.smt2;0;result: unsat;;2.25
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_3_2.smt2;0;result: unsat;;1.92
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_8_7.smt2;0;result: unsat;;1.96
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_4_2.smt2;0;result: unsat;;1.84
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_1_0_4.smt2;0;result: sat;;8.51
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_0_12.smt2;0;result: sat;;2.08
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_0_33.smt2;0;result: sat;;2.22
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_5.smt2;0;result: sat;;2.19
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_11_1.smt2;0;result: sat;;3.16
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_2_2.smt2;0;result: unsat;;2.19
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_7_7.smt2;0;result: unsat;;2.15
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_3.smt2;0;result: unsat;;26.06
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_1_17.smt2;0;result: sat;;2.32
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_0_5.smt2;0;result: sat;;2.07
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_7_4.smt2;0;result: unsat;;2.85
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_2.smt2;0;result: unsat;;5.76
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_1_2_1.smt2;0;result: unsat;;3.94
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_2_5.smt2;0;result: sat;;2.21
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_3_19.smt2;0;result: unsat;;2.03
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_3_3.smt2;0;result: unsat;;1.95
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_8_2.smt2;0;result: unsat;;2.04
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_0_18.smt2;0;result: unsat;;1.72
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_0_23.smt2;0;result: sat;;2.12
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_1_2_2.smt2;0;result: sat;;39.05
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_4_15.smt2;0;result: unsat;;1.94
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_8_1.smt2;0;result: unsat;;9.36
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_1_8.smt2;0;result: sat;;2.18
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_7_8.smt2;0;result: unsat;;2.05
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_8.smt2;0;result: unsat;;2.23
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_0_9.smt2;0;result: sat;;2.15
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_18_1.smt2;0;result: unsat;;2.26
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_7_6.smt2;0;result: unsat;;2.47
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_3_4.smt2;0;result: sat;;5.42
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_2_2.smt2;0;result: unsat;;2.13
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_0_28.smt2;0;result: sat;;2.38
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_0_6.smt2;0;result: unsat;;52.16
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_0_7.smt2;0;result: sat;;2.1
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_6_9.smt2;0;result: unsat;;2.23
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_8_3.smt2;0;result: unsat;;8.51
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_2_9.smt2;0;result: sat;;2.23
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_0_22.smt2;0;result: unsat;;3.24
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_4_6.smt2;0;result: unsat;;1.67
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_1_22.smt2;0;result: unsat;;1.71
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_1_2_3.smt2;0;result: unsat;;77.71
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_5_12.smt2;0;result: unsat;;2.09
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_0_20.smt2;0;result: sat;;2.01
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_0_32.smt2;0;result: unsat;;1.72
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_5_7.smt2;0;result: unsat;;2.99
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_0.smt2;0;result: sat;;2.3
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_1_0_1.smt2;0;result: unsat;;113.81
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_1_5.smt2;0;result: unsat;;95.59
+timeout;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_0_32.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_2_3.smt2;0;result: unsat;;2.09
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_2.smt2;0;result: unsat;;5.98
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_1_1_1.smt2;0;result: unsat;;2.12
+timeout;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_6_2.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_18_0_1.smt2;0;result: unsat;;2.46
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_1_20.smt2;0;result: unsat;;1.62
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_6_7.smt2;0;result: unsat;;2.51
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_1_29.smt2;0;result: unsat;;1.59
+timeout;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_5.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_0_4.smt2;0;result: sat;;1.94
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_0_24.smt2;0;result: sat;;2.2
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_5_3.smt2;0;result: unsat;;2.42
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_3_12.smt2;0;result: unsat;;1.99
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_10_2.smt2;0;result: unsat;;2.42
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_1_1.smt2;0;result: unsat;;2.06
+timeout;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_3_3.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_1_3_2.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_2_10.smt2;0;result: unsat;;2.33
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_2_20.smt2;0;result: unsat;;2.18
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_0_6.smt2;0;result: sat;;1.9
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_14_0_1.smt2;0;result: unsat;;2.06
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_0_18.smt2;0;result: sat;;1.88
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_1_9.smt2;0;result: sat;;5.86
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_1_25.smt2;0;result: sat;;3.01
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_6_8.smt2;0;result: unsat;;2.41
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_4_5.smt2;0;result: unsat;;1.57
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_38_0_1.smt2;0;result: unsat;;2.39
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_9_3.smt2;0;result: sat;;3.56
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_0_1.smt2;0;result: unsat;;2.18
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_2_4.smt2;0;result: unsat;;2.12
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_7_2.smt2;0;result: unsat;;6.95
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_0_29.smt2;0;result: unsat;;1.66
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_2_15.smt2;0;result: unsat;;2.49
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_4_0_5.smt2;0;result: sat;;1.73
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_0_8.smt2;0;result: unsat;;1.6
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_2_2.smt2;0;result: unsat;;40.91
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_2_3.smt2;0;result: unsat;;2.05
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_5_5.smt2;0;result: unsat;;1.78
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_2_13.smt2;0;result: unsat;;2.03
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_17_0_1.smt2;0;result: unsat;;2.36
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_14.smt2;0;result: unsat;;3.27
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_2_5.smt2;0;result: unsat;;3.46
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_1_11.smt2;0;result: unsat;;2.0
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_2_7.smt2;0;result: sat;;4.26
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_0_30.smt2;0;result: sat;;1.78
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_4_4.smt2;0;result: sat;;5.8
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_1_1.smt2;0;result: unsat;;1.64
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_0_12.smt2;0;result: unsat;;1.64
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_2_13.smt2;0;result: unsat;;2.09
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_6_6.smt2;0;result: unsat;;2.99
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_18_0.smt2;0;result: unsat;;2.15
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_7_4.smt2;0;result: unsat;;2.37
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_14_0_2.smt2;0;result: unsat;;2.5
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_15_0_1.smt2;0;result: unsat;;2.13
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_0_26.smt2;0;result: unsat;;2.2
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_1_28.smt2;0;result: unsat;;2.14
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_0_26.smt2;0;result: sat;;2.15
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_1_3.smt2;0;result: unsat;;1.67
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_1_0_6.smt2;0;result: unsat;;56.82
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_2_14.smt2;0;result: sat;;2.37
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_11.smt2;0;result: unsat;;2.07
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_4_2.smt2;0;result: unsat;;2.08
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_3_5.smt2;0;result: unsat;;3.28
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_0_18.smt2;0;result: sat;;2.14
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_5_8.smt2;0;result: sat;;2.17
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_1_0_29.smt2;0;result: unsat;;159.77
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_0_19.smt2;0;result: sat;;1.93
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_3_16.smt2;0;result: unsat;;6.55
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_2_1.smt2;0;result: sat;;2.11
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_2_0_2.smt2;0;result: unsat;;2.1
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_1_23.smt2;0;result: unsat;;3.05
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_0_4.smt2;0;result: sat;;1.81
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_2.smt2;0;result: unsat;;14.3
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_7_3.smt2;0;result: sat;;5.49
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_4_4.smt2;0;result: unsat;;3.16
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_6_3.smt2;0;result: unsat;;3.84
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_1_0_15.smt2;0;result: unsat;;2.32
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_4_8.smt2;0;result: sat;;3.06
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_0_16.smt2;0;result: sat;;2.06
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_1_26.smt2;0;result: unsat;;1.67
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_7_1.smt2;0;result: unsat;;2.37
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_0_19.smt2;0;result: sat;;1.86
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_4_10.smt2;0;result: unsat;;1.96
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_2_1.smt2;0;result: sat;;2.49
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_6_4.smt2;0;result: sat;;2.34
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_3.smt2;0;result: sat;;2.27
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_0_5.smt2;0;result: unsat;;1.78
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_2_4.smt2;0;result: unsat;;2.47
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_1_1_2.smt2;0;result: unsat;;2.18
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_2_11.smt2;0;result: sat;;3.02
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_5_4.smt2;0;result: sat;;5.07
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_1_4.smt2;0;result: unsat;;1.94
+timeout;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_1_5_1.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_1_17.smt2;0;result: unsat;;1.77
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_2_6.smt2;0;result: unsat;;2.51
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_2_0.smt2;0;result: unsat;;1.93
+timeout;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_1_3_1.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_5_11.smt2;0;result: unsat;;2.05
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_1_0_17.smt2;0;result: unsat;;2.18
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_2_0_3.smt2;0;result: sat;;2.04
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_5_1.smt2;0;result: unsat;;1.95
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_1_3.smt2;0;result: unsat;;2.25
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_1_15.smt2;0;result: unsat;;2.12
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_1_1.smt2;0;result: unsat;;48.6
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_2_16.smt2;0;result: unsat;;2.03
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_1_2.smt2;0;result: sat;;2.21
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_2_6.smt2;0;result: sat;;5.87
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_1_14.smt2;0;result: sat;;2.28
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_1_3.smt2;0;result: sat;;2.28
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_0_20.smt2;0;result: sat;;2.24
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_17_1.smt2;0;result: unsat;;1.83
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_3_6.smt2;0;result: sat;;2.23
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_0_13.smt2;0;result: sat;;2.84
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_0_30.smt2;0;result: unsat;;1.69
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_6_5.smt2;0;result: sat;;3.66
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_9_5.smt2;0;result: unsat;;2.26
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_6_5.smt2;0;result: sat;;3.02
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_15.smt2;0;result: unsat;;3.04
+timeout;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_5_1.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_1_8.smt2;0;result: unsat;;1.65
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_6.smt2;0;result: unsat;;1.96
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_1_1_3.smt2;0;result: sat;;11.8
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_3_8.smt2;0;result: unsat;;1.97
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_0_27.smt2;0;result: sat;;2.09
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_0_34.smt2;0;result: unsat;;1.74
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_4_7.smt2;0;result: unsat;;1.99
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_5_2.smt2;0;result: unsat;;1.56
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_1_13.smt2;0;result: unsat;;1.74
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_1_0_1.smt2;0;result: unsat;;1.88
+timeout;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_6_1.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_9_1.smt2;0;result: sat;;4.91
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_0_30.smt2;0;result: unsat;;1.83
+timeout;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_1_6_1.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_3_9.smt2;0;result: unsat;;2.13
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_0_28.smt2;0;result: unsat;;24.36
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_0_13.smt2;0;result: sat;;4.28
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_2_3.smt2;0;result: unsat;;48.07
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_5_3.smt2;0;result: unsat;;3.07
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_3_11.smt2;0;result: sat;;2.38
+timeout;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_0_1.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_1_13.smt2;0;result: sat;;2.03
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_6_2.smt2;0;result: unsat;;4.8
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_0_29.smt2;0;result: sat;;10.77
+timeout;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_4.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_0_17.smt2;0;result: unsat;;2.05
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_8_4.smt2;0;result: unsat;;3.23
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_9.smt2;0;result: unsat;;2.27
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_28_0_2.smt2;0;result: unsat;;2.24
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_1_0_27.smt2;0;result: unsat;;1.81
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_4_0_12.smt2;0;result: unsat;;3.24
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_16_0.smt2;0;result: unsat;;2.17
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_4_9.smt2;0;result: unsat;;2.11
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_1_7.smt2;0;result: unsat;;1.78
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_4_1.smt2;0;result: unsat;;1.97
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_3_12.smt2;0;result: unsat;;2.06
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_9.smt2;0;result: unsat;;118.11
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_2_10.smt2;0;result: sat;;2.11
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_0_36.smt2;0;result: sat;;1.91
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_6_3.smt2;0;result: sat;;5.6
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_4_0_8.smt2;0;result: unsat;;2.74
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_2_12.smt2;0;result: sat;;2.38
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_9_4.smt2;0;result: unsat;;1.87
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_1_4.smt2;0;result: sat;;43.18
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_1_14.smt2;0;result: unsat;;1.83
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_1_26.smt2;0;result: unsat;;2.8
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_1_2.smt2;0;result: unsat;;75.75
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_2_19.smt2;0;result: unsat;;5.27
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_0_17.smt2;0;result: sat;;2.55
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_12.smt2;0;result: unsat;;2.86
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_7.smt2;0;result: unsat;;2.02
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_0_1.smt2;0;result: unsat;;1.99
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_2_15.smt2;0;result: sat;;2.85
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_5_5.smt2;0;result: unsat;;2.16
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_1_0_3.smt2;0;result: sat;;1.98
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_0_26.smt2;0;result: sat;;2.11
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_0_10.smt2;0;result: sat;;2.03
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_1_0.smt2;0;result: unsat;;1.92
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_3_5.smt2;0;result: sat;;2.03
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_9.smt2;0;result: unsat;;1.96
+timeout;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_0_9.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_10_1.smt2;0;result: unsat;;4.67
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_9_2.smt2;0;result: unsat;;2.16
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_2_20.smt2;0;result: unsat;;2.11
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_6.smt2;0;result: unsat;;2.07
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_4.smt2;0;result: unsat;;2.13
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_8.smt2;0;result: unsat;;2.09
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_6_2.smt2;0;result: unsat;;2.19
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_6_4.smt2;0;result: unsat;;3.2
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_14_1.smt2;0;result: unsat;;2.1
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_1_18.smt2;0;result: unsat;;2.38
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_0_2.smt2;0;result: sat;;2.12
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_7_5.smt2;0;result: unsat;;2.07
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_2_0_10.smt2;0;result: sat;;81.68
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_1_20.smt2;0;result: sat;;2.22
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_1_5.smt2;0;result: sat;;2.29
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_6_6.smt2;0;result: unsat;;1.63
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_8_3.smt2;0;result: unsat;;2.16
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_7.smt2;0;result: unsat;;2.1
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_0_23.smt2;0;result: sat;;2.45
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_3_11.smt2;0;result: unsat;;2.01
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_7_5.smt2;0;result: sat;;2.28
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_3_13.smt2;0;result: unsat;;2.48
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_8_1.smt2;0;result: unsat;;1.83
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_0_31.smt2;0;result: sat;;1.78
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_3_10.smt2;0;result: unsat;;2.34
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_8_8.smt2;0;result: unsat;;1.95
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_5_4.smt2;0;result: unsat;;3.52
+timeout;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_3_2.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_0_2.smt2;0;result: sat;;1.97
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_4_14.smt2;0;result: unsat;;2.01
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_1_0_26.smt2;0;result: unsat;;19.38
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_5_1.smt2;0;result: sat;;2.35
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_3_6.smt2;0;result: unsat;;1.95
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_1_22.smt2;0;result: unsat;;2.09
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_2_4.smt2;0;result: unsat;;2.13
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_0_16.smt2;0;result: sat;;102.45
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_0_10.smt2;0;result: sat;;1.92
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_2_18.smt2;0;result: unsat;;2.16
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_1_16.smt2;0;result: unsat;;1.57
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_2_12.smt2;0;result: unsat;;2.12
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_13.smt2;0;result: unsat;;2.98
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_4_6.smt2;0;result: unsat;;2.22
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_7_1.smt2;0;result: unsat;;1.99
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_1_3.smt2;0;result: unsat;;8.96
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_2_9.smt2;0;result: unsat;;2.0
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_2_2.smt2;0;result: unsat;;2.12
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_1_2_1.smt2;0;result: unsat;;2.1
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_4_1.smt2;0;result: unsat;;1.99
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_5_9.smt2;0;result: unsat;;2.02
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_0_35.smt2;0;result: unsat;;2.14
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_4_5.smt2;0;result: unsat;;1.85
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_1_23.smt2;0;result: unsat;;2.23
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_5_2.smt2;0;result: sat;;51.6
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_7_3.smt2;0;result: unsat;;6.45
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_2_1.smt2;0;result: sat;;2.14
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_1_2.smt2;0;result: unsat;;2.44
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_3_15.smt2;0;result: sat;;2.22
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_1_2.smt2;0;result: sat;;11.36
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_10_1.smt2;0;result: sat;;3.42
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_8.smt2;0;result: unsat;;133.26
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_3_7.smt2;0;result: unsat;;2.24
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_40_0_1.smt2;0;result: unsat;;2.33
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_0_25.smt2;0;result: sat;;2.18
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_6_1.smt2;0;result: unsat;;2.59
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_1_4.smt2;0;result: unsat;;1.98
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_19_0.smt2;0;result: sat;;2.19
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_1_25.smt2;0;result: unsat;;2.14
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_0_4.smt2;0;result: unsat;;13.39
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_2_1_1.smt2;0;result: sat;;8.11
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_0_22.smt2;0;result: sat;;4.71
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_1_4.smt2;0;result: unsat;;2.1
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_0_32.smt2;0;result: sat;;1.81
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_0_11.smt2;0;result: sat;;1.86
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_5_6.smt2;0;result: sat;;2.96
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_0_27.smt2;0;result: sat;;2.01
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_2_17.smt2;0;result: unsat;;2.11
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_1_10.smt2;0;result: unsat;;2.44
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_0_3.smt2;0;result: unsat;;1.56
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_3_1.smt2;0;result: unsat;;4.08
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_2_11.smt2;0;result: unsat;;2.09
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_0_33.smt2;0;result: sat;;1.9
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_8_6.smt2;0;result: unsat;;1.98
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_15_0.smt2;0;result: unsat;;6.28
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_3_7.smt2;0;result: sat;;2.03
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_17_0.smt2;0;result: unsat;;2.04
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_1_16.smt2;0;result: sat;;2.35
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_8_2.smt2;0;result: sat;;5.13
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_1_0_8.smt2;0;result: unsat;;1.81
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_7_2.smt2;0;result: unsat;;2.23
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_4_13.smt2;0;result: unsat;;1.88
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_0_25.smt2;0;result: sat;;1.8
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_2_22.smt2;0;result: unsat;;2.07
+timeout;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_1_5.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_5_2.smt2;0;result: unsat;;2.17
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_1_27.smt2;0;result: sat;;2.21
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_1_12.smt2;0;result: unsat;;1.77
+timeout;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_1_0_9.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_2_8.smt2;0;result: sat;;2.59
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_6_0_5.smt2;0;result: unsat;;1.82
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_1_18.smt2;0;result: unsat;;1.75
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_0.smt2;0;result: unsat;;6.27
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_2_1.smt2;0;result: sat;;14.97
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_1_0_16.smt2;0;result: unsat;;88.39
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_1_27.smt2;0;result: sat;;2.4
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_15_1.smt2;0;result: unsat;;2.09
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_39_0_1.smt2;0;result: unsat;;2.49
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_8_5.smt2;0;result: unsat;;1.86
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_1_0_2.smt2;0;result: sat;;2.2
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_2_16.smt2;0;result: sat;;2.3
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_5_10.smt2;0;result: unsat;;2.02
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_3_10.smt2;0;result: unsat;;6.81
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_1_2.smt2;0;result: unsat;;1.8
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_5_7.smt2;0;result: sat;;2.02
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_1_5.smt2;0;result: unsat;;2.1
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_1_15.smt2;0;result: unsat;;1.74
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_3_8.smt2;0;result: sat;;3.12
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_1_12.smt2;0;result: sat;;2.65
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_1_21.smt2;0;result: unsat;;1.66
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_3_3.smt2;0;result: unsat;;1.63
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_0_24.smt2;0;result: sat;;1.8
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_0_17.smt2;0;result: sat;;2.17
+timeout;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_7.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_16_1.smt2;0;result: unsat;;2.08
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_3_1.smt2;0;result: unsat;;2.05
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_6_0_2.smt2;0;result: unsat;;1.61
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_2_17.smt2;0;result: sat;;5.18
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_4_7.smt2;0;result: sat;;3.05
+timeout;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_1_3.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_0_34.smt2;0;result: sat;;2.01
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_2_1_1.smt2;0;result: unsat;;2.12
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_16_0_1.smt2;0;result: unsat;;2.45
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_0_9.smt2;0;result: unsat;;1.59
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_1.smt2;0;result: sat;;2.4
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_3_2.smt2;0;result: unsat;;2.0
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_4.smt2;0;result: unsat;;2.23
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_4_3.smt2;0;result: unsat;;2.21
+timeout;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_2_0_4.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_2_19.smt2;0;result: sat;;1.83
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_0_16.smt2;0;result: sat;;2.13
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_2_18.smt2;0;result: unsat;;2.17
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_2_21.smt2;0;result: sat;;1.86
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_1_6.smt2;0;result: unsat;;103.81
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_2_23.smt2;0;result: unsat;;2.02
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_1_21.smt2;0;result: sat;;3.01
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_10.smt2;0;result: unsat;;2.19
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_5.smt2;0;result: unsat;;2.08
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_1_5.smt2;0;result: unsat;;1.56
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_0_15.smt2;0;result: unsat;;2.34
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_0_15.smt2;0;result: sat;;1.91
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_37_0_1.smt2;0;result: unsat;;2.28
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_2_0_1.smt2;0;result: unsat;;1.96
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_10.smt2;0;result: unsat;;2.02
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_4_11.smt2;0;result: unsat;;2.71
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_bad_0_2_3.smt2;0;result: unsat;;1.94
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_init_0_3_9.smt2;0;result: sat;;3.14
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_1_1_1.smt2;0;result: sat;;55.79
+timeout;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_4_1.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_1_1_2.smt2;0;result: sat;;187.75
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_1_1_5.smt2;0;result: sat;;71.99
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_6.smt2;0;result: unsat;;188.3
+timeout;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_1_4_1.smt2
+timeout;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_2_2.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission/non-incremental/QF_S/20250408-hornstr-equiv/equiv_trans_0_4_2.smt2;0;result: sat;;160.9
