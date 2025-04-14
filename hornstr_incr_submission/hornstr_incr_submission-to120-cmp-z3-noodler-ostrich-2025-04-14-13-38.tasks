@@ -1,0 +1,722 @@
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_power-binary_lstar/equiv_trans_1.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_power-binary_lstar/equiv_init_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_power-binary_lstar/reach_init_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_power-binary_lstar/reach_bad_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_power-binary_lstar/equiv_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_power-binary_lstar/reach_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/reach_bad_2.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/equiv_trans_1.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/reach_bad_trans_1.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/equiv_bad_2.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/equiv_init_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/reach_init_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/reach_bad_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/reach_trans_2.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/equiv_bad_1.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/equiv_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/reach_bad_1.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/reach_trans_1.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/equiv_bad_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/reach_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/equiv_trans_2.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/reach_bad_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/reach_bad_trans_2.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_sat/equiv_trans_1.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_sat/equiv_init_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_sat/equiv_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_sat/equiv_bad_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_sat/equiv_trans_2.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-ring_sat/equiv_init_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-ring_sat/equiv_bad_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_sat/equiv_trans_5.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_sat/equiv_init_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_sat/equiv_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_sat/equiv_bad_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_sat/equiv_trans_2.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/equiv_trans_18.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_trans_23.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_bad_trans_15.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_bad_trans_16.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_bad_trans_23.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/equiv_trans_14.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_bad_trans_17.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_trans_15.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_trans_18.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/equiv_init_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_init_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_bad_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/equiv_trans_16.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_trans_19.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_bad_trans_18.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/equiv_trans_15.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_bad_trans_14.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/equiv_trans_17.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/equiv_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/equiv_trans_19.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/equiv_bad_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_trans_16.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_trans_14.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_bad_trans_19.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_bad_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_trans_17.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/equiv_trans_23.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_sat/equiv_trans_1.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_sat/equiv_init_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_sat/equiv_trans_4.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_sat/equiv_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_sat/equiv_bad_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_sat/equiv_trans_2.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_sat/equiv_trans_5.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_sat/equiv_init_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_sat/equiv_trans_4.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_sat/equiv_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_sat/equiv_bad_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/equiv_trans_1.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/reach_trans_4.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/reach_bad_trans_1.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/equiv_init_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/reach_init_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/reach_bad_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/reach_trans_2.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/equiv_trans_4.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/equiv_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/reach_trans_1.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/equiv_bad_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/reach_bad_trans_4.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/reach_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/equiv_trans_2.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/reach_bad_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/reach_bad_trans_2.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_lstar/equiv_trans_5.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_lstar/equiv_init_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_lstar/reach_init_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_lstar/reach_bad_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_lstar/reach_trans_2.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_lstar/equiv_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_lstar/equiv_bad_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_lstar/reach_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_lstar/equiv_trans_2.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_lstar/reach_bad_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_lstar/reach_bad_trans_2.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_lstar/equiv_trans_1.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_lstar/reach_bad_trans_1.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_lstar/equiv_init_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_lstar/reach_init_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_lstar/reach_bad_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_lstar/reach_trans_2.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_lstar/equiv_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_lstar/reach_trans_1.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_lstar/equiv_bad_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_lstar/reach_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_lstar/equiv_trans_2.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_lstar/reach_bad_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_lstar/reach_bad_trans_2.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_one_token_pass_sat/equiv_init_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_one_token_pass_sat/equiv_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_one_token_pass_sat/equiv_bad_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_mux-array_lstar/equiv_init_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_mux-array_lstar/reach_init_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_mux-array_lstar/reach_bad_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_mux-array_lstar/equiv_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_mux-array_lstar/equiv_bad_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_mux-array_lstar/reach_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_mux-array_lstar/reach_bad_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/equiv_trans_14.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/equiv_init_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/reach_init_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/reach_bad_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/equiv_trans_10.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/reach_bad_trans_12.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/reach_trans_28.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/reach_bad_trans_14.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/equiv_trans_12.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/equiv_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/reach_bad_trans_10.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/equiv_bad_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/reach_bad_trans_28.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/reach_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/reach_trans_12.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/reach_trans_14.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/reach_trans_10.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/reach_bad_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/equiv_trans_28.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_muzzle_sat/equiv_trans_1.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_muzzle_sat/equiv_init_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_muzzle_sat/equiv_trans_3.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_muzzle_sat/equiv_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_muzzle_sat/equiv_bad_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_muzzle_sat/equiv_trans_2.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_sat/equiv_trans_1.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_sat/equiv_bad_2.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_sat/equiv_init_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_sat/equiv_bad_1.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_sat/equiv_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_sat/equiv_bad_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_sat/equiv_trans_2.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/reach_bad_2.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/equiv_trans_1.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/reach_bad_trans_1.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/equiv_bad_2.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/equiv_init_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/reach_init_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/reach_bad_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/reach_trans_2.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/equiv_bad_1.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/equiv_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/reach_bad_1.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/reach_trans_1.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/equiv_bad_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/reach_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/equiv_trans_2.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/reach_bad_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/reach_bad_trans_2.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_lstar/reach_trans_4.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_lstar/equiv_trans_5.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_lstar/equiv_init_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_lstar/reach_init_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_lstar/reach_bad_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_lstar/equiv_trans_4.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_lstar/equiv_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_lstar/equiv_bad_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_lstar/reach_bad_trans_4.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_lstar/reach_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_lstar/reach_bad_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_dining-cryptographers_sat/equiv_trans_26.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_dining-cryptographers_sat/equiv_trans_27.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_dining-cryptographers_sat/equiv_init_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_dining-cryptographers_sat/equiv_trans_24.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_dining-cryptographers_sat/equiv_trans_87.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_dining-cryptographers_sat/equiv_trans_58.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_dining-cryptographers_sat/equiv_trans_57.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_dining-cryptographers_sat/equiv_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_dining-cryptographers_sat/equiv_trans_25.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_dining-cryptographers_sat/equiv_bad_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_dining-cryptographers_sat/equiv_trans_56.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_dining-cryptographers_sat/equiv_trans_59.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_sat/equiv_trans_1.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_sat/equiv_init_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_sat/equiv_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_sat/equiv_bad_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_sat/equiv_trans_2.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_sat/equiv_trans_14.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_sat/equiv_init_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_sat/equiv_trans_10.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_sat/equiv_trans_12.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_sat/equiv_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_sat/equiv_trans_29.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_sat/equiv_bad_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_sat/equiv_trans_28.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_resource-allocator_lstar/equiv_init_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_resource-allocator_lstar/reach_init_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_resource-allocator_lstar/reach_bad_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_resource-allocator_lstar/equiv_trans_3.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_resource-allocator_lstar/equiv_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_resource-allocator_lstar/equiv_bad_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_resource-allocator_lstar/reach_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_resource-allocator_lstar/reach_bad_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_power-binary_sat/equiv_init_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_resource-allocator_sat/equiv_init_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_resource-allocator_sat/equiv_trans_3.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_resource-allocator_sat/equiv_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_resource-allocator_sat/equiv_bad_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_lstar/equiv_trans_1.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_lstar/reach_bad_trans_1.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_lstar/equiv_init_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_lstar/reach_init_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_lstar/reach_bad_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_lstar/equiv_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_lstar/reach_trans_1.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_lstar/equiv_bad_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_lstar/reach_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_lstar/equiv_trans_2.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_lstar/reach_bad_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-ring_lstar/equiv_trans_1.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-ring_lstar/reach_bad_trans_1.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-ring_lstar/reach_bad_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-ring_lstar/reach_trans_2.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-ring_lstar/equiv_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-ring_lstar/reach_trans_1.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-ring_lstar/reach_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-ring_lstar/equiv_trans_2.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-ring_lstar/reach_bad_trans_2.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_sat/equiv_trans_38.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_sat/equiv_trans_43.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_sat/equiv_trans_33.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_sat/equiv_init_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_sat/equiv_trans_13.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_sat/equiv_trans_10.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_sat/equiv_trans_39.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_sat/equiv_trans_15.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_sat/equiv_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_sat/equiv_trans_40.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_sat/equiv_bad_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_sat/equiv_trans_37.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_sat/equiv_trans_23.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_lstar/equiv_trans_1.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_lstar/reach_bad_trans_1.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_lstar/equiv_init_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_lstar/reach_init_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_lstar/reach_bad_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_lstar/equiv_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_lstar/reach_trans_1.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_lstar/equiv_bad_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_lstar/reach_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_lstar/equiv_trans_2.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_lstar/reach_bad_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_sat/equiv_trans_1.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_sat/equiv_init_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_sat/equiv_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_sat/equiv_bad_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_sat/equiv_trans_2.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_mux-array_sat/equiv_trans_5.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_mux-array_sat/equiv_init_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_mux-array_sat/equiv_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_mux-array_sat/equiv_bad_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_sat/equiv_trans_5.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_sat/equiv_init_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_sat/equiv_trans_7.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_sat/equiv_trans_4.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_sat/equiv_trans_6.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_sat/equiv_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_sat/equiv_bad_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_sat/equiv_trans_1.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_sat/equiv_bad_2.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_sat/equiv_init_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_sat/equiv_bad_1.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_sat/equiv_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_sat/equiv_bad_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_sat/equiv_trans_2.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/reach_trans_4.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/reach_trans_7.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/equiv_init_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/reach_init_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/equiv_trans_7.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/reach_bad_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/equiv_trans_4.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/equiv_trans_6.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/reach_bad_trans_6.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/equiv_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/reach_trans_6.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/equiv_bad_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/reach_bad_trans_4.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/reach_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/reach_bad_trans_7.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/reach_bad_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_one_token_pass_lstar/equiv_init_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_one_token_pass_lstar/reach_init_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_one_token_pass_lstar/reach_bad_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_one_token_pass_lstar/equiv_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_one_token_pass_lstar/equiv_bad_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_one_token_pass_lstar/reach_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_one_token_pass_lstar/reach_bad_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_sat/equiv_trans_18.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_sat/equiv_trans_14.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_sat/equiv_init_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_sat/equiv_trans_16.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_sat/equiv_trans_20.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_sat/equiv_trans_15.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_sat/equiv_trans_17.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_sat/equiv_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_sat/equiv_trans_19.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_sat/equiv_bad_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_sat/equiv_trans_23.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_trans_23.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_trans_38.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_bad_trans_15.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_bad_trans_23.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_trans_13.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_trans_38.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_bad_trans_37.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_trans_33.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_bad_trans_13.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_bad_trans_40.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_init_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_init_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_trans_13.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_bad_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_trans_37.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_trans_16.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_trans_10.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_trans_39.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_trans_39.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_trans_15.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_trans_41.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_trans_17.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_bad_trans_38.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_trans_40.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_trans_19.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_trans_33.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_trans_40.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_bad_trans_10.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_bad_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_bad_trans_34.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_trans_16.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_trans_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_trans_10.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_bad_trans_39.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_bad_0.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_trans_37.smt2
+execute;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_trans_23.smt2
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_power-binary_lstar/reach_init_0.smt2;0;result: sat;;1.64
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_power-binary_lstar/equiv_init_0.smt2;0;result: sat;;1.92
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_power-binary_lstar/equiv_trans_1.smt2;0;result: sat;;1.95
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/reach_bad_2.smt2;0;result: sat;;2.29
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_power-binary_lstar/reach_bad_trans_0.smt2;0;result: sat;;2.38
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_power-binary_lstar/reach_trans_0.smt2;0;result: sat;;2.36
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_power-binary_lstar/equiv_trans_0.smt2;0;result: sat;;2.55
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/equiv_bad_2.smt2;0;result: sat;;2.68
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/reach_init_0.smt2;0;result: sat;;2.26
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/equiv_init_0.smt2;0;result: sat;;4.36
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/equiv_bad_1.smt2;0;result: sat;;3.09
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/reach_bad_trans_1.smt2;0;result: sat;;5.41
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/equiv_trans_1.smt2;0;result: sat;;21.77
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/reach_bad_1.smt2;0;result: sat;;2.56
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/equiv_bad_0.smt2;0;result: sat;;3.36
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/reach_bad_trans_0.smt2;0;result: sat;;11.57
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/reach_trans_2.smt2;0;result: sat;;13.32
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/reach_trans_0.smt2;0;result: sat;;6.23
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/reach_bad_0.smt2;0;result: sat;;2.37
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/reach_trans_1.smt2;0;result: sat;;14.61
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/reach_bad_trans_2.smt2;0;result: sat;;4.87
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_sat/equiv_init_0.smt2;0;result: sat;;5.95
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/equiv_trans_2.smt2;0;result: sat;;19.4
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_sat/equiv_bad_0.smt2;0;result: sat;;5.64
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-ring_sat/equiv_init_0.smt2;0;result: sat;;2.46
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/equiv_trans_0.smt2;0;result: sat;;27.87
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-ring_sat/equiv_bad_0.smt2;0;result: sat;;1.97
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_sat/equiv_trans_5.smt2;0;result: sat;;2.68
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_sat/equiv_trans_0.smt2;0;result: sat;;2.6
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_sat/equiv_bad_0.smt2;0;result: sat;;3.14
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_sat/equiv_trans_2.smt2;0;result: sat;;2.67
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_sat/equiv_init_0.smt2;0;result: sat;;6.29
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_trans_23.smt2;0;result: sat;;1.72
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/equiv_trans_18.smt2;0;result: sat;;3.14
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_bad_trans_15.smt2;0;result: sat;;2.44
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_bad_trans_16.smt2;0;result: sat;;2.38
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_bad_trans_23.smt2;0;result: sat;;2.28
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_bad_trans_17.smt2;0;result: sat;;2.28
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/equiv_trans_14.smt2;0;result: sat;;2.61
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_trans_15.smt2;0;result: sat;;1.59
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_trans_18.smt2;0;result: sat;;1.63
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/equiv_init_0.smt2;0;result: sat;;2.34
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_init_0.smt2;0;result: sat;;2.79
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_trans_19.smt2;0;result: sat;;1.61
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_bad_trans_0.smt2;0;result: sat;;2.88
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/equiv_trans_16.smt2;0;result: sat;;2.89
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_bad_trans_18.smt2;0;result: sat;;2.6
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_bad_trans_14.smt2;0;result: sat;;2.59
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/equiv_trans_15.smt2;0;result: sat;;3.07
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/equiv_trans_17.smt2;0;result: sat;;3.09
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/equiv_trans_0.smt2;0;result: sat;;2.94
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_trans_16.smt2;0;result: sat;;1.74
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/equiv_trans_19.smt2;0;result: sat;;3.13
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/equiv_bad_0.smt2;0;result: sat;;2.78
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_trans_0.smt2;0;result: sat;;2.16
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_trans_14.smt2;0;result: sat;;1.77
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_bad_trans_19.smt2;0;result: sat;;2.75
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_trans_17.smt2;0;result: sat;;1.69
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_sat/equiv_trans_1.smt2;0;result: sat;;2.15
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/equiv_trans_23.smt2;0;result: sat;;2.82
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_sat/equiv_init_0.smt2;0;result: sat;;2.6
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_sat/equiv_trans_4.smt2;0;result: sat;;2.08
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_sat/equiv_trans_0.smt2;0;result: sat;;2.34
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_sat/equiv_bad_0.smt2;0;result: sat;;2.78
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_sat/equiv_trans_2.smt2;0;result: sat;;2.18
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_sat/equiv_trans_5.smt2;0;result: sat;;3.27
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_sat/equiv_init_0.smt2;0;result: sat;;2.58
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_sat/equiv_trans_4.smt2;0;result: sat;;3.12
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_sat/equiv_trans_0.smt2;0;result: sat;;3.03
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/equiv_trans_1.smt2;0;result: sat;;2.26
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_sat/equiv_bad_0.smt2;0;result: sat;;3.4
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/reach_trans_4.smt2;0;result: sat;;1.95
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/reach_bad_trans_1.smt2;0;result: sat;;2.26
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/equiv_init_0.smt2;0;result: sat;;2.2
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/reach_bad_trans_0.smt2;0;result: sat;;2.18
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/reach_init_0.smt2;0;result: sat;;2.16
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/reach_trans_2.smt2;0;result: sat;;2.05
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/reach_trans_1.smt2;0;result: sat;;2.02
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/equiv_trans_4.smt2;0;result: sat;;2.28
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/equiv_trans_0.smt2;0;result: sat;;2.25
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/equiv_bad_0.smt2;0;result: sat;;2.5
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/reach_trans_0.smt2;0;result: sat;;1.98
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/equiv_trans_2.smt2;0;result: sat;;2.31
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/reach_bad_trans_4.smt2;0;result: sat;;2.97
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/reach_bad_trans_2.smt2;0;result: sat;;3.17
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_lstar/equiv_init_0.smt2;0;result: sat;;10.83
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/reach_bad_0.smt2;0;result: sat;;8.5
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_lstar/equiv_trans_5.smt2;0;result: sat;;14.2
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_lstar/reach_init_0.smt2;0;result: sat;;7.72
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_lstar/reach_bad_trans_0.smt2;0;result: sat;;1.89
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_lstar/reach_trans_2.smt2;0;result: sat;;2.19
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_lstar/reach_trans_0.smt2;0;result: sat;;2.09
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_lstar/reach_bad_0.smt2;0;result: sat;;3.99
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_lstar/reach_bad_trans_2.smt2;0;result: sat;;1.88
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_lstar/equiv_trans_0.smt2;0;result: sat;;14.58
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_lstar/equiv_bad_0.smt2;0;result: sat;;12.94
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_lstar/equiv_trans_2.smt2;0;result: sat;;14.32
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_lstar/reach_init_0.smt2;0;result: sat;;3.19
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_lstar/reach_bad_trans_1.smt2;0;result: sat;;24.52
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_lstar/equiv_init_0.smt2;0;result: sat;;17.38
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_lstar/reach_bad_trans_0.smt2;0;result: sat;;19.76
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_lstar/reach_trans_2.smt2;0;result: sat;;3.89
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_lstar/reach_trans_1.smt2;0;result: sat;;4.13
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_lstar/reach_trans_0.smt2;0;result: sat;;21.4
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_lstar/equiv_trans_2.smt2;0;result: sat;;2.78
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_lstar/equiv_bad_0.smt2;0;result: sat;;18.5
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_lstar/reach_bad_0.smt2;0;result: sat;;3.18
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_lstar/reach_bad_trans_2.smt2;0;result: sat;;11.53
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_one_token_pass_sat/equiv_init_0.smt2;0;result: sat;;4.25
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_one_token_pass_sat/equiv_bad_0.smt2;0;result: sat;;3.14
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_mux-array_lstar/equiv_init_0.smt2;0;result: sat;;1.9
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_one_token_pass_sat/equiv_trans_0.smt2;0;result: sat;;20.74
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_mux-array_lstar/reach_init_0.smt2;0;result: sat;;2.38
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_mux-array_lstar/reach_bad_trans_0.smt2;0;result: sat;;3.35
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_mux-array_lstar/equiv_trans_0.smt2;0;result: sat;;1.86
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_mux-array_lstar/reach_trans_0.smt2;0;result: sat;;1.93
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_mux-array_lstar/equiv_bad_0.smt2;0;result: sat;;2.52
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/equiv_trans_14.smt2;0;result: sat;;1.96
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/equiv_init_0.smt2;0;result: sat;;2.04
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/reach_init_0.smt2;0;result: sat;;2.83
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/reach_bad_trans_0.smt2;0;result: sat;;3.36
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/equiv_trans_10.smt2;0;result: sat;;1.91
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/reach_bad_trans_12.smt2;0;result: sat;;2.83
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/reach_trans_28.smt2;0;result: sat;;1.85
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/reach_bad_trans_14.smt2;0;result: sat;;3.19
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/equiv_trans_12.smt2;0;result: sat;;1.95
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/equiv_trans_0.smt2;0;result: sat;;2.03
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/reach_bad_trans_10.smt2;0;result: sat;;3.22
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/equiv_bad_0.smt2;0;result: sat;;3.16
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/reach_bad_trans_28.smt2;0;result: sat;;3.29
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/reach_trans_0.smt2;0;result: sat;;2.09
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/reach_trans_12.smt2;0;result: sat;;1.97
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/reach_trans_14.smt2;0;result: sat;;2.08
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/reach_trans_10.smt2;0;result: sat;;2.08
+timeout;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_sat/equiv_trans_1.smt2
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/equiv_trans_28.smt2;0;result: sat;;1.97
+timeout;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_sat/equiv_trans_0.smt2
+timeout;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_sat/equiv_trans_2.smt2
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_muzzle_sat/equiv_init_0.smt2;0;result: sat;;5.38
+timeout;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_bad_0.smt2
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_muzzle_sat/equiv_bad_0.smt2;0;result: sat;;5.71
+timeout;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_lstar/equiv_trans_1.smt2
+timeout;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_lstar/equiv_trans_0.smt2
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_sat/equiv_bad_2.smt2;0;result: sat;;3.5
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_sat/equiv_init_0.smt2;0;result: sat;;4.24
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_sat/equiv_bad_1.smt2;0;result: sat;;3.78
+timeout;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_mux-array_lstar/reach_bad_0.smt2
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_sat/equiv_bad_0.smt2;0;result: sat;;3.6
+timeout;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/reach_bad_0.smt2
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/reach_bad_2.smt2;0;result: sat;;2.17
+timeout;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_muzzle_sat/equiv_trans_1.smt2
+timeout;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_muzzle_sat/equiv_trans_0.smt2
+timeout;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_muzzle_sat/equiv_trans_3.smt2
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/reach_bad_trans_1.smt2;0;result: sat;;3.74
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/equiv_init_0.smt2;0;result: sat;;2.67
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/equiv_bad_2.smt2;0;result: sat;;2.75
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/reach_init_0.smt2;0;result: sat;;2.02
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/reach_trans_2.smt2;0;result: sat;;2.8
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/equiv_bad_1.smt2;0;result: sat;;2.79
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/reach_bad_trans_0.smt2;0;result: sat;;4.14
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/reach_bad_1.smt2;0;result: sat;;2.09
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/reach_trans_1.smt2;0;result: sat;;3.32
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/equiv_bad_0.smt2;0;result: sat;;2.52
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/reach_trans_0.smt2;0;result: sat;;2.71
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/reach_bad_0.smt2;0;result: sat;;1.88
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/reach_bad_trans_2.smt2;0;result: sat;;4.07
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_lstar/reach_trans_4.smt2;0;result: sat;;1.83
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_lstar/equiv_trans_5.smt2;0;result: sat;;4.05
+timeout;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_muzzle_sat/equiv_trans_2.smt2
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_lstar/equiv_init_0.smt2;0;result: sat;;2.92
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_lstar/reach_init_0.smt2;0;result: sat;;2.12
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_lstar/reach_bad_trans_0.smt2;0;result: sat;;1.96
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_lstar/equiv_trans_0.smt2;0;result: sat;;4.25
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_lstar/equiv_trans_4.smt2;0;result: sat;;4.22
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_lstar/reach_bad_trans_4.smt2;0;result: sat;;1.96
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_lstar/equiv_bad_0.smt2;0;result: sat;;4.37
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_lstar/reach_trans_0.smt2;0;result: sat;;1.88
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_lstar/reach_bad_0.smt2;0;result: sat;;3.18
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_dining-cryptographers_sat/equiv_trans_26.smt2;0;result: sat;;3.89
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_dining-cryptographers_sat/equiv_trans_27.smt2;0;result: sat;;3.89
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_dining-cryptographers_sat/equiv_trans_24.smt2;0;result: sat;;3.47
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_dining-cryptographers_sat/equiv_init_0.smt2;0;result: sat;;12.29
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_dining-cryptographers_sat/equiv_trans_87.smt2;0;result: sat;;3.69
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_dining-cryptographers_sat/equiv_trans_58.smt2;0;result: sat;;3.56
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_dining-cryptographers_sat/equiv_trans_57.smt2;0;result: sat;;4.0
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_dining-cryptographers_sat/equiv_trans_0.smt2;0;result: sat;;4.3
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_dining-cryptographers_sat/equiv_trans_25.smt2;0;result: sat;;3.33
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_dining-cryptographers_sat/equiv_trans_56.smt2;0;result: sat;;3.51
+timeout;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_sat/equiv_trans_1.smt2
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_sat/equiv_trans_1.smt2;0;result: sat;;1.75
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_dining-cryptographers_sat/equiv_trans_59.smt2;0;result: sat;;3.19
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_sat/equiv_init_0.smt2;0;result: sat;;2.5
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_sat/equiv_trans_0.smt2;0;result: sat;;2.36
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_sat/equiv_bad_0.smt2;0;result: sat;;1.77
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_sat/equiv_trans_2.smt2;0;result: sat;;1.71
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_sat/equiv_trans_14.smt2;0;result: sat;;2.61
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_dining-cryptographers_sat/equiv_bad_0.smt2;0;result: sat;;18.31
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_sat/equiv_init_0.smt2;0;result: sat;;5.11
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_sat/equiv_trans_10.smt2;0;result: sat;;2.62
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_sat/equiv_trans_12.smt2;0;result: sat;;2.64
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_sat/equiv_trans_0.smt2;0;result: sat;;2.71
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_sat/equiv_trans_29.smt2;0;result: sat;;2.64
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_sat/equiv_trans_28.smt2;0;result: sat;;2.67
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_resource-allocator_lstar/equiv_init_0.smt2;0;result: sat;;2.16
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_sat/equiv_bad_0.smt2;0;result: sat;;7.64
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_resource-allocator_lstar/reach_init_0.smt2;0;result: sat;;2.61
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_resource-allocator_lstar/equiv_trans_3.smt2;0;result: sat;;2.63
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_resource-allocator_lstar/equiv_trans_0.smt2;0;result: sat;;2.64
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_resource-allocator_lstar/equiv_bad_0.smt2;0;result: sat;;3.03
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_resource-allocator_lstar/reach_bad_trans_0.smt2;0;result: sat;;7.39
+timeout;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_sat/equiv_trans_0.smt2
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_resource-allocator_lstar/reach_trans_0.smt2;0;result: sat;;2.17
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_power-binary_sat/equiv_init_0.smt2;0;result: sat;;1.93
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_resource-allocator_sat/equiv_init_0.smt2;0;result: sat;;2.46
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_resource-allocator_sat/equiv_trans_3.smt2;0;result: sat;;2.36
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_resource-allocator_sat/equiv_trans_0.smt2;0;result: sat;;2.35
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_lstar/equiv_trans_1.smt2;0;result: sat;;1.99
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_resource-allocator_sat/equiv_bad_0.smt2;0;result: sat;;3.19
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_lstar/reach_bad_trans_1.smt2;0;result: sat;;2.08
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_lstar/equiv_init_0.smt2;0;result: sat;;2.03
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_lstar/reach_init_0.smt2;0;result: sat;;2.25
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_lstar/reach_bad_trans_0.smt2;0;result: sat;;1.96
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_lstar/equiv_trans_0.smt2;0;result: sat;;1.93
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_lstar/reach_trans_1.smt2;0;result: sat;;2.08
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_lstar/equiv_bad_0.smt2;0;result: sat;;2.01
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_lstar/reach_trans_0.smt2;0;result: sat;;1.94
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_lstar/equiv_trans_2.smt2;0;result: sat;;1.92
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_lstar/reach_bad_0.smt2;0;result: sat;;2.06
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-ring_lstar/reach_bad_trans_1.smt2;0;result: sat;;2.1
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-ring_lstar/reach_bad_trans_0.smt2;0;result: sat;;2.36
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-ring_lstar/equiv_trans_1.smt2;0;result: sat;;6.73
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-ring_lstar/reach_trans_2.smt2;0;result: sat;;2.04
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-ring_lstar/reach_trans_1.smt2;0;result: sat;;2.17
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-ring_lstar/equiv_trans_0.smt2;0;result: sat;;2.64
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-ring_lstar/reach_trans_0.smt2;0;result: sat;;2.84
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-ring_lstar/reach_bad_trans_2.smt2;0;result: sat;;1.88
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-ring_lstar/equiv_trans_2.smt2;0;result: sat;;7.22
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_sat/equiv_trans_38.smt2;0;result: sat;;3.14
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_sat/equiv_trans_43.smt2;0;result: sat;;3.01
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_sat/equiv_trans_33.smt2;0;result: sat;;3.23
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_sat/equiv_init_0.smt2;0;result: sat;;5.3
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_sat/equiv_trans_13.smt2;0;result: sat;;3.27
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_sat/equiv_trans_10.smt2;0;result: sat;;3.27
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_sat/equiv_trans_39.smt2;0;result: sat;;3.17
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_sat/equiv_trans_15.smt2;0;result: sat;;3.25
+timeout;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_sat/equiv_trans_2.smt2
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_sat/equiv_trans_0.smt2;0;result: sat;;3.56
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_sat/equiv_trans_40.smt2;0;result: sat;;3.1
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_sat/equiv_bad_0.smt2;0;result: sat;;4.03
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_sat/equiv_trans_37.smt2;0;result: sat;;3.34
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_sat/equiv_trans_23.smt2;0;result: sat;;3.17
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_lstar/reach_bad_trans_1.smt2;0;result: sat;;1.83
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_lstar/equiv_trans_1.smt2;0;result: sat;;2.31
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_lstar/equiv_init_0.smt2;0;result: sat;;3.12
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_lstar/reach_bad_trans_0.smt2;0;result: sat;;1.73
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_lstar/equiv_trans_0.smt2;0;result: sat;;2.34
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_lstar/reach_init_0.smt2;0;result: sat;;5.25
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_lstar/reach_trans_1.smt2;0;result: sat;;2.01
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_lstar/equiv_bad_0.smt2;0;result: sat;;2.63
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_lstar/reach_trans_0.smt2;0;result: sat;;1.9
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_lstar/equiv_trans_2.smt2;0;result: sat;;2.37
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_lstar/reach_bad_0.smt2;0;result: sat;;2.71
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_sat/equiv_trans_1.smt2;0;result: sat;;3.01
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_sat/equiv_init_0.smt2;0;result: sat;;3.76
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_sat/equiv_trans_0.smt2;0;result: sat;;3.11
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_sat/equiv_bad_0.smt2;0;result: sat;;3.28
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_mux-array_sat/equiv_trans_5.smt2;0;result: sat;;2.38
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_sat/equiv_trans_2.smt2;0;result: sat;;2.86
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_mux-array_sat/equiv_init_0.smt2;0;result: sat;;3.68
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_mux-array_sat/equiv_trans_0.smt2;0;result: sat;;2.33
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_sat/equiv_trans_5.smt2;0;result: sat;;1.95
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_sat/equiv_trans_7.smt2;0;result: sat;;1.71
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_mux-array_sat/equiv_bad_0.smt2;0;result: sat;;3.78
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_sat/equiv_init_0.smt2;0;result: sat;;4.92
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_sat/equiv_trans_4.smt2;0;result: sat;;2.12
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_sat/equiv_trans_0.smt2;0;result: sat;;1.77
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_sat/equiv_trans_6.smt2;0;result: sat;;2.01
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_sat/equiv_bad_0.smt2;0;result: sat;;2.19
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_sat/equiv_bad_2.smt2;0;result: sat;;2.88
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_sat/equiv_init_0.smt2;0;result: sat;;3.54
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_sat/equiv_bad_1.smt2;0;result: sat;;2.96
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_sat/equiv_bad_0.smt2;0;result: sat;;3.51
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/reach_trans_4.smt2;0;result: sat;;1.78
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/reach_trans_7.smt2;0;result: sat;;1.78
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/equiv_init_0.smt2;0;result: sat;;2.13
+timeout;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/equiv_trans_1.smt2
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/equiv_trans_7.smt2;0;result: sat;;1.57
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/reach_init_0.smt2;0;result: sat;;4.25
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/reach_bad_trans_0.smt2;0;result: sat;;2.08
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/equiv_trans_4.smt2;0;result: sat;;2.01
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/equiv_trans_6.smt2;0;result: sat;;1.9
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/reach_bad_trans_6.smt2;0;result: sat;;1.97
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/equiv_trans_0.smt2;0;result: sat;;1.91
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/reach_trans_6.smt2;0;result: sat;;1.79
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/equiv_bad_0.smt2;0;result: sat;;2.0
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/reach_bad_trans_4.smt2;0;result: sat;;1.96
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/reach_trans_0.smt2;0;result: sat;;2.33
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/reach_bad_trans_7.smt2;0;result: sat;;1.88
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/reach_bad_0.smt2;0;result: sat;;2.27
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_one_token_pass_lstar/equiv_init_0.smt2;0;result: sat;;2.5
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_one_token_pass_lstar/reach_init_0.smt2;0;result: sat;;2.26
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_one_token_pass_lstar/reach_bad_trans_0.smt2;0;result: sat;;5.09
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_one_token_pass_lstar/equiv_bad_0.smt2;0;result: sat;;2.13
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_one_token_pass_lstar/equiv_trans_0.smt2;0;result: sat;;17.53
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_one_token_pass_lstar/reach_bad_0.smt2;0;result: sat;;3.46
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_one_token_pass_lstar/reach_trans_0.smt2;0;result: sat;;8.5
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_sat/equiv_trans_18.smt2;0;result: sat;;2.63
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_sat/equiv_trans_14.smt2;0;result: sat;;2.58
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_sat/equiv_trans_16.smt2;0;result: sat;;2.57
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_sat/equiv_init_0.smt2;0;result: sat;;4.75
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_sat/equiv_trans_20.smt2;0;result: sat;;2.06
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_sat/equiv_trans_15.smt2;0;result: sat;;2.62
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_sat/equiv_trans_17.smt2;0;result: sat;;2.54
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_sat/equiv_trans_0.smt2;0;result: sat;;2.6
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_sat/equiv_trans_19.smt2;0;result: sat;;2.47
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_sat/equiv_bad_0.smt2;0;result: sat;;4.66
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_sat/equiv_trans_23.smt2;0;result: sat;;1.96
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_trans_23.smt2;0;result: sat;;1.81
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_trans_38.smt2;0;result: sat;;1.77
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_bad_trans_15.smt2;0;result: sat;;3.53
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_bad_trans_23.smt2;0;result: sat;;3.44
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_trans_13.smt2;0;result: sat;;1.77
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_trans_38.smt2;0;result: sat;;2.06
+timeout;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/equiv_trans_0.smt2
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_trans_33.smt2;0;result: sat;;1.76
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_bad_trans_37.smt2;0;result: sat;;3.71
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_bad_trans_13.smt2;0;result: sat;;3.49
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_bad_trans_40.smt2;0;result: sat;;3.42
+timeout;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/equiv_trans_2.smt2
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_init_0.smt2;0;result: sat;;3.28
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_init_0.smt2;0;result: sat;;7.29
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_trans_37.smt2;0;result: sat;;1.74
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_bad_trans_0.smt2;0;result: sat;;3.62
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_trans_13.smt2;0;result: sat;;12.18
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_trans_39.smt2;0;result: sat;;1.96
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_trans_16.smt2;0;result: sat;;11.77
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_trans_39.smt2;0;result: sat;;1.67
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_trans_10.smt2;0;result: sat;;12.13
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_trans_41.smt2;0;result: sat;;1.81
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_trans_17.smt2;0;result: sat;;2.0
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_trans_15.smt2;0;result: sat;;12.06
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_bad_trans_38.smt2;0;result: sat;;3.37
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_trans_40.smt2;0;result: sat;;1.89
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_trans_19.smt2;0;result: sat;;1.88
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_trans_33.smt2;0;result: sat;;2.0
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_trans_40.smt2;0;result: sat;;1.76
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_trans_0.smt2;0;result: sat;;11.62
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_bad_trans_10.smt2;0;result: sat;;3.62
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_bad_trans_34.smt2;0;result: sat;;3.79
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_trans_16.smt2;0;result: sat;;1.87
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_trans_0.smt2;0;result: sat;;1.84
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_bad_0.smt2;0;result: sat;;9.33
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_trans_10.smt2;0;result: sat;;1.7
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_bad_trans_39.smt2;0;result: sat;;3.62
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_trans_37.smt2;0;result: sat;;1.8
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_trans_23.smt2;0;result: sat;;1.9
+timeout;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_resource-allocator_lstar/reach_bad_0.smt2
+timeout;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_sat/equiv_trans_1.smt2
+timeout;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_sat/equiv_trans_0.smt2
+timeout;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_sat/equiv_trans_2.smt2
+finished;cmp-z3-noodler-ostrich;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_bad_0.smt2;0;result: sat;;107.42
