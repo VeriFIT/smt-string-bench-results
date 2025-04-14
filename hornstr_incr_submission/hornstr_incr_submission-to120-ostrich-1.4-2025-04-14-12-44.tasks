@@ -1,0 +1,722 @@
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_power-binary_lstar/equiv_trans_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_power-binary_lstar/equiv_init_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_power-binary_lstar/reach_init_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_power-binary_lstar/reach_bad_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_power-binary_lstar/equiv_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_power-binary_lstar/reach_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/reach_bad_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/equiv_trans_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/reach_bad_trans_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/equiv_bad_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/equiv_init_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/reach_init_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/reach_bad_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/reach_trans_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/equiv_bad_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/equiv_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/reach_bad_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/reach_trans_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/equiv_bad_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/reach_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/equiv_trans_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/reach_bad_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/reach_bad_trans_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_sat/equiv_trans_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_sat/equiv_init_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_sat/equiv_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_sat/equiv_bad_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_sat/equiv_trans_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-ring_sat/equiv_init_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-ring_sat/equiv_bad_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_sat/equiv_trans_5.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_sat/equiv_init_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_sat/equiv_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_sat/equiv_bad_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_sat/equiv_trans_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/equiv_trans_18.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_trans_23.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_bad_trans_15.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_bad_trans_16.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_bad_trans_23.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/equiv_trans_14.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_bad_trans_17.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_trans_15.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_trans_18.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/equiv_init_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_init_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_bad_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/equiv_trans_16.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_trans_19.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_bad_trans_18.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/equiv_trans_15.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_bad_trans_14.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/equiv_trans_17.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/equiv_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/equiv_trans_19.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/equiv_bad_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_trans_16.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_trans_14.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_bad_trans_19.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_bad_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_trans_17.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/equiv_trans_23.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_sat/equiv_trans_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_sat/equiv_init_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_sat/equiv_trans_4.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_sat/equiv_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_sat/equiv_bad_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_sat/equiv_trans_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_sat/equiv_trans_5.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_sat/equiv_init_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_sat/equiv_trans_4.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_sat/equiv_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_sat/equiv_bad_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/equiv_trans_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/reach_trans_4.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/reach_bad_trans_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/equiv_init_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/reach_init_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/reach_bad_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/reach_trans_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/equiv_trans_4.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/equiv_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/reach_trans_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/equiv_bad_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/reach_bad_trans_4.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/reach_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/equiv_trans_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/reach_bad_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/reach_bad_trans_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_lstar/equiv_trans_5.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_lstar/equiv_init_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_lstar/reach_init_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_lstar/reach_bad_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_lstar/reach_trans_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_lstar/equiv_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_lstar/equiv_bad_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_lstar/reach_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_lstar/equiv_trans_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_lstar/reach_bad_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_lstar/reach_bad_trans_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_lstar/equiv_trans_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_lstar/reach_bad_trans_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_lstar/equiv_init_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_lstar/reach_init_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_lstar/reach_bad_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_lstar/reach_trans_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_lstar/equiv_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_lstar/reach_trans_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_lstar/equiv_bad_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_lstar/reach_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_lstar/equiv_trans_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_lstar/reach_bad_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_lstar/reach_bad_trans_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_one_token_pass_sat/equiv_init_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_one_token_pass_sat/equiv_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_one_token_pass_sat/equiv_bad_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_mux-array_lstar/equiv_init_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_mux-array_lstar/reach_init_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_mux-array_lstar/reach_bad_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_mux-array_lstar/equiv_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_mux-array_lstar/equiv_bad_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_mux-array_lstar/reach_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_mux-array_lstar/reach_bad_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/equiv_trans_14.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/equiv_init_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/reach_init_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/reach_bad_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/equiv_trans_10.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/reach_bad_trans_12.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/reach_trans_28.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/reach_bad_trans_14.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/equiv_trans_12.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/equiv_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/reach_bad_trans_10.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/equiv_bad_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/reach_bad_trans_28.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/reach_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/reach_trans_12.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/reach_trans_14.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/reach_trans_10.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/reach_bad_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/equiv_trans_28.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_muzzle_sat/equiv_trans_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_muzzle_sat/equiv_init_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_muzzle_sat/equiv_trans_3.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_muzzle_sat/equiv_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_muzzle_sat/equiv_bad_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_muzzle_sat/equiv_trans_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_sat/equiv_trans_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_sat/equiv_bad_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_sat/equiv_init_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_sat/equiv_bad_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_sat/equiv_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_sat/equiv_bad_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_sat/equiv_trans_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/reach_bad_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/equiv_trans_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/reach_bad_trans_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/equiv_bad_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/equiv_init_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/reach_init_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/reach_bad_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/reach_trans_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/equiv_bad_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/equiv_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/reach_bad_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/reach_trans_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/equiv_bad_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/reach_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/equiv_trans_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/reach_bad_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/reach_bad_trans_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_lstar/reach_trans_4.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_lstar/equiv_trans_5.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_lstar/equiv_init_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_lstar/reach_init_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_lstar/reach_bad_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_lstar/equiv_trans_4.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_lstar/equiv_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_lstar/equiv_bad_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_lstar/reach_bad_trans_4.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_lstar/reach_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_lstar/reach_bad_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_dining-cryptographers_sat/equiv_trans_26.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_dining-cryptographers_sat/equiv_trans_27.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_dining-cryptographers_sat/equiv_init_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_dining-cryptographers_sat/equiv_trans_24.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_dining-cryptographers_sat/equiv_trans_87.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_dining-cryptographers_sat/equiv_trans_58.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_dining-cryptographers_sat/equiv_trans_57.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_dining-cryptographers_sat/equiv_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_dining-cryptographers_sat/equiv_trans_25.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_dining-cryptographers_sat/equiv_bad_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_dining-cryptographers_sat/equiv_trans_56.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_dining-cryptographers_sat/equiv_trans_59.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_sat/equiv_trans_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_sat/equiv_init_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_sat/equiv_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_sat/equiv_bad_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_sat/equiv_trans_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_sat/equiv_trans_14.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_sat/equiv_init_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_sat/equiv_trans_10.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_sat/equiv_trans_12.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_sat/equiv_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_sat/equiv_trans_29.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_sat/equiv_bad_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_sat/equiv_trans_28.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_resource-allocator_lstar/equiv_init_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_resource-allocator_lstar/reach_init_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_resource-allocator_lstar/reach_bad_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_resource-allocator_lstar/equiv_trans_3.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_resource-allocator_lstar/equiv_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_resource-allocator_lstar/equiv_bad_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_resource-allocator_lstar/reach_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_resource-allocator_lstar/reach_bad_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_power-binary_sat/equiv_init_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_resource-allocator_sat/equiv_init_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_resource-allocator_sat/equiv_trans_3.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_resource-allocator_sat/equiv_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_resource-allocator_sat/equiv_bad_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_lstar/equiv_trans_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_lstar/reach_bad_trans_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_lstar/equiv_init_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_lstar/reach_init_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_lstar/reach_bad_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_lstar/equiv_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_lstar/reach_trans_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_lstar/equiv_bad_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_lstar/reach_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_lstar/equiv_trans_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_lstar/reach_bad_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-ring_lstar/equiv_trans_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-ring_lstar/reach_bad_trans_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-ring_lstar/reach_bad_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-ring_lstar/reach_trans_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-ring_lstar/equiv_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-ring_lstar/reach_trans_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-ring_lstar/reach_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-ring_lstar/equiv_trans_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-ring_lstar/reach_bad_trans_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_sat/equiv_trans_38.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_sat/equiv_trans_43.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_sat/equiv_trans_33.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_sat/equiv_init_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_sat/equiv_trans_13.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_sat/equiv_trans_10.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_sat/equiv_trans_39.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_sat/equiv_trans_15.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_sat/equiv_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_sat/equiv_trans_40.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_sat/equiv_bad_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_sat/equiv_trans_37.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_sat/equiv_trans_23.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_lstar/equiv_trans_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_lstar/reach_bad_trans_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_lstar/equiv_init_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_lstar/reach_init_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_lstar/reach_bad_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_lstar/equiv_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_lstar/reach_trans_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_lstar/equiv_bad_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_lstar/reach_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_lstar/equiv_trans_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_lstar/reach_bad_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_sat/equiv_trans_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_sat/equiv_init_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_sat/equiv_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_sat/equiv_bad_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_sat/equiv_trans_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_mux-array_sat/equiv_trans_5.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_mux-array_sat/equiv_init_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_mux-array_sat/equiv_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_mux-array_sat/equiv_bad_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_sat/equiv_trans_5.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_sat/equiv_init_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_sat/equiv_trans_7.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_sat/equiv_trans_4.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_sat/equiv_trans_6.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_sat/equiv_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_sat/equiv_bad_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_sat/equiv_trans_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_sat/equiv_bad_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_sat/equiv_init_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_sat/equiv_bad_1.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_sat/equiv_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_sat/equiv_bad_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_sat/equiv_trans_2.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/reach_trans_4.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/reach_trans_7.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/equiv_init_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/reach_init_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/equiv_trans_7.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/reach_bad_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/equiv_trans_4.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/equiv_trans_6.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/reach_bad_trans_6.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/equiv_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/reach_trans_6.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/equiv_bad_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/reach_bad_trans_4.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/reach_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/reach_bad_trans_7.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/reach_bad_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_one_token_pass_lstar/equiv_init_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_one_token_pass_lstar/reach_init_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_one_token_pass_lstar/reach_bad_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_one_token_pass_lstar/equiv_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_one_token_pass_lstar/equiv_bad_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_one_token_pass_lstar/reach_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_one_token_pass_lstar/reach_bad_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_sat/equiv_trans_18.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_sat/equiv_trans_14.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_sat/equiv_init_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_sat/equiv_trans_16.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_sat/equiv_trans_20.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_sat/equiv_trans_15.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_sat/equiv_trans_17.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_sat/equiv_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_sat/equiv_trans_19.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_sat/equiv_bad_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_sat/equiv_trans_23.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_trans_23.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_trans_38.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_bad_trans_15.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_bad_trans_23.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_trans_13.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_trans_38.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_bad_trans_37.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_trans_33.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_bad_trans_13.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_bad_trans_40.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_init_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_init_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_trans_13.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_bad_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_trans_37.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_trans_16.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_trans_10.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_trans_39.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_trans_39.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_trans_15.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_trans_41.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_trans_17.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_bad_trans_38.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_trans_40.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_trans_19.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_trans_33.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_trans_40.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_bad_trans_10.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_bad_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_bad_trans_34.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_trans_16.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_trans_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_trans_10.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_bad_trans_39.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_bad_0.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_trans_37.smt2
+execute;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_trans_23.smt2
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_power-binary_lstar/reach_bad_trans_0.smt2;0;result: sat;;2.26
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_power-binary_lstar/reach_trans_0.smt2;0;result: sat;;2.37
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/reach_bad_2.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.17
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_power-binary_lstar/reach_init_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.14
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/equiv_trans_1.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.26
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_power-binary_lstar/equiv_init_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.44
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_power-binary_lstar/equiv_trans_1.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.48
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_power-binary_lstar/equiv_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.74
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/equiv_bad_2.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.43
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/reach_bad_trans_1.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.39
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/equiv_init_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.44
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/reach_trans_2.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.25
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/reach_bad_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.29
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/reach_init_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.34
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/equiv_bad_1.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.18
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/equiv_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.28
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/reach_bad_1.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.45
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/reach_trans_1.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.38
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/equiv_trans_2.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.44
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/equiv_bad_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.14
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/reach_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.41
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/reach_bad_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.24
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_lstar/reach_bad_trans_2.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.15
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_sat/equiv_trans_1.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.47
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_sat/equiv_init_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.52
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_sat/equiv_bad_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.59
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_sat/equiv_trans_5.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.29
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-ring_sat/equiv_bad_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.13
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_sat/equiv_trans_2.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.38
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_sat/equiv_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.41
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-ring_sat/equiv_init_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.81
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_sat/equiv_init_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.56
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_sat/equiv_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.15
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_sat/equiv_bad_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.48
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_bad_trans_16.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.22
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/equiv_trans_18.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.25
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_sat/equiv_trans_2.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.36
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_trans_23.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.37
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_bad_trans_23.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.54
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_bad_trans_15.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.31
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_trans_15.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.36
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/equiv_trans_14.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.5
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_bad_trans_17.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.58
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/equiv_init_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.08
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_init_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.43
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_trans_18.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.59
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_bad_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.6
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/equiv_trans_16.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.48
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_trans_19.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.22
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/equiv_trans_15.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.45
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_bad_trans_18.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.49
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_bad_trans_14.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.49
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/equiv_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.32
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/equiv_trans_17.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.57
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/equiv_trans_19.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.5
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/equiv_bad_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.29
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_trans_16.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.52
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.44
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_trans_14.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.2
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_bad_trans_19.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.56
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_bad_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.53
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/equiv_trans_23.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.17
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_lstar/reach_trans_17.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.51
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_sat/equiv_trans_1.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.41
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_sat/equiv_init_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.26
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_sat/equiv_trans_4.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.39
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_sat/equiv_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.33
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_sat/equiv_trans_2.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.17
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_sat/equiv_trans_5.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.55
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_sat/equiv_bad_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.43
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_sat/equiv_init_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.17
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_sat/equiv_trans_4.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.39
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_sat/equiv_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.44
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_sat/equiv_bad_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.45
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/equiv_trans_1.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.25
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/reach_trans_4.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.32
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/reach_init_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.48
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/equiv_init_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.49
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/reach_bad_trans_1.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.15
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/reach_bad_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.42
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/reach_trans_2.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.07
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/equiv_trans_4.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.32
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/reach_trans_1.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;2.97
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/equiv_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.47
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/reach_bad_trans_4.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.33
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/reach_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.51
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/equiv_bad_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.25
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/equiv_trans_2.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.27
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/reach_bad_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.41
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_bakery_lstar/reach_bad_trans_2.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.32
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_lstar/equiv_trans_5.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.71
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_lstar/reach_bad_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.28
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_lstar/equiv_init_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.31
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_lstar/reach_init_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.44
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_lstar/reach_trans_2.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.23
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_lstar/equiv_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.23
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_lstar/equiv_bad_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.69
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_lstar/reach_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.16
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_lstar/reach_bad_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.22
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_lstar/reach_bad_trans_2.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.2
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can_lstar/equiv_trans_2.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.54
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_lstar/reach_bad_trans_1.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.27
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_lstar/equiv_trans_1.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.76
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_lstar/equiv_init_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.56
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_lstar/reach_bad_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.18
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_lstar/reach_init_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.56
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_lstar/reach_trans_2.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.3
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_lstar/equiv_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.58
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_lstar/reach_trans_1.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.49
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_lstar/reach_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.17
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_lstar/equiv_trans_2.smt2;0;result: sat;;2.56
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_lstar/equiv_bad_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.5
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_lstar/reach_bad_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.45
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_one_token_pass_sat/equiv_init_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.31
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_mux-array_lstar/reach_init_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.13
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_mux-array_lstar/equiv_init_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.07
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_one_token_pass_sat/equiv_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.38
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_one_token_pass_sat/equiv_bad_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.47
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_eqdist_lstar/reach_bad_trans_2.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.38
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_mux-array_lstar/reach_bad_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.35
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_mux-array_lstar/equiv_trans_0.smt2;0;result: sat;;1.9
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/equiv_trans_14.smt2;0;result: sat;;1.96
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_mux-array_lstar/equiv_bad_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.48
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/reach_init_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.26
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_mux-array_lstar/reach_bad_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.6
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_mux-array_lstar/reach_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.38
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/equiv_init_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.56
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/reach_bad_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.45
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/equiv_trans_10.smt2;0;result: sat;;2.08
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/equiv_trans_12.smt2;0;result: sat;;1.89
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/equiv_trans_0.smt2;0;result: sat;;2.01
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/reach_bad_trans_12.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.42
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/reach_trans_28.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.29
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/reach_bad_trans_14.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.63
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/reach_bad_trans_10.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.6
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/equiv_bad_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.52
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/reach_bad_trans_28.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.42
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/reach_trans_14.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.17
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/reach_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.37
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/reach_trans_12.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.57
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/equiv_trans_28.smt2;0;result: sat;;1.94
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/reach_trans_10.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.11
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_lstar/reach_bad_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.43
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_muzzle_sat/equiv_trans_1.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.5
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_muzzle_sat/equiv_init_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.43
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_muzzle_sat/equiv_trans_3.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.21
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_muzzle_sat/equiv_trans_2.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.29
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_muzzle_sat/equiv_bad_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.37
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_muzzle_sat/equiv_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.47
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_sat/equiv_trans_1.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.41
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_sat/equiv_bad_2.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.41
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_sat/equiv_init_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.47
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_sat/equiv_bad_1.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.37
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_sat/equiv_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.29
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_sat/equiv_trans_2.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.3
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_two_token_pass_sat/equiv_bad_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.4
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/reach_bad_2.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.29
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/equiv_trans_1.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.08
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/reach_bad_trans_1.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.21
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/equiv_bad_2.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.41
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/equiv_init_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.46
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/reach_init_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.4
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/reach_bad_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.26
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/reach_trans_2.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.38
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/equiv_bad_1.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.5
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/equiv_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.48
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/reach_bad_1.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.32
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/reach_trans_1.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.35
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/equiv_bad_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.48
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/reach_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.39
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/equiv_trans_2.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.27
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_lstar/reach_trans_4.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.21
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_lstar/equiv_trans_5.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.14
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/reach_bad_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.28
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_lstar/reach_bad_trans_2.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.3
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_lstar/equiv_init_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.15
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_lstar/reach_init_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.04
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_lstar/reach_bad_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.31
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_lstar/reach_bad_trans_4.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.37
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_lstar/equiv_bad_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.28
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_lstar/equiv_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.53
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_lstar/equiv_trans_4.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.67
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_lstar/reach_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.46
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_LR-philo_lstar/reach_bad_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.02
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_dining-cryptographers_sat/equiv_trans_26.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.41
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_dining-cryptographers_sat/equiv_trans_27.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.53
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_dining-cryptographers_sat/equiv_trans_58.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.62
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_dining-cryptographers_sat/equiv_trans_24.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.57
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_dining-cryptographers_sat/equiv_trans_87.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.34
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_dining-cryptographers_sat/equiv_trans_57.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.21
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_dining-cryptographers_sat/equiv_init_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.75
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_dining-cryptographers_sat/equiv_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.61
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_dining-cryptographers_sat/equiv_trans_25.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.44
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_sat/equiv_init_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.31
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_dining-cryptographers_sat/equiv_trans_59.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.58
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_dining-cryptographers_sat/equiv_bad_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.7
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_sat/equiv_trans_1.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.41
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_dining-cryptographers_sat/equiv_trans_56.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.34
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_sat/equiv_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.36
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_sat/equiv_bad_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.37
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_sat/equiv_trans_2.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.31
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_sat/equiv_trans_12.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.6
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_sat/equiv_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.4
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_sat/equiv_init_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.46
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_sat/equiv_trans_10.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.33
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_sat/equiv_trans_14.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.32
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_sat/equiv_trans_29.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.51
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_sat/equiv_bad_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.61
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Burns_sat/equiv_trans_28.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.58
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_resource-allocator_lstar/equiv_trans_3.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.38
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_resource-allocator_lstar/equiv_init_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.29
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_resource-allocator_lstar/reach_bad_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.36
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_resource-allocator_lstar/reach_init_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.52
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_resource-allocator_lstar/equiv_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.25
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_resource-allocator_lstar/equiv_bad_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.27
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_resource-allocator_lstar/reach_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.25
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_resource-allocator_lstar/reach_bad_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.73
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_power-binary_sat/equiv_init_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.5
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_resource-allocator_sat/equiv_init_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.45
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_resource-allocator_sat/equiv_trans_3.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.56
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_resource-allocator_sat/equiv_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.55
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_lstar/equiv_trans_1.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.42
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_resource-allocator_sat/equiv_bad_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.16
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_lstar/reach_bad_trans_1.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.35
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_lstar/equiv_init_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.43
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_lstar/reach_init_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.37
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_lstar/reach_bad_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.04
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_lstar/equiv_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.14
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_lstar/reach_trans_1.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.26
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_lstar/equiv_bad_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.35
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_lstar/reach_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.35
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_lstar/equiv_trans_2.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.32
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-linear_lstar/reach_bad_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.35
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-ring_lstar/equiv_trans_1.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.29
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-ring_lstar/reach_bad_trans_1.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.18
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-ring_lstar/reach_bad_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.34
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-ring_lstar/equiv_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;2.93
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-ring_lstar/reach_trans_2.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.57
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-ring_lstar/reach_trans_1.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.13
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-ring_lstar/reach_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.23
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-ring_lstar/equiv_trans_2.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.51
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_herman-ring_lstar/reach_bad_trans_2.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.32
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_sat/equiv_trans_38.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.48
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_sat/equiv_trans_43.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.45
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_sat/equiv_trans_33.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.55
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_sat/equiv_init_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.66
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_sat/equiv_trans_13.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.41
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_sat/equiv_trans_10.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.31
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_sat/equiv_trans_39.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.44
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_sat/equiv_trans_15.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.53
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_sat/equiv_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.22
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_sat/equiv_trans_40.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.21
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_sat/equiv_trans_37.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;2.99
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_sat/equiv_bad_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.6
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_sat/equiv_trans_23.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.48
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_lstar/equiv_trans_1.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.31
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_lstar/reach_bad_trans_1.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.33
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_lstar/equiv_init_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.36
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_lstar/reach_init_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.62
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_lstar/reach_bad_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.37
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_lstar/reach_trans_1.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.33
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_lstar/equiv_bad_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.49
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_lstar/equiv_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.47
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_lstar/reach_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.57
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_lstar/equiv_trans_2.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.43
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_lstar/reach_bad_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.44
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_sat/equiv_trans_1.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.55
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_sat/equiv_init_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.53
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_sat/equiv_trans_2.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.17
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_sat/equiv_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.4
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_coffee-can-v2_sat/equiv_bad_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.3
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_mux-array_sat/equiv_trans_5.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.44
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_mux-array_sat/equiv_init_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.38
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_mux-array_sat/equiv_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.44
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_sat/equiv_trans_5.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.55
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_mux-array_sat/equiv_bad_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.38
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_sat/equiv_init_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.44
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_sat/equiv_trans_7.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.14
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_sat/equiv_trans_4.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.4
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_sat/equiv_trans_6.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.37
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_sat/equiv_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.16
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_sat/equiv_trans_1.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.43
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_sat/equiv_bad_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.73
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_sat/equiv_bad_2.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.09
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_sat/equiv_bad_1.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.23
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_sat/equiv_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.17
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_sat/equiv_init_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.57
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_sat/equiv_bad_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.44
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_three_token_pass_sat/equiv_trans_2.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.35
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/equiv_init_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.27
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/reach_trans_4.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.44
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/reach_trans_7.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.21
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/equiv_trans_7.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.17
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/reach_init_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.18
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/reach_bad_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.46
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/equiv_trans_4.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.19
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/equiv_trans_6.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.46
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/reach_bad_trans_6.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.24
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/reach_trans_6.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.66
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/equiv_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.49
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/reach_bad_trans_4.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.28
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/equiv_bad_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.35
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/reach_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.12
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/reach_bad_trans_7.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.27
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Israeli-Jalfon_lstar/reach_bad_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.46
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_one_token_pass_lstar/equiv_init_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.57
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_one_token_pass_lstar/reach_init_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.24
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_one_token_pass_lstar/reach_bad_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.43
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_one_token_pass_lstar/equiv_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.17
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_one_token_pass_lstar/equiv_bad_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.09
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_one_token_pass_lstar/reach_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.26
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_one_token_pass_lstar/reach_bad_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.24
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_sat/equiv_trans_18.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.43
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_sat/equiv_trans_14.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.41
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_sat/equiv_init_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.5
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_sat/equiv_trans_20.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.26
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_sat/equiv_trans_16.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.44
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_sat/equiv_trans_15.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.58
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_sat/equiv_trans_17.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.4
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_sat/equiv_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.45
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_sat/equiv_trans_19.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.49
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_sat/equiv_bad_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.45
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_trans_23.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.27
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_trans_38.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.52
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_Lehmann-Rabin_sat/equiv_trans_23.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.55
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_bad_trans_15.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.62
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_trans_38.smt2;0;result: sat;;1.88
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_bad_trans_23.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.33
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_trans_13.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.26
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_trans_33.smt2;0;result: sat;;1.87
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_bad_trans_37.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.5
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_bad_trans_13.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.34
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_bad_trans_40.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.16
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_init_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.56
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_init_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.29
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_trans_13.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.58
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_bad_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.37
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_trans_37.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.16
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_trans_16.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.61
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_trans_39.smt2;0;result: sat;;1.87
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_trans_41.smt2;0;result: sat;;1.8
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_trans_10.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.54
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_trans_17.smt2;0;result: sat;;1.98
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_trans_39.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.33
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_trans_15.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.27
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_trans_40.smt2;0;result: sat;;1.99
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_bad_trans_38.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.45
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_trans_19.smt2;0;result: sat;;1.89
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.55
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_trans_33.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.41
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_trans_40.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.53
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_bad_trans_10.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.37
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_bad_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.57
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_bad_trans_34.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.45
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_trans_16.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.44
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_trans_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.44
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_trans_10.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.31
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_trans_37.smt2;0;result: sat;;1.85
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/equiv_trans_23.smt2;0;result: sat;;1.92
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_bad_0.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.41
+finished;ostrich-1.4;../formulae/benchmark-submission/incremental/QF_S/20250408-hornstr/z3-noodler_water-jug_lstar/reach_bad_trans_39.smt2;0;result: (error \"push is only supported in incremental mode (option +incremental)\");;3.48
