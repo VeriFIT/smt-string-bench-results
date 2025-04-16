@@ -422,4 +422,13 @@
 "4626660-d97833a",
 
 # after merging previous branches
-"z3-noodler-0a4d597-3ffed75",
+0a4d597-3ffed75
+0a4d597-2909a73
+
+# branch try_residual_reduction
+z3-noodler-618ac8b-277599a # just simulation
+z3-noodler-7c5ae10-277599a # simulation with trimming
+z3-noodler-7d9721a-277599a # residual_with
+z3-noodler-7d59741-277599a # residual_after
+z3-noodler-c6c57ea-277599a # just simulation (after length proc fix)
+z3-noodler-7ea880b-277599a # residual_with (after length proc fix)
