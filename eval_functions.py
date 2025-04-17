@@ -9,6 +9,7 @@ import io
 import os
 import sys
 from enum import Enum
+import matplotlib as mpl
 
 import pyco_proc
 from pyco_proc import StatsFormat, StatsDestination
@@ -126,6 +127,9 @@ def scatter_plot(df, x_tool, y_tool, timeout = 120, clamp=True, clamp_domain=[0.
         color_column (str, optional): Name of the column to use for coloring. Defaults to 'benchmark'.
     """
     assert len(clamp_domain) == 2
+    
+    mpl.rcParams['pdf.fonttype'] = 42  # Use Type 1 fonts for PDF output
+    mpl.rcParams['ps.fonttype'] = 42  # Use Type 1 fonts for PS output
 
     POINT_SIZE = 1.0
     DASH_PATTERN = (0, (6, 2))
@@ -180,8 +184,8 @@ def scatter_plot(df, x_tool, y_tool, timeout = 120, clamp=True, clamp_domain=[0.
     scatter += p9.theme(panel_grid_major=p9.element_line(color='#666666', alpha=0.5))
     scatter += p9.theme(panel_grid_minor=p9.element_blank())
     scatter += p9.theme(figure_size=(width, height))
-    scatter += p9.theme(axis_text=p9.element_text(size=24, color="black"))
-    scatter += p9.theme(axis_title=p9.element_text(size=24, color="black"))
+    scatter += p9.theme(axis_text=p9.element_text(size=24, color="black", family="Helvetica"))
+    scatter += p9.theme(axis_title=p9.element_text(size=24, color="black", family="Helvetica"))
     scatter += p9.theme(legend_text=p9.element_text(size=12))
     if transparent:
         scatter += p9.theme(
@@ -201,7 +205,7 @@ def scatter_plot(df, x_tool, y_tool, timeout = 120, clamp=True, clamp_domain=[0.
     scatter += p9.geom_hline(yintercept=clamp_domain[1], linetype=DASH_PATTERN)  # horizontal rule
 
     if file_name_to_save != None:
-        scatter.save(filename=f"{file_name_to_save}.pdf", dpi=500, verbose=False)
+        scatter.save(filename=f"{file_name_to_save}.pdf", format="pdf", dpi=500, verbose=False)
 
     return scatter
 
@@ -239,7 +243,9 @@ def cactus_plot(df, tools, timeout = 120, tool_names = None, start = 0, end = No
 
 
     plt = concat.plot.line(figsize=(width, height))
-    ticks = np.linspace(start, end, num_of_x_ticks, dtype=int)
+    ticks = np.linspace(start, 150200, num_of_x_ticks, dtype=int)
+    ticks = ticks[:-1]
+    ticks = np.append(ticks, 150287)
     plt.set_xticks(ticks)
     plt.grid(True, linestyle='--', alpha=0.5)
     plt.set_xlim([start, end])
