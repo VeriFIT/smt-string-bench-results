@@ -437,3 +437,7 @@ z3-noodler-7ea880b-277599a # residual_with (after length proc fix)
 cvc5-1.2.1
 z3-4.14.1
 ostrich-5281451f0
+
+# branch better_lengths_transd
+z3-noodler-3640832-db64544
+z3-noodler-0e2531e-db64544
