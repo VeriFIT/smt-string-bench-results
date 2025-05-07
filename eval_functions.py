@@ -64,7 +64,10 @@ def load_benches(benches, tools, bench_selection, benchmark_to_group, timeout = 
                     return stats_dict
                 df[key] = df[key].apply(rename_underapprox_solved_preprocess_to_length_solved_preprocess)
         df["benchmark"] = bench
-        df["benchmark-group"] = benchmark_to_group[bench]
+        if bench in benchmark_to_group:
+            df["benchmark-group"] = benchmark_to_group[bench]
+        else:
+            df["benchmark-group"] = ""
         dfs[bench] = df
 
     # tools_no_dates = ['-'.join(tool.split("-")[:-5]) for tool in tools]
