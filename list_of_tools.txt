@@ -441,3 +441,11 @@ ostrich-5281451f0
 # branch better_lengths_transd
 z3-noodler-3640832-db64544
 z3-noodler-0e2531e-db64544
+z3-noodler-bb0fab6-db64544
+z3-noodler-6ff7978-db64544
+
+# branch to_code_parikh
+c0fbbdc-db64544
+z3-noodler-f245352-db64544
+z3-noodler-6690770-db64544
+z3-noodler-41fb0f9-db64544
