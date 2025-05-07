@@ -1,0 +1,140 @@
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/big/826.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/big/822.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/big/840.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/big/843.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/big/821.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/big/808.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/big/839.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/big/825.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/big/812.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/big/823.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/big/845.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/big/827.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/big/824.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/big/838.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/big/849.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/big/846.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/big/809.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/big/811.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/big/820.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/big/851.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1553.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1634.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1597.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1598.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1575.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1566.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1628.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/2009.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1627.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1557.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1588.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1884.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1554.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1637.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1594.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1911.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1576.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1550.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1909.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1572.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1633.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1590.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1568.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1886.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1626.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1556.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/2008.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/2007.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1567.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1574.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1596.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1635.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1552.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1997.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/2010.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1573.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1907.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1551.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1908.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1910.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1595.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1636.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1555.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1885.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1589.corecstrs.readable.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20200224-Wu-PyExZ3/dddb9cc1f86d5738fd85ffa1b430c4e9df9771c0fffa945b9b414772.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20200224-Wu-PyExZ3/bdcb3877984a55b540face066045c4642cba1bc553af78576a41a76e.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20200224-Wu-PyExZ3/5735c9082c3f9cd487c6376032029bb499ba1f87113dc9ca03adc6bc.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20200224-Wu-PyExZ3/e007cfdcf4dd61007107222cbedbb46ad161a945ab5ee0a68d3f585a.smt2
+execute;ostrich-1.4;../formulae/QF_SNIA/20200224-Wu-PyExZ3/f72b09bc9444f702ad7cdf3a9075754e71d673f3d134d9f485f6608a.smt2
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/big/822.corecstrs.readable.smt2;0;result: sat;;2.29
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/big/840.corecstrs.readable.smt2;0;result: sat;;2.34
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/big/808.corecstrs.readable.smt2;0;result: sat;;2.28
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/big/843.corecstrs.readable.smt2;0;result: sat;;2.44
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/big/821.corecstrs.readable.smt2;0;result: sat;;2.4
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/big/839.corecstrs.readable.smt2;0;result: sat;;2.42
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/big/826.corecstrs.readable.smt2;0;result: sat;;2.55
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/big/825.corecstrs.readable.smt2;0;result: sat;;2.38
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/big/812.corecstrs.readable.smt2;0;result: sat;;2.38
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/big/823.corecstrs.readable.smt2;0;result: sat;;2.37
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/big/845.corecstrs.readable.smt2;0;result: sat;;2.4
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/big/838.corecstrs.readable.smt2;0;result: sat;;2.51
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/big/824.corecstrs.readable.smt2;0;result: sat;;2.52
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/big/827.corecstrs.readable.smt2;0;result: sat;;2.52
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/big/849.corecstrs.readable.smt2;0;result: sat;;2.55
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/big/846.corecstrs.readable.smt2;0;result: sat;;2.58
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1553.corecstrs.readable.smt2;0;result: sat;;2.01
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1634.corecstrs.readable.smt2;0;result: sat;;2.14
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/big/811.corecstrs.readable.smt2;0;result: sat;;2.57
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/big/809.corecstrs.readable.smt2;0;result: sat;;2.55
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1598.corecstrs.readable.smt2;0;result: sat;;2.14
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/big/820.corecstrs.readable.smt2;0;result: sat;;2.37
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1597.corecstrs.readable.smt2;0;result: sat;;2.31
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/big/851.corecstrs.readable.smt2;0;result: sat;;2.51
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1566.corecstrs.readable.smt2;0;result: sat;;2.23
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1575.corecstrs.readable.smt2;0;result: sat;;2.18
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/2009.corecstrs.readable.smt2;0;result: sat;;2.15
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1628.corecstrs.readable.smt2;0;result: sat;;2.13
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1627.corecstrs.readable.smt2;0;result: sat;;2.27
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1884.corecstrs.readable.smt2;0;result: sat;;2.16
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1557.corecstrs.readable.smt2;0;result: sat;;2.25
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1588.corecstrs.readable.smt2;0;result: sat;;2.27
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1911.corecstrs.readable.smt2;0;result: sat;;2.27
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1554.corecstrs.readable.smt2;0;result: sat;;2.12
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1594.corecstrs.readable.smt2;0;result: sat;;2.25
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1637.corecstrs.readable.smt2;0;result: sat;;2.32
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1576.corecstrs.readable.smt2;0;result: sat;;2.2
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1550.corecstrs.readable.smt2;0;result: sat;;2.28
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1909.corecstrs.readable.smt2;0;result: sat;;2.15
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1572.corecstrs.readable.smt2;0;result: sat;;2.37
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1590.corecstrs.readable.smt2;0;result: sat;;2.06
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1633.corecstrs.readable.smt2;0;result: sat;;2.19
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1568.corecstrs.readable.smt2;0;result: sat;;2.29
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1886.corecstrs.readable.smt2;0;result: sat;;2.32
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1556.corecstrs.readable.smt2;0;result: sat;;2.15
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1626.corecstrs.readable.smt2;0;result: sat;;2.19
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/2007.corecstrs.readable.smt2;0;result: sat;;2.24
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/2008.corecstrs.readable.smt2;0;result: sat;;2.19
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1574.corecstrs.readable.smt2;0;result: sat;;2.1
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1567.corecstrs.readable.smt2;0;result: sat;;2.23
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1596.corecstrs.readable.smt2;0;result: sat;;2.11
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1635.corecstrs.readable.smt2;0;result: sat;;2.2
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1997.corecstrs.readable.smt2;0;result: sat;;2.07
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/2010.corecstrs.readable.smt2;0;result: sat;;2.17
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1573.corecstrs.readable.smt2;0;result: sat;;2.28
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1552.corecstrs.readable.smt2;0;result: sat;;2.21
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1907.corecstrs.readable.smt2;0;result: sat;;2.2
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1910.corecstrs.readable.smt2;0;result: sat;;2.14
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1551.corecstrs.readable.smt2;0;result: sat;;2.23
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1595.corecstrs.readable.smt2;0;result: sat;;2.2
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1908.corecstrs.readable.smt2;0;result: sat;;2.22
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1555.corecstrs.readable.smt2;0;result: sat;;2.37
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1636.corecstrs.readable.smt2;0;result: sat;;2.25
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1885.corecstrs.readable.smt2;0;result: sat;;2.25
+finished;ostrich-1.4;../formulae/QF_SNIA/20200224-Wu-PyExZ3/dddb9cc1f86d5738fd85ffa1b430c4e9df9771c0fffa945b9b414772.smt2;0;result: sat;;1.4
+finished;ostrich-1.4;../formulae/QF_SNIA/20200224-Wu-PyExZ3/5735c9082c3f9cd487c6376032029bb499ba1f87113dc9ca03adc6bc.smt2;0;result: sat;;1.59
+finished;ostrich-1.4;../formulae/QF_SNIA/20200224-Wu-PyExZ3/bdcb3877984a55b540face066045c4642cba1bc553af78576a41a76e.smt2;0;result: sat;;1.69
+finished;ostrich-1.4;../formulae/QF_SNIA/20180523-Reynolds/kaluza/sat/small/1589.corecstrs.readable.smt2;0;result: sat;;2.33
+finished;ostrich-1.4;../formulae/QF_SNIA/20200224-Wu-PyExZ3/e007cfdcf4dd61007107222cbedbb46ad161a945ab5ee0a68d3f585a.smt2;0;result: sat;;2.5
+finished;ostrich-1.4;../formulae/QF_SNIA/20200224-Wu-PyExZ3/f72b09bc9444f702ad7cdf3a9075754e71d673f3d134d9f485f6608a.smt2;0;result: sat;;2.78
