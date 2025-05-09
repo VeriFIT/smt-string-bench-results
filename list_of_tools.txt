@@ -436,7 +436,8 @@ z3-noodler-7ea880b-277599a # residual_with (after length proc fix)
 # new versions of other tools (8 parallel, 8GB mem limit, 120s time limit)
 cvc5-1.2.1
 z3-4.14.1
-ostrich-5281451f0
+ostrich-1.4 # run with 16GB mem limit, with lower limit it fails
+ostrich-5281451f0 # newer than ostrich-1.4, but seems to be worse
 
 # branch better_lengths_transd
 z3-noodler-3640832-db64544
@@ -449,3 +450,4 @@ c0fbbdc-db64544
 z3-noodler-f245352-db64544
 z3-noodler-6690770-db64544
 z3-noodler-41fb0f9-db64544
+5f6cfdf-71f9b57
