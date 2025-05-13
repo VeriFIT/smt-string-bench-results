@@ -445,6 +445,9 @@ z3-noodler-0e2531e-db64544
 z3-noodler-bb0fab6-db64544
 z3-noodler-6ff7978-db64544
 
+# after merging to devel
+z3-noodler-138ed41-73167b4
+
 # branch to_code_parikh
 c0fbbdc-db64544
 z3-noodler-f245352-db64544
