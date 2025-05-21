@@ -448,6 +448,16 @@ z3-noodler-6ff7978-db64544
 # after merging to devel
 z3-noodler-138ed41-73167b4
 
+# branch fix_repalce_all_construction
+z3-noodler-d0b6405-73167b4
+z3-noodler-e8e2139-73167b4
+
+# branch more_replace_all_optimization
+z3-noodler-dec7e62-73167b4
+
+# devel after merging
+z3-noodler-de09573-73167b4
+
 # branch to_code_parikh
 c0fbbdc-db64544
 z3-noodler-f245352-db64544
@@ -458,3 +468,5 @@ z3-noodler-d667b32-71f9b57
 z3-noodler-model-d667b32-71f9b57
 check-model-d667b32-71f9b57
 z3-noodler-ef1de16-73167b4
+z3-noodler-ddf5b52-73167b4
+z3-noodler-dc600cd-73167b4
