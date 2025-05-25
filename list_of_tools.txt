@@ -477,3 +477,7 @@ check-model-dc600cd-73167b4
 z3-noodler-a11840c-73167b4
 z3-noodler-model-ba62501-73167b4
 check-model-ba62501-73167b4
+
+# branch fix_unary
+z3-noodler-model-273b2ff-73167b4
+check-model-273b2ff-73167b4
