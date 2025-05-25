@@ -457,6 +457,8 @@ z3-noodler-dec7e62-73167b4
 
 # devel after merging
 z3-noodler-de09573-73167b4
+z3-noodler-model-de09573-73167b4
+check-model-de09573-73167b4
 
 # branch to_code_parikh
 c0fbbdc-db64544
@@ -470,3 +472,8 @@ check-model-d667b32-71f9b57
 z3-noodler-ef1de16-73167b4
 z3-noodler-ddf5b52-73167b4
 z3-noodler-dc600cd-73167b4
+z3-noodler-model-dc600cd-73167b4
+check-model-dc600cd-73167b4
+z3-noodler-a11840c-73167b4
+z3-noodler-model-ba62501-73167b4
+check-model-ba62501-73167b4
