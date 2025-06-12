@@ -494,3 +494,18 @@ z3-noodler-model-e24dd10-58d258a
 z3-noodler-e24dd10-91bc645
 z3-noodler-model-e24dd10-91bc645
 check-model-e24dd10-91bc645
+
+# branch fix_unused_symbol
+z3-noodler-2aa8927-7926fed
+z3-noodler-model-2aa8927-7926fed
+check-model-2aa8927-7926fed
+
+# branch nft_optimization
+z3-noodler-9811da0-91bc645
+z3-noodler-0a59a02-91bc645
+z3-noodler-fa3ac61-7926fed
+z3-noodler-model-fa3ac61-7926fed
+check-model-fa3ac61-7926fed
+z3-noodler-5d19414-7926fed
+z3-noodler-model-5d19414-7926fed
+check-model-5d19414-7926fed
