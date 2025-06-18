@@ -499,6 +499,11 @@ check-model-e24dd10-91bc645
 z3-noodler-2aa8927-7926fed
 z3-noodler-model-2aa8927-7926fed
 check-model-2aa8927-7926fed
+d9121dc-56a4259
+
+# branch new_z3_version
+z3-noodler-1930bd1-56a4259
+z3-noodler-32c80ab-56a4259
 
 # branch nft_optimization
 z3-noodler-9811da0-91bc645
@@ -509,3 +514,8 @@ check-model-fa3ac61-7926fed
 z3-noodler-5d19414-7926fed
 z3-noodler-model-5d19414-7926fed
 check-model-5d19414-7926fed
+z3-noodler-model-3c3b932-7926fed
+check-model-3c3b932-7926fed
+z3-noodler-5993895-7926fed
+z3-noodler-model-5993895-7926fed
+check-model-5993895-7926fed
