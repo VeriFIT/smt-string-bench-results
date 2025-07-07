@@ -501,9 +501,47 @@ z3-noodler-model-2aa8927-7926fed
 check-model-2aa8927-7926fed
 d9121dc-56a4259
 
+# devel
+d9121dc-56a4259
+
+# devel with mata branch composition-wip
+z3-noodler-d9121dc-973c6a4 # only webapp and transducer_pluss
+z3-noodler-d9121dc-739501a
+z3-noodler-d9121dc-1a1a963
+z3-noodler-d9121dc-1282c59
+
+# devel with mata branch trim-out-of-place
+z3-noodler-d9121dc-e06def3
+z3-noodler-d9121dc-d413627
+z3-noodler-d9121dc-658e006
+
+# devel with nata branch no-reduce-for-segment-nfas
+z3-noodler-d9121dc-f843559
+
+# smt comp 25 version????
+5c271f8-56a4259
+z3-noodler-a6ca2cf-973c6a4
+
+# branch prepr-unify-trans
+z3-noodler-64d9f94-2fef659
+
+# branch inclusion_graph_init
+z3-noodler-a3a4b42-56a4259
+z3-noodler-9490bda-56a4259
+
+# branch replace_lengths
+z3-noodler-d38e2ef-56a4259
+
+# branch noodles_imediately
+z3-noodler-705b64b-56a4259
+z3-noodler-a50e040-56a4259
+z3-noodler-6530112-56a4259
+z3-noodler-a320c60-7bf7f54
+
 # branch new_z3_version
 z3-noodler-1930bd1-56a4259
 z3-noodler-32c80ab-56a4259
+2d3ced0-56a4259
 
 # branch nft_optimization
 z3-noodler-9811da0-91bc645
