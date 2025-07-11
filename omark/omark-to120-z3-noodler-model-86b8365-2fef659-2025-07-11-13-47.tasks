@@ -1,0 +1,34 @@
+execute;z3-noodler-model-86b8365-2fef659;../formulae/QF_S/20240318-omark/noodles-unsat-9.smt2
+execute;z3-noodler-model-86b8365-2fef659;../formulae/QF_S/20240318-omark/noodles-unsat-10.smt2
+execute;z3-noodler-model-86b8365-2fef659;../formulae/QF_S/20240318-omark/noodles-unsat-5.smt2
+execute;z3-noodler-model-86b8365-2fef659;../formulae/QF_S/20240318-omark/lyndon-schuetzenberg-1.smt2
+execute;z3-noodler-model-86b8365-2fef659;../formulae/QF_S/20240318-omark/noodles-unsat-4.smt2
+execute;z3-noodler-model-86b8365-2fef659;../formulae/QF_S/20240318-omark/noodles-unsat-8.smt2
+execute;z3-noodler-model-86b8365-2fef659;../formulae/QF_S/20240318-omark/noodles-unsat-3.smt2
+execute;z3-noodler-model-86b8365-2fef659;../formulae/QF_S/20240318-omark/noodles-unsat.smt2
+execute;z3-noodler-model-86b8365-2fef659;../formulae/QF_S/20240318-omark/cloud-service-query-2.smt2
+execute;z3-noodler-model-86b8365-2fef659;../formulae/QF_S/20240318-omark/noodles-unsat-2.smt2
+execute;z3-noodler-model-86b8365-2fef659;../formulae/QF_S/20240318-omark/cloud-service-query-1.smt2
+execute;z3-noodler-model-86b8365-2fef659;../formulae/QF_S/20240318-omark/lyndon-schuetzenberg-2.smt2
+execute;z3-noodler-model-86b8365-2fef659;../formulae/QF_S/20240318-omark/noodles-unsat-7.smt2
+execute;z3-noodler-model-86b8365-2fef659;../formulae/QF_S/20240318-omark/parikh.smt2
+execute;z3-noodler-model-86b8365-2fef659;../formulae/QF_S/20240318-omark/noodles-unsat-6.smt2
+execute;z3-noodler-model-86b8365-2fef659;../formulae/QF_S/20240318-omark/lyndon-schuetzenberg-3.smt2
+execute;z3-noodler-model-86b8365-2fef659;../formulae/QF_S/20240318-omark/cyclic-xy.smt2
+finished;z3-noodler-model-86b8365-2fef659;../formulae/QF_S/20240318-omark/noodles-unsat-4.smt2;0;result: unsat;;0.01
+finished;z3-noodler-model-86b8365-2fef659;../formulae/QF_S/20240318-omark/noodles-unsat.smt2;0;result: unsat;;0.02
+finished;z3-noodler-model-86b8365-2fef659;../formulae/QF_S/20240318-omark/noodles-unsat-3.smt2;0;result: unsat;;0.0
+finished;z3-noodler-model-86b8365-2fef659;../formulae/QF_S/20240318-omark/noodles-unsat-10.smt2;0;result: unknown;;0.01
+finished;z3-noodler-model-86b8365-2fef659;../formulae/QF_S/20240318-omark/noodles-unsat-2.smt2;0;result: unsat;;0.01
+finished;z3-noodler-model-86b8365-2fef659;../formulae/QF_S/20240318-omark/cloud-service-query-2.smt2;0;result: unsat;;0.01
+finished;z3-noodler-model-86b8365-2fef659;../formulae/QF_S/20240318-omark/lyndon-schuetzenberg-2.smt2;0;result: unsat;;0.01
+finished;z3-noodler-model-86b8365-2fef659;../formulae/QF_S/20240318-omark/parikh.smt2;0;result: unsat;;0.01
+finished;z3-noodler-model-86b8365-2fef659;../formulae/QF_S/20240318-omark/cloud-service-query-1.smt2;0;result: sat;;0.06
+finished;z3-noodler-model-86b8365-2fef659;../formulae/QF_S/20240318-omark/cyclic-xy.smt2;0;result: unsat;;0.01
+finished;z3-noodler-model-86b8365-2fef659;../formulae/QF_S/20240318-omark/lyndon-schuetzenberg-3.smt2;0;result:;terminate called after throwing an instance of 'std::bad_alloc'###  what():  std::bad_alloc;16.49
+finished;z3-noodler-model-86b8365-2fef659;../formulae/QF_S/20240318-omark/lyndon-schuetzenberg-1.smt2;0;result:;terminate called after throwing an instance of 'std::bad_alloc'###  what():  std::bad_alloc;58.52
+timeout;z3-noodler-model-86b8365-2fef659;../formulae/QF_S/20240318-omark/noodles-unsat-7.smt2
+timeout;z3-noodler-model-86b8365-2fef659;../formulae/QF_S/20240318-omark/noodles-unsat-6.smt2
+timeout;z3-noodler-model-86b8365-2fef659;../formulae/QF_S/20240318-omark/noodles-unsat-8.smt2
+timeout;z3-noodler-model-86b8365-2fef659;../formulae/QF_S/20240318-omark/noodles-unsat-9.smt2
+timeout;z3-noodler-model-86b8365-2fef659;../formulae/QF_S/20240318-omark/noodles-unsat-5.smt2
