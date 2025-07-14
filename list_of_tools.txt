@@ -524,10 +524,18 @@ z3-noodler-64d9f94-2fef659
 # devel
 1edb62e-2fef659
 
+# new versions of other tools (8 parallel, 8GB mem limit, 120s time limit)
+cvc5-1.3.0
+z3-4.15.1
+
+# branch simpler_lengthness
+86b8365-2fef659
+
 # branch new_z3_version
 z3-noodler-1930bd1-56a4259
 z3-noodler-32c80ab-56a4259
 2d3ced0-56a4259
+928fba3-2fef659
 
 # branch inclusion_graph_init
 z3-noodler-a3a4b42-56a4259
