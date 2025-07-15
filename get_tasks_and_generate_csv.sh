@@ -1,11 +1,8 @@
 #!/bin/zsh
 
 # Fill these out
-# HOST="vojta@pikachu.fit.vutbr.cz"
-# PORT="6067"
-# FILE_PATH_ON_HOST="smt-bench/bench"
-HOST="vojta@bulbasaur.fit.vutbr.cz"
-PORT="6095"
+HOST=""
+PORT=""
 FILE_PATH_ON_HOST="smt-bench/bench"
 
 # Exctracts tool name from the first argument which is assumed
