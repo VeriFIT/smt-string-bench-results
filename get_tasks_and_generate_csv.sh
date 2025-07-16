@@ -50,8 +50,15 @@ process_tasks() {
 		git_message="$tool_name on $benchmark_name"
 	else
 		local version=$(get_tool_version "$line_with_version")
-		sed -i '' "s/$version-result/result/g" $path_to_file
-		sed -i '' "s/$tool_name;/$tool_name-$version;/g" $path_to_file
+
+		if [[ "$(uname)" == "Darwin" ]]; then
+			sed -i '' "s/$version-result/result/g" $path_to_file
+			sed -i '' "s/$tool_name;/$tool_name-$version;/g" $path_to_file
+		else
+			sed -i "s/$version-result/result/g" $path_to_file
+			sed -i "s/$tool_name;/$tool_name-$version;/g" $path_to_file
+		fi
+
 		git_message="$tool_name-$version on $benchmark_name"
 		mv $path_to_file "${path_to_file//$tool_name/$tool_name-$version}"
 		path_to_file="${path_to_file//$tool_name/$tool_name-$version}"
