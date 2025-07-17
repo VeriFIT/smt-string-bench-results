@@ -575,3 +575,6 @@ fee8de7-2fef659
 
 # branch fix_length_inconsistency
 79d4ecb-2fef659
+
+# Mata: branch out-of-place-trim
+1edb62e-9ba7b4b
