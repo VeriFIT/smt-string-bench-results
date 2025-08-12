@@ -518,12 +518,26 @@ z3-noodler-d9121dc-658e006
 # devel with nata branch no-reduce-for-segment-nfas
 z3-noodler-d9121dc-f843559
 
-# smt comp 25 version????
-5c271f8-56a4259
-z3-noodler-a6ca2cf-973c6a4
-
 # branch prepr-unify-trans
 z3-noodler-64d9f94-2fef659
+
+# devel
+1edb62e-2fef659
+
+# new versions of other tools (8 parallel, 8GB mem limit, 120s time limit)
+cvc5-1.3.0
+z3-4.15.1
+ostrich-2-smtcomp25 (4 parallel, 16GB mem limit)
+
+# branch simpler_lengthness
+86b8365-2fef659
+
+# branch new_z3_version
+z3-noodler-1930bd1-56a4259
+z3-noodler-32c80ab-56a4259
+2d3ced0-56a4259
+928fba3-2fef659
+ddfdde9-2fef659
 
 # branch inclusion_graph_init
 z3-noodler-a3a4b42-56a4259
@@ -537,11 +551,6 @@ z3-noodler-705b64b-56a4259
 z3-noodler-a50e040-56a4259
 z3-noodler-6530112-56a4259
 z3-noodler-a320c60-7bf7f54
-
-# branch new_z3_version
-z3-noodler-1930bd1-56a4259
-z3-noodler-32c80ab-56a4259
-2d3ced0-56a4259
 
 # branch nft_optimization
 z3-noodler-9811da0-91bc645
@@ -558,3 +567,15 @@ z3-noodler-5993895-7926fed
 z3-noodler-model-5993895-7926fed
 check-model-5993895-7926fed
 2d3ced0-2fef659
+
+# Mata: branch defragmentation
+1edb62e-96d55e4
+
+# devel
+fee8de7-2fef659
+
+# branch fix_length_inconsistency
+79d4ecb-2fef659
+
+# Mata: branch out-of-place-trim
+1edb62e-9ba7b4b
