@@ -96,14 +96,23 @@ def load_benches(benches, tools, bench_selection, benchmark_to_group, timeout = 
             sf_conv = file.read().splitlines()
         df_runtime_result = df_runtime_result[(df_runtime_result.benchmark != "full_str_int")|(~(df_runtime_result.name.isin(fsi_not_conv)))]
         df_runtime_result = df_runtime_result[((df_runtime_result.benchmark != "str_small_rw")&(df_runtime_result.benchmark != "stringfuzz"))|((df_runtime_result.name.isin(ssr_conv))|(df_runtime_result.name.isin(sf_conv)))]
+    
+    if bench_selection == "REPLACE_ALL":
+        # for webapp, benchmarks that contain "str.replace_all" or "str.replace_re_all" are those that are in 20230403-webapp/lan-rep-all/ or 20230403-webapp/str-rep-all/
+        df_runtime_result = df_runtime_result[(df_runtime_result.benchmark != "webapp")|(df_runtime_result.name.str.contains("/lan-rep-all/"))|(df_runtime_result.name.str.contains("/str-rep-all/"))]
+
 
     if bench_selection == "QF_S":
         # for woorpje, QF_S benchmarks are those that are not in 20230329-woorpje-lu/track05/
         df_runtime_result = df_runtime_result[(df_runtime_result.benchmark != "woorpje")|(~(df_runtime_result.name.str.contains("/track05/")))]
+        # for matching, QF_S benchmarks are those that do not contain "sub-find" in their name
+        df_runtime_result = df_runtime_result[(df_runtime_result.benchmark != "matching")|(~(df_runtime_result.name.str.contains("sub-find")))]
 
     if bench_selection == "QF_SLIA":
         # for woorpje, QF_SLIA benchmarks are those that are in 20230329-woorpje-lu/track05/
         df_runtime_result = df_runtime_result[(df_runtime_result.benchmark != "woorpje")|(df_runtime_result.name.str.contains("/track05/"))]
+        # for matching, QF_SLIA benchmarks are those that contain "sub-find" in their name
+        df_runtime_result = df_runtime_result[(df_runtime_result.benchmark != "matching")|(df_runtime_result.name.str.contains("sub-find"))]
 
     df_all = df_runtime_result.merge(df_stats)
     return df_all
