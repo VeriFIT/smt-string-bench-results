@@ -66,8 +66,7 @@ def proc_res(fd, args):
             results[params] = dict()
         if eng not in engines:
             engines.append(eng)
-            engines_outs[eng] = list()
-            # engines_outs[eng] = ["result"]
+            engines_outs[eng] = ["result"]
 
         # we don't have some results twice
         assert eng not in results[params]
@@ -207,7 +206,6 @@ def proc_res(fd, args):
             if out == "stats" and args.stats != StatsDestination.OUTPUT_FILE:
                 continue
             header += [f"{eng}-{out}"]
-            # header += [eng + "-result"]
 
     fmt = "text"
     if args.csv:
