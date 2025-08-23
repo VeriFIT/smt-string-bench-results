@@ -588,3 +588,4 @@ fee8de7-2fef659
 # new version of other tools
 z3-4.15.3
 cvc5-1.3.0
+ostrich-2-fmcad25
