@@ -1,0 +1,686 @@
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query5197.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3444.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10584.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10642.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10681.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query5512.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3487.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query8654.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3864.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query4860.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query9747.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3465.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query8045.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10675.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3577.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3424.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10634.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3189.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query6221.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10663.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3449.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query6796.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3214.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10680.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3111.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3516.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query5315.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query5196.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3767.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3423.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3950.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3356.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10629.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3252.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3316.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10669.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query5169.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query4685.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query4914.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query7904.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query5108.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query8917.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query4871.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query5519.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3336.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10608.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query8468.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3231.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3323.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query4673.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3712.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3591.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10611.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query8867.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query5582.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10650.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query9276.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query7455.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query8962.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query5700.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3494.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10112.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10684.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query5281.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query5852.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query4255.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query6842.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10295.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10041.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3549.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3450.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3574.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3309.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query9155.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3221.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query4858.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3332.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query9416.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query9050.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query5423.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3723.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query6223.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3943.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query4443.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10657.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query6203.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10682.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query6917.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query5100.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query7145.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3556.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query4293.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query6754.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3151.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3444.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query9049.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query6979.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query6345.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query4114.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3239.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query8926.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query5400.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query4092.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3429.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3096.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query6914.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3350.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query7313.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query7493.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3203.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3468.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3487.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query5380.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3331.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query7958.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query5436.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3720.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query6109.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3188.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3864.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3167.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query4933.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query8855.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query4319.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3465.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query5948.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3520.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3873.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3577.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query4932.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3424.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3218.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query5289.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3473.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query4267.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3234.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3664.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3330.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query7723.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3367.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3255.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3310.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3469.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query9064.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3214.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query4617.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query5905.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3428.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query6780.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query6387.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3185.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query5753.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3392.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3238.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3111.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3541.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query8589.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3146.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3296.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query4416.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query8966.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3150.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3445.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query8486.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3225.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query4299.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3767.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3321.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query7698.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query8582.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3458.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query6932.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query8957.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3474.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3423.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3435.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query6637.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3570.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3462.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3177.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query5742.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3229.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query4446.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query7051.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query6569.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query8824.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3454.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query5216.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3116.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3546.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query8865.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3182.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query6380.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3478.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query7657.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query6768.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3205.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query9063.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3194.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query7704.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3253.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query5041.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query7990.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3711.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3438.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3479.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3547.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3793.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3269.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query5997.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query8649.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3455.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3156.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3506.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3463.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3434.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3208.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query5763.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query6620.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3137.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3475.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query7820.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3160.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query5098.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3459.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3336.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query5935.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3361.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3224.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query5222.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query6635.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query4258.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3358.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query7989.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3476.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query8955.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query4673.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3335.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3250.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3179.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3196.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3591.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query7481.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3568.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3246.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query4583.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query7985.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3495.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query9132.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query8867.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3401.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3456.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3143.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query5202.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3155.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query7116.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3694.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3102.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query8523.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query8348.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query8962.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query4107.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query4111.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query5491.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query6481.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3569.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query8149.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query8333.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3969.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query6842.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3314.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query5690.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query6136.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query5599.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query5433.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query6966.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query8094.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query6823.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query6462.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3549.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3532.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3359.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query8000.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query5848.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query4936.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query6008.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3318.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3201.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query5013.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query7487.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query8288.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3186.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3450.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3368.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3489.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3523.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3466.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3574.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3124.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3427.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query8512.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3165.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3470.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query4399.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3149.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3519.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3325.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query8343.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query7665.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query8601.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3558.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3671.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query4858.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3324.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3236.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query8303.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3308.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query8952.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3534.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query5819.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3164.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3471.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3133.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3563.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query4249.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query8856.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query7561.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3555.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3386.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query4443.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3369.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query2885.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3113.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3543.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3168.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query9070.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3304.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3241.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query5511.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3979.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query8335.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3191.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query9066.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3444.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CCBCBCCBBBC\")###);;1.66
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10584.smt2;0;result: sat###(model###  (define-fun x () String \"A\\u{0}ABC\\u{0}\")###);;1.49
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query5512.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BACBA\\u{0}\")###);;1.54
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10642.smt2;0;result: sat###(model###  (define-fun x () String \"A\\u{0}BCC\\u{0}\")###);;1.53
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query5197.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BBBBACCC\")###);;1.62
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3487.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CBBAAACA\")###);;1.65
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10681.smt2;0;result: sat###(model###  (define-fun x () String \"BABBCBAB\")###);;1.82
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query8654.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CBCBCA\")###);;2.18
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3864.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BCACAAB\")###);;1.66
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query9747.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CAAAA\\u{0}BA\")###);;1.76
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10675.smt2;0;result: sat###(model###  (define-fun x () String \"B\\u{0}AAC\\u{0}\")###);;1.58
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query4860.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}ACCAACACCAAC\")###);;2.15
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3577.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}B\\u{0}CCCBC\")###);;1.82
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3424.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BBBB\\u{0}AB\")###);;1.69
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query8045.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CAAA\\u{0}CACC\")###);;2.7
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3465.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CB\\u{0}CCC\")###);;2.56
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10634.smt2;0;result: sat###(model###  (define-fun x () String \"A\\u{0}BCA\\u{0}\")###);;1.43
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3189.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BABBB\\u{0}CAB\")###);;1.59
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10663.smt2;0;result: sat###(model###  (define-fun x () String \"A\\u{0}CBA\\u{0}\")###);;1.56
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query6221.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CBBBCC\\u{0}ABB\")###);;1.68
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3449.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}ABCBACACABAB\")###);;1.7
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query6796.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}ABCBCA\")###);;1.67
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10680.smt2;0;result: sat###(model###  (define-fun x () String \"B\\u{0}ABC\\u{0}\")###);;1.49
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3214.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}C\\u{0}AC\\u{0}ACA\")###);;1.8
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3516.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CCBCCBCCBBBC\")###);;1.57
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3111.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CCBCACACA\")###);;1.66
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query5315.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}\\u{0}BBACBBBCA\")###);;2.14
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query5196.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}ABCCBABBABABAB\")###);;1.71
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3423.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CCBB\\u{0}CCBCC\")###);;1.68
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3767.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CBBAAAA\")###);;1.81
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3950.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BBACAAC\")###);;1.78
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3356.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CACCABAC\")###);;1.76
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10629.smt2;0;result: sat###(model###  (define-fun x () String \"A\\u{0}BBC\\u{0}\")###);;1.52
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3252.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CCACCBCC\")###);;1.71
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10669.smt2;0;result: sat###(model###  (define-fun x () String \"A\\u{0}CBC\\u{0}\")###);;1.5
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3316.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CCC\\u{0}BBB\\u{0}\")###);;1.73
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query4685.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}AABBCBCBCBAABB\")###);;1.62
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query5169.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}ACCCACACACACCC\")###);;1.62
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query4914.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}C\\u{0}ABBCACAB\\u{0}\")###);;1.64
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query7904.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}ACCAACCCAACC\")###);;2.05
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query5108.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}B\\u{0}AABA\")###);;1.9
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query8917.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}A\\u{0}CBCA\")###);;1.7
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query4871.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BCBAABBBAC\")###);;1.7
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query5519.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}ABAAABBBAABAABBCBB\")###);;1.71
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10608.smt2;0;result: sat###(model###  (define-fun x () String \"A\\u{0}BAA\\u{0}\")###);;1.53
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3336.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}C\\u{0}ABBAC\")###);;1.73
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query8468.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BACB\\u{0}CAB\")###);;1.67
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3231.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CAACABBB\")###);;1.76
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3323.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}A\\u{0}ACAA\\u{0}AB\")###);;1.68
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3712.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BACACABABAC\")###);;1.79
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query4673.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}AA\\u{0}BCAB\")###);;1.75
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3591.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}AAAB\\u{0}AA\")###);;1.58
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10611.smt2;0;result: sat###(model###  (define-fun x () String \"A\\u{0}BAABABA\")###);;1.87
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query8867.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}ABCAACACA\\u{0}\")###);;1.9
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query5582.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BABBCB\")###);;2.03
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10650.smt2;0;result: sat###(model###  (define-fun x () String \"ABACCB\")###);;1.85
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query9276.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CCBCBBCC\")###);;1.92
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query7455.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BBBCCBCCBACCA\")###);;1.63
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query8962.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CCBBBCCAB\")###);;1.86
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3494.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CBCACCCBABAB\")###);;1.76
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query5700.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}ACB\\u{0}ACB\\u{0}ABAB\")###);;1.79
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10112.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}AAABABB\")###);;1.66
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10684.smt2;0;result: sat###(model###  (define-fun x () String \"B\\u{0}ACC\\u{0}\")###);;1.53
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query5281.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BAAACABAABAABAAACA\")###);;1.59
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query5852.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BACCBBBAACC\")###);;1.65
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query4255.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}AACCACAA\")###);;1.85
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query6842.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}ACCCCABAB\")###);;1.74
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10295.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CCCBCBACA\")###);;1.69
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10041.smt2;0;result: sat###(model###  (define-fun x () String \"ABABCAAB\")###);;1.64
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3549.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BAAAAAAACB\")###);;1.57
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3450.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BCCBCBBA\")###);;1.5
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3574.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CCA\\u{0}CBCC\")###);;1.72
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3309.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}AA\\u{0}BCABCB\")###);;1.55
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query9155.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CBBBCCACCBACBB\")###);;1.72
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3221.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CACCABAC\")###);;1.66
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query4858.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}C\\u{0}AAACA\")###);;1.74
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query9416.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CACABCCBB\")###);;1.67
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3332.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}AAAAAAABABA\")###);;1.96
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query9050.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CAAA\\u{0}CACC\")###);;2.59
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query5423.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}ABBAABAC\\u{0}BBB\\u{0}\")###);;2.27
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3723.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}AAAAA\\u{0}BA\")###);;1.68
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query6223.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}ACAABBA\\u{0}BBBB\")###);;1.67
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query3943.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}ACCCCABAB\")###);;1.77
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10657.smt2;0;result: sat###(model###  (define-fun x () String \"A\\u{0}CAA\\u{0}\")###);;1.54
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query4443.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CCC\\u{0}BBB\\u{0}\")###);;2.78
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query6203.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BABB\\u{0}ABB\\u{0}ABB\\u{0}BBA\\u{0}\")###);;2.34
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query10682.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}A\\u{0}AABBC\")###);;1.71
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query6917.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BABBBACAB\")###);;1.68
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries-no-ree/query5100.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}ACBBACCACCAC\")###);;1.53
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query7145.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BBABABABBACC\")###);;1.59
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3556.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BAACCCACB\")###);;1.66
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query4293.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BBCBCBCBABBC\")###);;1.78
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query6754.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CACCBBCAB\\u{0}\")###);;1.58
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3151.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}A\\u{0}CCA\")###);;1.46
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3444.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CCBCBCCBBBC\")###);;1.64
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query9049.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CACCCB\")###);;1.64
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query6979.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BCBCBAB\")###);;1.74
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query6345.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CCCBAABB\\u{0}\")###);;1.5
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3239.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CBCCB\")###);;1.57
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query4114.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}\\u{0}BCBCCCACA\")###);;3.05
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query8926.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CCCCCACAAB\")###);;1.74
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query5400.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BBACBBBACCC\")###);;1.71
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query4092.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BACAAC\")###);;1.68
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3429.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BCBAB\")###);;1.65
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3096.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BCCCBCCBACCB\")###);;1.52
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query6914.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CBABC\")###);;1.61
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3350.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}A\\u{0}CCA\")###);;1.53
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query7313.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CCABCBAAAC\\u{0}\")###);;1.67
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query7493.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BCCABCAC\\u{0}\")###);;1.7
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3468.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}B\\u{0}CCC\")###);;1.66
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3203.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BB\\u{0}CCC\")###);;1.82
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3487.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CBBAABACA\")###);;1.68
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query5380.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}B\\u{0}AACCAAB\")###);;1.75
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3331.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}AB\\u{0}AA\")###);;1.4
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query7958.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}AAA\\u{0}CBBA\\u{0}CAA\")###);;2.23
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3188.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}B\\u{0}CAB\")###);;1.47
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query6109.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}AAABC\")###);;1.49
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3720.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}AAAA\\u{0}BCBAAB\")###);;2.05
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query5436.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BACCBACBBBA\\u{0}\")###);;2.65
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3864.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CCBCBCBCBAABA\")###);;1.7
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3167.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BBB\\u{0}ACCB\\u{0}ACB\")###);;1.59
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query4933.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}ACBACAACAA\")###);;1.62
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query8855.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CBCACCC\")###);;1.56
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3465.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}B\\u{0}CCCBCC\")###);;1.85
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query4319.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BCCBCAABB\\u{0}\")###);;1.57
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query5948.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BABBC\")###);;1.96
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3520.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BCBCCBBBC\")###);;1.83
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3873.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}AAA\\u{0}BACBCA\")###);;2.07
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3577.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}B\\u{0}CCC\")###);;1.67
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query4932.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BCAABCA\\u{0}\")###);;1.64
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3424.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}B\\u{0}BCABCC\")###);;1.65
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3218.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}C\\u{0}BAC\")###);;1.49
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query5289.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BAAC\")###);;1.64
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3473.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CBCBBABB\")###);;1.67
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query4267.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}A\\u{0}CCCC\")###);;1.7
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3234.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CCBCCBBCBA\")###);;1.58
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3664.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BBBABCC\")###);;1.6
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3330.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}A\\u{0}ACA\")###);;1.69
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3367.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}B\\u{0}AAB\")###);;1.49
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query7723.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CACABB\")###);;1.92
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3255.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}AA\\u{0}AA\")###);;1.45
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3310.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}ACACACBC\")###);;1.51
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3469.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}B\\u{0}CCCBCCBC\")###);;1.58
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query9064.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BCA\\u{0}B\")###);;1.85
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3214.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CA\\u{0}CA\\u{0}CCA\")###);;1.83
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query4617.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CCBABB\")###);;1.66
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3428.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BCBAB\")###);;1.48
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query6780.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BCAABAC\")###);;1.51
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query5905.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}\\u{0}AAAABABBAA\\u{0}B\")###);;2.47
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query6387.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}C\\u{0}BBCAC\\u{0}BBA\")###);;1.62
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3185.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BBABCCAAC\")###);;1.79
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query5753.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CA\\u{0}CCB\")###);;1.69
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3392.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BABCC\")###);;1.36
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3238.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}\\u{0}BBACBCCB\")###);;1.76
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3111.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}AACABC\")###);;1.54
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3541.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CC\\u{0}ABACC\")###);;1.84
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3146.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}A\\u{0}CBC\")###);;1.47
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3296.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}B\\u{0}ACBBA\")###);;1.69
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query8589.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CBCBCCBBB\\u{0}\")###);;2.35
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query4416.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BB\\u{0}ABBA\\u{0}\")###);;1.58
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query8966.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CCAABCCA\")###);;2.07
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3150.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}ABCABCCB\")###);;1.47
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3445.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BCBCA\")###);;1.48
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3225.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}C\\u{0}BBB\")###);;1.48
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query8486.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CABBCACABBA\")###);;1.74
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query4299.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}\\u{0}CABABCAACBACCCBBAA\")###);;1.79
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3321.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}A\\u{0}ACA\")###);;1.47
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3767.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}AAAB\\u{0}AA\")###);;1.87
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query7698.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CACBB\")###);;1.58
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query8582.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}C\\u{0}BBACBBC\\u{0}\")###);;1.6
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3458.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BCCA\\u{0}BCC\")###);;1.77
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query6932.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CCBCCBACBBCB\")###);;1.72
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query8957.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CCCAACBCA\")###);;1.78
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3474.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}ABCBABAB\")###);;1.67
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3423.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CCCB\\u{0}BCC\")###);;1.64
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3435.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BBBCABCACB\")###);;1.79
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query6637.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BCAB\")###);;1.54
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3570.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}C\\u{0}CCC\")###);;1.43
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3462.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BCBCC\")###);;1.4
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3177.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}B\\u{0}BCC\")###);;1.53
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query5742.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}AAACBBA\")###);;1.61
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3229.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CACBB\")###);;1.58
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query4446.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BBAAA\\u{0}BBBB\")###);;1.79
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query7051.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BBACBBAAAC\")###);;1.66
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query6569.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BCAACBACB\\u{0}\")###);;1.83
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query8824.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}\\u{0}BBACBBBC\\u{0}\")###);;1.7
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3454.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BCBCB\")###);;1.46
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3116.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CCBCAABBC\")###);;1.51
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query5216.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}A\\u{0}CAA\\u{0}CAC\")###);;1.72
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3546.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CCBCB\\u{0}CCC\")###);;1.68
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query8865.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BBCBBCBCCAA\")###);;1.73
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3182.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}B\\u{0}CAA\")###);;1.55
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query6380.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}A\\u{0}CAA\\u{0}CAC\")###);;2.04
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3478.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}C\\u{0}ABBCACAB\")###);;1.76
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query7657.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CABACAB\")###);;1.7
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query6768.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BCBACCACCC\")###);;1.71
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3205.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}C\\u{0}ABB\")###);;1.45
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query9063.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CBBCCCBAA\")###);;1.99
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3194.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}B\\u{0}CBB\")###);;1.51
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query7704.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BCACAAB\")###);;1.63
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3253.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}A\\u{0}AAA\")###);;1.37
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query5041.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}ACCBABB\")###);;1.56
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query7990.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CACB\\u{0}\")###);;1.5
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3438.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BCBCCBCAA\")###);;1.65
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3711.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BABCCBABCAAC\")###);;1.67
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3479.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}ACCBCCB\")###);;1.62
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3547.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CBABCBB\")###);;1.66
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3793.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BACACABBABAC\")###);;1.74
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3269.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BAAA\\u{0}\")###);;1.58
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query5997.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BBBBA\")###);;2.2
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query8649.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CCBCAAC\\u{0}AACA\")###);;1.56
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3455.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}B\\u{0}CCB\")###);;1.41
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3156.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}B\\u{0}AAC\")###);;1.45
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3506.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CBBCA\")###);;1.54
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3463.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}B\\u{0}CCC\")###);;1.38
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3434.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BCA\\u{0}BCC\")###);;1.58
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3208.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CCBBBCBABB\")###);;1.59
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query5763.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}ACCAAACCAAACCAABA\")###);;1.98
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query6620.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BCAA\")###);;1.64
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3137.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}A\\u{0}CAA\")###);;1.48
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3475.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CA\\u{0}CB\")###);;1.46
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query7820.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}ACCCCAAC\")###);;1.67
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3160.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}B\\u{0}ACB\")###);;1.37
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query5098.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BCCCC\\u{0}BCAA\")###);;1.75
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3459.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BCBCB\")###);;1.61
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3336.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CACBBC\")###);;1.58
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query5935.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BACCBBBBABC\")###);;1.66
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3361.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}A\\u{0}CCC\")###);;1.51
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3224.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CBCAC\")###);;1.53
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query5222.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CBBAACAA\\u{0}\")###);;1.68
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query6635.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CBBCABCB\")###);;1.59
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query4258.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CCBCA\\u{0}CCC\")###);;1.6
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3358.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CCCBA\\u{0}CCB\")###);;1.58
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query7989.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CACBA\")###);;1.94
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3476.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CCBCCAACBC\")###);;1.7
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query8955.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}C\\u{0}CCC\\u{0}C\")###);;1.66
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query4673.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}ABCAAB\")###);;2.08
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3335.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}ACBBC\")###);;1.6
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3250.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}B\\u{0}CCCBCC\")###);;1.75
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3179.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}B\\u{0}CAA\")###);;1.44
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3196.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BACBB\")###);;1.64
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3591.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CBBAAAA\")###);;1.69
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query7481.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}ACCABBBACCC\")###);;1.98
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3246.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}\\u{0}BCBCA\")###);;1.51
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3568.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CCCCBCACAB\")###);;2.57
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query4583.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}ABCA\")###);;1.48
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query7985.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CCCAACB\")###);;1.91
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3495.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CBBAC\")###);;1.43
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query9132.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CCBACCABCBBAA\")###);;1.55
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query8867.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}AAA\\u{0}CBAA\\u{0}CAA\")###);;1.98
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3401.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BABCCBACB\")###);;1.48
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3143.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}ACCCAACB\")###);;1.56
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3456.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CCBB\\u{0}CCB\")###);;1.73
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query5202.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}B\\u{0}CCC\")###);;1.61
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3155.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}ACCCAAACBB\")###);;1.72
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query7116.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BCBAA\")###);;1.56
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3694.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BBBBB\\u{0}ACB\")###);;1.62
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3102.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}A\\u{0}AAB\")###);;1.48
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query8523.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}ACCCBBBABC\")###);;1.76
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query8348.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CCBBACABCA\\u{0}\")###);;1.69
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query8962.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CCAABCBB\")###);;2.01
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query4107.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}\\u{0}\\u{0}\\u{0}ACAAC\\u{0}A\")###);;1.75
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query4111.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}AA\\u{0}CA\")###);;1.6
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query5491.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BACCBCA\")###);;1.92
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3569.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CC\\u{0}CC\")###);;1.45
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query6481.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BCACB\")###);;1.63
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query8149.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CBCCACBBAC\")###);;1.57
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3969.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CBABB\")###);;1.64
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query8333.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}ACCCACA\")###);;1.73
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3314.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}AABAC\")###);;1.54
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query6842.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BCACBCACBAABAB\")###);;1.69
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query5599.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}ABCA\\u{0}\")###);;1.46
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query5690.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CBACBAC\")###);;3.07
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query6136.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BBAABBABAC\\u{0}\")###);;1.63
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query5433.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CBCBBABB\\u{0}\")###);;1.68
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query6966.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CCBCBCA\")###);;1.58
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query8094.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}AACBAA\")###);;1.49
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query6823.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BACAB\\u{0}\")###);;1.65
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query6462.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CCBBACC\\u{0}\")###);;1.6
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3549.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BCBBA\\u{0}AAB\")###);;1.71
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3359.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}ACCAB\")###);;1.59
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3532.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}C\\u{0}BCBC\\u{0}B\")###);;1.7
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query8000.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BACBCBCBCAABA\")###);;1.87
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query4936.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}ACBA\")###);;1.47
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query5848.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}ACCBCAAAA\\u{0}\")###);;1.63
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query6008.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}ABCCABCBBAAC\")###);;1.75
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3318.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BBBCAABCACB\")###);;1.79
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3201.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}B\\u{0}CCC\")###);;1.51
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query7487.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CAAA\\u{0}BA\")###);;1.61
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query5013.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}AACBBBB\\u{0}ACCC\")###);;1.75
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3186.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BCBAA\")###);;1.54
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3450.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CCBBCBCA\")###);;1.66
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query8288.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CACCABCBAB\")###);;2.09
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3368.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BCBCCACB\")###);;1.53
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3489.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CBBAB\")###);;1.5
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3523.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CBBCB\")###);;1.49
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3574.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CCC\\u{0}CAC\")###);;1.59
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3466.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BCBCCBA\")###);;1.71
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3124.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}A\\u{0}BCA\")###);;1.46
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3427.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BCCAB\")###);;1.49
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3470.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CACBB\")###);;1.42
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query8512.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BCBCBBCBBCACA\")###);;1.7
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3165.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BBCBB\\u{0}ACB\")###);;1.72
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query4399.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CBCCBCCBCCBBBB\")###);;1.59
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3149.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CCBBBCA\\u{0}CBC\")###);;1.7
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3519.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CBBB\\u{0}CBCC\")###);;1.67
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3325.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CACB\\u{0}ACA\")###);;1.64
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query7665.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BABB\\u{0}\")###);;1.52
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query8601.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CBBCABCBC\\u{0}\")###);;1.53
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query8343.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CBABCCCBCCB\")###);;2.12
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3558.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CC\\u{0}BC\")###);;1.48
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3671.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}AAAAA\\u{0}BA\")###);;1.56
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query4858.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}AAA\\u{0}CCA\")###);;1.75
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3324.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}\\u{0}CCCCACAACCA\")###);;2.27
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3236.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CBCCB\")###);;1.47
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3308.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}AA\\u{0}BC\")###);;1.53
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query8303.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}A\\u{0}CBCCACBB\\u{0}\")###);;1.81
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3534.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CB\\u{0}CB\")###);;1.58
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query8952.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}\\u{0}CCBCBBA\")###);;1.62
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query5819.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BBAA\")###);;1.62
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3164.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}B\\u{0}ACBABC\")###);;1.68
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3471.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CACBBCCAB\")###);;1.55
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3133.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}A\\u{0}BCC\")###);;1.61
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3563.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}A\\u{0}CCCA\\u{0}CCB\")###);;1.78
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query4249.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BCBAABBA\")###);;1.64
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query8856.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CAC\\u{0}AABB\\u{0}\")###);;1.76
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query7561.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BACCBBCCBBBCBA\")###);;1.78
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3555.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CCBBCCAB\")###);;1.61
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3386.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BAACB\")###);;1.48
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query4443.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}A\\u{0}BBBAABA\")###);;2.29
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3369.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}B\\u{0}AABAAAC\")###);;1.7
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3113.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}A\\u{0}ACA\")###);;1.38
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query2885.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}\\u{0}\\u{0}ACA\")###);;1.97
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3543.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}C\\u{0}CCCAC\")###);;1.67
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3168.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}B\\u{0}AACBABCC\")###);;1.75
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query9070.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CBACBABCBABCBBBC\")###);;1.68
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3304.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}AAACBACBACBBBC\")###);;1.66
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3241.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}\\u{0}ACBACCAAC\")###);;1.82
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query5511.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}A\\u{0}CBCACAB\\u{0}\")###);;1.95
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3979.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BCCBCBBB\\u{0}\")###);;1.66
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query8335.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CBCACBAB\")###);;1.86
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query3191.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}BCBAB\")###);;1.54
+finished;ostrich-model-2-fmcad25;../formulae/QF_S/2020-sygus-qgen/queries/query9066.smt2;0;result: sat###(model###  (define-fun x () String \"\\u{0}CBBBCCC\")###);;2.17
