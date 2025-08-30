@@ -17,11 +17,11 @@ def read_latest_result_file(bench, tool, timeout):
     assert tool != ""
 
     #substring to filter files with the same timeout
-    timeout_str = f"to{timeout}-"
+    finding_str = f"to{timeout}-{tool}"
     matching_files = []
     for root, _, files in os.walk(bench):
         for file in files:
-            if tool in file and timeout_str in file:
+            if finding_str in file:
                 matching_files.append(os.path.join(root, file))
     if not matching_files:
         print(f"WARNING: {tool} has no .tasks file for {bench}")
