@@ -1,0 +1,1174 @@
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-011-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-025-2-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-114-4-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-066-4-1-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-190-4-4-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-165-4-1-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-148-4-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-027-2-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-171-4-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-236-6-1-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-168-4-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-052-3-7-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-038-3-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-163-4-1-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-058-3-7-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-288-6-1-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-094-4-1-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-038-3-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-170-4-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-128-4-1-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-164-4-1-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-180-4-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-118-4-4-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-078-4-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-280-5-4-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-067-4-1-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-058-3-7-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-194-4-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-162-4-0-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-096-4-1-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-131-4-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-007-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-116-4-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-081-4-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-236-6-1-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-079-4-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-101-4-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-292-6-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-172-4-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-142-4-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-255-4-4-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-123-4-1-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-197-4-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-083-4-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-293-6-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-189-4-4-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-290-6-1-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-286-5-4-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-222-5-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-185-4-4-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-013-2-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-286-5-4-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-211-5-0-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-239-6-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-087-4-4-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-160-4-4-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-140-4-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-212-5-0-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-279-5-4-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-099-4-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-047-3-7-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-060-3-7-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-148-4-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-113-4-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-137-4-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-082-4-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-127-4-1-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-243-4-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-156-4-4-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-130-4-1-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-166-4-1-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-171-4-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-299-6-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-045-3-6-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-245-4-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-103-4-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-023-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-042-3-4-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-291-6-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-005-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-076-4-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-184-4-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-031-3-1-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-191-4-1-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-241-4-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-297-6-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-001-1-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-246-4-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-284-5-4-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-188-4-4-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-143-4-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-014-2-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-235-6-1-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-199-4-1-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-028-2-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-069-4-1-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-119-4-4-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-127-4-1-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-218-5-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-299-6-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-196-4-1-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-204-4-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-050-3-7-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-097-4-1-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-066-4-1-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-030-3-1-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-084-4-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-006-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-004-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-229-5-5-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-209-4-5-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-183-4-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-094-4-1-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-264-5-1-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-086-4-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-234-6-1-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-107-4-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-177-4-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-272-5-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-010-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-223-5-4-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-173-4-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-117-4-4-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-129-4-1-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-001-1-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-291-6-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-057-3-7-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-162-4-0-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-204-4-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-222-5-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-026-2-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-226-5-4-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-089-4-4-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-130-4-1-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-032-3-1-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-126-4-1-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-040-3-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-134-4-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-195-4-1-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-040-3-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-263-5-1-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-133-4-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-187-4-4-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-091-4-0-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-022-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-014-2-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-228-5-5-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-196-4-1-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-203-4-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-102-4-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-207-4-4-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-053-3-7-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-255-4-4-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-114-4-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-249-4-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-279-5-4-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-095-4-1-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-192-4-1-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-139-4-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-219-5-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-293-6-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-125-4-1-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-185-4-4-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-261-5-1-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-077-4-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-281-5-4-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-029-3-1-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-179-4-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-245-4-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-276-5-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-123-4-1-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-159-4-4-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-221-5-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-050-3-7-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-036-3-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-154-4-4-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-264-5-1-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-176-4-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-191-4-1-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-294-6-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-152-4-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-112-4-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-187-4-4-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-298-6-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-188-4-4-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-234-6-1-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-211-5-0-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-283-5-4-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-224-5-4-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-214-5-1-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-184-4-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-010-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-231-6-0-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-104-4-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-135-4-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-150-4-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-295-6-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-159-4-4-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-152-4-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-034-3-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-096-4-1-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-216-5-1-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-043-3-5-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-149-4-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-129-4-1-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-033-3-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-099-4-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-100-4-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-220-5-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-155-4-4-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-084-4-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-135-4-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-041-3-4-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-165-4-1-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-269-5-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-203-4-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-073-4-1-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-297-6-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-045-3-6-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-024-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-242-4-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-060-3-7-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-108-4-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-093-4-1-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-181-4-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-205-4-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-098-4-1-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-004-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-206-4-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-265-5-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-298-6-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-132-4-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-173-4-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-206-4-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-106-4-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-202-4-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-016-2-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-076-4-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-092-4-0-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-270-5-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-037-3-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-256-4-4-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-290-6-1-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-054-3-7-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-158-4-4-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-136-4-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-189-4-4-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-238-6-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-243-4-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-115-4-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-020-2-4-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-016-2-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-262-5-1-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-146-4-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-238-6-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-175-4-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-292-6-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-026-2-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-027-2-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-082-4-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-037-3-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-267-5-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-278-5-4-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-277-5-4-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-043-3-5-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-048-3-7-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-141-4-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-122-4-0-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-103-4-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-012-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-080-4-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-049-3-7-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-105-4-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-074-4-1-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-275-5-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-098-4-1-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-195-4-1-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-295-6-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-095-4-1-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-285-5-4-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-097-4-1-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-132-4-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-241-4-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-249-4-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-151-4-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-021-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-003-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-224-5-4-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-217-5-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-200-4-1-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-181-4-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-250-4-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-057-3-7-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-262-5-1-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-186-4-4-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-179-4-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-178-4-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-282-5-4-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-269-5-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-017-2-4-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-213-5-1-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-167-4-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-193-4-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-090-4-4-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-274-5-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-244-4-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-115-4-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-036-3-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-247-4-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-124-4-1-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-154-4-4-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-246-4-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-077-4-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-002-1-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-156-4-4-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-051-3-7-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-072-4-1-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-213-5-1-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-009-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-274-5-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-063-4-0-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-163-4-1-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-013-2-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-008-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-146-4-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-158-4-4-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-174-4-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-062-4-0-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-273-5-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-161-4-0-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-116-4-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-033-3-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-147-4-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-101-4-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-218-5-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-052-3-7-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-268-5-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-053-3-7-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-207-4-4-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-091-4-0-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-155-4-4-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-157-4-4-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-122-4-0-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-119-4-4-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-125-4-1-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-021-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-151-4-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-296-6-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-178-4-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-281-5-4-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-059-3-7-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-219-5-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-074-4-1-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-164-4-1-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-089-4-4-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-253-4-4-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-136-4-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-147-4-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-081-4-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-300-6-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-227-5-5-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-289-6-1-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-068-4-1-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-244-4-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-259-4-5-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-190-4-4-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-233-6-1-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-061-4-0-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-005-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-112-4-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-086-4-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-035-3-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-176-4-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-257-4-4-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-271-5-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-258-4-4-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-080-4-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-272-5-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-067-4-1-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-201-4-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-120-4-4-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-137-4-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-044-3-5-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-252-4-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-145-4-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-270-5-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-212-5-0-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-120-4-4-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-059-3-7-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-250-4-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-046-3-6-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-201-4-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-177-4-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-144-4-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-133-4-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-109-4-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-254-4-4-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-079-4-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-070-4-1-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-170-4-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-134-4-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-240-6-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-108-4-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-198-4-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-230-5-5-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-118-4-4-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-251-4-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-169-4-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-124-4-1-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-172-4-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-194-4-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-266-5-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-117-4-4-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-174-4-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-039-3-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-006-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-209-4-5-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-242-4-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-056-3-7-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-062-4-0-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-017-2-4-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-227-5-5-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-070-4-1-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-214-5-1-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-235-6-1-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-280-5-4-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-168-4-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-233-6-1-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-186-4-4-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-072-4-1-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-282-5-4-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-028-2-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-271-5-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-149-4-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-141-4-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-055-3-7-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-044-3-5-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-144-4-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-296-6-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-019-2-4-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-110-4-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-260-4-5-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-150-4-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-251-4-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-210-4-5-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-015-2-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-231-6-0-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-106-4-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-105-4-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-253-4-4-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-208-4-4-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-175-4-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-110-4-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-285-5-4-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-054-3-7-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-180-4-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-024-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-252-4-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-071-4-1-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-226-5-4-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-085-4-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-237-6-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-061-4-0-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-169-4-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-183-4-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-002-1-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-064-4-0-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-256-4-4-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-121-4-0-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-157-4-4-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-047-3-7-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-041-3-4-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-087-4-4-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-143-4-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-192-4-1-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-276-5-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-278-5-4-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-003-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-223-5-4-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-208-4-4-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-051-3-7-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-031-3-1-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-216-5-1-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-153-4-4-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-018-2-4-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-011-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-128-4-1-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-215-5-1-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-064-4-0-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-092-4-0-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-210-4-5-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-085-4-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-020-2-4-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-131-4-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-202-4-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-008-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-018-2-4-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-022-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-126-4-1-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-046-3-6-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-267-5-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-142-4-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-063-4-0-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-254-4-4-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-030-3-1-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-160-4-4-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-145-4-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-138-4-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-034-3-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-261-5-1-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-042-3-4-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-029-3-1-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-248-4-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-259-4-5-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-139-4-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-199-4-1-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-007-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-220-5-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-088-4-4-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-240-6-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-205-4-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-090-4-4-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-107-4-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-068-4-1-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-121-4-0-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-078-4-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-109-4-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-113-4-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-198-4-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-288-6-1-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-140-4-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-153-4-4-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-300-6-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-049-3-7-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-019-2-4-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-239-6-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-277-5-4-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-273-5-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-166-4-1-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-257-4-4-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-294-6-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-073-4-1-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-012-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-230-5-5-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-088-4-4-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-104-4-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-229-5-5-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-032-3-1-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-232-6-0-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-009-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-237-6-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-138-4-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-056-3-7-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-035-3-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-100-4-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-260-4-5-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-221-5-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-015-2-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-161-4-0-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-048-3-7-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-200-4-1-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-225-5-4-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-283-5-4-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-258-4-4-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-023-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-093-4-1-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-075-4-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-197-4-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-284-5-4-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-289-6-1-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-083-4-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-193-4-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-247-4-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-025-2-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-266-5-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-248-4-3-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-225-5-4-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-075-4-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-268-5-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-039-3-3-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-232-6-0-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-228-5-5-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-265-5-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-102-4-2-unsat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-055-3-7-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-217-5-2-sat.smt2
+execute;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-275-5-3-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-025-2-2-sat.smt2;0;result: sat;;1.5
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-148-4-3-unsat.smt2;0;result: unsat;;1.62
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-114-4-3-unsat.smt2;0;result: unsat;;1.65
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-168-4-2-unsat.smt2;0;result: unsat;;1.39
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-011-2-sat.smt2;0;result: sat;;20.43
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-038-3-2-unsat.smt2;0;result: unsat;;1.25
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-190-4-4-unsat.smt2;0;result: unsat;;32.64
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-066-4-1-unsat.smt2;0;result: unsat;;31.6
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-236-6-1-unsat.smt2;0;result: unsat;;31.88
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-288-6-1-unsat.smt2;0;result: unsat;;1.37
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-052-3-7-unsat.smt2;0;result: unsat;;28.79
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-094-4-1-unsat.smt2;0;result: unsat;;1.49
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-170-4-2-unsat.smt2;0;result: unsat;;1.39
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-128-4-1-unsat.smt2;0;result: unsat;;1.46
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-058-3-7-unsat.smt2;0;result: unsat;;35.39
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-118-4-4-unsat.smt2;0;result: unsat;;1.53
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-038-3-2-unsat.smt2;0;result: unsat;;38.11
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-280-5-4-unsat.smt2;0;result: unsat;;1.44
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-164-4-1-unsat.smt2;0;result: unsat;;39.49
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-180-4-3-unsat.smt2;0;result: unsat;;38.28
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-058-3-7-unsat.smt2;0;result: unsat;;1.49
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-078-4-2-unsat.smt2;0;result: unsat;;43.8
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-096-4-1-unsat.smt2;0;result: unsat;;1.55
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-194-4-2-unsat.smt2;0;result: unsat;;44.67
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-162-4-0-unsat.smt2;0;result: unsat;;41.0
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-007-2-sat.smt2;0;result: sat;;34.65
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-116-4-3-unsat.smt2;0;result: unsat;;43.94
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-236-6-1-unsat.smt2;0;result: unsat;;1.42
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-165-4-1-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-027-2-2-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-171-4-2-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-172-4-2-unsat.smt2;0;result: unsat;;1.39
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-163-4-1-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-292-6-2-unsat.smt2;0;result: unsat;;42.51
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-255-4-4-sat.smt2;0;result: sat;;4.83
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-142-4-3-unsat.smt2;0;result: unsat;;38.27
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-197-4-2-sat.smt2;0;result: sat;;1.92
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-067-4-1-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-131-4-2-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-290-6-1-unsat.smt2;0;result: unsat;;1.45
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-286-5-4-unsat.smt2;0;result: unsat;;1.44
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-222-5-3-unsat.smt2;0;result: unsat;;1.46
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-081-4-2-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-079-4-2-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-013-2-2-sat.smt2;0;result: sat;;49.84
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-286-5-4-unsat.smt2;0;result: unsat;;48.06
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-239-6-2-sat.smt2;0;result: sat;;2.43
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-101-4-2-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-160-4-4-unsat.smt2;0;result: unsat;;45.25
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-123-4-1-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-140-4-2-unsat.smt2;0;result: unsat;;1.44
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-212-5-0-unsat.smt2;0;result: unsat;;1.47
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-083-4-3-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-293-6-2-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-060-3-7-unsat.smt2;0;result: unsat;;35.81
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-189-4-4-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-148-4-3-unsat.smt2;0;result: unsat;;41.61
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-185-4-4-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-082-4-2-unsat.smt2;0;result: unsat;;45.47
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-211-5-0-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-243-4-3-sat.smt2;0;result: sat;;3.88
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-087-4-4-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-156-4-4-unsat.smt2;0;result: unsat;;41.76
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-166-4-1-unsat.smt2;0;result: unsat;;1.36
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-130-4-1-unsat.smt2;0;result: unsat;;44.23
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-279-5-4-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-099-4-2-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-047-3-7-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-113-4-3-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-137-4-2-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-042-3-4-unsat.smt2;0;result: unsat;;45.26
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-127-4-1-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-171-4-2-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-299-6-3-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-076-4-2-unsat.smt2;0;result: unsat;;1.52
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-184-4-3-unsat.smt2;0;result: unsat;;1.43
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-031-3-1-sat.smt2;0;result: sat;;2.11
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-241-4-2-sat.smt2;0;result: sat;;4.8
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-297-6-3-sat.smt2;0;result: sat;;2.23
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-001-1-unsat.smt2;0;result: unsat;;0.93
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-246-4-3-unsat.smt2;0;result: unsat;;35.89
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-284-5-4-unsat.smt2;0;result: unsat;;1.37
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-188-4-4-unsat.smt2;0;result: unsat;;1.44
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-045-3-6-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-245-4-3-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-103-4-2-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-199-4-1-sat.smt2;0;result: sat;;24.9
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-014-2-2-unsat.smt2;0;result: unsat;;37.31
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-023-3-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-028-2-2-unsat.smt2;0;result: unsat;;38.11
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-291-6-2-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-005-2-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-299-6-3-sat.smt2;0;result: sat;;2.23
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-218-5-2-unsat.smt2;0;result: unsat;;45.76
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-204-4-2-unsat.smt2;0;result: unsat;;1.35
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-050-3-7-unsat.smt2;0;result: unsat;;1.5
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-196-4-1-unsat.smt2;0;result: unsat;;47.33
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-066-4-1-unsat.smt2;0;result: unsat;;1.52
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-030-3-1-unsat.smt2;0;result: unsat;;1.07
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-191-4-1-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-006-2-unsat.smt2;0;result: unsat;;1.17
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-084-4-3-unsat.smt2;0;result: unsat;;40.62
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-229-5-5-sat.smt2;0;result: sat;;2.02
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-004-2-unsat.smt2;0;result: unsat;;35.37
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-143-4-3-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-235-6-1-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-264-5-1-unsat.smt2;0;result: unsat;;1.48
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-094-4-1-unsat.smt2;0;result: unsat;;44.84
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-069-4-1-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-086-4-3-unsat.smt2;0;result: unsat;;46.4
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-119-4-4-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-234-6-1-unsat.smt2;0;result: unsat;;47.2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-127-4-1-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-223-5-4-sat.smt2;0;result: sat;;4.87
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-272-5-3-unsat.smt2;0;result: unsat;;39.88
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-010-2-unsat.smt2;0;result: unsat;;42.96
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-097-4-1-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-001-1-unsat.smt2;0;result: unsat;;35.75
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-291-6-2-sat.smt2;0;result: sat;;2.53
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-209-4-5-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-162-4-0-unsat.smt2;0;result: unsat;;1.32
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-183-4-3-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-204-4-2-unsat.smt2;0;result: unsat;;38.28
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-222-5-3-unsat.smt2;0;result: unsat;;45.33
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-026-2-2-unsat.smt2;0;result: unsat;;37.34
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-226-5-4-unsat.smt2;0;result: unsat;;45.98
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-130-4-1-unsat.smt2;0;result: unsat;;1.42
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-107-4-3-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-129-4-1-sat.smt2;0;result: sat;;141.09
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-040-3-3-unsat.smt2;0;result: unsat;;1.52
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-177-4-3-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-173-4-2-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-032-3-1-unsat.smt2;0;result: unsat;;33.16
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-126-4-1-unsat.smt2;0;result: unsat;;41.82
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-134-4-2-unsat.smt2;0;result: unsat;;42.47
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-263-5-1-sat.smt2;0;result: sat;;2.21
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-117-4-4-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-022-3-unsat.smt2;0;result: unsat;;1.2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-014-2-2-unsat.smt2;0;result: unsat;;1.34
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-228-5-5-unsat.smt2;0;result: unsat;;1.45
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-196-4-1-unsat.smt2;0;result: unsat;;1.43
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-040-3-3-unsat.smt2;0;result: unsat;;38.6
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-102-4-2-unsat.smt2;0;result: unsat;;1.43
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-057-3-7-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-089-4-4-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-195-4-1-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-133-4-2-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-249-4-3-sat.smt2;0;result: sat;;2.1
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-187-4-4-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-091-4-0-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-114-4-3-unsat.smt2;0;result: unsat;;42.39
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-279-5-4-sat.smt2;0;result: sat;;4.85
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-219-5-2-sat.smt2;0;result: sat;;4.67
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-203-4-2-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-293-6-2-sat.smt2;0;result: sat;;4.96
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-207-4-4-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-192-4-1-unsat.smt2;0;result: unsat;;37.35
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-053-3-7-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-281-5-4-sat.smt2;0;result: sat;;2.28
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-255-4-4-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-095-4-1-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-245-4-3-sat.smt2;0;result: sat;;1.99
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-139-4-2-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-276-5-3-unsat.smt2;0;result: unsat;;1.58
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-125-4-1-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-185-4-4-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-221-5-3-sat.smt2;0;result: sat;;4.65
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-261-5-1-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-077-4-2-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-050-3-7-unsat.smt2;0;result: unsat;;35.01
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-036-3-2-unsat.smt2;0;result: unsat;;37.98
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-191-4-1-sat.smt2;0;result: sat;;1.97
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-294-6-2-unsat.smt2;0;result: unsat;;1.5
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-154-4-4-unsat.smt2;0;result: unsat;;36.8
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-264-5-1-unsat.smt2;0;result: unsat;;37.52
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-176-4-3-unsat.smt2;0;result: unsat;;42.89
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-298-6-3-unsat.smt2;0;result: unsat;;1.38
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-152-4-3-unsat.smt2;0;result: unsat;;42.65
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-112-4-3-unsat.smt2;0;result: unsat;;33.12
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-234-6-1-unsat.smt2;0;result: unsat;;1.44
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-211-5-0-sat.smt2;0;result: sat;;2.57
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-029-3-1-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-188-4-4-unsat.smt2;0;result: unsat;;46.22
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-224-5-4-unsat.smt2;0;result: unsat;;45.48
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-010-2-unsat.smt2;0;result: unsat;;1.42
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-214-5-1-unsat.smt2;0;result: unsat;;45.68
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-184-4-3-unsat.smt2;0;result: unsat;;40.78
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-104-4-2-unsat.smt2;0;result: unsat;;40.56
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-179-4-3-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-150-4-3-unsat.smt2;0;result: unsat;;1.51
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-295-6-3-sat.smt2;0;result: sat;;2.29
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-152-4-3-unsat.smt2;0;result: unsat;;1.47
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-034-3-2-unsat.smt2;0;result: unsat;;33.8
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-096-4-1-unsat.smt2;0;result: unsat;;45.5
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-123-4-1-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-159-4-4-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-216-5-1-unsat.smt2;0;result: unsat;;43.31
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-187-4-4-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-283-5-4-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-231-6-0-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-135-4-2-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-220-5-2-unsat.smt2;0;result: unsat;;1.44
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-100-4-2-unsat.smt2;0;result: unsat;;45.99
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-084-4-3-unsat.smt2;0;result: unsat;;12.64
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-159-4-4-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-043-3-5-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-149-4-3-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-129-4-1-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-203-4-2-sat.smt2;0;result: sat;;25.67
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-033-3-2-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-099-4-2-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-155-4-4-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-135-4-2-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-041-3-4-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-060-3-7-unsat.smt2;0;result: unsat;;1.47
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-242-4-2-unsat.smt2;0;result: unsat;;44.95
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-108-4-3-unsat.smt2;0;result: unsat;;35.25
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-165-4-1-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-269-5-2-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-098-4-1-unsat.smt2;0;result: unsat;;44.15
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-073-4-1-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-206-4-3-unsat.smt2;0;result: unsat;;1.37
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-297-6-3-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-004-2-unsat.smt2;0;result: unsat;;37.65
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-132-4-2-unsat.smt2;0;result: unsat;;1.5
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-045-3-6-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-298-6-3-unsat.smt2;0;result: unsat;;46.86
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-206-4-3-unsat.smt2;0;result: unsat;;37.97
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-202-4-2-unsat.smt2;0;result: unsat;;1.4
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-106-4-2-unsat.smt2;0;result: unsat;;39.17
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-016-2-3-unsat.smt2;0;result: unsat;;41.47
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-024-3-unsat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-270-5-2-unsat.smt2;0;result: unsat;;1.34
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-076-4-2-unsat.smt2;0;result: unsat;;45.92
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-092-4-0-unsat.smt2;0;result: unsat;;42.5
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-256-4-4-unsat.smt2;0;result: unsat;;44.18
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-093-4-1-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-290-6-1-unsat.smt2;0;result: unsat;;41.05
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-181-4-2-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-054-3-7-unsat.smt2;0;result: unsat;;41.93
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-158-4-4-unsat.smt2;0;result: unsat;;39.71
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-136-4-2-unsat.smt2;0;result: unsat;;38.43
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-205-4-3-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-238-6-2-unsat.smt2;0;result: unsat;;41.83
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-020-2-4-unsat.smt2;0;result: unsat;;36.45
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-016-2-3-unsat.smt2;0;result: unsat;;32.02
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-146-4-3-unsat.smt2;0;result: unsat;;1.52
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-238-6-2-unsat.smt2;0;result: unsat;;1.48
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-265-5-2-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-292-6-2-unsat.smt2;0;result: unsat;;1.48
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-262-5-1-unsat.smt2;0;result: unsat;;45.03
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-027-2-2-sat.smt2;0;result: sat;;1.56
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-082-4-2-unsat.smt2;0;result: unsat;;1.8
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-173-4-2-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-026-2-2-unsat.smt2;0;result: unsat;;35.69
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-278-5-4-unsat.smt2;0;result: unsat;;1.51
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-037-3-2-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-189-4-4-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-243-4-3-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-115-4-3-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-048-3-7-unsat.smt2;0;result: unsat;;44.06
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-122-4-0-unsat.smt2;0;result: unsat;;1.32
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-012-2-unsat.smt2;0;result: unsat;;1.38
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-080-4-2-unsat.smt2;0;result: unsat;;1.46
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-175-4-3-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-037-3-2-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-074-4-1-unsat.smt2;0;result: unsat;;1.57
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-267-5-2-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-098-4-1-unsat.smt2;0;result: unsat;;1.55
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-277-5-4-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-043-3-5-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-141-4-3-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-103-4-2-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-049-3-7-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-132-4-2-unsat.smt2;0;result: unsat;;34.7
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-105-4-2-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-275-5-3-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-195-4-1-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-295-6-3-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-003-2-sat.smt2;0;result: sat;;1.62
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-224-5-4-unsat.smt2;0;result: unsat;;1.44
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-095-4-1-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-200-4-1-unsat.smt2;0;result: unsat;;1.34
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-285-5-4-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-250-4-3-unsat.smt2;0;result: unsat;;1.5
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-097-4-1-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-262-5-1-unsat.smt2;0;result: unsat;;1.42
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-186-4-4-unsat.smt2;0;result: unsat;;39.39
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-241-4-2-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-249-4-3-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-178-4-3-unsat.smt2;0;result: unsat;;39.74
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-151-4-3-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-282-5-4-unsat.smt2;0;result: unsat;;36.95
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-269-5-2-sat.smt2;0;result: sat;;2.38
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-021-3-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-193-4-2-sat.smt2;0;result: sat;;2.23
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-217-5-2-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-090-4-4-unsat.smt2;0;result: unsat;;37.26
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-244-4-3-unsat.smt2;0;result: unsat;;1.55
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-057-3-7-sat.smt2;0;result: sat;;93.54
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-274-5-3-unsat.smt2;0;result: unsat;;45.26
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-036-3-2-unsat.smt2;0;result: unsat;;1.5
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-124-4-1-unsat.smt2;0;result: unsat;;1.54
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-154-4-4-unsat.smt2;0;result: unsat;;1.62
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-246-4-3-unsat.smt2;0;result: unsat;;1.58
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-181-4-2-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-002-1-unsat.smt2;0;result: unsat;;36.57
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-156-4-4-unsat.smt2;0;result: unsat;;1.55
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-179-4-3-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-072-4-1-unsat.smt2;0;result: unsat;;1.56
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-213-5-1-sat.smt2;0;result: sat;;2.39
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-017-2-4-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-213-5-1-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-274-5-3-unsat.smt2;0;result: unsat;;1.48
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-167-4-2-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-115-4-3-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-008-2-unsat.smt2;0;result: unsat;;1.27
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-247-4-3-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-158-4-4-unsat.smt2;0;result: unsat;;1.56
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-174-4-2-unsat.smt2;0;result: unsat;;1.44
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-077-4-2-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-146-4-3-unsat.smt2;0;result: unsat;;45.79
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-062-4-0-unsat.smt2;0;result: unsat;;46.95
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-116-4-3-unsat.smt2;0;result: unsat;;1.61
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-033-3-2-sat.smt2;0;result: sat;;3.82
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-063-4-0-sat.smt2;0;result: sat;;95.14
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-051-3-7-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-218-5-2-unsat.smt2;0;result: unsat;;1.49
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-052-3-7-unsat.smt2;0;result: unsat;;1.52
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-268-5-2-unsat.smt2;0;result: unsat;;1.56
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-009-2-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-163-4-1-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-013-2-2-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-273-5-3-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-161-4-0-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-147-4-3-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-122-4-0-unsat.smt2;0;result: unsat;;42.44
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-101-4-2-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-053-3-7-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-091-4-0-sat.smt2;0;result: sat;;121.21
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-296-6-3-unsat.smt2;0;result: unsat;;40.32
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-178-4-3-unsat.smt2;0;result: unsat;;1.49
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-207-4-4-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-155-4-4-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-157-4-4-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-074-4-1-unsat.smt2;0;result: unsat;;39.92
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-119-4-4-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-164-4-1-unsat.smt2;0;result: unsat;;1.35
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-125-4-1-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-253-4-4-sat.smt2;0;result: sat;;4.92
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-021-3-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-136-4-2-unsat.smt2;0;result: unsat;;1.45
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-151-4-3-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-227-5-5-sat.smt2;0;result: sat;;4.9
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-289-6-1-sat.smt2;0;result: sat;;2.44
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-068-4-1-unsat.smt2;0;result: unsat;;1.5
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-300-6-3-unsat.smt2;0;result: unsat;;39.0
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-259-4-5-sat.smt2;0;result: sat;;4.93
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-190-4-4-unsat.smt2;0;result: unsat;;1.37
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-233-6-1-sat.smt2;0;result: sat;;2.18
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-244-4-3-unsat.smt2;0;result: unsat;;45.15
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-281-5-4-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-059-3-7-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-086-4-3-unsat.smt2;0;result: unsat;;1.69
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-112-4-3-unsat.smt2;0;result: unsat;;43.74
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-176-4-3-unsat.smt2;0;result: unsat;;1.46
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-257-4-4-sat.smt2;0;result: sat;;2.26
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-219-5-2-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-258-4-4-unsat.smt2;0;result: unsat;;41.06
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-080-4-2-unsat.smt2;0;result: unsat;;45.98
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-272-5-3-unsat.smt2;0;result: unsat;;1.42
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-089-4-4-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-147-4-3-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-081-4-2-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-120-4-4-unsat.smt2;0;result: unsat;;39.12
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-044-3-5-unsat.smt2;0;result: unsat;;1.46
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-061-4-0-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-005-2-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-252-4-3-unsat.smt2;0;result: unsat;;45.04
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-270-5-2-unsat.smt2;0;result: unsat;;39.18
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-120-4-4-unsat.smt2;0;result: unsat;;1.46
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-212-5-0-unsat.smt2;0;result: unsat;;43.98
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-035-3-2-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-046-3-6-unsat.smt2;0;result: unsat;;1.43
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-271-5-3-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-059-3-7-sat.smt2;0;result: sat;;36.6
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-250-4-3-unsat.smt2;0;result: unsat;;45.58
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-177-4-3-sat.smt2;0;result: sat;;32.63
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-144-4-3-unsat.smt2;0;result: unsat;;37.72
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-254-4-4-unsat.smt2;0;result: unsat;;1.49
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-067-4-1-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-070-4-1-unsat.smt2;0;result: unsat;;47.17
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-201-4-2-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-134-4-2-unsat.smt2;0;result: unsat;;1.54
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-240-6-2-unsat.smt2;0;result: unsat;;1.48
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-137-4-2-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-170-4-2-unsat.smt2;0;result: unsat;;45.06
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-230-5-5-unsat.smt2;0;result: unsat;;1.58
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-108-4-3-unsat.smt2;0;result: unsat;;47.34
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-198-4-2-unsat.smt2;0;result: unsat;;38.04
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-145-4-3-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-118-4-4-unsat.smt2;0;result: unsat;;43.28
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-172-4-2-unsat.smt2;0;result: unsat;;1.37
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-124-4-1-unsat.smt2;0;result: unsat;;43.67
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-194-4-2-unsat.smt2;0;result: unsat;;36.67
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-201-4-2-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-266-5-2-unsat.smt2;0;result: unsat;;44.21
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-133-4-2-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-109-4-3-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-006-2-unsat.smt2;0;result: unsat;;36.45
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-242-4-2-unsat.smt2;0;result: unsat;;1.55
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-079-4-2-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-056-3-7-unsat.smt2;0;result: unsat;;1.5
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-062-4-0-unsat.smt2;0;result: unsat;;1.58
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-017-2-4-sat.smt2;0;result: sat;;54.33
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-070-4-1-unsat.smt2;0;result: unsat;;1.64
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-214-5-1-unsat.smt2;0;result: unsat;;1.53
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-235-6-1-sat.smt2;0;result: sat;;2.17
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-280-5-4-unsat.smt2;0;result: unsat;;47.66
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-168-4-2-unsat.smt2;0;result: unsat;;46.21
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-251-4-3-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-169-4-2-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-186-4-4-unsat.smt2;0;result: unsat;;1.38
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-282-5-4-unsat.smt2;0;result: unsat;;1.45
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-028-2-2-unsat.smt2;0;result: unsat;;1.25
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-271-5-3-sat.smt2;0;result: sat;;2.05
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-072-4-1-unsat.smt2;0;result: unsat;;40.79
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-117-4-4-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-174-4-2-unsat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-039-3-3-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-144-4-3-unsat.smt2;0;result: unsat;;1.47
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-296-6-3-unsat.smt2;0;result: unsat;;1.5
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-019-2-4-sat.smt2;0;result: sat;;25.36
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-044-3-5-unsat.smt2;0;result: unsat;;44.72
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-260-4-5-unsat.smt2;0;result: unsat;;1.53
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-209-4-5-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-251-4-3-sat.smt2;0;result: sat;;4.79
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-227-5-5-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-110-4-3-unsat.smt2;0;result: unsat;;39.65
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-231-6-0-sat.smt2;0;result: sat;;2.42
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-150-4-3-unsat.smt2;0;result: unsat;;43.66
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-210-4-5-unsat.smt2;0;result: unsat;;36.74
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-106-4-2-unsat.smt2;0;result: unsat;;39.98
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-015-2-3-sat.smt2;0;result: sat;;54.95
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-208-4-4-unsat.smt2;0;result: unsat;;32.27
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-110-4-3-unsat.smt2;0;result: unsat;;43.18
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-285-5-4-sat.smt2;0;result: sat;;2.76
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-054-3-7-unsat.smt2;0;result: unsat;;1.44
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-233-6-1-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-180-4-3-unsat.smt2;0;result: unsat;;1.52
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-024-3-unsat.smt2;0;result: unsat;;1.37
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-252-4-3-unsat.smt2;0;result: unsat;;1.52
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-226-5-4-unsat.smt2;0;result: unsat;;1.53
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-149-4-3-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-237-6-2-sat.smt2;0;result: sat;;2.36
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-141-4-3-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-055-3-7-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-071-4-1-sat.smt2;0;result: sat;;99.31
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-105-4-2-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-002-1-unsat.smt2;0;result: unsat;;37.89
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-064-4-0-unsat.smt2;0;result: unsat;;1.45
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-256-4-4-unsat.smt2;0;result: unsat;;1.53
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-253-4-4-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-175-4-3-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-085-4-3-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-061-4-0-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-169-4-2-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-183-4-3-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-192-4-1-unsat.smt2;0;result: unsat;;43.78
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-276-5-3-unsat.smt2;0;result: unsat;;45.9
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-278-5-4-unsat.smt2;0;result: unsat;;47.39
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-041-3-4-sat.smt2;0;result: sat;;143.72
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-121-4-0-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-208-4-4-unsat.smt2;0;result: unsat;;1.35
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-157-4-4-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-047-3-7-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-216-5-1-unsat.smt2;0;result: unsat;;1.57
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-018-2-4-unsat.smt2;0;result: unsat;;1.41
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-087-4-4-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-143-4-3-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-128-4-1-unsat.smt2;0;result: unsat;;42.3
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-064-4-0-unsat.smt2;0;result: unsat;;42.53
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-092-4-0-unsat.smt2;0;result: unsat;;1.35
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-210-4-5-unsat.smt2;0;result: unsat;;1.32
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-003-2-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-020-2-4-unsat.smt2;0;result: unsat;;1.33
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-223-5-4-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-202-4-2-unsat.smt2;0;result: unsat;;32.25
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-051-3-7-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-031-3-1-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-153-4-4-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-008-2-unsat.smt2;0;result: unsat;;44.4
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-126-4-1-unsat.smt2;0;result: unsat;;1.46
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-011-2-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-142-4-3-unsat.smt2;0;result: unsat;;1.42
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-022-3-unsat.smt2;0;result: unsat;;41.09
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-046-3-6-unsat.smt2;0;result: unsat;;39.23
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-030-3-1-unsat.smt2;0;result: unsat;;1.12
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-160-4-4-unsat.smt2;0;result: unsat;;1.46
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-254-4-4-unsat.smt2;0;result: unsat;;46.34
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-138-4-2-unsat.smt2;0;result: unsat;;1.47
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-034-3-2-unsat.smt2;0;result: unsat;;45.18
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-261-5-1-sat.smt2;0;result: sat;;2.33
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-042-3-4-unsat.smt2;0;result: unsat;;1.49
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-215-5-1-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-029-3-1-sat.smt2;0;result: sat;;26.11
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-248-4-3-unsat.smt2;0;result: unsat;;41.2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-085-4-3-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-131-4-2-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-018-2-4-unsat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-267-5-2-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-063-4-0-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-220-5-2-unsat.smt2;0;result: unsat;;42.26
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-088-4-4-unsat.smt2;0;result: unsat;;41.58
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-145-4-3-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-240-6-2-unsat.smt2;0;result: unsat;;42.59
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-090-4-4-unsat.smt2;0;result: unsat;;41.73
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-068-4-1-unsat.smt2;0;result: unsat;;36.77
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-078-4-2-unsat.smt2;0;result: unsat;;1.52
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-259-4-5-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-107-4-3-sat.smt2;0;result: sat;;73.96
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-139-4-2-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-199-4-1-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-198-4-2-unsat.smt2;0;result: unsat;;42.09
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-288-6-1-unsat.smt2;0;result: unsat;;42.55
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-007-2-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-140-4-2-unsat.smt2;0;result: unsat;;45.46
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-300-6-3-unsat.smt2;0;result: unsat;;34.76
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-205-4-3-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-277-5-4-sat.smt2;0;result: sat;;4.64
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-273-5-3-sat.smt2;0;result: sat;;4.64
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-121-4-0-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-166-4-1-unsat.smt2;0;result: unsat;;45.76
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-109-4-3-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-294-6-2-unsat.smt2;0;result: unsat;;43.98
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-113-4-3-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-012-2-unsat.smt2;0;result: unsat;;38.7
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-088-4-4-unsat.smt2;0;result: unsat;;1.81
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-104-4-2-unsat.smt2;0;result: unsat;;1.6
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-230-5-5-unsat.smt2;0;result: unsat;;44.52
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-153-4-4-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-049-3-7-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-032-3-1-unsat.smt2;0;result: unsat;;42.13
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-019-2-4-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-232-6-0-unsat.smt2;0;result: unsat;;43.34
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-239-6-2-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-138-4-2-unsat.smt2;0;result: unsat;;40.48
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-056-3-7-unsat.smt2;0;result: unsat;;40.73
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-100-4-2-unsat.smt2;0;result: unsat;;1.52
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-260-4-5-unsat.smt2;0;result: unsat;;47.66
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-257-4-4-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-073-4-1-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-048-3-7-unsat.smt2;0;result: unsat;;1.35
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-200-4-1-unsat.smt2;0;result: unsat;;37.39
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-229-5-5-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-283-5-4-sat.smt2;0;result: sat;;3.12
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-258-4-4-unsat.smt2;0;result: unsat;;1.47
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-023-3-sat.smt2;0;result: sat;;35.15
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-009-2-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-237-6-2-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-035-3-2-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-284-5-4-unsat.smt2;0;result: unsat;;35.85
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-221-5-3-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-015-2-3-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-161-4-0-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-247-4-3-sat.smt2;0;result: sat;;2.2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-225-5-4-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-266-5-2-unsat.smt2;0;result: unsat;;1.54
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-248-4-3-unsat.smt2;0;result: unsat;;1.4
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-225-5-4-sat.smt2;0;result: sat;;4.7
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-093-4-1-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-075-4-2-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-197-4-2-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-232-6-0-unsat.smt2;0;result: unsat;;1.4
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-268-5-2-unsat.smt2;0;result: unsat;;43.86
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-265-5-2-sat.smt2;0;result: sat;;4.69
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-289-6-1-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-228-5-5-unsat.smt2;0;result: unsat;;42.54
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-217-5-2-sat.smt2;0;result: sat;;2.44
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-083-4-3-sat.smt2
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-275-5-3-sat.smt2;0;result: sat;;2.75
+finished;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-102-4-2-unsat.smt2;0;result: unsat;;41.38
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-193-4-2-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-length-025-2-2-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-075-4-2-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-039-3-3-sat.smt2
+timeout;ostrich-model-2-fmcad25;../formulae/QF_SLIA/2018-Kepler/quad-055-3-7-sat.smt2
