@@ -588,6 +588,9 @@ fee8de7-2fef659
 # new version of other tools
 z3-4.15.3
 z3-model-4.15.3
+check-model-z3-4.15.3
 cvc5-1.3.0
 cvc5-model-1.3.0
+check-model-cvc5-1.3.0
 ostrich-2-fmcad25
+ostrich-model-2-fmcad25
