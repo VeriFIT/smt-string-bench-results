@@ -103,16 +103,16 @@ def load_benches(benches, tools, bench_selection, benchmark_to_group, timeout = 
 
 
     if bench_selection == "QF_S":
-        # for woorpje, QF_S benchmarks are those that are not in 20230329-woorpje-lu/track05/
-        df_runtime_result = df_runtime_result[(df_runtime_result.benchmark != "woorpje")|(~(df_runtime_result.name.str.contains("/track05/")))]
-        # for matching, QF_S benchmarks are those that do not contain "sub-find" in their name
-        df_runtime_result = df_runtime_result[(df_runtime_result.benchmark != "matching")|(~(df_runtime_result.name.str.contains("sub-find")))]
+        # QF_S benchmarks are those that contain "QF_S" in their name
+        df_runtime_result = df_runtime_result[(df_runtime_result.name.str.contains("/QF_S/"))]
 
     if bench_selection == "QF_SLIA":
-        # for woorpje, QF_SLIA benchmarks are those that are in 20230329-woorpje-lu/track05/
-        df_runtime_result = df_runtime_result[(df_runtime_result.benchmark != "woorpje")|(df_runtime_result.name.str.contains("/track05/"))]
-        # for matching, QF_SLIA benchmarks are those that contain "sub-find" in their name
-        df_runtime_result = df_runtime_result[(df_runtime_result.benchmark != "matching")|(df_runtime_result.name.str.contains("sub-find"))]
+        # QF_SLIA benchmarks are those that contain "QF_SLIA" in their name
+        df_runtime_result = df_runtime_result[(df_runtime_result.name.str.contains("/QF_SLIA/"))]
+    
+    if bench_selection == "QF_SNIA":
+        # QF_SNIA benchmarks are those that contain "QF_SNIA" in their name
+        df_runtime_result = df_runtime_result[(df_runtime_result.name.str.contains("/QF_SNIA/"))]
 
     df_all = df_runtime_result.merge(df_stats)
     return df_all
