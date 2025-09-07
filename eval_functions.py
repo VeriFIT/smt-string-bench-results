@@ -301,6 +301,10 @@ def get_solved(df, tool):
     """Returns dataframe containing rows of df, where df[tool-result] is a result, i.e., either 'sat' or 'unsat'"""
     return df[(df[tool+"-result"].str.strip() == 'sat')|(df[tool+"-result"].str.strip() == 'unsat')]
 
+def get_unsolved(df, tool):
+    """Returns dataframe containing rows of df, where df[tool-result] is not a result, i.e., neither 'sat' or 'unsat'"""
+    return df[(df[tool+"-result"].str.strip() != 'sat')&(df[tool+"-result"].str.strip() != 'unsat')]
+
 def get_unknowns(df, tool):
     """Returns dataframe containing rows of df, where df[tool-result] is 'unknown'"""
     return df[(df[tool+"-result"].str.strip() == 'unknown')]
@@ -320,6 +324,10 @@ def get_sat(df, tool):
 def get_unsat(df, tool):
     """Returns dataframe containing rows of df, where df[tool-result] is 'unsat'"""
     return df[(df[tool+"-result"].str.strip() == 'unsat')]
+
+def get_benchmark(df, benchmark_name):
+    """Returns dataframe for a specific benchmark"""
+    return df[(df["benchmark"] == benchmark_name)]
 
 def simple_table(df, tools, benches, separately=False, times_from_solved=True):
     """Prints a simple table with statistics for each tools.
