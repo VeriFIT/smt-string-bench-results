@@ -594,3 +594,8 @@ cvc5-model-1.3.0
 check-model-cvc5-1.3.0
 ostrich-2-fmcad25
 ostrich-model-2-fmcad25
+
+# branch mata_strings_refactor
+e10aa9b-f967c04
+8696410-f967c04
+594bff5-4258ce7
