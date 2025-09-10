@@ -599,3 +599,15 @@ ostrich-model-2-fmcad25
 e10aa9b-f967c04
 8696410-f967c04
 594bff5-4258ce7
+
+# branch instant_solution
+4d4ebaf-4258ce7
+698a5f0-4258ce7
+
+# branch better_transducer_model
+ff7c8e1-f967c04
+
+# branch simplify_subst
+8d76a6a-4258ce7
+31bbfee-4258ce7
+d055803-4258ce7
