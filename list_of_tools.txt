@@ -609,5 +609,8 @@ e10aa9b-f967c04
 31bbfee-4258ce7
 d055803-4258ce7
 
+# mata: branch fix_nft_epsilon_removal
+d055803-8e9e3aa
+
 # branch better_transducer_model
 ff7c8e1-f967c04
