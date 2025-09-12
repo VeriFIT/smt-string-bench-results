@@ -117,7 +117,7 @@ def load_benches(benches, tools, bench_selection, benchmark_to_group, timeout = 
     df_all = df_runtime_result.merge(df_stats)
     return df_all
 
-def scatter_plot(df, x_tool, y_tool, timeout = 120, clamp=True, clamp_domain=[0.01, 120], xname=None, yname=None, log=True, width=6, height=6, show_legend=True, legend_width=2, file_name_to_save=None, transparent=False, color_by_benchmark=True, color_column="benchmark", value_order=None):
+def scatter_plot(df, x_tool, y_tool, timeout = 120, clamp=True, clamp_domain=[0.01, 120], xname=None, yname=None, log=True, width=6, height=6, show_legend=True, legend_width=None, file_name_to_save=None, transparent=False, color_by_benchmark=True, color_column="benchmark", value_order=None):
     """Returns scatter plot plotting the values of df[x_tool] and df[y_tool] columns.
 
     Args:
@@ -151,7 +151,13 @@ def scatter_plot(df, x_tool, y_tool, timeout = 120, clamp=True, clamp_domain=[0.
     y_tool = y_tool+"-runtime"
 
     if show_legend:
-        width += legend_width
+        if legend_width:
+            width += legend_width
+        else:
+            if color_by_benchmark and df[color_column].nunique() > 21:
+                width += 4
+            else:
+                width += 2
 
     # formatter for axes' labels
     ax_formatter = mizani.custom_format('{:n}')
@@ -325,9 +331,9 @@ def get_unsat(df, tool):
     """Returns dataframe containing rows of df, where df[tool-result] is 'unsat'"""
     return df[(df[tool+"-result"].str.strip() == 'unsat')]
 
-def get_benchmark(df, benchmark_name):
+def get_benchmarks(df, benchmark_names):
     """Returns dataframe for a specific benchmark"""
-    return df[(df["benchmark"] == benchmark_name)]
+    return df[(df["benchmark"].isin(benchmark_names))]
 
 def simple_table(df, tools, benches, separately=False, times_from_solved=True):
     """Prints a simple table with statistics for each tools.
