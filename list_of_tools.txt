@@ -614,7 +614,19 @@ d055803-8e9e3aa
 
 # devel
 28494d2-f049292
+z3-noodler-9a1be36-f09b1eb
+z3-noodler-no-nft-preprocess-9a1be36-f09b1eb
+z3-noodler-no-homomorphic-heuristic-9a1be36-f09b1eb
 
-# branch better_transducer_model
+# branch better_transducer_model (not merged)
 ff7c8e1-f967c04
 1af9d2e-f049292
+
+# branch transducer_model_from_parikh
+z3-noodler-model-ae5b770-f09b1eb
+z3-noodler-model-129d07e-f09b1eb
+z3-noodler-model-a99cb82-f09b1eb
+z3-noodler-model-79f5cf0-f09b1eb
+z3-noodler-model-b7d6def-f09b1eb
+d2704a8-f09b1eb
+4efcbcf-f09b1eb
