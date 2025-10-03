@@ -642,5 +642,8 @@ a5f80e5-f09b1eb
 6c552e1-f09b1eb
 af91cf0-f09b1eb
 
-# branch (not merged)
+# branch simple-transducers-no-noodlify (not merged)
 5b89ea9-f09b1eb
+
+# branch devel
+7ce2cff-f09b1eb
