@@ -382,6 +382,37 @@ def simple_table(df, tools, benches, separately=False, times_from_solved=True):
 
     return result
 
+def dataframe_table(df, benches, tools, tool_latex_mapping):
+    sorted_benches = sorted(benches)
+
+    columns = [(bench, f"({len(df[df['benchmark'] == bench])})", sub) for bench in sorted_benches for sub in ["solved", "time"]]
+    columns += [("All", len(df), sub) for sub in ["solved", "time"]]
+    columns = pd.MultiIndex.from_tuples(columns)
+
+    data = []
+    for tool in tools:
+        tool_data = []
+        for bench in sorted_benches:
+            solved = get_solved(df[df['benchmark'] == bench], tool)
+            num_of_solved = len(solved)
+            tool_data.append(num_of_solved)
+            if num_of_solved > 0:
+                runtime = f"{solved[f'{tool}-runtime'].sum():.1f}"
+            else:
+                runtime = "N/A"
+            tool_data.append(runtime)
+        solved = get_solved(df, tool)
+        tool_data.append(len(solved))
+        runtime = f"{solved[f'{tool}-runtime'].sum():.1f}"
+        if not runtime:
+            runtime = "N/A"
+        tool_data.append(runtime)
+        data.append(tool_data)
+
+    result = pd.DataFrame(data, columns=columns, index=[tool_latex_mapping[tool] for tool in tools])
+    result.index.name = ""
+    return result
+
 def add_vbs(df, tools_list, name = None):
     """Adds virtual best solvers from tools in tool_list
 
@@ -501,7 +532,6 @@ def get_stats_dfs(df, tool, order=None):
 
     df_stats = df_stats[stats_columns_to_keep_strs]
     df_stats = pd.concat([df[additional_columns_strs], df_stats], axis=1)
-    df_stats.replace({"benchmark": {"snia": "kaluza"}}, inplace=True)
 
     for column in df_stats:
         if column not in additional_columns_strs:
