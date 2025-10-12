@@ -647,3 +647,5 @@ af91cf0-f09b1eb
 
 # branch devel
 7ce2cff-f09b1eb
+z3-noodler-no-nft-preprocess-7ce2cff-f09b1eb
+z3-noodler-no-homomorphic-heuristic-7ce2cff-f09b1eb
