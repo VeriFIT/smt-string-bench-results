@@ -397,13 +397,13 @@ def dataframe_table(df, benches, tools, tool_latex_mapping):
             num_of_solved = len(solved)
             tool_data.append(num_of_solved)
             if num_of_solved > 0:
-                runtime = f"{solved[f'{tool}-runtime'].sum():.1f}"
+                runtime = f"{solved[f'{tool}-runtime'].sum():,.0f}"
             else:
                 runtime = "N/A"
             tool_data.append(runtime)
         solved = get_solved(df, tool)
         tool_data.append(len(solved))
-        runtime = f"{solved[f'{tool}-runtime'].sum():.1f}"
+        runtime = f"{solved[f'{tool}-runtime'].sum():,.0f}"
         if not runtime:
             runtime = "N/A"
         tool_data.append(runtime)
