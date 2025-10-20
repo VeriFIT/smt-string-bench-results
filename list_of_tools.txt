@@ -526,6 +526,7 @@ z3-noodler-64d9f94-2fef659
 
 # new versions of other tools (8 parallel, 8GB mem limit, 120s time limit)
 cvc5-1.3.0
+cvc5-1.3.1
 z3-4.15.1
 ostrich-2-smtcomp25 (4 parallel, 16GB mem limit)
 
@@ -651,3 +652,4 @@ af91cf0-f09b1eb
 7ce2cff-f09b1eb
 z3-noodler-no-nft-preprocess-7ce2cff-f09b1eb
 z3-noodler-no-homomorphic-heuristic-7ce2cff-f09b1eb
+52106d2-f09b1eb # v1.4.1
