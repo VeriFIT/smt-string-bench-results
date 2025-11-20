@@ -1,0 +1,20 @@
+execute;z3-noodler-9b4258e-1fc91ef;../formulae/hard-policies/AC_003.smt2
+execute;z3-noodler-9b4258e-1fc91ef;../formulae/hard-policies/AC_002.smt2
+execute;z3-noodler-9b4258e-1fc91ef;../formulae/hard-policies/AC_001.smt2
+execute;z3-noodler-9b4258e-1fc91ef;../formulae/hard-policies/AC_008.smt2
+execute;z3-noodler-9b4258e-1fc91ef;../formulae/hard-policies/AC_004.smt2
+execute;z3-noodler-9b4258e-1fc91ef;../formulae/hard-policies/AC_006.smt2
+execute;z3-noodler-9b4258e-1fc91ef;../formulae/hard-policies/AC_010.smt2
+execute;z3-noodler-9b4258e-1fc91ef;../formulae/hard-policies/AC_005.smt2
+execute;z3-noodler-9b4258e-1fc91ef;../formulae/hard-policies/AC_009.smt2
+execute;z3-noodler-9b4258e-1fc91ef;../formulae/hard-policies/AC_007.smt2
+finished;z3-noodler-9b4258e-1fc91ef;../formulae/hard-policies/AC_003.smt2;0;result: unsat;;0.01
+finished;z3-noodler-9b4258e-1fc91ef;../formulae/hard-policies/AC_004.smt2;0;result: sat;;0.05
+finished;z3-noodler-9b4258e-1fc91ef;../formulae/hard-policies/AC_005.smt2;0;result: sat;;0.04
+finished;z3-noodler-9b4258e-1fc91ef;../formulae/hard-policies/AC_002.smt2;0;result: unsat;;0.18
+finished;z3-noodler-9b4258e-1fc91ef;../formulae/hard-policies/AC_009.smt2;0;result: sat;;0.15
+finished;z3-noodler-9b4258e-1fc91ef;../formulae/hard-policies/AC_001.smt2;0;result: unsat;;1.05
+finished;z3-noodler-9b4258e-1fc91ef;../formulae/hard-policies/AC_008.smt2;0;result: sat;;3.13
+finished;z3-noodler-9b4258e-1fc91ef;../formulae/hard-policies/AC_010.smt2;0;result: unknown;ERROR: unexpected character: '2 2'.###WARNING: parser error###WARNING: invalid cost function '', switching to default one;18.73
+error;z3-noodler-9b4258e-1fc91ef;../formulae/hard-policies/AC_006.smt2;terminate called after throwing an instance of 'std::bad_alloc'###  what():  std::bad_alloc###real 56.07###user 47.13###sys 7.82
+timeout;z3-noodler-9b4258e-1fc91ef;../formulae/hard-policies/AC_007.smt2
