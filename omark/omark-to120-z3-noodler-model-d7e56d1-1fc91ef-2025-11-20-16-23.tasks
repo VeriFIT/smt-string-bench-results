@@ -1,0 +1,34 @@
+execute;z3-noodler-model-d7e56d1-1fc91ef;../formulae/QF_S/20240318-omark/noodles-unsat-9.smt2
+execute;z3-noodler-model-d7e56d1-1fc91ef;../formulae/QF_S/20240318-omark/noodles-unsat-10.smt2
+execute;z3-noodler-model-d7e56d1-1fc91ef;../formulae/QF_S/20240318-omark/noodles-unsat-5.smt2
+execute;z3-noodler-model-d7e56d1-1fc91ef;../formulae/QF_S/20240318-omark/lyndon-schuetzenberg-1.smt2
+execute;z3-noodler-model-d7e56d1-1fc91ef;../formulae/QF_S/20240318-omark/noodles-unsat-4.smt2
+execute;z3-noodler-model-d7e56d1-1fc91ef;../formulae/QF_S/20240318-omark/noodles-unsat-8.smt2
+execute;z3-noodler-model-d7e56d1-1fc91ef;../formulae/QF_S/20240318-omark/noodles-unsat-3.smt2
+execute;z3-noodler-model-d7e56d1-1fc91ef;../formulae/QF_S/20240318-omark/noodles-unsat.smt2
+execute;z3-noodler-model-d7e56d1-1fc91ef;../formulae/QF_S/20240318-omark/cloud-service-query-2.smt2
+execute;z3-noodler-model-d7e56d1-1fc91ef;../formulae/QF_S/20240318-omark/noodles-unsat-2.smt2
+execute;z3-noodler-model-d7e56d1-1fc91ef;../formulae/QF_S/20240318-omark/cloud-service-query-1.smt2
+execute;z3-noodler-model-d7e56d1-1fc91ef;../formulae/QF_S/20240318-omark/lyndon-schuetzenberg-2.smt2
+execute;z3-noodler-model-d7e56d1-1fc91ef;../formulae/QF_S/20240318-omark/noodles-unsat-7.smt2
+execute;z3-noodler-model-d7e56d1-1fc91ef;../formulae/QF_S/20240318-omark/parikh.smt2
+execute;z3-noodler-model-d7e56d1-1fc91ef;../formulae/QF_S/20240318-omark/noodles-unsat-6.smt2
+execute;z3-noodler-model-d7e56d1-1fc91ef;../formulae/QF_S/20240318-omark/lyndon-schuetzenberg-3.smt2
+execute;z3-noodler-model-d7e56d1-1fc91ef;../formulae/QF_S/20240318-omark/cyclic-xy.smt2
+finished;z3-noodler-model-d7e56d1-1fc91ef;../formulae/QF_S/20240318-omark/noodles-unsat.smt2;0;result: unsat;;0.0
+finished;z3-noodler-model-d7e56d1-1fc91ef;../formulae/QF_S/20240318-omark/noodles-unsat-10.smt2;0;result:;ASSERTION VIOLATION###File: /home/vojta/smt-bench/bin/z3-noodler/src/smt/smt_context.cpp###Line: 1839###UNEXPECTED CODE WAS REACHED.###4.15.1.0 d7e56d1d55faaff44142227e4561c955cb70f32e v0.3.0-3879-gd7e56d1d5###Please file an issue with this message and more detail about how you encountered it at https://github.com/Z3Prover/z3/issues/new;0.0
+finished;z3-noodler-model-d7e56d1-1fc91ef;../formulae/QF_S/20240318-omark/noodles-unsat-3.smt2;0;result: unsat;;0.0
+finished;z3-noodler-model-d7e56d1-1fc91ef;../formulae/QF_S/20240318-omark/noodles-unsat-4.smt2;0;result:;ASSERTION VIOLATION###File: /home/vojta/smt-bench/bin/z3-noodler/src/smt/smt_context.cpp###Line: 1839###UNEXPECTED CODE WAS REACHED.###4.15.1.0 d7e56d1d55faaff44142227e4561c955cb70f32e v0.3.0-3879-gd7e56d1d5###Please file an issue with this message and more detail about how you encountered it at https://github.com/Z3Prover/z3/issues/new;0.01
+finished;z3-noodler-model-d7e56d1-1fc91ef;../formulae/QF_S/20240318-omark/noodles-unsat-2.smt2;0;result: unsat;;0.0
+finished;z3-noodler-model-d7e56d1-1fc91ef;../formulae/QF_S/20240318-omark/cloud-service-query-2.smt2;0;result: unsat;;0.01
+finished;z3-noodler-model-d7e56d1-1fc91ef;../formulae/QF_S/20240318-omark/lyndon-schuetzenberg-2.smt2;0;result: unsat;;0.0
+finished;z3-noodler-model-d7e56d1-1fc91ef;../formulae/QF_S/20240318-omark/parikh.smt2;0;result: unsat;;0.0
+finished;z3-noodler-model-d7e56d1-1fc91ef;../formulae/QF_S/20240318-omark/cloud-service-query-1.smt2;0;result:;ASSERTION VIOLATION###File: /home/vojta/smt-bench/bin/z3-noodler/src/smt/smt_context.cpp###Line: 1839###UNEXPECTED CODE WAS REACHED.###4.15.1.0 d7e56d1d55faaff44142227e4561c955cb70f32e v0.3.0-3879-gd7e56d1d5###Please file an issue with this message and more detail about how you encountered it at https://github.com/Z3Prover/z3/issues/new;0.04
+finished;z3-noodler-model-d7e56d1-1fc91ef;../formulae/QF_S/20240318-omark/cyclic-xy.smt2;0;result: unsat;;0.0
+finished;z3-noodler-model-d7e56d1-1fc91ef;../formulae/QF_S/20240318-omark/lyndon-schuetzenberg-3.smt2;0;result:;terminate called after throwing an instance of 'std::bad_alloc'###  what():  std::bad_alloc;21.02
+finished;z3-noodler-model-d7e56d1-1fc91ef;../formulae/QF_S/20240318-omark/lyndon-schuetzenberg-1.smt2;0;result:;terminate called after throwing an instance of 'std::bad_alloc'###  what():  std::bad_alloc;62.54
+timeout;z3-noodler-model-d7e56d1-1fc91ef;../formulae/QF_S/20240318-omark/noodles-unsat-7.smt2
+timeout;z3-noodler-model-d7e56d1-1fc91ef;../formulae/QF_S/20240318-omark/noodles-unsat-6.smt2
+timeout;z3-noodler-model-d7e56d1-1fc91ef;../formulae/QF_S/20240318-omark/noodles-unsat-5.smt2
+timeout;z3-noodler-model-d7e56d1-1fc91ef;../formulae/QF_S/20240318-omark/noodles-unsat-9.smt2
+timeout;z3-noodler-model-d7e56d1-1fc91ef;../formulae/QF_S/20240318-omark/noodles-unsat-8.smt2
