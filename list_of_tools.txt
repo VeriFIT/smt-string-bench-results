@@ -590,6 +590,7 @@ fee8de7-2fef659
 z3-4.15.3
 z3-model-4.15.3
 check-model-z3-4.15.3
+z3-4.15.4
 cvc5-1.3.0
 cvc5-model-1.3.0
 check-model-cvc5-1.3.0
