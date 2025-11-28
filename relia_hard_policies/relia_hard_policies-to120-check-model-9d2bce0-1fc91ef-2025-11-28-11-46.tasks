@@ -1,0 +1,20 @@
+execute;check-model-9d2bce0-1fc91ef;../formulae/hard-policies/AC_003.smt2
+execute;check-model-9d2bce0-1fc91ef;../formulae/hard-policies/AC_002.smt2
+execute;check-model-9d2bce0-1fc91ef;../formulae/hard-policies/AC_001.smt2
+execute;check-model-9d2bce0-1fc91ef;../formulae/hard-policies/AC_008.smt2
+execute;check-model-9d2bce0-1fc91ef;../formulae/hard-policies/AC_004.smt2
+execute;check-model-9d2bce0-1fc91ef;../formulae/hard-policies/AC_006.smt2
+execute;check-model-9d2bce0-1fc91ef;../formulae/hard-policies/AC_010.smt2
+execute;check-model-9d2bce0-1fc91ef;../formulae/hard-policies/AC_005.smt2
+execute;check-model-9d2bce0-1fc91ef;../formulae/hard-policies/AC_009.smt2
+execute;check-model-9d2bce0-1fc91ef;../formulae/hard-policies/AC_007.smt2
+finished;check-model-9d2bce0-1fc91ef;../formulae/hard-policies/AC_003.smt2;0;result: unsat;;0.0
+finished;check-model-9d2bce0-1fc91ef;../formulae/hard-policies/AC_002.smt2;0;result: unsat;;0.0
+finished;check-model-9d2bce0-1fc91ef;../formulae/hard-policies/AC_001.smt2;0;result: unsat;;0.0
+finished;check-model-9d2bce0-1fc91ef;../formulae/hard-policies/AC_004.smt2;0;result:;;0.0
+finished;check-model-9d2bce0-1fc91ef;../formulae/hard-policies/AC_007.smt2;1;;;0.0
+finished;check-model-9d2bce0-1fc91ef;../formulae/hard-policies/AC_010.smt2;1;result: (error \"Parse Error: <stdin>:170.16: Expected SMT-LIBv2 operator, got `)` (RPAREN_TOK).\");<stdin>:1.2: No set-logic command was given before this point.###<stdin>:1.2: cvc5 will make all theories available.###<stdin>:1.2: Consider setting a stricter logic for (likely) better performance.###<stdin>:1.2: To suppress this warning in the future use (set-logic ALL).;0.02
+finished;check-model-9d2bce0-1fc91ef;../formulae/hard-policies/AC_008.smt2;1;result: (error \"Parse Error: <stdin>:117.16: Expected SMT-LIBv2 operator, got `)` (RPAREN_TOK).\");<stdin>:1.2: No set-logic command was given before this point.###<stdin>:1.2: cvc5 will make all theories available.###<stdin>:1.2: Consider setting a stricter logic for (likely) better performance.###<stdin>:1.2: To suppress this warning in the future use (set-logic ALL).;0.01
+finished;check-model-9d2bce0-1fc91ef;../formulae/hard-policies/AC_006.smt2;1;result: (error \"Parse Error: <stdin>:268.16: Expected SMT-LIBv2 operator, got `)` (RPAREN_TOK).\");<stdin>:1.2: No set-logic command was given before this point.###<stdin>:1.2: cvc5 will make all theories available.###<stdin>:1.2: Consider setting a stricter logic for (likely) better performance.###<stdin>:1.2: To suppress this warning in the future use (set-logic ALL).;0.01
+finished;check-model-9d2bce0-1fc91ef;../formulae/hard-policies/AC_005.smt2;1;result: (error \"Parse Error: <stdin>:113.16: Expected SMT-LIBv2 operator, got `)` (RPAREN_TOK).\");<stdin>:1.2: No set-logic command was given before this point.###<stdin>:1.2: cvc5 will make all theories available.###<stdin>:1.2: Consider setting a stricter logic for (likely) better performance.###<stdin>:1.2: To suppress this warning in the future use (set-logic ALL).;0.01
+finished;check-model-9d2bce0-1fc91ef;../formulae/hard-policies/AC_009.smt2;1;result: (error \"Parse Error: <stdin>:127.16: Expected SMT-LIBv2 operator, got `)` (RPAREN_TOK).\");<stdin>:1.2: No set-logic command was given before this point.###<stdin>:1.2: cvc5 will make all theories available.###<stdin>:1.2: Consider setting a stricter logic for (likely) better performance.###<stdin>:1.2: To suppress this warning in the future use (set-logic ALL).;0.01
