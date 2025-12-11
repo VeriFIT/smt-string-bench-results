@@ -1,0 +1,20 @@
+execute;z3-noodler-model-ca2887e-1fc91ef;../formulae/hard-policies/AC_003.smt2
+execute;z3-noodler-model-ca2887e-1fc91ef;../formulae/hard-policies/AC_002.smt2
+execute;z3-noodler-model-ca2887e-1fc91ef;../formulae/hard-policies/AC_001.smt2
+execute;z3-noodler-model-ca2887e-1fc91ef;../formulae/hard-policies/AC_008.smt2
+execute;z3-noodler-model-ca2887e-1fc91ef;../formulae/hard-policies/AC_004.smt2
+execute;z3-noodler-model-ca2887e-1fc91ef;../formulae/hard-policies/AC_006.smt2
+execute;z3-noodler-model-ca2887e-1fc91ef;../formulae/hard-policies/AC_010.smt2
+execute;z3-noodler-model-ca2887e-1fc91ef;../formulae/hard-policies/AC_005.smt2
+execute;z3-noodler-model-ca2887e-1fc91ef;../formulae/hard-policies/AC_009.smt2
+execute;z3-noodler-model-ca2887e-1fc91ef;../formulae/hard-policies/AC_007.smt2
+finished;z3-noodler-model-ca2887e-1fc91ef;../formulae/hard-policies/AC_003.smt2;0;result: unsat;;0.02
+finished;z3-noodler-model-ca2887e-1fc91ef;../formulae/hard-policies/AC_005.smt2;0;result: sat;;0.05
+finished;z3-noodler-model-ca2887e-1fc91ef;../formulae/hard-policies/AC_006.smt2;0;result: sat;;0.12
+finished;z3-noodler-model-ca2887e-1fc91ef;../formulae/hard-policies/AC_002.smt2;0;result: unsat;;0.17
+finished;z3-noodler-model-ca2887e-1fc91ef;../formulae/hard-policies/AC_009.smt2;0;result: sat;;0.18
+finished;z3-noodler-model-ca2887e-1fc91ef;../formulae/hard-policies/AC_001.smt2;0;result: unsat;;1.01
+finished;z3-noodler-model-ca2887e-1fc91ef;../formulae/hard-policies/AC_008.smt2;0;result: sat;;3.11
+finished;z3-noodler-model-ca2887e-1fc91ef;../formulae/hard-policies/AC_010.smt2;0;result: sat;;4.81
+error;z3-noodler-model-ca2887e-1fc91ef;../formulae/hard-policies/AC_004.smt2;terminate called after throwing an instance of 'std::bad_alloc'###  what():  std::bad_alloc###real 17.02###user 14.70###sys 1.21
+timeout;z3-noodler-model-ca2887e-1fc91ef;../formulae/hard-policies/AC_007.smt2
