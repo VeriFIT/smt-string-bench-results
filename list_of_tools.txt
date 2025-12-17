@@ -722,3 +722,6 @@ e8b6224-1fc91ef
 6a77413-1fc91ef
 b914f37-1fc91ef
 39b8feb-1fc91ef
+
+# branch fix_literals_in_transducers
+ec26a16-1fc91ef
