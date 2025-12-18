@@ -1,0 +1,34 @@
+execute;ostrich-2.0.1;../formulae/QF_S/20240318-omark/noodles-unsat-9.smt2
+execute;ostrich-2.0.1;../formulae/QF_S/20240318-omark/noodles-unsat-10.smt2
+execute;ostrich-2.0.1;../formulae/QF_S/20240318-omark/noodles-unsat-5.smt2
+execute;ostrich-2.0.1;../formulae/QF_S/20240318-omark/lyndon-schuetzenberg-1.smt2
+execute;ostrich-2.0.1;../formulae/QF_S/20240318-omark/noodles-unsat-4.smt2
+execute;ostrich-2.0.1;../formulae/QF_S/20240318-omark/noodles-unsat-8.smt2
+execute;ostrich-2.0.1;../formulae/QF_S/20240318-omark/noodles-unsat-3.smt2
+execute;ostrich-2.0.1;../formulae/QF_S/20240318-omark/noodles-unsat.smt2
+execute;ostrich-2.0.1;../formulae/QF_S/20240318-omark/cloud-service-query-2.smt2
+execute;ostrich-2.0.1;../formulae/QF_S/20240318-omark/noodles-unsat-2.smt2
+execute;ostrich-2.0.1;../formulae/QF_S/20240318-omark/cloud-service-query-1.smt2
+execute;ostrich-2.0.1;../formulae/QF_S/20240318-omark/lyndon-schuetzenberg-2.smt2
+execute;ostrich-2.0.1;../formulae/QF_S/20240318-omark/noodles-unsat-7.smt2
+execute;ostrich-2.0.1;../formulae/QF_S/20240318-omark/parikh.smt2
+execute;ostrich-2.0.1;../formulae/QF_S/20240318-omark/noodles-unsat-6.smt2
+execute;ostrich-2.0.1;../formulae/QF_S/20240318-omark/lyndon-schuetzenberg-3.smt2
+execute;ostrich-2.0.1;../formulae/QF_S/20240318-omark/cyclic-xy.smt2
+finished;ostrich-2.0.1;../formulae/QF_S/20240318-omark/noodles-unsat-10.smt2;0;result: sat;;1.67
+finished;ostrich-2.0.1;../formulae/QF_S/20240318-omark/lyndon-schuetzenberg-1.smt2;0;result: sat;;13.02
+finished;ostrich-2.0.1;../formulae/QF_S/20240318-omark/noodles-unsat-5.smt2;0;result: sat;;12.61
+finished;ostrich-2.0.1;../formulae/QF_S/20240318-omark/noodles-unsat.smt2;0;result: sat;;14.46
+finished;ostrich-2.0.1;../formulae/QF_S/20240318-omark/noodles-unsat-8.smt2;0;result: sat;;13.93
+finished;ostrich-2.0.1;../formulae/QF_S/20240318-omark/noodles-unsat-4.smt2;0;result: sat;;14.49
+finished;ostrich-2.0.1;../formulae/QF_S/20240318-omark/noodles-unsat-3.smt2;0;result: sat;;13.9
+finished;ostrich-2.0.1;../formulae/QF_S/20240318-omark/noodles-unsat-9.smt2;0;result: sat;;15.65
+finished;ostrich-2.0.1;../formulae/QF_S/20240318-omark/cloud-service-query-2.smt2;0;result: sat;;14.9
+finished;ostrich-2.0.1;../formulae/QF_S/20240318-omark/cloud-service-query-1.smt2;0;result: sat;;15.12
+finished;ostrich-2.0.1;../formulae/QF_S/20240318-omark/noodles-unsat-2.smt2;0;result: sat;;15.31
+finished;ostrich-2.0.1;../formulae/QF_S/20240318-omark/noodles-unsat-6.smt2;0;result: sat;;14.25
+finished;ostrich-2.0.1;../formulae/QF_S/20240318-omark/noodles-unsat-7.smt2;0;result: sat;;13.64
+finished;ostrich-2.0.1;../formulae/QF_S/20240318-omark/lyndon-schuetzenberg-3.smt2;0;result: sat;;13.56
+finished;ostrich-2.0.1;../formulae/QF_S/20240318-omark/parikh.smt2;0;result: sat;;11.38
+finished;ostrich-2.0.1;../formulae/QF_S/20240318-omark/lyndon-schuetzenberg-2.smt2;0;result: sat;;14.96
+finished;ostrich-2.0.1;../formulae/QF_S/20240318-omark/cyclic-xy.smt2;0;result: sat;;13.05
