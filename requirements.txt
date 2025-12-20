@@ -5,3 +5,5 @@ plotnine
 tabulate
 itables
 jinja2
+plotly
+nbformat

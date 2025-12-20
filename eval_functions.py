@@ -1,6 +1,7 @@
 import pandas as pd
 import json
 import numpy as np
+import plotly.express as px
 import mizani.formatters as mizani
 import plotnine as p9
 import tabulate as tab
@@ -117,7 +118,9 @@ def load_benches(benches, tools, bench_selection, benchmark_to_group, timeout = 
     df_all = df_runtime_result.merge(df_stats)
     return df_all
 
-def scatter_plot(df, x_tool, y_tool, timeout = 120, clamp=True, clamp_domain=[0.01, 120], xname=None, yname=None, log=True, width=6, height=6, show_legend=True, legend_width=None, file_name_to_save=None, transparent=False, color_by_benchmark=True, color_column="benchmark", point_size=1.0):
+def scatter_plot(df, x_tool, y_tool, timeout = 120, clamp=True, clamp_domain=[0.01, 120], xname=None, yname=None,
+                 log=True, width=6, height=6, show_legend=True, legend_width=None, file_name_to_save=None, transparent=False,
+                 color_by_benchmark=True, color_column="benchmark", point_size=1.0):
     """Returns scatter plot plotting the values of df[x_tool] and df[y_tool] columns.
 
     Args:
@@ -222,6 +225,115 @@ def scatter_plot(df, x_tool, y_tool, timeout = 120, clamp=True, clamp_domain=[0.
         scatter.save(filename=f"{file_name_to_save}.pdf", dpi=500, verbose=False)
 
     return scatter
+
+def scatter_plot_interactive(df, x_tool, y_tool, timeout=120,
+                             xname=None, yname=None, log=True, width=600, height=600,
+                             color_by_benchmark=True, color_column="benchmark", point_size=6,
+                             file_name_to_save=None):
+    """
+    Interactive scatter plot using Plotly. Hovering shows the benchmark name.
+    """
+    if xname is None:
+        xname = x_tool
+    if yname is None:
+        yname = y_tool
+
+    x_col = x_tool + "-runtime"
+    y_col = y_tool + "-runtime"
+
+    df = df.copy()
+    df[x_col] = np.clip(df[x_col], 0.01, timeout)
+    df[y_col] = np.clip(df[y_col], 0.01, timeout)
+
+    if color_by_benchmark:
+        color = color_column
+        # my_colors = px.colors.sequential.Viridis[:df[color].nunique()]  # pick first N colors
+    else:
+        color = None
+        # my_colors = None
+
+    fig = px.scatter(
+        df,
+        x=x_col,
+        y=y_col,
+        color=color,
+        # color_discrete_sequence=my_colors,
+        hover_name="name",  # Hover shows benchmark names
+        labels={x_col: xname, y_col: yname},
+        color_continuous_scale="Viridis",  # or other color scales
+    )
+    fig.update_layout(
+        width=width+210,
+        height=height,
+        margin=dict(
+            l=20,        # left margin
+            r=230,       # reserve space for legend
+            t=20,
+            b=20
+        )
+    )
+
+    # color of figure
+    fig.update_layout(
+        plot_bgcolor="white",   # background of the plotting area
+        paper_bgcolor="white",  # background of the figure
+        xaxis=dict(
+            showgrid=True,
+            gridcolor="#CCCCCC",  # light gray
+            zeroline=False,
+            linecolor="black",
+            mirror=True,          # draw axis lines on top and right
+            ticks="outside",
+            tickcolor="black",
+            title_font=dict(size=16, color="black"),
+            tickfont=dict(size=14, color="black")
+        ),
+        yaxis=dict(
+            showgrid=True,
+            gridcolor="#CCCCCC",
+            zeroline=False,
+            linecolor="black",
+            mirror=True,
+            ticks="outside",
+            tickcolor="black",
+            title_font=dict(size=16, color="black"),
+            tickfont=dict(size=14, color="black")
+        ),
+        legend=dict(
+            bgcolor="white",
+            bordercolor="#CCCCCC",
+            borderwidth=1
+        )
+    )
+
+    # Log scales if requested + plot should be a square
+    if log:
+        fig.update_xaxes(type="log", tickmode="linear", dtick=1, range=[np.log10(clamp_domain[0]), np.log10(clamp_domain[1])])
+        fig.update_yaxes(type="log", tickmode="linear", dtick=1, range=[np.log10(clamp_domain[0]), np.log10(clamp_domain[1])], scaleanchor="x", scaleratio=1)
+    else:
+        fig.update_xaxes(range=clamp_domain)
+        fig.update_yaxes(range=clamp_domain, scaleanchor="x", scaleratio=1)
+
+    # Diagonal line (y=x)
+    fig.add_shape(type="line",
+                  x0=clamp_domain[0], y0=clamp_domain[0],
+                  x1=clamp_domain[1], y1=clamp_domain[1],
+                  line=dict(dash="dash", color="black"))
+
+    # Optional saving
+    if file_name_to_save is not None:
+        fig.write_html(f"{file_name_to_save}.html")  # saves interactive HTML
+
+    fig.update_traces(
+        marker=dict(
+            size=point_size,
+            opacity=0.9,    
+            # line=dict(width=0.5, color="black"),  # optional border to make dots stand out
+        ),
+        selector=dict(mode='markers'),
+    )
+
+    return fig
 
 def cactus_plot(df, tools, timeout = 120, tool_names = None, start = 0, end = None, logarithmic_y_axis=True, width=6, height=6, show_legend=True, put_legend_outside=False, file_name_to_save=None, num_of_x_ticks=5):
     """Returns cactus plot (sorted runtimes of each tool in tools). To print the result use result.figure.savefig("name_of_file.pdf", transparent=True).
