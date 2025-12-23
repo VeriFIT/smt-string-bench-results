@@ -1,0 +1,266 @@
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/gcp/storage_object_admin_resourcetypeconstraints_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/gcp/compute_os_login_resourcetypeconstraints_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/gcp/compute_os_admin_login_resourcetypeconstraints_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/gcp/storage_object_viewer_resourcetypeconstraints_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/gcp/storage_object_creator_resourcetypeconstraints_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/azure/storage_data_owner_resourcetypeconstraints_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/azure/compute_user_login_resourcetypeconstraints_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/azure/storage_data_contributor_resourcetypeconstraints_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/azure/compute_admin_login_resourcetypeconstraints_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/azure/storage_data_reader_resourcetypeconstraints_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_require_mfa_session_token/policy_resourcetypeconstraints_actionencoding_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_require_mfa_session_token/policy_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_require_mfa_session_token/policy_resourcetypeconstraints_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_allow_ebs_volume_owners/policy_resourcetypeconstraints_actionencoding_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_allow_ebs_volume_owners/policy_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_allow_ebs_volume_owners/policy_resourcetypeconstraints_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_limit_ebs_volume_size/initial_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_limit_ebs_volume_size/initial_resourcetypeconstraints_actionencoding_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_limit_ebs_volume_size/fixed_resourcetypeconstraints_actionencoding_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_limit_ebs_volume_size/initial_resourcetypeconstraints_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_limit_ebs_volume_size/fixed_resourcetypeconstraints_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_limit_ebs_volume_size/fixed_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_allow_some_instances/initial_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_allow_some_instances/initial_resourcetypeconstraints_actionencoding_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_allow_some_instances/fixed_resourcetypeconstraints_actionencoding_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_allow_some_instances/initial_resourcetypeconstraints_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_allow_some_instances/fixed_resourcetypeconstraints_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_allow_some_instances/fixed_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_validate_attach_volume/policy_resourcetypeconstraints_actionencoding_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_validate_attach_volume/policy_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_validate_attach_volume/policy_resourcetypeconstraints_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_enforce_project_tagging/policy_resourcetypeconstraints_actionencoding_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_enforce_project_tagging/policy_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_enforce_project_tagging/policy_resourcetypeconstraints_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_actions_region_aws-portal/policy_resourcetypeconstraints_actionencoding_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_actions_region_aws-portal/policy_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_actions_region_aws-portal/policy_resourcetypeconstraints_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_restrict_to_specific_instance/policy_resourcetypeconstraints_actionencoding_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_restrict_to_specific_instance/policy_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_restrict_to_specific_instance/policy_resourcetypeconstraints_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_prevent_running_classic/policy_resourcetypeconstraints_actionencoding_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_prevent_running_classic/policy_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_prevent_running_classic/policy_resourcetypeconstraints_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_launch_instance_specific_subnet/policy_resourcetypeconstraints_actionencoding_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_launch_instance_specific_subnet/policy_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_launch_instance_specific_subnet/policy_resourcetypeconstraints_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_terminate_instance_ip/policy_resourcetypeconstraints_actionencoding_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_terminate_instance_ip/policy_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_terminate_instance_ip/policy_resourcetypeconstraints_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_restrict_access_to_certain_roles/policy_resourcetypeconstraints_actionencoding_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_restrict_access_to_certain_roles/policy_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_restrict_access_to_certain_roles/policy_resourcetypeconstraints_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_allow_all_except_delete/initial_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_allow_all_except_delete/initial_resourcetypeconstraints_actionencoding_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_allow_all_except_delete/fixed_resourcetypeconstraints_actionencoding_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_allow_all_except_delete/initial_resourcetypeconstraints_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_allow_all_except_delete/fixed_resourcetypeconstraints_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_allow_all_except_delete/fixed_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_policy_public_and_principal_specific_permissions/policy_resourcetypeconstraints_actionencoding_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_policy_public_and_principal_specific_permissions/policy_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_policy_public_and_principal_specific_permissions/policy_resourcetypeconstraints_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_remove_permissions_individual_files/policy1_resourcetypeconstraints_actionencoding_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_remove_permissions_individual_files/policy2_resourcetypeconstraints_actionencoding_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_remove_permissions_individual_files/policy1_resourcetypeconstraints_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_remove_permissions_individual_files/policy1_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_remove_permissions_individual_files/policy2_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_remove_permissions_individual_files/policy2_resourcetypeconstraints_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_iam_user_cannot_create_folder_through_console/policy_resourcetypeconstraints_actionencoding_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_iam_user_cannot_create_folder_through_console/policy_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_iam_user_cannot_create_folder_through_console/policy_resourcetypeconstraints_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_public_access/policy_resourcetypeconstraints_actionencoding_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_public_access/policy_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_public_access/policy_resourcetypeconstraints_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_sos_bucket_policy_problem/policy_resourcetypeconstraints_actionencoding_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_sos_bucket_policy_problem/policy_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_sos_bucket_policy_problem/policy_resourcetypeconstraints_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_policy_provides_programmatic_access/policy3_resourcetypeconstraints_actionencoding_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_policy_provides_programmatic_access/policy3_resourcetypeconstraints_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_policy_provides_programmatic_access/policy1_resourcetypeconstraints_actionencoding_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_policy_provides_programmatic_access/policy2_resourcetypeconstraints_actionencoding_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_policy_provides_programmatic_access/policy1_resourcetypeconstraints_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_policy_provides_programmatic_access/policy3_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_policy_provides_programmatic_access/policy1_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_policy_provides_programmatic_access/policy2_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_policy_provides_programmatic_access/policy2_resourcetypeconstraints_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_bucket_policy_grant_read_specific_file_type/policy_resourcetypeconstraints_actionencoding_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_bucket_policy_grant_read_specific_file_type/policy_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_bucket_policy_grant_read_specific_file_type/policy_resourcetypeconstraints_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_policy_for_lambda_function/policy1_resourcetypeconstraints_actionencoding_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_policy_for_lambda_function/policy2_resourcetypeconstraints_actionencoding_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_policy_for_lambda_function/policy1_resourcetypeconstraints_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_policy_for_lambda_function/policy1_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_policy_for_lambda_function/policy2_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_policy_for_lambda_function/policy2_resourcetypeconstraints_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_bucket_folder_restrict_by_user/policy_resourcetypeconstraints_actionencoding_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_bucket_folder_restrict_by_user/policy_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_bucket_folder_restrict_by_user/policy_resourcetypeconstraints_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_object_query_permissions/fix_resourcetypeconstraints_actionencoding_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_object_query_permissions/fix_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_object_query_permissions/policy1_resourcetypeconstraints_actionencoding_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_object_query_permissions/fix_resourcetypeconstraints_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_object_query_permissions/policy1_resourcetypeconstraints_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_object_query_permissions/policy1_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_policy_or_condition/policy_resourcetypeconstraints_actionencoding_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_policy_or_condition/policy_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_policy_or_condition/policy_resourcetypeconstraints_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_policy_failing_not_sure_why/policy_resourcetypeconstraints_actionencoding_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_policy_failing_not_sure_why/policy_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_policy_failing_not_sure_why/policy_resourcetypeconstraints_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/iam/exp_single/iam_role_policy_modify_iam_but_not_own_policies/policy_resourcetypeconstraints_actionencoding_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/iam/exp_single/iam_role_policy_modify_iam_but_not_own_policies/policy_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/iam/exp_single/iam_role_policy_modify_iam_but_not_own_policies/policy_resourcetypeconstraints_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/iam/exp_single/iam_policy_allow_adding_deleting_users/initial_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/iam/exp_single/iam_policy_allow_adding_deleting_users/initial_resourcetypeconstraints_actionencoding_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/iam/exp_single/iam_policy_allow_adding_deleting_users/fixed_resourcetypeconstraints_actionencoding_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/iam/exp_single/iam_policy_allow_adding_deleting_users/initial_resourcetypeconstraints_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/iam/exp_single/iam_policy_allow_adding_deleting_users/fixed_resourcetypeconstraints_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/iam/exp_single/iam_policy_allow_adding_deleting_users/fixed_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/iam/exp_single/iam_user_access_to_s3_uploads_fail/initial_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/iam/exp_single/iam_user_access_to_s3_uploads_fail/initial_resourcetypeconstraints_actionencoding_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/iam/exp_single/iam_user_access_to_s3_uploads_fail/fixed_resourcetypeconstraints_actionencoding_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/iam/exp_single/iam_user_access_to_s3_uploads_fail/initial_resourcetypeconstraints_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/iam/exp_single/iam_user_access_to_s3_uploads_fail/fixed_resourcetypeconstraints_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/iam/exp_single/iam_user_access_to_s3_uploads_fail/fixed_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/iam/exp_single/iam_specify_all_users_in_account_bucket_policy/policy1_resourcetypeconstraints_actionencoding_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/iam/exp_single/iam_specify_all_users_in_account_bucket_policy/policy2_resourcetypeconstraints_actionencoding_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/iam/exp_single/iam_specify_all_users_in_account_bucket_policy/policy1_resourcetypeconstraints_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/iam/exp_single/iam_specify_all_users_in_account_bucket_policy/policy1_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/iam/exp_single/iam_specify_all_users_in_account_bucket_policy/policy2_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/iam/exp_single/iam_specify_all_users_in_account_bucket_policy/policy2_resourcetypeconstraints_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/iam/exp_single/iam_simplest_policy/policy_resourcetypeconstraints_actionencoding_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/iam/exp_single/iam_simplest_policy/policy_1.smt2
+execute;ostrich-2.0.1;../formulae/quacky/smt-files/iam/exp_single/iam_simplest_policy/policy_resourcetypeconstraints_1.smt2
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/gcp/storage_object_viewer_resourcetypeconstraints_1.smt2;0;result: sat;;2.38
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/gcp/storage_object_creator_resourcetypeconstraints_1.smt2;0;result: sat;;2.68
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/gcp/storage_object_admin_resourcetypeconstraints_1.smt2;0;result: sat;;2.68
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/gcp/compute_os_login_resourcetypeconstraints_1.smt2;0;result: sat;;3.37
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/gcp/compute_os_admin_login_resourcetypeconstraints_1.smt2;0;result: sat;;3.44
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/azure/storage_data_contributor_resourcetypeconstraints_1.smt2;0;result: sat;;4.88
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/azure/storage_data_owner_resourcetypeconstraints_1.smt2;0;result: sat;;5.57
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/azure/compute_user_login_resourcetypeconstraints_1.smt2;0;result: sat;;7.19
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_require_mfa_session_token/policy_1.smt2;0;result: sat;;1.5
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_allow_ebs_volume_owners/policy_1.smt2;0;result: sat;;2.13
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/azure/storage_data_reader_resourcetypeconstraints_1.smt2;0;result: sat;;4.56
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_require_mfa_session_token/policy_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;5.48
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/azure/compute_admin_login_resourcetypeconstraints_1.smt2;0;result: sat;;7.49
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_limit_ebs_volume_size/initial_1.smt2;0;result: sat;;3.13
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_require_mfa_session_token/policy_resourcetypeconstraints_1.smt2;0;result: sat;;6.89
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_allow_ebs_volume_owners/policy_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;7.2
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_limit_ebs_volume_size/fixed_resourcetypeconstraints_1.smt2;0;result: (error \"Lexical Error: Unmatched Input.\");;1.27
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_limit_ebs_volume_size/initial_resourcetypeconstraints_1.smt2;0;result: (error \"Lexical Error: Unmatched Input.\");;1.86
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_allow_ebs_volume_owners/policy_resourcetypeconstraints_1.smt2;0;result: sat;;8.8
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_allow_some_instances/initial_1.smt2;0;result: sat;;2.03
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_limit_ebs_volume_size/fixed_1.smt2;0;result: sat;;3.45
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_limit_ebs_volume_size/initial_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;8.57
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_allow_some_instances/fixed_1.smt2;0;result: sat;;2.1
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_validate_attach_volume/policy_1.smt2;0;result: sat;;1.71
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_limit_ebs_volume_size/fixed_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;10.43
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_allow_some_instances/initial_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;8.93
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_allow_some_instances/fixed_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;8.96
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_validate_attach_volume/policy_resourcetypeconstraints_actionencoding_1.smt2;0;result: unsat;;5.77
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_enforce_project_tagging/policy_1.smt2;0;result: sat;;2.0
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_allow_some_instances/initial_resourcetypeconstraints_1.smt2;0;result: sat;;10.51
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_allow_some_instances/fixed_resourcetypeconstraints_1.smt2;0;result: sat;;10.27
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_validate_attach_volume/policy_resourcetypeconstraints_1.smt2;0;result: unsat;;6.92
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_actions_region_aws-portal/policy_1.smt2;0;result: sat;;2.78
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_enforce_project_tagging/policy_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;7.6
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_actions_region_aws-portal/policy_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;7.15
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_restrict_to_specific_instance/policy_1.smt2;0;result: sat;;1.79
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_enforce_project_tagging/policy_resourcetypeconstraints_1.smt2;0;result: sat;;9.28
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_restrict_to_specific_instance/policy_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;5.74
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_prevent_running_classic/policy_1.smt2;0;result: sat;;4.48
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_launch_instance_specific_subnet/policy_1.smt2;0;result: sat;;3.69
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_restrict_to_specific_instance/policy_resourcetypeconstraints_1.smt2;0;result: sat;;9.23
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_actions_region_aws-portal/policy_resourcetypeconstraints_1.smt2;0;result: sat;;11.61
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_prevent_running_classic/policy_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;10.07
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_terminate_instance_ip/policy_1.smt2;0;result: sat;;1.73
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_prevent_running_classic/policy_resourcetypeconstraints_1.smt2;0;result: sat;;9.02
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_terminate_instance_ip/policy_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;5.87
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_launch_instance_specific_subnet/policy_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;9.35
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_restrict_access_to_certain_roles/policy_1.smt2;0;result: sat;;1.58
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_restrict_access_to_certain_roles/policy_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;2.61
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_allow_all_except_delete/initial_1.smt2;0;result: sat;;1.71
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_restrict_access_to_certain_roles/policy_resourcetypeconstraints_1.smt2;0;result: sat;;3.62
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_allow_all_except_delete/initial_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;2.88
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_terminate_instance_ip/policy_resourcetypeconstraints_1.smt2;0;result: sat;;7.54
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/ec2/exp_single/ec2_launch_instance_specific_subnet/policy_resourcetypeconstraints_1.smt2;0;result: sat;;11.07
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_allow_all_except_delete/fixed_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;2.57
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_allow_all_except_delete/initial_resourcetypeconstraints_1.smt2;0;result: sat;;3.51
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_allow_all_except_delete/fixed_1.smt2;0;result: sat;;2.06
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_allow_all_except_delete/fixed_resourcetypeconstraints_1.smt2;0;result: sat;;3.57
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_policy_public_and_principal_specific_permissions/policy_1.smt2;0;result: sat;;1.6
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_policy_public_and_principal_specific_permissions/policy_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;2.77
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_remove_permissions_individual_files/policy1_resourcetypeconstraints_actionencoding_1.smt2;0;result: unsat;;2.28
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_policy_public_and_principal_specific_permissions/policy_resourcetypeconstraints_1.smt2;0;result: sat;;3.58
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_remove_permissions_individual_files/policy1_1.smt2;0;result: unsat;;1.4
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_remove_permissions_individual_files/policy2_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;3.2
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_remove_permissions_individual_files/policy1_resourcetypeconstraints_1.smt2;0;result: unsat;;3.06
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_remove_permissions_individual_files/policy2_1.smt2;0;result: sat;;2.15
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_iam_user_cannot_create_folder_through_console/policy_1.smt2;0;result: sat;;2.27
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_remove_permissions_individual_files/policy2_resourcetypeconstraints_1.smt2;0;result: sat;;4.02
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_iam_user_cannot_create_folder_through_console/policy_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;3.33
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_public_access/policy_1.smt2;0;result: sat;;2.23
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_public_access/policy_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;3.06
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_iam_user_cannot_create_folder_through_console/policy_resourcetypeconstraints_1.smt2;0;result: sat;;4.73
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_public_access/policy_resourcetypeconstraints_1.smt2;0;result: sat;;4.07
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_sos_bucket_policy_problem/policy_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;4.99
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_sos_bucket_policy_problem/policy_1.smt2;0;result: sat;;3.92
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_policy_provides_programmatic_access/policy3_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;3.9
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_policy_provides_programmatic_access/policy1_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;2.75
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_sos_bucket_policy_problem/policy_resourcetypeconstraints_1.smt2;0;result: sat;;6.35
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_policy_provides_programmatic_access/policy3_resourcetypeconstraints_1.smt2;0;result: sat;;4.21
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_policy_provides_programmatic_access/policy2_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;3.81
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_policy_provides_programmatic_access/policy1_1.smt2;0;result: sat;;1.48
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_policy_provides_programmatic_access/policy1_resourcetypeconstraints_1.smt2;0;result: sat;;3.22
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_policy_provides_programmatic_access/policy3_1.smt2;0;result: sat;;2.56
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_policy_provides_programmatic_access/policy2_1.smt2;0;result: sat;;2.59
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_bucket_policy_grant_read_specific_file_type/policy_1.smt2;0;result: sat;;1.5
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_bucket_policy_grant_read_specific_file_type/policy_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;2.53
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_policy_provides_programmatic_access/policy2_resourcetypeconstraints_1.smt2;0;result: sat;;4.64
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_policy_for_lambda_function/policy2_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;2.77
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_policy_for_lambda_function/policy1_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;3.38
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_bucket_policy_grant_read_specific_file_type/policy_resourcetypeconstraints_1.smt2;0;result: sat;;3.74
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_policy_for_lambda_function/policy1_resourcetypeconstraints_1.smt2;0;result: sat;;3.74
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_policy_for_lambda_function/policy1_1.smt2;0;result: sat;;1.97
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_policy_for_lambda_function/policy2_1.smt2;0;result: sat;;1.69
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_policy_for_lambda_function/policy2_resourcetypeconstraints_1.smt2;0;result: sat;;3.65
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_object_query_permissions/fix_1.smt2;0;result: sat;;1.27
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_object_query_permissions/fix_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;2.38
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_bucket_folder_restrict_by_user/policy_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;4.76
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_bucket_folder_restrict_by_user/policy_1.smt2;0;result: sat;;5.42
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_object_query_permissions/fix_resourcetypeconstraints_1.smt2;0;result: sat;;3.22
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_object_query_permissions/policy1_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;4.46
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_bucket_folder_restrict_by_user/policy_resourcetypeconstraints_1.smt2;0;result: sat;;6.16
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_object_query_permissions/policy1_1.smt2;0;result: sat;;3.03
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_policy_or_condition/policy_1.smt2;0;result: sat;;2.15
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_object_query_permissions/policy1_resourcetypeconstraints_1.smt2;0;result: sat;;5.22
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_policy_or_condition/policy_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;3.21
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_policy_failing_not_sure_why/policy_1.smt2;0;result: sat;;2.02
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_policy_or_condition/policy_resourcetypeconstraints_1.smt2;0;result: sat;;4.0
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_policy_failing_not_sure_why/policy_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;4.23
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/iam/exp_single/iam_role_policy_modify_iam_but_not_own_policies/policy_1.smt2;0;result: sat;;1.32
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/s3/exp_single/s3_policy_failing_not_sure_why/policy_resourcetypeconstraints_1.smt2;0;result: sat;;5.11
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/iam/exp_single/iam_policy_allow_adding_deleting_users/initial_1.smt2;0;result: sat;;1.38
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/iam/exp_single/iam_role_policy_modify_iam_but_not_own_policies/policy_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;2.44
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/iam/exp_single/iam_role_policy_modify_iam_but_not_own_policies/policy_resourcetypeconstraints_1.smt2;0;result: sat;;4.11
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/iam/exp_single/iam_policy_allow_adding_deleting_users/initial_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;2.53
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/iam/exp_single/iam_policy_allow_adding_deleting_users/fixed_1.smt2;0;result: sat;;1.62
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/iam/exp_single/iam_policy_allow_adding_deleting_users/fixed_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;3.35
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/iam/exp_single/iam_user_access_to_s3_uploads_fail/initial_1.smt2;0;result: sat;;2.24
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/iam/exp_single/iam_policy_allow_adding_deleting_users/initial_resourcetypeconstraints_1.smt2;0;result: sat;;3.54
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/iam/exp_single/iam_policy_allow_adding_deleting_users/fixed_resourcetypeconstraints_1.smt2;0;result: sat;;4.35
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/iam/exp_single/iam_user_access_to_s3_uploads_fail/initial_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;3.14
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/iam/exp_single/iam_user_access_to_s3_uploads_fail/fixed_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;2.95
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/iam/exp_single/iam_user_access_to_s3_uploads_fail/initial_resourcetypeconstraints_1.smt2;0;result: sat;;3.89
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/iam/exp_single/iam_user_access_to_s3_uploads_fail/fixed_1.smt2;0;result: sat;;2.48
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/iam/exp_single/iam_specify_all_users_in_account_bucket_policy/policy1_1.smt2;0;result: sat;;1.17
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/iam/exp_single/iam_specify_all_users_in_account_bucket_policy/policy1_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;2.14
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/iam/exp_single/iam_specify_all_users_in_account_bucket_policy/policy2_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;2.59
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/iam/exp_single/iam_specify_all_users_in_account_bucket_policy/policy1_resourcetypeconstraints_1.smt2;0;result: sat;;3.01
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/iam/exp_single/iam_user_access_to_s3_uploads_fail/fixed_resourcetypeconstraints_1.smt2;0;result: sat;;5.63
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/iam/exp_single/iam_specify_all_users_in_account_bucket_policy/policy2_1.smt2;0;result: sat;;1.74
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/iam/exp_single/iam_simplest_policy/policy_1.smt2;0;result: sat;;1.27
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/iam/exp_single/iam_simplest_policy/policy_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;3.01
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/iam/exp_single/iam_specify_all_users_in_account_bucket_policy/policy2_resourcetypeconstraints_1.smt2;0;result: sat;;3.5
+finished;ostrich-2.0.1;../formulae/quacky/smt-files/iam/exp_single/iam_simplest_policy/policy_resourcetypeconstraints_1.smt2;0;result: sat;;4.29
