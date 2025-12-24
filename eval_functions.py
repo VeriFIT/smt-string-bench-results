@@ -242,8 +242,9 @@ def scatter_plot_interactive(df, x_tool, y_tool, timeout=120,
     y_col = y_tool + "-runtime"
 
     df = df.copy()
-    df[x_col] = np.clip(df[x_col], 0.01, timeout)
-    df[y_col] = np.clip(df[y_col], 0.01, timeout)
+    clamp_domain = [0.01, timeout]
+    df[x_col] = np.clip(df[x_col], clamp_domain[0], clamp_domain[1])
+    df[y_col] = np.clip(df[y_col], clamp_domain[0], clamp_domain[1])
 
     if color_by_benchmark:
         color = color_column
