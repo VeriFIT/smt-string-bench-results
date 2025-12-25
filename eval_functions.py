@@ -399,18 +399,18 @@ def cactus_plot(df, tools, timeout = 120, tool_names = None, start = 0, end = No
         plt.figure.savefig(f"{file_name_to_save}.pdf", transparent=True)
     return plt
 
-def sanity_check(df, tool, compare_with):
-    """Returns dataframe containing rows of df, where df[tool-result] is different (sat vs. unsat) than the result of any of the tools in compare_with
+def sanity_check(df, tools):
+    """Returns dataframe containing rows of df, where for some tool1 and tool2 in tools, the results df[tool1-result] and df[tool2-results] are different (sat vs. unsat)
 
     Args:
-        compare_with (list): List of tools to compare with.
+        tools (list): List of tools to compare.
     """
-    all_bad = []
-    for tool_other in compare_with:
-        pt = df
-        pt = pt[((pt[tool+"-result"].str.strip() == 'sat') & (pt[tool_other+"-result"].str.strip() == 'unsat') | (pt[tool+"-result"].str.strip() == 'unsat') & (pt[tool_other+"-result"].str.strip() == 'sat'))]
-        all_bad.append(pt)
-    return pd.concat(all_bad).drop_duplicates()
+    result_cols = [f"{t}-result" for t in tools]
+
+    is_sat = df[result_cols].eq("sat").any(axis=1)
+    is_unsat = df[result_cols].eq("unsat").any(axis=1)
+
+    return df[is_sat & is_unsat]
 
 def get_invalid(df, tool):
     """Returns dataframe containing rows of df, where df[tool-result] is not a valid result (sat/unsat/unknown/TO/ERR)"""
