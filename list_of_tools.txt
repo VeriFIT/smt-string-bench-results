@@ -733,3 +733,12 @@ ec26a16-1fc91ef
 # branch fix_diseq_models
 60736d2-7c39e82
 4287ec3-7c39e82
+
+# devel
+97daee6-fe5ec38 # v1.5.0 with mata v1.28.2
+
+# trying different mata branches
+z3-noodler-97daee6-004a1dc # defragmentation
+z3-noodler-97daee6-f1ddd71 # out-of-place-trim
+z3-noodler-97daee6-b63f669 # trim-out-of-place
+z3-noodler-97daee6-0851b97 # no-reduce-for-segment-nfas
