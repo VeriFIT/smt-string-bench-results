@@ -1,0 +1,266 @@
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/gcp/storage_object_admin_resourcetypeconstraints_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/gcp/compute_os_login_resourcetypeconstraints_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/gcp/compute_os_admin_login_resourcetypeconstraints_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/gcp/storage_object_viewer_resourcetypeconstraints_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/gcp/storage_object_creator_resourcetypeconstraints_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/azure/storage_data_owner_resourcetypeconstraints_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/azure/compute_user_login_resourcetypeconstraints_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/azure/storage_data_contributor_resourcetypeconstraints_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/azure/compute_admin_login_resourcetypeconstraints_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/azure/storage_data_reader_resourcetypeconstraints_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_require_mfa_session_token/policy_resourcetypeconstraints_actionencoding_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_require_mfa_session_token/policy_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_require_mfa_session_token/policy_resourcetypeconstraints_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_allow_ebs_volume_owners/policy_resourcetypeconstraints_actionencoding_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_allow_ebs_volume_owners/policy_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_allow_ebs_volume_owners/policy_resourcetypeconstraints_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_limit_ebs_volume_size/initial_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_limit_ebs_volume_size/initial_resourcetypeconstraints_actionencoding_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_limit_ebs_volume_size/fixed_resourcetypeconstraints_actionencoding_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_limit_ebs_volume_size/initial_resourcetypeconstraints_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_limit_ebs_volume_size/fixed_resourcetypeconstraints_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_limit_ebs_volume_size/fixed_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_allow_some_instances/initial_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_allow_some_instances/initial_resourcetypeconstraints_actionencoding_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_allow_some_instances/fixed_resourcetypeconstraints_actionencoding_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_allow_some_instances/initial_resourcetypeconstraints_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_allow_some_instances/fixed_resourcetypeconstraints_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_allow_some_instances/fixed_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_validate_attach_volume/policy_resourcetypeconstraints_actionencoding_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_validate_attach_volume/policy_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_validate_attach_volume/policy_resourcetypeconstraints_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_enforce_project_tagging/policy_resourcetypeconstraints_actionencoding_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_enforce_project_tagging/policy_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_enforce_project_tagging/policy_resourcetypeconstraints_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_actions_region_aws-portal/policy_resourcetypeconstraints_actionencoding_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_actions_region_aws-portal/policy_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_actions_region_aws-portal/policy_resourcetypeconstraints_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_restrict_to_specific_instance/policy_resourcetypeconstraints_actionencoding_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_restrict_to_specific_instance/policy_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_restrict_to_specific_instance/policy_resourcetypeconstraints_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_prevent_running_classic/policy_resourcetypeconstraints_actionencoding_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_prevent_running_classic/policy_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_prevent_running_classic/policy_resourcetypeconstraints_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_launch_instance_specific_subnet/policy_resourcetypeconstraints_actionencoding_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_launch_instance_specific_subnet/policy_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_launch_instance_specific_subnet/policy_resourcetypeconstraints_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_terminate_instance_ip/policy_resourcetypeconstraints_actionencoding_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_terminate_instance_ip/policy_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_terminate_instance_ip/policy_resourcetypeconstraints_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_restrict_access_to_certain_roles/policy_resourcetypeconstraints_actionencoding_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_restrict_access_to_certain_roles/policy_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_restrict_access_to_certain_roles/policy_resourcetypeconstraints_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_allow_all_except_delete/initial_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_allow_all_except_delete/initial_resourcetypeconstraints_actionencoding_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_allow_all_except_delete/fixed_resourcetypeconstraints_actionencoding_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_allow_all_except_delete/initial_resourcetypeconstraints_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_allow_all_except_delete/fixed_resourcetypeconstraints_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_allow_all_except_delete/fixed_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_policy_public_and_principal_specific_permissions/policy_resourcetypeconstraints_actionencoding_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_policy_public_and_principal_specific_permissions/policy_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_policy_public_and_principal_specific_permissions/policy_resourcetypeconstraints_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_remove_permissions_individual_files/policy1_resourcetypeconstraints_actionencoding_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_remove_permissions_individual_files/policy2_resourcetypeconstraints_actionencoding_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_remove_permissions_individual_files/policy1_resourcetypeconstraints_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_remove_permissions_individual_files/policy1_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_remove_permissions_individual_files/policy2_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_remove_permissions_individual_files/policy2_resourcetypeconstraints_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_iam_user_cannot_create_folder_through_console/policy_resourcetypeconstraints_actionencoding_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_iam_user_cannot_create_folder_through_console/policy_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_iam_user_cannot_create_folder_through_console/policy_resourcetypeconstraints_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_public_access/policy_resourcetypeconstraints_actionencoding_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_public_access/policy_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_public_access/policy_resourcetypeconstraints_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_sos_bucket_policy_problem/policy_resourcetypeconstraints_actionencoding_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_sos_bucket_policy_problem/policy_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_sos_bucket_policy_problem/policy_resourcetypeconstraints_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_policy_provides_programmatic_access/policy3_resourcetypeconstraints_actionencoding_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_policy_provides_programmatic_access/policy3_resourcetypeconstraints_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_policy_provides_programmatic_access/policy1_resourcetypeconstraints_actionencoding_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_policy_provides_programmatic_access/policy2_resourcetypeconstraints_actionencoding_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_policy_provides_programmatic_access/policy1_resourcetypeconstraints_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_policy_provides_programmatic_access/policy3_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_policy_provides_programmatic_access/policy1_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_policy_provides_programmatic_access/policy2_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_policy_provides_programmatic_access/policy2_resourcetypeconstraints_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_bucket_policy_grant_read_specific_file_type/policy_resourcetypeconstraints_actionencoding_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_bucket_policy_grant_read_specific_file_type/policy_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_bucket_policy_grant_read_specific_file_type/policy_resourcetypeconstraints_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_policy_for_lambda_function/policy1_resourcetypeconstraints_actionencoding_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_policy_for_lambda_function/policy2_resourcetypeconstraints_actionencoding_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_policy_for_lambda_function/policy1_resourcetypeconstraints_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_policy_for_lambda_function/policy1_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_policy_for_lambda_function/policy2_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_policy_for_lambda_function/policy2_resourcetypeconstraints_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_bucket_folder_restrict_by_user/policy_resourcetypeconstraints_actionencoding_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_bucket_folder_restrict_by_user/policy_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_bucket_folder_restrict_by_user/policy_resourcetypeconstraints_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_object_query_permissions/fix_resourcetypeconstraints_actionencoding_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_object_query_permissions/fix_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_object_query_permissions/policy1_resourcetypeconstraints_actionencoding_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_object_query_permissions/fix_resourcetypeconstraints_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_object_query_permissions/policy1_resourcetypeconstraints_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_object_query_permissions/policy1_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_policy_or_condition/policy_resourcetypeconstraints_actionencoding_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_policy_or_condition/policy_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_policy_or_condition/policy_resourcetypeconstraints_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_policy_failing_not_sure_why/policy_resourcetypeconstraints_actionencoding_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_policy_failing_not_sure_why/policy_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_policy_failing_not_sure_why/policy_resourcetypeconstraints_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/iam/exp_single/iam_role_policy_modify_iam_but_not_own_policies/policy_resourcetypeconstraints_actionencoding_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/iam/exp_single/iam_role_policy_modify_iam_but_not_own_policies/policy_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/iam/exp_single/iam_role_policy_modify_iam_but_not_own_policies/policy_resourcetypeconstraints_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/iam/exp_single/iam_policy_allow_adding_deleting_users/initial_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/iam/exp_single/iam_policy_allow_adding_deleting_users/initial_resourcetypeconstraints_actionencoding_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/iam/exp_single/iam_policy_allow_adding_deleting_users/fixed_resourcetypeconstraints_actionencoding_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/iam/exp_single/iam_policy_allow_adding_deleting_users/initial_resourcetypeconstraints_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/iam/exp_single/iam_policy_allow_adding_deleting_users/fixed_resourcetypeconstraints_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/iam/exp_single/iam_policy_allow_adding_deleting_users/fixed_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/iam/exp_single/iam_user_access_to_s3_uploads_fail/initial_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/iam/exp_single/iam_user_access_to_s3_uploads_fail/initial_resourcetypeconstraints_actionencoding_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/iam/exp_single/iam_user_access_to_s3_uploads_fail/fixed_resourcetypeconstraints_actionencoding_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/iam/exp_single/iam_user_access_to_s3_uploads_fail/initial_resourcetypeconstraints_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/iam/exp_single/iam_user_access_to_s3_uploads_fail/fixed_resourcetypeconstraints_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/iam/exp_single/iam_user_access_to_s3_uploads_fail/fixed_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/iam/exp_single/iam_specify_all_users_in_account_bucket_policy/policy1_resourcetypeconstraints_actionencoding_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/iam/exp_single/iam_specify_all_users_in_account_bucket_policy/policy2_resourcetypeconstraints_actionencoding_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/iam/exp_single/iam_specify_all_users_in_account_bucket_policy/policy1_resourcetypeconstraints_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/iam/exp_single/iam_specify_all_users_in_account_bucket_policy/policy1_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/iam/exp_single/iam_specify_all_users_in_account_bucket_policy/policy2_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/iam/exp_single/iam_specify_all_users_in_account_bucket_policy/policy2_resourcetypeconstraints_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/iam/exp_single/iam_simplest_policy/policy_resourcetypeconstraints_actionencoding_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/iam/exp_single/iam_simplest_policy/policy_1.smt2
+execute;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/iam/exp_single/iam_simplest_policy/policy_resourcetypeconstraints_1.smt2
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/gcp/storage_object_admin_resourcetypeconstraints_1.smt2;0;result: sat;;0.01
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/gcp/storage_object_viewer_resourcetypeconstraints_1.smt2;0;result: sat;;0.02
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/azure/storage_data_contributor_resourcetypeconstraints_1.smt2;0;result: sat;;0.01
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/azure/storage_data_owner_resourcetypeconstraints_1.smt2;0;result: sat;;0.01
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/azure/compute_user_login_resourcetypeconstraints_1.smt2;0;result: sat;;0.03
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_require_mfa_session_token/policy_1.smt2;0;result: sat;;0.0
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/azure/storage_data_reader_resourcetypeconstraints_1.smt2;0;result: sat;;0.01
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_require_mfa_session_token/policy_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;0.02
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/azure/compute_admin_login_resourcetypeconstraints_1.smt2;0;result: sat;;0.03
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_require_mfa_session_token/policy_resourcetypeconstraints_1.smt2;0;result: sat;;0.03
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_allow_ebs_volume_owners/policy_1.smt2;0;result: sat;;0.0
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_limit_ebs_volume_size/initial_1.smt2;0;result: sat;;0.01
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/gcp/storage_object_creator_resourcetypeconstraints_1.smt2;0;result: sat;;0.13
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_allow_ebs_volume_owners/policy_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;0.04
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_limit_ebs_volume_size/initial_resourcetypeconstraints_1.smt2;1;result: (error \"line 78 column 95718: unknown constant $\")###(error \"line 78 column 95719: unexpected character\")###sat;;0.01
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_limit_ebs_volume_size/fixed_resourcetypeconstraints_1.smt2;1;result: (error \"line 102 column 95718: unknown constant $\")###(error \"line 102 column 95719: unexpected character\")###sat;;0.01
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_limit_ebs_volume_size/fixed_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;0.04
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_limit_ebs_volume_size/fixed_1.smt2;0;result: sat;;0.0
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_allow_ebs_volume_owners/policy_resourcetypeconstraints_1.smt2;0;result: sat;;0.08
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_limit_ebs_volume_size/initial_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;0.05
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_allow_some_instances/initial_1.smt2;0;result: sat;;0.01
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_allow_some_instances/fixed_1.smt2;0;result: sat;;0.01
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_allow_some_instances/initial_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;0.03
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_allow_some_instances/fixed_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;0.03
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_allow_some_instances/initial_resourcetypeconstraints_1.smt2;0;result: sat;;0.04
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_allow_some_instances/fixed_resourcetypeconstraints_1.smt2;0;result: sat;;0.03
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_validate_attach_volume/policy_resourcetypeconstraints_actionencoding_1.smt2;0;result: unsat;;0.03
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_validate_attach_volume/policy_1.smt2;0;result: sat;;0.0
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_validate_attach_volume/policy_resourcetypeconstraints_1.smt2;0;result: unsat;;0.01
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_enforce_project_tagging/policy_1.smt2;0;result: sat;;0.0
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_enforce_project_tagging/policy_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;0.03
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_restrict_to_specific_instance/policy_1.smt2;0;result: sat;;0.0
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_restrict_to_specific_instance/policy_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;0.02
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_actions_region_aws-portal/policy_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;0.05
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_enforce_project_tagging/policy_resourcetypeconstraints_1.smt2;0;result: sat;;0.07
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_prevent_running_classic/policy_1.smt2;0;result: sat;;0.01
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_prevent_running_classic/policy_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;0.04
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_prevent_running_classic/policy_resourcetypeconstraints_1.smt2;0;result: sat;;0.06
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_launch_instance_specific_subnet/policy_1.smt2;0;result: sat;;0.01
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_launch_instance_specific_subnet/policy_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;0.04
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/gcp/compute_os_login_resourcetypeconstraints_1.smt2;0;result: sat;;0.5
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_terminate_instance_ip/policy_1.smt2;0;result: sat;;0.0
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_terminate_instance_ip/policy_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;0.01
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_terminate_instance_ip/policy_resourcetypeconstraints_1.smt2;0;result: sat;;0.01
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_actions_region_aws-portal/policy_1.smt2;0;result: sat;;0.25
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_restrict_access_to_certain_roles/policy_1.smt2;0;result: sat;;0.0
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_restrict_access_to_certain_roles/policy_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;0.02
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_allow_all_except_delete/initial_1.smt2;0;result: sat;;0.0
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_restrict_access_to_certain_roles/policy_resourcetypeconstraints_1.smt2;0;result: sat;;0.01
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_allow_all_except_delete/fixed_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;0.01
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_allow_all_except_delete/initial_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;0.03
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_allow_all_except_delete/initial_resourcetypeconstraints_1.smt2;0;result: sat;;0.02
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_allow_all_except_delete/fixed_resourcetypeconstraints_1.smt2;0;result: sat;;0.02
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_allow_all_except_delete/fixed_1.smt2;0;result: sat;;0.01
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_policy_public_and_principal_specific_permissions/policy_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;0.02
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_policy_public_and_principal_specific_permissions/policy_1.smt2;0;result: sat;;0.01
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_remove_permissions_individual_files/policy1_resourcetypeconstraints_actionencoding_1.smt2;0;result: unsat;;0.0
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_policy_public_and_principal_specific_permissions/policy_resourcetypeconstraints_1.smt2;0;result: sat;;0.03
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_remove_permissions_individual_files/policy1_resourcetypeconstraints_1.smt2;0;result: unsat;;0.0
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_remove_permissions_individual_files/policy1_1.smt2;0;result: unsat;;0.0
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_remove_permissions_individual_files/policy2_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;0.02
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_remove_permissions_individual_files/policy2_1.smt2;0;result: sat;;0.0
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_remove_permissions_individual_files/policy2_resourcetypeconstraints_1.smt2;0;result: sat;;0.01
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_iam_user_cannot_create_folder_through_console/policy_1.smt2;0;result: sat;;0.0
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_iam_user_cannot_create_folder_through_console/policy_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;0.01
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_iam_user_cannot_create_folder_through_console/policy_resourcetypeconstraints_1.smt2;0;result: sat;;0.01
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_public_access/policy_1.smt2;0;result: sat;;0.0
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_public_access/policy_resourcetypeconstraints_1.smt2;0;result: sat;;0.01
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_public_access/policy_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;0.02
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_sos_bucket_policy_problem/policy_1.smt2;0;result: sat;;0.01
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_policy_provides_programmatic_access/policy3_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;0.01
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_sos_bucket_policy_problem/policy_resourcetypeconstraints_1.smt2;0;result: sat;;0.03
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_policy_provides_programmatic_access/policy3_resourcetypeconstraints_1.smt2;0;result: sat;;0.02
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_policy_provides_programmatic_access/policy1_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;0.02
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_policy_provides_programmatic_access/policy2_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;0.02
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_policy_provides_programmatic_access/policy1_resourcetypeconstraints_1.smt2;0;result: sat;;0.02
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_policy_provides_programmatic_access/policy3_1.smt2;0;result: sat;;0.01
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_policy_provides_programmatic_access/policy1_1.smt2;0;result: sat;;0.0
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_policy_provides_programmatic_access/policy2_1.smt2;0;result: sat;;0.01
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_bucket_policy_grant_read_specific_file_type/policy_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;0.02
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_policy_provides_programmatic_access/policy2_resourcetypeconstraints_1.smt2;0;result: sat;;0.04
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_bucket_policy_grant_read_specific_file_type/policy_1.smt2;0;result: sat;;0.0
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_bucket_policy_grant_read_specific_file_type/policy_resourcetypeconstraints_1.smt2;0;result: sat;;0.01
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_policy_for_lambda_function/policy2_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;0.01
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_policy_for_lambda_function/policy1_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;0.02
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_policy_for_lambda_function/policy1_resourcetypeconstraints_1.smt2;0;result: sat;;0.01
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_policy_for_lambda_function/policy1_1.smt2;0;result: sat;;0.0
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_policy_for_lambda_function/policy2_1.smt2;0;result: sat;;0.0
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_policy_for_lambda_function/policy2_resourcetypeconstraints_1.smt2;0;result: sat;;0.01
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_bucket_folder_restrict_by_user/policy_1.smt2;0;result: sat;;0.0
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_bucket_folder_restrict_by_user/policy_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;0.02
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_object_query_permissions/fix_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;0.01
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_object_query_permissions/fix_1.smt2;0;result: sat;;0.0
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_bucket_folder_restrict_by_user/policy_resourcetypeconstraints_1.smt2;0;result: sat;;0.02
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_object_query_permissions/fix_resourcetypeconstraints_1.smt2;0;result: sat;;0.01
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_object_query_permissions/policy1_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;0.01
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_object_query_permissions/policy1_resourcetypeconstraints_1.smt2;0;result: sat;;0.01
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_object_query_permissions/policy1_1.smt2;0;result: sat;;0.0
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_policy_or_condition/policy_1.smt2;0;result: sat;;0.0
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_policy_or_condition/policy_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;0.02
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_policy_or_condition/policy_resourcetypeconstraints_1.smt2;0;result: sat;;0.01
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_sos_bucket_policy_problem/policy_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;0.51
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_policy_failing_not_sure_why/policy_1.smt2;0;result: sat;;0.0
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_policy_failing_not_sure_why/policy_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;0.01
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/iam/exp_single/iam_role_policy_modify_iam_but_not_own_policies/policy_1.smt2;0;result: sat;;0.0
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/iam/exp_single/iam_role_policy_modify_iam_but_not_own_policies/policy_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;0.01
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/s3/exp_single/s3_policy_failing_not_sure_why/policy_resourcetypeconstraints_1.smt2;0;result: sat;;0.02
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/iam/exp_single/iam_role_policy_modify_iam_but_not_own_policies/policy_resourcetypeconstraints_1.smt2;0;result: sat;;0.02
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/iam/exp_single/iam_policy_allow_adding_deleting_users/initial_1.smt2;0;result: sat;;0.01
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/iam/exp_single/iam_policy_allow_adding_deleting_users/initial_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;0.01
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/iam/exp_single/iam_policy_allow_adding_deleting_users/fixed_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;0.01
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/iam/exp_single/iam_policy_allow_adding_deleting_users/initial_resourcetypeconstraints_1.smt2;0;result: sat;;0.02
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/iam/exp_single/iam_policy_allow_adding_deleting_users/fixed_1.smt2;0;result: sat;;0.0
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/iam/exp_single/iam_user_access_to_s3_uploads_fail/initial_1.smt2;0;result: sat;;0.0
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/iam/exp_single/iam_user_access_to_s3_uploads_fail/initial_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;0.02
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/iam/exp_single/iam_policy_allow_adding_deleting_users/fixed_resourcetypeconstraints_1.smt2;0;result: sat;;0.05
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/iam/exp_single/iam_user_access_to_s3_uploads_fail/initial_resourcetypeconstraints_1.smt2;0;result: sat;;0.01
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/iam/exp_single/iam_user_access_to_s3_uploads_fail/fixed_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;0.02
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/iam/exp_single/iam_user_access_to_s3_uploads_fail/fixed_1.smt2;0;result: sat;;0.0
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/iam/exp_single/iam_specify_all_users_in_account_bucket_policy/policy1_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;0.01
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/iam/exp_single/iam_user_access_to_s3_uploads_fail/fixed_resourcetypeconstraints_1.smt2;0;result: sat;;0.03
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/iam/exp_single/iam_specify_all_users_in_account_bucket_policy/policy1_resourcetypeconstraints_1.smt2;0;result: sat;;0.01
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/iam/exp_single/iam_specify_all_users_in_account_bucket_policy/policy2_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;0.03
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/iam/exp_single/iam_specify_all_users_in_account_bucket_policy/policy1_1.smt2;0;result: sat;;0.0
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/iam/exp_single/iam_specify_all_users_in_account_bucket_policy/policy2_1.smt2;0;result: sat;;0.01
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/iam/exp_single/iam_simplest_policy/policy_1.smt2;0;result: sat;;0.0
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/iam/exp_single/iam_specify_all_users_in_account_bucket_policy/policy2_resourcetypeconstraints_1.smt2;0;result: sat;;0.01
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/iam/exp_single/iam_simplest_policy/policy_resourcetypeconstraints_actionencoding_1.smt2;0;result: sat;;0.01
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/iam/exp_single/iam_simplest_policy/policy_resourcetypeconstraints_1.smt2;0;result: sat;;0.02
+finished;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_actions_region_aws-portal/policy_resourcetypeconstraints_1.smt2;0;result: sat;;4.81
+timeout;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/gcp/compute_os_admin_login_resourcetypeconstraints_1.smt2
+timeout;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_restrict_to_specific_instance/policy_resourcetypeconstraints_1.smt2
+timeout;z3-noodler-97daee6-f1ddd71;../formulae/quacky/smt-files/ec2/exp_single/ec2_launch_instance_specific_subnet/policy_resourcetypeconstraints_1.smt2
