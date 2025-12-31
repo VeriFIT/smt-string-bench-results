@@ -1,0 +1,34 @@
+execute;z3-noodler-model-0b3b257-0851b97;../formulae/QF_S/20240318-omark/noodles-unsat-9.smt2
+execute;z3-noodler-model-0b3b257-0851b97;../formulae/QF_S/20240318-omark/noodles-unsat-10.smt2
+execute;z3-noodler-model-0b3b257-0851b97;../formulae/QF_S/20240318-omark/noodles-unsat-5.smt2
+execute;z3-noodler-model-0b3b257-0851b97;../formulae/QF_S/20240318-omark/lyndon-schuetzenberg-1.smt2
+execute;z3-noodler-model-0b3b257-0851b97;../formulae/QF_S/20240318-omark/noodles-unsat-4.smt2
+execute;z3-noodler-model-0b3b257-0851b97;../formulae/QF_S/20240318-omark/noodles-unsat-8.smt2
+execute;z3-noodler-model-0b3b257-0851b97;../formulae/QF_S/20240318-omark/noodles-unsat-3.smt2
+execute;z3-noodler-model-0b3b257-0851b97;../formulae/QF_S/20240318-omark/noodles-unsat.smt2
+execute;z3-noodler-model-0b3b257-0851b97;../formulae/QF_S/20240318-omark/cloud-service-query-2.smt2
+execute;z3-noodler-model-0b3b257-0851b97;../formulae/QF_S/20240318-omark/noodles-unsat-2.smt2
+execute;z3-noodler-model-0b3b257-0851b97;../formulae/QF_S/20240318-omark/cloud-service-query-1.smt2
+execute;z3-noodler-model-0b3b257-0851b97;../formulae/QF_S/20240318-omark/lyndon-schuetzenberg-2.smt2
+execute;z3-noodler-model-0b3b257-0851b97;../formulae/QF_S/20240318-omark/noodles-unsat-7.smt2
+execute;z3-noodler-model-0b3b257-0851b97;../formulae/QF_S/20240318-omark/parikh.smt2
+execute;z3-noodler-model-0b3b257-0851b97;../formulae/QF_S/20240318-omark/noodles-unsat-6.smt2
+execute;z3-noodler-model-0b3b257-0851b97;../formulae/QF_S/20240318-omark/lyndon-schuetzenberg-3.smt2
+execute;z3-noodler-model-0b3b257-0851b97;../formulae/QF_S/20240318-omark/cyclic-xy.smt2
+finished;z3-noodler-model-0b3b257-0851b97;../formulae/QF_S/20240318-omark/noodles-unsat-10.smt2;0;result: unknown;;0.0
+finished;z3-noodler-model-0b3b257-0851b97;../formulae/QF_S/20240318-omark/noodles-unsat-3.smt2;0;result: unsat;;0.01
+finished;z3-noodler-model-0b3b257-0851b97;../formulae/QF_S/20240318-omark/noodles-unsat.smt2;0;result: unsat;;0.0
+finished;z3-noodler-model-0b3b257-0851b97;../formulae/QF_S/20240318-omark/noodles-unsat-4.smt2;0;result: unsat;;0.01
+finished;z3-noodler-model-0b3b257-0851b97;../formulae/QF_S/20240318-omark/noodles-unsat-2.smt2;0;result: unsat;;0.0
+finished;z3-noodler-model-0b3b257-0851b97;../formulae/QF_S/20240318-omark/cloud-service-query-2.smt2;0;result: unsat;;0.01
+finished;z3-noodler-model-0b3b257-0851b97;../formulae/QF_S/20240318-omark/lyndon-schuetzenberg-2.smt2;0;result: unsat;;0.0
+finished;z3-noodler-model-0b3b257-0851b97;../formulae/QF_S/20240318-omark/cloud-service-query-1.smt2;0;result: sat;;0.03
+finished;z3-noodler-model-0b3b257-0851b97;../formulae/QF_S/20240318-omark/parikh.smt2;0;result: unsat;;0.0
+finished;z3-noodler-model-0b3b257-0851b97;../formulae/QF_S/20240318-omark/cyclic-xy.smt2;0;result: unsat;;0.0
+error;z3-noodler-model-0b3b257-0851b97;../formulae/QF_S/20240318-omark/lyndon-schuetzenberg-3.smt2;terminate called after throwing an instance of 'std::bad_alloc'###  what():  std::bad_alloc###real 22.65###user 16.76###sys 4.78
+error;z3-noodler-model-0b3b257-0851b97;../formulae/QF_S/20240318-omark/lyndon-schuetzenberg-1.smt2;(error \"out of memory\")###real 45.70###user 40.37###sys 5.33
+error;z3-noodler-model-0b3b257-0851b97;../formulae/QF_S/20240318-omark/noodles-unsat-5.smt2;terminate called after throwing an instance of 'std::bad_alloc'###  what():  std::bad_alloc###real 116.68###user 108.69###sys 6.88
+timeout;z3-noodler-model-0b3b257-0851b97;../formulae/QF_S/20240318-omark/noodles-unsat-6.smt2
+timeout;z3-noodler-model-0b3b257-0851b97;../formulae/QF_S/20240318-omark/noodles-unsat-7.smt2
+timeout;z3-noodler-model-0b3b257-0851b97;../formulae/QF_S/20240318-omark/noodles-unsat-8.smt2
+timeout;z3-noodler-model-0b3b257-0851b97;../formulae/QF_S/20240318-omark/noodles-unsat-9.smt2
