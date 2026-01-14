@@ -749,3 +749,16 @@ z3-noodler-97daee6-0851b97 # no-reduce-for-segment-nfas
 
 # branch notcontains-literal-axiom
 56b4b32-db77a58
+
+# branch fix_bad_predicate_mapping
+3d86d18-db77a58
+544eb53-db77a58
+57a2fc6-db77a58
+ccb820a-db77a58
+52a913e-db77a58
+fa8bf8c-db77a58
+6b6d2cc-db77a58
+e81b608-db77a58
+94476e0-db77a58
+d79a9dc-db77a58
+7146a45-db77a58
