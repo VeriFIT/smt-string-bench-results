@@ -1,0 +1,20 @@
+execute;cvc5-1.3.2;../formulae/hard-policies/AC_003.smt2
+execute;cvc5-1.3.2;../formulae/hard-policies/AC_002.smt2
+execute;cvc5-1.3.2;../formulae/hard-policies/AC_001.smt2
+execute;cvc5-1.3.2;../formulae/hard-policies/AC_008.smt2
+execute;cvc5-1.3.2;../formulae/hard-policies/AC_004.smt2
+execute;cvc5-1.3.2;../formulae/hard-policies/AC_006.smt2
+execute;cvc5-1.3.2;../formulae/hard-policies/AC_010.smt2
+execute;cvc5-1.3.2;../formulae/hard-policies/AC_005.smt2
+execute;cvc5-1.3.2;../formulae/hard-policies/AC_009.smt2
+execute;cvc5-1.3.2;../formulae/hard-policies/AC_007.smt2
+finished;cvc5-1.3.2;../formulae/hard-policies/AC_004.smt2;0;result: sat;;72.92
+timeout;cvc5-1.3.2;../formulae/hard-policies/AC_002.smt2
+timeout;cvc5-1.3.2;../formulae/hard-policies/AC_003.smt2
+timeout;cvc5-1.3.2;../formulae/hard-policies/AC_008.smt2
+finished;cvc5-1.3.2;../formulae/hard-policies/AC_007.smt2;0;result: unknown;;0.04
+timeout;cvc5-1.3.2;../formulae/hard-policies/AC_010.smt2
+timeout;cvc5-1.3.2;../formulae/hard-policies/AC_001.smt2
+timeout;cvc5-1.3.2;../formulae/hard-policies/AC_006.smt2
+timeout;cvc5-1.3.2;../formulae/hard-policies/AC_005.smt2
+timeout;cvc5-1.3.2;../formulae/hard-policies/AC_009.smt2
