@@ -782,3 +782,6 @@ ef03b57-1c39000
 # branch replace_re_rewriter
 8a1e4f9-1c39000
 78d1e36-1c39000
+
+# branch transd_literals_fix
+6cfd327-1c39000
