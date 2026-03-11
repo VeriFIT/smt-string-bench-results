@@ -800,9 +800,17 @@ b74bb6c-1c39000
 
 # branch m-vallus:GraphCycleModels
 8f1e0f5-1c39000
+a08d0f2-1c39000
 
 # v1.5.2
 4e90e1f-1c39000
 
 # branch lachim005:lazy_noodlification_prototype
 f525923-1c39000
+
+# diseqs-postponed
+32d81cc-1c39000
+41638eb-1c39000
+
+# fix-rewrite
+c2ac728-1c39000
