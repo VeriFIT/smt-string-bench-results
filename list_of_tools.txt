@@ -817,4 +817,5 @@ c2ac728-1c39000
 
 # mata:composition-wip
 b9a6f44-ead2f90 # old mata
-b9a6f44-a89bddc # with the new composition
+b9a6f44-a89bddc # with the new composition (only in noodlification)
+13d2737-a89bddc # with the new composition also in noodler
