@@ -815,6 +815,9 @@ f525923-1c39000
 # fix-rewrite
 c2ac728-1c39000
 
+# v1.5.3
+39dd4ed-27bd0e5
+
 # mata:composition-wip
 b9a6f44-ead2f90 # old mata
 b9a6f44-a89bddc # with the new composition (only in noodlification)
