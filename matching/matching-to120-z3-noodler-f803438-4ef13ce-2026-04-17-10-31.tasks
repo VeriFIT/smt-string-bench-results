@@ -1,0 +1,492 @@
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-74.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-100.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-32.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-23.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-42.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-35.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-24.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-116.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-8.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-62.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-15.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-1.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-19.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-39.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-49.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-58.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-78.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-97.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-28.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-39.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-19.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-81.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-4.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-15.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-42.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-35.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-23.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-54.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-45.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-120.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-12.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-03.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-121.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-13.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-02.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-22.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-55.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-44.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-43.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-34.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-14.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-5.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-18.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-80.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-29.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-38.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-79.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-96.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-48.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-59.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-38.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-18.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-63.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-14.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-9.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-43.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-34.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-25.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-117.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-101.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-33.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-22.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-75.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-91.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-38.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-29.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-48.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-68.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-87.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-2.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-130.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-13.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-44.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-33.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-43.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-25.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-52.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-05.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-14.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-126.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-72.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-25.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-34.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-106.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-110.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-22.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-44.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-33.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-64.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-13.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-7.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-48.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-29.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-18.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-09.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-19.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-08.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-28.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-49.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-6.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-65.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-12.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-111.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-23.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-45.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-32.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-24.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-35.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-107.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-73.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-04.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-15.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-127.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-42.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-24.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-53.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-45.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-32.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-12.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-3.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-69.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-86.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-49.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-39.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-28.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-90.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-16.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-124.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-07.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-27.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-50.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-41.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-46.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-31.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-9.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-11.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-85.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-108.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-93.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-128.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-5.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-89.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-66.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-11.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-46.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-31.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-112.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-20.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-36.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-104.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-27.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-50.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-70.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-71.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-37.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-105.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-26.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-47.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-30.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-113.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-21.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-88.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-67.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-10.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-4.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-129.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-92.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-109.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-84.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-1.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-10.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-8.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-47.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-30.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-26.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-51.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-40.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-17.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-125.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-06.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-3.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-60.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-17.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-26.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-114.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-40.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-37.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-21.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-102.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-30.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-99.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-76.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-01.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-122.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-10.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-47.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-21.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-56.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-40.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-37.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-17.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-6.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-83.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-118.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-95.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-94.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-119.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-82.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-7.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-16.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-41.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-36.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-50.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-46.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-20.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-57.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-123.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-11.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-98.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-77.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-20.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-103.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-31.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-27.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-115.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-41.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-36.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-61.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-16.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-2.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_SLIA/20250410-matching/sub-find-unsat-2.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_SLIA/20250410-matching/sub-find-sat-1.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_SLIA/20250410-matching/sub-find-unsat-3.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_SLIA/20250410-matching/sub-find-unsat-8.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_SLIA/20250410-matching/sub-find-unsat-4.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_SLIA/20250410-matching/sub-find-unsat-5.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_SLIA/20250410-matching/sub-find-unsat-10.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_SLIA/20250410-matching/sub-find-sat-6.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_SLIA/20250410-matching/sub-find-unsat-9.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_SLIA/20250410-matching/sub-find-sat-5.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_SLIA/20250410-matching/sub-find-unsat-6.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_SLIA/20250410-matching/sub-find-unsat-7.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_SLIA/20250410-matching/sub-find-sat-4.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_SLIA/20250410-matching/sub-find-sat-3.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_SLIA/20250410-matching/sub-find-sat-2.smt2
+execute;z3-noodler-f803438-4ef13ce;../formulae/QF_SLIA/20250410-matching/sub-find-unsat-1.smt2
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-116.smt2;real 1.92###user 0.67###sys 0.08
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-32.smt2;0;result: sat;;2.48
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-42.smt2;0;result: unsat;;4.1
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-24.smt2;0;result: sat;;5.81
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-15.smt2;0;result: unsat;;2.28
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-8.smt2;0;result: unsat;;5.7
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-100.smt2;real 11.27###user 7.23###sys 2.92
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-39.smt2;0;result: unsat;;3.89
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-1.smt2;0;result: sat;;6.52
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-49.smt2;0;result: sat;;2.77
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-97.smt2;real 3.07###user 1.54###sys 0.39
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-28.smt2;0;result: sat;;3.88
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-35.smt2;real 85.40###user 82.35###sys 1.89
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-19.smt2;0;result: unsat;;5.91
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-19.smt2;real 90.15###user 87.20###sys 1.81
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-4.smt2;0;result: unsat;;6.46
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-74.smt2
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-23.smt2
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-62.smt2
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-35.smt2;0;result: unsat;;5.23
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-58.smt2
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-23.smt2;0;result: unsat;;9.53
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-78.smt2
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-39.smt2;real 114.97###user 111.58###sys 2.25
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-12.smt2;0;result: sat;;3.57
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-45.smt2;0;result: sat;;4.93
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-120.smt2;real 6.84###user 4.47###sys 1.21
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-13.smt2;0;result: sat;;4.79
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-121.smt2;real 6.40###user 3.59###sys 1.66
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-22.smt2;0;result: unsat;;7.49
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-03.smt2;real 15.40###user 10.65###sys 3.60
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-44.smt2;0;result: sat;;6.5
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-34.smt2;0;result: unsat;;4.74
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-15.smt2;real 87.56###user 84.64###sys 1.77
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-5.smt2;0;result: unsat;;3.47
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-18.smt2;0;result: unsat;;4.86
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-81.smt2
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-29.smt2;0;result: sat;;13.15
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-55.smt2;real 92.19###user 89.19###sys 1.84
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-42.smt2
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-96.smt2;real 2.96###user 1.41###sys 0.42
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-54.smt2
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-48.smt2;0;result: sat;;2.91
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-38.smt2;0;result: unsat;;8.73
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-02.smt2
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-43.smt2;real 118.69###user 115.37###sys 2.15
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-14.smt2;0;result: unsat;;4.06
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-9.smt2;0;result: unsat;;5.91
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-14.smt2
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-43.smt2;0;result: unsat;;3.41
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-25.smt2;0;result: sat;;7.65
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-117.smt2;real 10.73###user 7.26###sys 2.32
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-101.smt2;real 8.51###user 6.41###sys 0.95
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-33.smt2;0;result: sat;;2.78
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-80.smt2
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-79.smt2;real 99.13###user 96.04###sys 1.97
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-91.smt2;real 4.65###user 3.04###sys 0.46
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-59.smt2;real 97.81###user 94.76###sys 1.89
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-38.smt2
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-48.smt2;0;result: unsat;;1.47
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-38.smt2;0;result: sat;;8.03
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-63.smt2;real 115.17###user 111.73###sys 2.28
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-18.smt2
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-2.smt2;0;result: unsat;;6.02
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-130.smt2;real 9.86###user 6.77###sys 1.93
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-34.smt2
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-33.smt2;0;result: unsat;;12.63
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-75.smt2;real 94.64###user 91.63###sys 1.86
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-43.smt2;0;result: sat;;2.65
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-25.smt2;0;result: unsat;;3.79
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-22.smt2
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-14.smt2;0;result: sat;;2.4
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-126.smt2;real 5.21###user 3.31###sys 0.74
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-87.smt2;real 113.53###user 110.31###sys 2.07
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-29.smt2
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-34.smt2;0;result: sat;;2.39
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-68.smt2
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-106.smt2;real 2.35###user 1.12###sys 0.11
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-22.smt2;0;result: sat;;2.08
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-44.smt2;0;result: unsat;;7.84
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-110.smt2;real 14.21###user 10.06###sys 3.00
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-13.smt2
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-13.smt2;0;result: unsat;;3.34
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-44.smt2
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-7.smt2;0;result: sat;;10.68
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-29.smt2;0;result: unsat;;6.17
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-18.smt2;0;result: sat;;4.26
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-52.smt2
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-05.smt2
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-19.smt2;0;result: sat;;4.65
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-28.smt2;0;result: unsat;;4.44
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-72.smt2
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-6.smt2;0;result: sat;;3.07
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-25.smt2
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-12.smt2;0;result: unsat;;7.48
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-111.smt2;real 5.12###user 3.13###sys 0.83
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-33.smt2
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-23.smt2;0;result: sat;;6.99
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-64.smt2
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-45.smt2;0;result: unsat;;3.08
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-35.smt2;0;result: sat;;2.15
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-107.smt2;real 8.23###user 5.60###sys 1.50
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-48.smt2
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-09.smt2
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-15.smt2;0;result: sat;;9.6
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-08.smt2
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-42.smt2;0;result: sat;;4.23
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-49.smt2
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-127.smt2;real 12.05###user 8.97###sys 1.94
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-24.smt2;0;result: unsat;;5.61
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-32.smt2;0;result: unsat;;4.07
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-65.smt2
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-3.smt2;0;result: unsat;;4.24
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-32.smt2
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-24.smt2
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-49.smt2;0;result: unsat;;10.76
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-73.smt2
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-39.smt2;0;result: sat;;5.01
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-90.smt2;real 4.57###user 3.01###sys 0.43
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-16.smt2;0;result: sat;;3.62
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-04.smt2
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-124.smt2;real 1.24###user 0.04###sys 0.04
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-27.smt2;0;result: unsat;;4.89
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-53.smt2
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-45.smt2
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-41.smt2;0;result: sat;;2.81
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-12.smt2
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-31.smt2;0;result: unsat;;7.73
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-9.smt2;0;result: sat;;7.05
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-69.smt2
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-108.smt2;real 7.54###user 4.73###sys 1.67
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-93.smt2;real 4.54###user 2.92###sys 0.46
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-128.smt2;real 2.94###user 1.59###sys 0.20
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-5.smt2;0;result: sat;;5.8
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-89.smt2;real 4.37###user 2.80###sys 0.42
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-86.smt2
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-11.smt2;0;result: unsat;;8.2
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-28.smt2
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-46.smt2;0;result: unsat;;5.43
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-07.smt2;real 109.34###user 106.05###sys 2.14
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-20.smt2;0;result: sat;;1.74
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-36.smt2;0;result: sat;;4.75
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-112.smt2;real 10.97###user 7.40###sys 2.43
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-104.smt2;real 4.25###user 2.92###sys 0.18
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-50.smt2;0;result: unsat;;5.36
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-50.smt2
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-11.smt2;real 97.84###user 94.70###sys 2.01
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-37.smt2;0;result: sat;;5.9
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-46.smt2
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-105.smt2;real 9.09###user 7.20###sys 0.74
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-47.smt2;0;result: unsat;;5.5
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-85.smt2
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-31.smt2;real 76.87###user 74.16###sys 1.56
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-113.smt2;real 11.04###user 7.74###sys 2.00
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-21.smt2;0;result: sat;;4.9
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-66.smt2
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-71.smt2;real 89.45###user 86.56###sys 1.76
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-27.smt2;real 99.06###user 95.94###sys 1.97
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-10.smt2;0;result: unsat;;10.25
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-4.smt2;0;result: sat;;7.8
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-92.smt2;real 4.43###user 2.89###sys 0.41
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-129.smt2;real 8.65###user 5.74###sys 1.76
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-109.smt2;real 8.91###user 6.37###sys 1.43
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-1.smt2;0;result: unsat;;5.1
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-8.smt2;0;result: sat;;10.78
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-70.smt2
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-30.smt2;0;result: unsat;;7.85
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-26.smt2;0;result: unsat;;3.2
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-26.smt2
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-40.smt2;0;result: sat;;6.23
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-67.smt2;real 100.92###user 97.85###sys 1.93
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-30.smt2
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-17.smt2;0;result: sat;;8.19
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-3.smt2;0;result: sat;;2.49
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-125.smt2;real 11.03###user 8.30###sys 1.61
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-88.smt2
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-17.smt2;0;result: unsat;;4.44
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-26.smt2;0;result: sat;;3.1
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-114.smt2;real 5.58###user 3.71###sys 0.71
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-40.smt2;0;result: unsat;;7.29
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-47.smt2;real 94.17###user 91.07###sys 1.94
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-84.smt2
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-102.smt2;real 7.40###user 4.86###sys 1.39
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-30.smt2;0;result: sat;;4.71
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-99.smt2;real 4.31###user 2.72###sys 0.43
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-10.smt2
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-122.smt2;real 4.12###user 2.69###sys 0.28
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-10.smt2;0;result: sat;;1.9
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-47.smt2;0;result: sat;;6.52
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-21.smt2;0;result: unsat;;11.52
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-51.smt2
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-06.smt2
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-60.smt2
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-37.smt2;0;result: unsat;;9.75
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-6.smt2;0;result: unsat;;2.63
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-37.smt2
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-118.smt2;real 4.66###user 2.92###sys 0.58
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-21.smt2
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-95.smt2;real 3.36###user 1.84###sys 0.36
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-94.smt2;real 4.34###user 2.58###sys 0.38
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-119.smt2;real 4.50###user 2.43###sys 0.91
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-7.smt2;0;result: unsat;;3.91
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-01.smt2;real 111.52###user 108.46###sys 1.90
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-76.smt2
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-36.smt2;0;result: unsat;;3.49
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-50.smt2;0;result: sat;;3.33
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-46.smt2;0;result: sat;;3.95
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-20.smt2;0;result: unsat;;6.97
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-56.smt2
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-40.smt2
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-11.smt2;0;result: sat;;4.44
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-123.smt2;real 5.85###user 3.86###sys 0.87
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-98.smt2;real 3.18###user 1.62###sys 0.41
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-83.smt2;real 100.61###user 97.49###sys 1.95
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-103.smt2;real 4.77###user 3.29###sys 0.33
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-31.smt2;0;result: sat;;3.4
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-27.smt2;0;result: sat;;4.27
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-17.smt2
+error;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-115.smt2;real 5.83###user 4.14###sys 0.55
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-41.smt2;0;result: unsat;;4.84
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-82.smt2
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-unsat-16.smt2;0;result: unsat;;2.96
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/sub-matching-sat-2.smt2;0;result: sat;;3.71
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-16.smt2
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_SLIA/20250410-matching/sub-find-unsat-2.smt2;0;result: unsat;;4.02
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_SLIA/20250410-matching/sub-find-unsat-3.smt2;0;result: unsat;;6.27
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_SLIA/20250410-matching/sub-find-unsat-8.smt2;0;result: unsat;;2.89
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_SLIA/20250410-matching/sub-find-sat-1.smt2;0;result: sat;;12.84
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-41.smt2
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_SLIA/20250410-matching/sub-find-unsat-10.smt2;0;result: unsat;;2.82
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_SLIA/20250410-matching/sub-find-unsat-5.smt2;0;result: unsat;;4.34
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_SLIA/20250410-matching/sub-find-unsat-4.smt2;0;result: unsat;;6.6
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_SLIA/20250410-matching/sub-find-unsat-9.smt2;0;result: unsat;;2.92
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_SLIA/20250410-matching/sub-find-unsat-6.smt2;0;result: unsat;;2.22
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_SLIA/20250410-matching/sub-find-unsat-7.smt2;0;result: unsat;;3.93
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_SLIA/20250410-matching/sub-find-sat-6.smt2;0;result: sat;;15.13
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-57.smt2
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_SLIA/20250410-matching/sub-find-sat-5.smt2;0;result: sat;;19.68
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_SLIA/20250410-matching/sub-find-sat-3.smt2;0;result: sat;;11.35
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_SLIA/20250410-matching/sub-find-sat-4.smt2;0;result: sat;;17.17
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_SLIA/20250410-matching/sub-find-unsat-1.smt2;0;result: unsat;;6.58
+finished;z3-noodler-f803438-4ef13ce;../formulae/QF_SLIA/20250410-matching/sub-find-sat-2.smt2;0;result: sat;;13.9
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-77.smt2
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-20.smt2
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-36.smt2
+timeout;z3-noodler-f803438-4ef13ce;../formulae/QF_S/20250410-matching/wildcard-matching-regex-61.smt2
