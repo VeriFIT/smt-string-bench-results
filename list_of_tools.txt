@@ -828,3 +828,6 @@ e775a54-a89bddc
 
 # devel after merging previous + running with printing error messages (so out of memory is not ERR)
 z3-noodler-fec4b61-4ef13ce # even though there is no model, it is run with model generation turned on
+
+# branch cache_auts
+f803438-4ef13ce # caching of all created automata (failed run after strictbj for model generation beacuse of lack of space on server)
