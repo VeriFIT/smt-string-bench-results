@@ -8,7 +8,7 @@ import tabulate as tab
 from argparse import Namespace
 import io
 import os
-import sys
+import re
 from enum import Enum
 
 import pyco_proc
@@ -18,11 +18,11 @@ def read_latest_result_file(bench, tool, timeout):
     assert tool != ""
 
     #substring to filter files with the same timeout
-    finding_str = f"to{timeout}-{tool}"
+    finding_re = fr"{bench}-to{timeout}-{tool}-\d{{4}}-\d{{2}}-\d{{2}}-\d{{2}}-\d{{2}}.tasks"
     matching_files = []
     for root, _, files in os.walk(bench):
         for file in files:
-            if finding_str in file:
+            if re.fullmatch(finding_re, file):
                 matching_files.append(os.path.join(root, file))
     if not matching_files:
         print(f"WARNING: {tool} has no .tasks file for {bench}")
