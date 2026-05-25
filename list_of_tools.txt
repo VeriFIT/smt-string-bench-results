@@ -351,6 +351,9 @@
 "z3-noodler-model-24767ef-16fb25d",
 "check-model-24767ef-16fb25d",
 
+# version 1.3.0 (probably the version of mata used in paper)
+2e63d1e-17ffaf6
+
 ######################################################################################
 # everything after this was run on the verifit3 server with 12 processes in parallel #
 ######################################################################################
