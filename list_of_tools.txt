@@ -836,5 +836,8 @@ z3-noodler-fec4b61-4ef13ce # even though there is no model, it is run with model
 af469f1-4ef13ce
 z3-noodler-warnings-af469f1-4ef13ce
 
-# branch cache_auts
+# branch cache_auts (note merged)
 f803438-4ef13ce # caching of all created automata (failed run after strictbj for model generation beacuse of lack of space on server)
+
+branch 
+78e0500-0e8b7f3
