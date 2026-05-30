@@ -839,5 +839,14 @@ z3-noodler-warnings-af469f1-4ef13ce
 # branch cache_auts (note merged)
 f803438-4ef13ce # caching of all created automata (failed run after strictbj for model generation beacuse of lack of space on server)
 
-branch 
+# branch concatenation_exponentiation
 78e0500-0e8b7f3
+
+# branch new-z3-4.16.0
+74482df-0e8b7f3
+
+# branch lachim005/caching_auts
+ae1e9ae-0e8b7f3
+
+# branch lachim005/auts_caching
+2bd9476-0e8b7f3
