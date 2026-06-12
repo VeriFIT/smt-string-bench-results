@@ -861,5 +861,5 @@ b62dfa8-0e8b7f3
 # branch remove_regular_literals_fix
 656495f-8db4279
 
-devel
-1dbf6de-8db4279
+# branch fix_equiv_propagation
+0d26b98-a6c7295
