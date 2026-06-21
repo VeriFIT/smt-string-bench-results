@@ -874,3 +874,6 @@ fcae571-a6c7295
 cc32dc7-a6c7295 # version where length axioms were moved to initial rewriter
 a97d9ae-a6c7295 # only symcc
 680168e-a6c7295 # merged with diseqs_preprocessing
+c835d94-a6c7295
+47e039a-a6c7295
+9cbd7de-a6c7295
