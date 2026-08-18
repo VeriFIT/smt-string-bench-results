@@ -10,6 +10,7 @@ import io
 import os
 import re
 from enum import Enum
+import colorcet as cc
 
 import pyco_proc
 from pyco_proc import StatsFormat, StatsDestination
@@ -192,6 +193,8 @@ def scatter_plot_static(df, x_tool, y_tool, timeout = 120, clamp=True, clamp_dom
         scatter += p9.geom_point(size=point_size, na_rm=True, show_legend=show_legend, raster=True)
         # rug plots
         scatter += p9.geom_rug(na_rm=True, sides="tr", alpha=0.05, raster=True)
+        n_colors = df[color_column].nunique()
+        scatter += p9.scale_color_manual(values=cc.glasbey_dark[:n_colors])
     else:
         scatter += p9.aes(x=x_tool, y=y_tool, \
         color=color_column, \
@@ -201,7 +204,6 @@ def scatter_plot_static(df, x_tool, y_tool, timeout = 120, clamp=True, clamp_dom
         scatter += p9.geom_rug(na_rm=True, sides="tr", alpha=0.05, raster=True, color="orange")
     scatter += p9.labs(x=xname, y=yname)
     scatter += p9.theme(legend_key_width=2)
-    scatter += p9.scale_color_hue(l=0.4, s=0.9, h=0.1)
 
     if log:  # log scale
         scatter += p9.scale_x_log10(limits=clamp_domain, labels=ax_formatter)
