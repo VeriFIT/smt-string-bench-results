@@ -603,6 +603,7 @@ ostrich-2-fmcad25
 ostrich-model-2-fmcad25
 ostrich-2.0.1
 z3-5.0.0
+z3-5.1.0
 
 # branch mata_strings_refactor
 e10aa9b-f967c04
@@ -891,9 +892,17 @@ bf5cc34-f4ef1e4
 # branch str_in_regexp_mata
 899b86c-f4ef1e4
 
+# branch refactoring-handle-functions
+6a70858-f4ef1e4
+f419661-f4ef1e4
+0940cc1-f4ef1e4
+
 # branch update-z3-5.0.0
 f4b40e0-f4ef1e4
 6bfb340-f4ef1e4
 93ebd73-f4ef1e4
 a10b2f5-f4ef1e4
 31db3ff-f4ef1e4
+3300975-f4ef1e4
+3e548fa-f4ef1e4
+c4a842f-f4ef1e4
