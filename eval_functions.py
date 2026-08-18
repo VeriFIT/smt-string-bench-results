@@ -118,7 +118,21 @@ def load_benches(benches, tools, bench_selection, benchmark_to_group, timeout = 
     df_all = df_runtime_result.merge(df_stats)
     return df_all
 
+
 def scatter_plot(df, x_tool, y_tool, timeout = 120, clamp=True, clamp_domain=[0.01, 120], xname=None, yname=None,
+                 log=True, width=6, height=6, show_legend=True, legend_width=None, file_name_to_save=None, transparent=False,
+                 color_by_benchmark=True, color_column="benchmark", point_size=1.0, interactive=False):
+    if interactive:
+        return scatter_plot_interactive(df, x_tool, y_tool, timeout,
+                             xname, yname, log, width*100, height*100,
+                             color_by_benchmark, color_column, point_size*6,
+                             file_name_to_save)
+    else:
+        return scatter_plot_static(df, x_tool, y_tool, timeout, clamp, clamp_domain, xname, yname,
+                 log, width, height, show_legend, legend_width, file_name_to_save, transparent,
+                 color_by_benchmark, color_column, point_size)
+
+def scatter_plot_static(df, x_tool, y_tool, timeout = 120, clamp=True, clamp_domain=[0.01, 120], xname=None, yname=None,
                  log=True, width=6, height=6, show_legend=True, legend_width=None, file_name_to_save=None, transparent=False,
                  color_by_benchmark=True, color_column="benchmark", point_size=1.0):
     """Returns scatter plot plotting the values of df[x_tool] and df[y_tool] columns.
