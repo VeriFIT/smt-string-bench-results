@@ -906,3 +906,9 @@ a10b2f5-f4ef1e4
 3300975-f4ef1e4
 3e548fa-f4ef1e4
 c4a842f-f4ef1e4
+
+# branch fix_model_quantifiers
+175caac-f4ef1e4
+4ae7562-f4ef1e4
+a3264a7-f4ef1e4
+8e4b2b1-f4ef1e4
