@@ -917,3 +917,8 @@ f96b88b-f4ef1e4
 # branch fix_replace_axiom
 84e0740-f4ef1e4
 27c86fc-f4ef1e4 # only str_small_rw and pyex
+
+# branch update-z3-5.1.0
+eab896f-f4ef1e4
+c800a4f-f4ef1e4
+403cbf1-f4ef1e4
