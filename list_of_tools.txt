@@ -933,8 +933,14 @@ c800a4f-f4ef1e4
 # branch axiomatizations_small_stuff
 af2329b-f4ef1e4
 
+# branch fix-relevant-diseqs-arrays
+6ebb2f5-f4ef1e4
+fcb6718-f4ef1e4
+
 # branch external-solver-model
 4b4a5a3-f4ef1e4
+0b3936c-f4ef1e4
+4853f16-f4ef1e4
 
 # branch model_not_contains
 0007b98-f4ef1e4 # only strict_bj for model
