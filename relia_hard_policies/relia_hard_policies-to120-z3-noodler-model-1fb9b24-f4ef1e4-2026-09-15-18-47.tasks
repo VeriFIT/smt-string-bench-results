@@ -1,0 +1,20 @@
+execute;z3-noodler-model-1fb9b24-f4ef1e4;../formulae/hard-policies/AC_003.smt2
+execute;z3-noodler-model-1fb9b24-f4ef1e4;../formulae/hard-policies/AC_002.smt2
+execute;z3-noodler-model-1fb9b24-f4ef1e4;../formulae/hard-policies/AC_001.smt2
+execute;z3-noodler-model-1fb9b24-f4ef1e4;../formulae/hard-policies/AC_008.smt2
+execute;z3-noodler-model-1fb9b24-f4ef1e4;../formulae/hard-policies/AC_004.smt2
+execute;z3-noodler-model-1fb9b24-f4ef1e4;../formulae/hard-policies/AC_006.smt2
+execute;z3-noodler-model-1fb9b24-f4ef1e4;../formulae/hard-policies/AC_010.smt2
+execute;z3-noodler-model-1fb9b24-f4ef1e4;../formulae/hard-policies/AC_005.smt2
+execute;z3-noodler-model-1fb9b24-f4ef1e4;../formulae/hard-policies/AC_009.smt2
+execute;z3-noodler-model-1fb9b24-f4ef1e4;../formulae/hard-policies/AC_007.smt2
+finished;z3-noodler-model-1fb9b24-f4ef1e4;../formulae/hard-policies/AC_003.smt2;0;result: unsat;;0.02
+finished;z3-noodler-model-1fb9b24-f4ef1e4;../formulae/hard-policies/AC_005.smt2;0;result: sat;;0.08
+finished;z3-noodler-model-1fb9b24-f4ef1e4;../formulae/hard-policies/AC_006.smt2;0;result: sat;;0.09
+finished;z3-noodler-model-1fb9b24-f4ef1e4;../formulae/hard-policies/AC_002.smt2;0;result: unsat;;0.19
+finished;z3-noodler-model-1fb9b24-f4ef1e4;../formulae/hard-policies/AC_009.smt2;0;result: sat;;0.18
+finished;z3-noodler-model-1fb9b24-f4ef1e4;../formulae/hard-policies/AC_001.smt2;0;result: unsat;;1.01
+finished;z3-noodler-model-1fb9b24-f4ef1e4;../formulae/hard-policies/AC_010.smt2;0;result: sat;;2.45
+finished;z3-noodler-model-1fb9b24-f4ef1e4;../formulae/hard-policies/AC_008.smt2;0;result: sat;;3.35
+error;z3-noodler-model-1fb9b24-f4ef1e4;../formulae/hard-policies/AC_004.smt2;terminate called after throwing an instance of 'std::bad_alloc'###  what():  std::bad_alloc###real 21.74###user 18.68###sys 1.94
+error;z3-noodler-model-1fb9b24-f4ef1e4;../formulae/hard-policies/AC_007.smt2;ASSERTION VIOLATION###File: /home/vojta/smt-bench/bin/z3-noodler/src/smt/theory_str_noodler/theory_str_noodler_final_check.cpp###Line: 887###UNEXPECTED CODE WAS REACHED.###5.1.0.0 1fb9b244753ca7616e84cf56c7691f61d8beb44b v1.7.0-25-g1fb9b2447###Please file an issue with this message and more detail about how you encountered it at https://github.com/Z3Prover/z3/issues/new###real 54.84###user 53.57###sys 1.26
