@@ -936,11 +936,17 @@ af2329b-f4ef1e4
 # branch fix-relevant-diseqs-arrays
 6ebb2f5-f4ef1e4
 fcb6718-f4ef1e4
+b362344-f4ef1e4
+5407eec-f4ef1e4
 
 # branch external-solver-model
 4b4a5a3-f4ef1e4
 0b3936c-f4ef1e4
 4853f16-f4ef1e4
+2e7c798-f4ef1e4 # only strict_bj for model, version with fix-relevant-diseqs-arrays merged
+abb4ba2-f4ef1e4
+7ff1297-f4ef1e4
+1fb9b24-f4ef1e4
 
 # branch model_not_contains
 0007b98-f4ef1e4 # only strict_bj for model
