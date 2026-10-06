@@ -939,6 +939,9 @@ fcb6718-f4ef1e4
 b362344-f4ef1e4
 5407eec-f4ef1e4
 
+# devel
+ccf9f8e-f4ef1e
+
 # branch add_clauses_to_context
 36c7979-f4ef1e4
 
@@ -956,6 +959,10 @@ abb4ba2-f4ef1e4
 fc7c460-f4ef1e4
 f7d6fc9-f4ef1e4
 6081c54-f4ef1e4
+
+# branch external-solver-model-2
+e378654-f4ef1e4
+06871b4-f4ef1e4
 
 # branch model_not_contains
 0007b98-f4ef1e4 # only strict_bj for model
