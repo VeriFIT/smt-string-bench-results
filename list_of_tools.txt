@@ -602,6 +602,8 @@ cvc5-model-1.3.1
 ostrich-2-fmcad25
 ostrich-model-2-fmcad25
 ostrich-2.0.1
+z3-5.0.0
+z3-5.1.0
 
 # branch mata_strings_refactor
 e10aa9b-f967c04
@@ -883,3 +885,84 @@ c835d94-a6c7295
 
 # devel
 40c45b3-a6c7295
+
+# devel
+bf5cc34-f4ef1e4
+
+# branch str_in_regexp_mata
+899b86c-f4ef1e4
+
+# branch refactoring-handle-functions
+6a70858-f4ef1e4
+f419661-f4ef1e4
+0940cc1-f4ef1e4
+
+# branch update-z3-5.0.0
+f4b40e0-f4ef1e4
+6bfb340-f4ef1e4
+93ebd73-f4ef1e4
+a10b2f5-f4ef1e4
+31db3ff-f4ef1e4
+3300975-f4ef1e4
+3e548fa-f4ef1e4
+c4a842f-f4ef1e4
+
+# branch fix_model_quantifiers
+175caac-f4ef1e4
+4ae7562-f4ef1e4
+a3264a7-f4ef1e4
+8e4b2b1-f4ef1e4
+f96b88b-f4ef1e4
+
+# branch fix_replace_axiom
+84e0740-f4ef1e4
+27c86fc-f4ef1e4 # only str_small_rw and pyex
+
+# branch update-z3-5.1.0
+eab896f-f4ef1e4
+c800a4f-f4ef1e4
+403cbf1-f4ef1e4
+
+# devel
+9a1af58-f4ef1e4
+
+# branch fix-seq
+43fbff3-f4ef1e4
+12bfe14-f4ef1e4
+
+# branch axiomatizations_small_stuff
+af2329b-f4ef1e4
+
+# branch fix-relevant-diseqs-arrays
+6ebb2f5-f4ef1e4
+fcb6718-f4ef1e4
+b362344-f4ef1e4
+5407eec-f4ef1e4
+
+# devel
+ccf9f8e-f4ef1e
+
+# branch add_clauses_to_context
+36c7979-f4ef1e4
+
+# branch remove-sathandling-optimization
+2533697-f4ef1e4
+
+# branch external-solver-model
+4b4a5a3-f4ef1e4
+0b3936c-f4ef1e4
+4853f16-f4ef1e4
+2e7c798-f4ef1e4 # only strict_bj for model, version with fix-relevant-diseqs-arrays merged
+abb4ba2-f4ef1e4
+7ff1297-f4ef1e4
+1fb9b24-f4ef1e4
+fc7c460-f4ef1e4
+f7d6fc9-f4ef1e4
+6081c54-f4ef1e4
+
+# branch external-solver-model-2
+e378654-f4ef1e4
+06871b4-f4ef1e4
+
+# branch model_not_contains
+0007b98-f4ef1e4 # only strict_bj for model

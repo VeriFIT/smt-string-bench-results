@@ -10,6 +10,7 @@ import io
 import os
 import re
 from enum import Enum
+import colorcet as cc
 
 import pyco_proc
 from pyco_proc import StatsFormat, StatsDestination
@@ -118,7 +119,21 @@ def load_benches(benches, tools, bench_selection, benchmark_to_group, timeout = 
     df_all = df_runtime_result.merge(df_stats)
     return df_all
 
+
 def scatter_plot(df, x_tool, y_tool, timeout = 120, clamp=True, clamp_domain=[0.01, 120], xname=None, yname=None,
+                 log=True, width=6, height=6, show_legend=True, legend_width=None, file_name_to_save=None, transparent=False,
+                 color_by_benchmark=True, color_column="benchmark", point_size=1.0, interactive=False):
+    if interactive:
+        return scatter_plot_interactive(df, x_tool, y_tool, timeout,
+                             xname, yname, log, width*100, height*100,
+                             color_by_benchmark, color_column, point_size*6,
+                             file_name_to_save)
+    else:
+        return scatter_plot_static(df, x_tool, y_tool, timeout, clamp, clamp_domain, xname, yname,
+                 log, width, height, show_legend, legend_width, file_name_to_save, transparent,
+                 color_by_benchmark, color_column, point_size)
+
+def scatter_plot_static(df, x_tool, y_tool, timeout = 120, clamp=True, clamp_domain=[0.01, 120], xname=None, yname=None,
                  log=True, width=6, height=6, show_legend=True, legend_width=None, file_name_to_save=None, transparent=False,
                  color_by_benchmark=True, color_column="benchmark", point_size=1.0):
     """Returns scatter plot plotting the values of df[x_tool] and df[y_tool] columns.
@@ -178,6 +193,8 @@ def scatter_plot(df, x_tool, y_tool, timeout = 120, clamp=True, clamp_domain=[0.
         scatter += p9.geom_point(size=point_size, na_rm=True, show_legend=show_legend, raster=True)
         # rug plots
         scatter += p9.geom_rug(na_rm=True, sides="tr", alpha=0.05, raster=True)
+        n_colors = df[color_column].nunique()
+        scatter += p9.scale_color_manual(values=cc.glasbey_dark[:n_colors])
     else:
         scatter += p9.aes(x=x_tool, y=y_tool, \
         color=color_column, \
@@ -187,7 +204,6 @@ def scatter_plot(df, x_tool, y_tool, timeout = 120, clamp=True, clamp_domain=[0.
         scatter += p9.geom_rug(na_rm=True, sides="tr", alpha=0.05, raster=True, color="orange")
     scatter += p9.labs(x=xname, y=yname)
     scatter += p9.theme(legend_key_width=2)
-    scatter += p9.scale_color_hue(l=0.4, s=0.9, h=0.1)
 
     if log:  # log scale
         scatter += p9.scale_x_log10(limits=clamp_domain, labels=ax_formatter)
